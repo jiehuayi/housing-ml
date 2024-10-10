@@ -1,0 +1,278 @@
+mlsId,beds,baths,address,sqFt,parking,taxes,pricePerSqFt,yearBuilt,propertyType,listingDate,listingPrice
+R2905475,9,6,"29582 Corvina Crt, Abbotsford, BC, Canada",3958.0,4,4435.0,467.0,2024,SingleFamily,14/07/2024,1849000.0
+R2905497,5,2,"2086 Sherwood Cres, Abbotsford, BC, Canada",2592.0,3,4809.0,495.0,1967,SingleFamily,14/07/2024,1285000.0
+R2905660,3,2,"2825 Gardner Crt, Abbotsford, BC, Canada",1592.0,8,5067.0,722.0,1989,SingleFamily,14/07/2024,1149900.0
+R2905758,6,3,"32171 Ashcroft Dr, Abbotsford, BC, Canada",3428.0,6,5153.0,393.0,1991,SingleFamily,14/07/2024,1349700.0
+R2905941,5,2,"41056 Belrose Rd, Abbotsford, BC, Canada",4140.0,20,3091.0,879.0,9999,SingleFamily,14/07/2024,3640000.0
+R2905445,3,2,"2602 Macbeth Cres, Abbotsford, BC, Canada",2060.0,8,4028.0,533.0,1975,SingleFamily,14/07/2024,1099000.0
+R2905469,1,1,"3063 Immel St, Abbotsford, BC, Canada",697.0,1,1344.0,516.0,1993,Condo,14/07/2024,359900.0
+R2904207,4,2,"34632 Acorn Ave, Abbotsford, BC, Canada",1980.0,5,4455.0,530.0,1978,SingleFamily,10/07/2024,1050000.0
+R2904745,1,2,"33820 S Fraser Way, Abbotsford, BC, Canada",581.0,1,1900.0,739.0,2026,Condo,10/07/2024,429700.0
+R2904748,4,2,"34242 Redwood Ave, Abbotsford, BC, Canada",2033.0,9,4482.0,515.0,1977,SingleFamily,10/07/2024,1049000.0
+R2905329,2,2,"32085 George Ferguson Way, Abbotsford, BC, Canada",1115.0,2,1951.0,493.0,1996,Condo,10/07/2024,549900.0
+R2904825,3,3,"34230 Elmwood Dr, Abbotsford, BC, Canada",2390.0,4,3756.0,407.0,2016,Townhouse,10/07/2024,975000.0
+R2903041,5,3,"34085 Higginson Cres, Abbotsford, BC, Canada",3054.0,4,4775.0,425.0,2003,SingleFamily,10/07/2024,1299000.0
+R2905047,5,3,"2761 Aquila Dr, Abbotsford, BC, Canada",3718.0,6,6665.0,537.0,2020,SingleFamily,10/07/2024,1999900.0
+R2903917,3,1,"2537 Stanley St, Abbotsford, BC, Canada",2060.0,0,4043.0,576.0,1966,SingleFamily,10/07/2024,1188000.0
+R2904213,2,1,"2279 Mccallum Rd, Abbotsford, BC, Canada",993.0,1,1005.0,320.0,1982,Condo,09/07/2024,318000.0
+R2904954,2,2,"2772 Clearbrook Rd, Abbotsford, BC, Canada",1310.0,1,1650.0,438.0,1995,Condo,09/07/2024,575000.0
+R2904473,2,2,"31406 Upper Maclure Rd, Abbotsford, BC, Canada",1450.0,2,2100.0,413.0,1994,Townhouse,09/07/2024,599900.0
+R2902945,4,2,"3347 Omineca Crt, Abbotsford, BC, Canada",2169.0,5,4126.0,506.0,1978,SingleFamily,09/07/2024,1099000.0
+R2903550,2,2,"2799 Allwood St, Abbotsford, BC, Canada",1140.0,2,2471.0,587.0,2020,Townhouse,09/07/2024,669900.0
+R2904119,2,2,"33731 Marshall Rd, Abbotsford, BC, Canada",1044.0,1,1415.0,407.0,1994,Condo,09/07/2024,425000.0
+R2904516,4,2,"34586 Pearl Ave, Abbotsford, BC, Canada",1642.0,6,3962.0,721.0,1986,SingleFamily,09/07/2024,1185000.0
+R2903557,3,1,"3082 Todd Crt, Abbotsford, BC, Canada",1309.0,4,3842.0,725.0,1976,SingleFamily,08/07/2024,949900.0
+R2903768,4,3,"3284 Saddle St, Abbotsford, BC, Canada",2429.0,8,4446.0,480.0,1993,SingleFamily,08/07/2024,1168000.0
+R2904157,2,1,"1755 Salton Rd, Abbotsford, BC, Canada",944.0,1,1541.0,423.0,1990,Condo,08/07/2024,399900.0
+R2903875,7,4,"3775 Lethbridge Dr, Abbotsford, BC, Canada",3828.0,6,5219.0,339.0,1992,SingleFamily,08/07/2024,1299000.0
+R2902060,4,3,"2811 Platform Cres, Abbotsford, BC, Canada",3454.0,3,3414.0,360.0,2023,MultiFamily,08/07/2024,1245000.0
+R2903011,3,2,"36060 Old Yale Rd, Abbotsford, BC, Canada",1492.0,2,2658.0,459.0,1991,Townhouse,08/07/2024,685000.0
+R2902680,3,2,"31548 Upper Maclure Rd, Abbotsford, BC, Canada",1874.0,3,3228.0,490.0,2019,Townhouse,08/07/2024,918888.0
+R2903820,4,4,"36020 Spyglass Crt, Abbotsford, BC, Canada",4357.0,12,6419.0,367.0,1999,SingleFamily,08/07/2024,1600000.0
+R2902894,3,2,"3457 Whatcom Rd, Abbotsford, BC, Canada",2574.0,4,4347.0,561.0,2010,SingleFamily,07/07/2024,1445000.0
+R2905146,2,1,"32040 Tims Ave, Abbotsford, BC, Canada",1129.0,1,657.0,291.0,1980,Condo,07/07/2024,329000.0
+R2902952,3,1,"28989 Marsh Mccormick Rd, Abbotsford, BC, Canada",1943.0,0,10302.0,1903.0,1963,SingleFamily,07/07/2024,3699000.0
+R2902863,5,3,"34655 Baldwin Rd, Abbotsford, BC, Canada",2971.0,4,4457.0,420.0,1991,SingleFamily,07/07/2024,1249800.0
+R2904333,2,1,"31955 Old Yale Rd, Abbotsford, BC, Canada",1038.0,1,1172.0,418.0,1981,Condo,07/07/2024,434900.0
+R2904985,4,2,"1559 Whatcom Rd, Abbotsford, BC, Canada",2665.0,10,6052.0,581.0,1977,SingleFamily,07/07/2024,1549900.0
+R2902529,3,2,"32097 Tims Ave, Abbotsford, BC, Canada",1366.0,1,1244.0,343.0,1981,Condo,07/07/2024,469900.0
+R2902928,5,2,"35331 Sandy Hill Rd, Abbotsford, BC, Canada",2323.0,4,4363.0,430.0,1990,SingleFamily,07/07/2024,999995.0
+R2901701,1,1,"33545 Rainbow Ave, Abbotsford, BC, Canada",692.0,1,1519.0,592.0,2007,Condo,04/07/2024,409900.0
+R2902150,2,2,"1975 Mccallum Rd, Abbotsford, BC, Canada",879.0,2,1806.0,602.0,2009,Condo,04/07/2024,529900.0
+R2903282,5,3,"34613 Quarry Ave, Abbotsford, BC, Canada",2585.0,4,4713.0,483.0,1999,SingleFamily,04/07/2024,1249000.0
+R2905172,3,2,"35215 Mckee Rd, Abbotsford, BC, Canada",2158.0,0,4270.0,532.0,1981,SingleFamily,04/07/2024,1150000.0
+R2902165,3,2,"32917 Amicus Pl, Abbotsford, BC, Canada",2194.0,2,2294.0,307.0,1982,Townhouse,04/07/2024,674900.0
+R2901564,3,2,"34248 King Rd, Abbotsford, BC, Canada",1414.0,3,2728.0,509.0,2009,Townhouse,04/07/2024,719900.0
+R2900852,4,2,"2666 Stewart Cres, Abbotsford, BC, Canada",1919.0,8,4697.0,573.0,1975,SingleFamily,02/07/2024,1099900.0
+R2900626,3,3,"35625 Page Rd, Abbotsford, BC, Canada",2205.0,10,3818.0,1133.0,2010,SingleFamily,02/07/2024,2499900.0
+R2901056,1,1,"2565 Campbell Ave, Abbotsford, BC, Canada",626.0,1,1543.0,670.0,2016,Condo,02/07/2024,419700.0
+R2901523,7,7,"4446 Emily Carr Pl, Abbotsford, BC, Canada",7335.0,6,9514.0,327.0,2020,SingleFamily,02/07/2024,2399999.0
+R2901102,2,1,"2055 Mckenzie Rd, Abbotsford, BC, Canada",900.0,6,4206.0,1111.0,1960,SingleFamily,02/07/2024,999900.0
+R2901141,2,1,"1909 Salton Rd, Abbotsford, BC, Canada",925.0,2,755.0,335.0,1975,Condo,02/07/2024,309900.0
+R2901156,3,1,"1909 Salton Rd, Abbotsford, BC, Canada",1134.0,2,1469.0,290.0,1975,Condo,02/07/2024,329900.0
+R2901939,1,1,"30515 Cardinal Ave, Abbotsford, BC, Canada",532.0,1,1245.0,714.0,2009,Condo,02/07/2024,380000.0
+R2900363,3,2,"30930 Westridge Pl, Abbotsford, BC, Canada",1335.0,2,2866.0,591.0,2019,Townhouse,01/07/2024,789000.0
+R2900498,4,2,"2284 Midas St, Abbotsford, BC, Canada",1895.0,6,3810.0,554.0,1974,SingleFamily,01/07/2024,1049900.0
+R2900517,3,2,"32436 Cordova Ave, Abbotsford, BC, Canada",1871.0,6,4767.0,602.0,1977,SingleFamily,01/07/2024,1127700.0
+R2900252,3,2,"3274 Goldstream Dr, Abbotsford, BC, Canada",1514.0,5,5213.0,653.0,2003,SingleFamily,01/07/2024,989000.0
+R2900474,2,2,"30930 Westridge Pl, Abbotsford, BC, Canada",1280.0,2,2204.0,584.0,2020,Townhouse,01/07/2024,748000.0
+R2901207,3,2,"33922 King Rd, Abbotsford, BC, Canada",2034.0,2,2457.0,373.0,1988,Townhouse,01/07/2024,759900.0
+R2900815,2,1,"34909 Old Yale Rd, Abbotsford, BC, Canada",928.0,2,1579.0,484.0,1980,Townhouse,01/07/2024,449880.0
+R2902079,3,2,"27735 Roundhouse Dr, Abbotsford, BC, Canada",1366.0,3,2774.0,574.0,2019,Townhouse,30/06/2024,785000.0
+R2898311,1,1,"2211 Clearbrook Rd, Abbotsford, BC, Canada",661.0,1,934.0,423.0,1974,Condo,27/06/2024,280000.0
+R2901196,2,2,"31158 Westridge Pl, Abbotsford, BC, Canada",883.0,2,2048.0,667.0,2021,Condo,30/06/2024,589000.0
+R2899852,5,3,"31481 Southern Dr, Abbotsford, BC, Canada",3613.0,6,5036.0,387.0,1996,SingleFamily,27/06/2024,1399900.0
+R2900636,3,2,"2565 Campbell Ave, Abbotsford, BC, Canada",1052.0,2,2297.0,560.0,2014,Condo,27/06/2024,589900.0
+R2891167,4,3,"33580 Huggins Ave, Abbotsford, BC, Canada",1825.0,2,2843.0,575.0,2024,MultiFamily,27/06/2024,1050000.0
+R2899347,2,2,"2626 Countess St, Abbotsford, BC, Canada",1105.0,1,1518.0,407.0,1993,Condo,25/06/2024,449900.0
+R2899381,4,3,"32076 Ashcroft Dr, Abbotsford, BC, Canada",2839.0,2,4911.0,422.0,1984,SingleFamily,25/06/2024,1199888.0
+R2898460,3,2,"35873 Timberlane Dr, Abbotsford, BC, Canada",2340.0,4,4226.0,572.0,2021,SingleFamily,25/06/2024,1338800.0
+R2895861,4,3,"3711 Qualicum St, Abbotsford, BC, Canada",3630.0,6,4948.0,385.0,1985,SingleFamily,25/06/2024,1399900.0
+R2898977,3,2,"2894 Willband St, Abbotsford, BC, Canada",1590.0,3,3908.0,559.0,1979,SingleFamily,25/06/2024,889000.0
+R2899529,3,2,"35626 Mckee Rd, Abbotsford, BC, Canada",1935.0,2,3259.0,439.0,2009,Townhouse,25/06/2024,849900.0
+R2899459,6,3,"2607 Blackham Dr, Abbotsford, BC, Canada",3004.0,6,4957.0,449.0,1995,SingleFamily,25/06/2024,1349999.0
+R2898586,2,2,"1514 Mccallum Rd, Abbotsford, BC, Canada",892.0,1,1899.0,700.0,2022,Condo,24/06/2024,625000.0
+R2898695,1,1,"2515 Park Dr, Abbotsford, BC, Canada",603.0,1,1374.0,610.0,2007,Condo,24/06/2024,368000.0
+R2893299,2,2,"2180 Gladwin Rd, Abbotsford, BC, Canada",895.0,2,3188.0,893.0,2018,Condo,23/06/2024,799900.0
+R2898401,6,3,"31600 Old Yale Rd, Abbotsford, BC, Canada",4177.0,2,5813.0,347.0,1993,SingleFamily,24/06/2024,1449888.0
+R2898564,4,3,"36262 Auguston Pky S, Abbotsford, BC, Canada",2167.0,4,4130.0,507.0,2001,SingleFamily,24/06/2024,1099900.0
+R2898860,2,2,"33887 Marshall Rd, Abbotsford, BC, Canada",1004.0,1,1551.0,397.0,1993,Condo,24/06/2024,399000.0
+R2898907,2,2,"3292 Vernon Terr, Abbotsford, BC, Canada",1228.0,1,2121.0,484.0,1987,Townhouse,24/06/2024,595000.0
+R2896157,1,1,"33535 King Rd, Abbotsford, BC, Canada",785.0,1,909.0,292.0,1990,Condo,23/06/2024,229900.0
+R2897651,5,2,"3245 Jervis Cres, Abbotsford, BC, Canada",2044.0,6,4644.0,562.0,1979,SingleFamily,19/06/2024,1149000.0
+R2897348,4,2,"35882 Eaglecrest Dr, Abbotsford, BC, Canada",2547.0,2,4241.0,431.0,1986,SingleFamily,19/06/2024,1099900.0
+R2897254,5,3,"3273 Deertrail Dr, Abbotsford, BC, Canada",3254.0,4,4898.0,429.0,1991,SingleFamily,19/06/2024,1399000.0
+R2897855,3,1,"32870 George Ferguson Way, Abbotsford, BC, Canada",1185.0,1,1395.0,336.0,1976,Condo,20/06/2024,399000.0
+R2897302,4,3,"3720 Nanaimo Cres, Abbotsford, BC, Canada",2094.0,0,4255.0,510.0,1983,SingleFamily,19/06/2024,1069000.0
+R2897744,4,3,"3754 Balsam Cres, Abbotsford, BC, Canada",2603.0,6,4704.0,480.0,1980,SingleFamily,20/06/2024,1249900.0
+R2896239,5,3,"35184 Kootenay Dr, Abbotsford, BC, Canada",2626.0,7,4961.0,495.0,1999,SingleFamily,19/06/2024,1299999.0
+R2897559,1,1,"33546 Holland Ave, Abbotsford, BC, Canada",733.0,1,1587.0,545.0,2008,Condo,19/06/2024,399800.0
+R2897199,6,2,"34245 Larch St, Abbotsford, BC, Canada",2783.0,5,5168.0,485.0,1972,SingleFamily,18/06/2024,1349999.0
+R2896090,4,2,"2905 Glenshiel Dr, Abbotsford, BC, Canada",2374.0,6,4305.0,484.0,1984,SingleFamily,17/06/2024,1150000.0
+R2895255,1,1,"3090 Gladwin Rd, Abbotsford, BC, Canada",393.0,1,1240.0,852.0,2015,Condo,17/06/2024,334900.0
+R2890733,4,3,"4728 Carl Creek Lane, Abbotsford, BC, Canada",2175.0,4,4396.0,539.0,2020,SingleFamily,18/06/2024,1174000.0
+R2896970,6,3,"2732 Tylney Lane, Abbotsford, BC, Canada",2671.0,4,4636.0,482.0,2013,SingleFamily,17/06/2024,1289900.0
+R2896907,3,2,"35839 Regal Pky, Abbotsford, BC, Canada",2927.0,4,5515.0,460.0,2005,SingleFamily,18/06/2024,1348000.0
+R2896782,3,1,"32550 Maclure Rd, Abbotsford, BC, Canada",1205.0,1,2254.0,521.0,1981,Townhouse,18/06/2024,629000.0
+R2895803,5,3,"1777 Townline Rd, Abbotsford, BC, Canada",4378.0,9,16565.0,1871.0,1985,SingleFamily,16/06/2024,8195000.0
+R2894994,1,1,"34909 Old Yale Rd, Abbotsford, BC, Canada",868.0,2,1483.0,489.0,1980,Townhouse,16/06/2024,424900.0
+R2894890,6,3,"27892 Maclure Rd, Abbotsford, BC, Canada",4429.0,4,6524.0,361.0,2013,SingleFamily,16/06/2024,1599900.0
+R2895299,3,2,"3149 Townline Rd, Abbotsford, BC, Canada",1647.0,5,4460.0,628.0,1990,SingleFamily,16/06/2024,1035000.0
+R2896087,3,2,"2088 Winfield Dr, Abbotsford, BC, Canada",2277.0,4,3460.0,366.0,2004,Townhouse,16/06/2024,835000.0
+R2895588,2,2,"32044 Old Yale Rd, Abbotsford, BC, Canada",1338.0,1,1649.0,373.0,1993,Condo,16/06/2024,499900.0
+R2896699,4,3,"32549 Peardonville Rd, Abbotsford, BC, Canada",2406.0,2,4411.0,457.0,2021,MultiFamily,16/06/2024,1099900.0
+R2896053,2,2,"33318 Bourquin Cres E, Abbotsford, BC, Canada",909.0,1,1751.0,571.0,2007,Condo,16/06/2024,519900.0
+R2894630,2,2,"2860 Trethewey St, Abbotsford, BC, Canada",1060.0,2,2377.0,584.0,2017,Condo,12/06/2024,619900.0
+R2894964,2,1,"32950 Amicus Pl, Abbotsford, BC, Canada",854.0,1,1277.0,421.0,1981,Condo,13/06/2024,359900.0
+R2894949,5,3,"35519 Mckee Rd, Abbotsford, BC, Canada",5329.0,4,7148.0,337.0,2005,SingleFamily,13/06/2024,1799900.0
+R2895640,2,2,"1514 Mccallum Rd, Abbotsford, BC, Canada",802.0,2,864.0,660.0,2022,Condo,13/06/2024,529999.0
+R2895208,2,2,"33318 Bourquin Cres E, Abbotsford, BC, Canada",992.0,2,1995.0,549.0,2007,Condo,13/06/2024,544900.0
+R2894719,7,5,"2558 Terminal Crt, Abbotsford, BC, Canada",3495.0,2,2890.0,471.0,2023,SingleFamily,13/06/2024,1649000.0
+R2894874,2,2,"33175 Old Yale Rd, Abbotsford, BC, Canada",1235.0,1,1824.0,425.0,1992,Condo,13/06/2024,524900.0
+R2894250,6,3,"2614 Valemont Cres, Abbotsford, BC, Canada",2702.0,6,4736.0,462.0,1975,SingleFamily,13/06/2024,1249000.0
+R2893220,2,2,"2901 Trafalgar St, Abbotsford, BC, Canada",1185.0,2,1261.0,362.0,1987,Townhouse,11/06/2024,429900.0
+R2894140,2,1,"31955 Old Yale Rd, Abbotsford, BC, Canada",1032.0,1,1196.0,435.0,1982,Condo,11/06/2024,449900.0
+R2893203,4,2,"3363 Okanagan Dr, Abbotsford, BC, Canada",2375.0,7,4945.0,564.0,1983,SingleFamily,11/06/2024,1340000.0
+R2894059,4,2,"32554 Murray Ave, Abbotsford, BC, Canada",2916.0,8,5018.0,406.0,1984,SingleFamily,11/06/2024,1184900.0
+R2893261,5,3,"35387 Delair Rd, Abbotsford, BC, Canada",2688.0,6,4309.0,435.0,1981,SingleFamily,11/06/2024,1170000.0
+R2894285,2,2,"2886 Montrose Ave, Abbotsford, BC, Canada",1253.0,2,2500.0,546.0,2024,Townhouse,11/06/2024,684900.0
+R2893285,6,4,"30490 Northridge Way, Abbotsford, BC, Canada",3230.0,6,5175.0,460.0,2003,SingleFamily,11/06/2024,1488800.0
+R2893659,3,2,"35626 Mckee Rd, Abbotsford, BC, Canada",1924.0,4,3274.0,472.0,2010,Townhouse,11/06/2024,910000.0
+R2892541,2,2,"31158 Westridge Pl, Abbotsford, BC, Canada",859.0,1,2128.0,698.0,2021,Condo,09/06/2024,599800.0
+R2893331,3,2,"3055 Trafalgar St, Abbotsford, BC, Canada",1951.0,2,2271.0,374.0,1986,Townhouse,09/06/2024,729900.0
+R2892635,4,3,"35872 Heatherstone Pl, Abbotsford, BC, Canada",2530.0,4,4724.0,493.0,1986,SingleFamily,09/06/2024,1249000.0
+R2893248,2,1,"1909 Salton Rd, Abbotsford, BC, Canada",910.0,2,1285.0,351.0,1975,Condo,09/06/2024,319900.0
+R2892977,1,1,"3080 Gladwin Rd, Abbotsford, BC, Canada",378.0,1,1239.0,894.0,2016,Condo,09/06/2024,338000.0
+R2893512,4,3,"3583 Mckinley Dr, Abbotsford, BC, Canada",3325.0,5,5353.0,387.0,1992,SingleFamily,09/06/2024,1288000.0
+R2893581,2,2,"33568 George Ferguson Way, Abbotsford, BC, Canada",880.0,1,2082.0,589.0,2021,Condo,09/06/2024,519000.0
+R2892162,5,2,"32632 Haida Dr, Abbotsford, BC, Canada",2378.0,5,4387.0,409.0,1988,SingleFamily,06/06/2024,974000.0
+R2891867,2,2,"2780 Ware St, Abbotsford, BC, Canada",1074.0,1,1611.0,449.0,1990,Condo,06/06/2024,482500.0
+R2891170,4,3,"35931 Empress Dr, Abbotsford, BC, Canada",2839.0,2,3725.0,346.0,2005,Townhouse,05/06/2024,983800.0
+R2893681,3,2,"2235 Crystal Crt, Abbotsford, BC, Canada",1615.0,5,3668.0,617.0,1974,SingleFamily,06/06/2024,997000.0
+R2891390,5,2,"2568 Mendham St, Abbotsford, BC, Canada",2100.0,4,4680.0,571.0,1971,SingleFamily,06/06/2024,1199900.0
+R2891051,2,2,"3182 Gladwin Rd, Abbotsford, BC, Canada",1113.0,2,1980.0,584.0,2021,Condo,05/06/2024,650000.0
+R2891289,5,2,"33137 Capri Crt, Abbotsford, BC, Canada",2170.0,0,3883.0,546.0,1977,SingleFamily,05/06/2024,1185000.0
+R2891535,5,2,"32855 Harwood Cres, Abbotsford, BC, Canada",2160.0,6,4544.0,555.0,1980,SingleFamily,05/06/2024,1199888.0
+R2891620,2,2,"34959 Old Clayburn Rd, Abbotsford, BC, Canada",1629.0,1,2464.0,337.0,1989,Townhouse,04/06/2024,549900.0
+R2891454,7,3,"3476 Creston Dr, Abbotsford, BC, Canada",3107.0,6,5241.0,401.0,1986,SingleFamily,04/06/2024,1249000.0
+R2888848,6,4,"2711 Bristol Dr, Abbotsford, BC, Canada",3319.0,6,5610.0,451.0,2013,SingleFamily,04/06/2024,1499900.0
+R2889057,3,1,"3030 Trethewey St, Abbotsford, BC, Canada",1164.0,1,2254.0,548.0,1980,Townhouse,04/06/2024,639000.0
+R2892215,6,6,"34991 Hamon Dr, Abbotsford, BC, Canada",7110.0,0,9638.0,337.0,1997,SingleFamily,04/06/2024,2399000.0
+R2890384,7,3,"34078 Amblewood Pl, Abbotsford, BC, Canada",3331.0,6,2023.0,398.0,2005,SingleFamily,03/06/2024,1329000.0
+R2889761,3,2,"2331 Alder St, Abbotsford, BC, Canada",2692.0,4,4666.0,464.0,1959,SingleFamily,04/06/2024,1249900.0
+R2889109,3,2,"1973 Winfield Dr, Abbotsford, BC, Canada",2368.0,2,2746.0,327.0,1993,Townhouse,30/05/2024,775000.0
+R2887263,3,3,"3115 Trafalgar St, Abbotsford, BC, Canada",2044.0,1,2593.0,342.0,1990,Townhouse,30/05/2024,699900.0
+R2889769,3,2,"35737 Old Yale Rd, Abbotsford, BC, Canada",1734.0,10,6884.0,807.0,1977,SingleFamily,31/05/2024,1399900.0
+R2889970,7,5,"33682 Busby Rd, Abbotsford, BC, Canada",3991.0,4,5202.0,450.0,2022,SingleFamily,02/06/2024,1799000.0
+R2889022,4,3,"36683 Carl Creek Cres, Abbotsford, BC, Canada",2385.0,4,4414.0,536.0,2020,SingleFamily,30/05/2024,1279000.0
+R2889495,2,2,"3176 Gladwin Rd, Abbotsford, BC, Canada",1065.0,1,1868.0,506.0,1997,Condo,01/06/2024,539900.0
+R2890119,4,3,"8561 Bradner Rd, Abbotsford, BC, Canada",2920.0,0,6701.0,907.0,1945,SingleFamily,31/05/2024,2650000.0
+R2889162,3,3,"2493 Montrose Ave, Abbotsford, BC, Canada",1097.0,2,2551.0,627.0,2020,Condo,30/05/2024,688800.0
+R2888077,5,2,"34357 Woodbine Cres, Abbotsford, BC, Canada",2574.0,1,4806.0,489.0,1961,SingleFamily,27/05/2024,1258800.0
+R2887697,7,4,"2706 Mitchell St, Abbotsford, BC, Canada",2856.0,9,5036.0,455.0,1990,SingleFamily,27/05/2024,1300000.0
+R2888925,4,3,"35423 Mckee Rd, Abbotsford, BC, Canada",4444.0,7,5362.0,313.0,2005,SingleFamily,27/05/2024,1395000.0
+R2888187,4,1,"3015 Trethewey St, Abbotsford, BC, Canada",1980.0,2,2639.0,347.0,1977,Townhouse,27/05/2024,689000.0
+R2888005,3,3,"30703 Blueridge Dr, Abbotsford, BC, Canada",3142.0,2,3005.0,278.0,1997,Townhouse,27/05/2024,874900.0
+R2888155,1,1,"32959 George Ferguson Way, Abbotsford, BC, Canada",1003.0,1,1206.0,346.0,1982,Townhouse,27/05/2024,348000.0
+R2888405,2,2,"33123 George Ferguson Way, Abbotsford, BC, Canada",1543.0,2,1525.0,265.0,1990,Townhouse,27/05/2024,410000.0
+R2888189,2,2,"33668 King Rd, Abbotsford, BC, Canada",1127.0,2,1574.0,451.0,1994,Condo,27/05/2024,509000.0
+R2886665,2,2,"32120 Mount Waddington Ave, Abbotsford, BC, Canada",1127.0,1,1626.0,443.0,1995,Condo,23/05/2024,499900.0
+R2888359,2,1,"32959 George Ferguson Way, Abbotsford, BC, Canada",990.0,1,1206.0,434.0,1982,Townhouse,24/05/2024,429900.0
+R2887313,7,5,"3494 Promontory Crt, Abbotsford, BC, Canada",2910.0,6,5603.0,529.0,2001,SingleFamily,26/05/2024,1540000.0
+R2886992,4,3,"3303 Mckinley Dr, Abbotsford, BC, Canada",3132.0,8,4479.0,467.0,1998,SingleFamily,23/05/2024,1464900.0
+R2886528,6,4,"2194 Merlot Blvd, Abbotsford, BC, Canada",3837.0,0,6551.0,440.0,2012,SingleFamily,23/05/2024,1689999.0
+R2887024,4,2,"32281 Adair Ave, Abbotsford, BC, Canada",2085.0,3,4516.0,561.0,1980,SingleFamily,23/05/2024,1169988.0
+R2886703,4,2,"2763St Moritz Way, Abbotsford, BC, Canada",3128.0,9,5170.0,383.0,1998,SingleFamily,23/05/2024,1199000.0
+R2886617,2,1,"32850 George Ferguson Way, Abbotsford, BC, Canada",918.0,1,1232.0,435.0,1976,Condo,23/05/2024,399900.0
+R2884503,3,3,"2832 Clearbrook Rd, Abbotsford, BC, Canada",1762.0,2,3082.0,492.0,2017,Townhouse,18/05/2024,868000.0
+R2885704,2,1,"32850 George Ferguson Way, Abbotsford, BC, Canada",965.0,1,1216.0,403.0,1976,Condo,20/05/2024,389000.0
+R2884656,2,2,"30525 Cardinal Ave, Abbotsford, BC, Canada",879.0,2,1843.0,551.0,2009,Condo,19/05/2024,484999.0
+R2885115,4,3,"32638 Downes Rd, Abbotsford, BC, Canada",4148.0,4,5455.0,346.0,2009,SingleFamily,20/05/2024,1439000.0
+R2886173,5,3,"2937 Southern Cres, Abbotsford, BC, Canada",3322.0,6,5282.0,391.0,1992,SingleFamily,20/05/2024,1299900.0
+R2884348,6,4,"34965 High Dr, Abbotsford, BC, Canada",2500.0,5,4878.0,559.0,1974,SingleFamily,19/05/2024,1399999.0
+R2886923,4,3,"3054 Trafalgar St, Abbotsford, BC, Canada",3006.0,2,2787.0,299.0,1987,Townhouse,18/05/2024,899000.0
+R2884064,2,2,"32063 Mount Waddington Ave, Abbotsford, BC, Canada",1001.0,1,1844.0,524.0,2006,Condo,19/05/2024,524900.0
+R2883403,5,3,"4581 Sumas Mountain Rd, Abbotsford, BC, Canada",3325.0,5,4477.0,390.0,2021,SingleFamily,14/05/2024,1299900.0
+R2883289,5,4,"31111 N Burgess Ave, Abbotsford, BC, Canada",5295.0,0,5158.0,1188.0,1996,SingleFamily,14/05/2024,6295000.0
+R2883043,2,2,"33675 Marshall Rd, Abbotsford, BC, Canada",1053.0,2,1562.0,398.0,1993,Condo,13/05/2024,419900.0
+R2882672,5,3,"30922 Sandpiper Pl, Abbotsford, BC, Canada",3232.0,8,6346.0,411.0,1992,SingleFamily,13/05/2024,1329900.0
+R2882223,2,2,"32828 Landeau Pl, Abbotsford, BC, Canada",1367.0,2,2745.0,509.0,2021,Townhouse,14/05/2024,697000.0
+R2883621,9,10,"171 Defehr Rd, Abbotsford, BC, Canada",8657.0,0,10170.0,678.0,2021,SingleFamily,14/05/2024,5875035.0
+R2884371,2,2,"32633 Simon Ave, Abbotsford, BC, Canada",1189.0,1,2520.0,576.0,2016,Townhouse,14/05/2024,684900.0
+R2883364,2,2,"32445 Simon Ave, Abbotsford, BC, Canada",1120.0,2,2008.0,584.0,2019,Condo,14/05/2024,654900.0
+R2881503,7,5,"36779 Carl Creek Cres, Abbotsford, BC, Canada",3486.0,6,4858.0,401.0,2023,SingleFamily,09/05/2024,1399000.0
+R2881220,4,4,"35732 Zanatta Pl, Abbotsford, BC, Canada",3574.0,5,5349.0,447.0,2007,SingleFamily,08/05/2024,1599000.0
+R2880494,10,7,"2368 Arbutus St, Abbotsford, BC, Canada",6028.0,0,8161.0,356.0,2013,SingleFamily,08/05/2024,2148000.0
+R2881262,2,1,"2414 Church St, Abbotsford, BC, Canada",1052.0,0,1217.0,294.0,1984,Condo,09/05/2024,309900.0
+R2881054,5,3,"4105 Verdon Way, Abbotsford, BC, Canada",3669.0,6,2131.0,653.0,1991,SingleFamily,08/05/2024,2399000.0
+R2880728,2,1,"34909 Old Yale Rd, Abbotsford, BC, Canada",932.0,2,1529.0,480.0,1980,Condo,08/05/2024,448000.0
+R2881331,1,1,"2551 Willow Lane, Abbotsford, BC, Canada",704.0,1,1410.0,454.0,1979,Condo,08/05/2024,319900.0
+R2881527,4,4,"2807 Maple St, Abbotsford, BC, Canada",2845.0,10,7120.0,562.0,2010,SingleFamily,09/05/2024,1599999.0
+R2879015,6,3,"3367 Hedley St, Abbotsford, BC, Canada",3041.0,4,4826.0,394.0,1985,SingleFamily,06/05/2024,1199900.0
+R2880185,7,4,"27760 Pullman Ave, Abbotsford, BC, Canada",4299.0,4,5311.0,348.0,2009,SingleFamily,05/05/2024,1498800.0
+R2880552,5,3,"2915 Whistle Dr, Abbotsford, BC, Canada",2957.0,6,5595.0,473.0,2002,SingleFamily,06/05/2024,1399900.0
+R2878441,3,2,"2816 Clearbrook Rd, Abbotsford, BC, Canada",1150.0,6,3805.0,782.0,1955,SingleFamily,05/05/2024,899900.0
+R2879179,2,1,"32175 Old Yale Rd, Abbotsford, BC, Canada",913.0,1,1272.0,361.0,1973,Condo,06/05/2024,329900.0
+R2879786,3,1,"32310 Mouat Dr, Abbotsford, BC, Canada",1224.0,1,2203.0,507.0,1978,Townhouse,05/05/2024,621700.0
+R2878293,6,6,"35459 Verado Crt, Abbotsford, BC, Canada",4886.0,4,6913.0,470.0,2020,SingleFamily,05/05/2024,2300000.0
+R2876043,7,3,"3463 Saanich St, Abbotsford, BC, Canada",2781.0,9,4744.0,431.0,1987,SingleFamily,30/04/2024,1200000.0
+R2878054,4,1,"32560 Oriole Cres, Abbotsford, BC, Canada",1656.0,5,3681.0,573.0,1977,SingleFamily,30/04/2024,949900.0
+R2877173,3,2,"2734 Sandon Dr, Abbotsford, BC, Canada",1525.0,3,3109.0,576.0,1978,SingleFamily,30/04/2024,879900.0
+R2876355,3,1,"32310 Mouat Dr, Abbotsford, BC, Canada",1227.0,1,2146.0,529.0,1977,Townhouse,30/04/2024,649900.0
+R2883644,2,2,"31032 Westridge Pl, Abbotsford, BC, Canada",1308.0,2,2406.0,535.0,2014,Townhouse,15/05/2024,699900.0
+R2877607,2,2,"2555 Ware St, Abbotsford, BC, Canada",1404.0,0,3007.0,526.0,2018,Condo,30/04/2024,739000.0
+R2877164,5,3,"1404 Townline Rd, Abbotsford, BC, Canada",2987.0,0,5085.0,2778.0,1976,SingleFamily,30/04/2024,8299900.0
+R2876577,2,1,"32718 Garibaldi Dr, Abbotsford, BC, Canada",1154.0,1,1417.0,395.0,1986,Townhouse,30/04/2024,456000.0
+R2875466,2,2,"32838 Ventura Ave, Abbotsford, BC, Canada",1028.0,2,2341.0,612.0,2021,Condo,25/04/2024,629999.0
+R2874334,3,2,"33715 Mayfair Ave, Abbotsford, BC, Canada",1620.0,3,4021.0,801.0,1955,SingleFamily,24/04/2024,1299000.0
+R2874251,6,3,"4581 Sumas Mountain Rd, Abbotsford, BC, Canada",2998.0,6,2881.0,433.0,2024,SingleFamily,24/04/2024,1299900.0
+R2875022,4,3,"2580 Janzen St, Abbotsford, BC, Canada",2149.0,2,2204.0,418.0,2023,SingleFamily,24/04/2024,899900.0
+R2873546,2,2,"3182 Gladwin Rd, Abbotsford, BC, Canada",924.0,2,2644.0,713.0,2022,Condo,21/04/2024,659000.0
+R2873459,5,3,"2871 Crossley Dr, Abbotsford, BC, Canada",2530.0,4,5165.0,474.0,1990,SingleFamily,21/04/2024,1200000.0
+R2873096,4,2,"2889 Upland Cres, Abbotsford, BC, Canada",2600.0,0,5313.0,538.0,1967,SingleFamily,21/04/2024,1399000.0
+R2873175,3,2,"4295 Old Clayburn Rd, Abbotsford, BC, Canada",2287.0,4,4222.0,606.0,2021,SingleFamily,21/04/2024,1388000.0
+R2874220,10,8,"2011 Vinewood St, Abbotsford, BC, Canada",6495.0,8,7952.0,431.0,2023,SingleFamily,21/04/2024,2799999.0
+R2875302,1,1,"33450 George Ferguson Way, Abbotsford, BC, Canada",684.0,1,1074.0,438.0,1981,Condo,21/04/2024,299900.0
+R2873425,3,1,"32870 George Ferguson Way, Abbotsford, BC, Canada",1153.0,1,1451.0,407.0,1976,Condo,21/04/2024,469999.0
+R2873516,2,2,"3110 Trafalgar St, Abbotsford, BC, Canada",1517.0,1,1777.0,336.0,1992,Townhouse,21/04/2024,510381.0
+R2871946,4,2,"2033 Mckenzie Rd, Abbotsford, BC, Canada",1677.0,0,3082.0,485.0,2021,Townhouse,15/04/2024,814900.0
+R2871493,5,2,"33451 Westbury Ave, Abbotsford, BC, Canada",2318.0,0,4030.0,603.0,1964,SingleFamily,15/04/2024,1399000.0
+R2872174,2,2,"2771 Montrose Ave, Abbotsford, BC, Canada",1016.0,1,1800.0,669.0,2026,Condo,16/04/2024,680000.0
+R2872772,6,5,"27625 Railcar Cres, Abbotsford, BC, Canada",2921.0,0,5618.0,547.0,2016,SingleFamily,15/04/2024,1599900.0
+R2872069,1,1,"2771 Montrose Ave, Abbotsford, BC, Canada",643.0,1,1800.0,761.0,2026,Condo,15/04/2024,489900.0
+R2870419,2,2,"2450 Church St, Abbotsford, BC, Canada",1095.0,1,1389.0,374.0,1991,Condo,15/04/2024,409999.0
+R2871789,4,4,"3699 Eldridge Rd, Abbotsford, BC, Canada",3473.0,10,8489.0,662.0,2009,SingleFamily,15/04/2024,2299900.0
+R2870586,4,2,"3150 Consort Crt, Abbotsford, BC, Canada",1973.0,0,4344.0,633.0,1980,SingleFamily,15/04/2024,1249999.0
+R2869452,5,3,"2744 Valemont Cres, Abbotsford, BC, Canada",2119.0,6,4689.0,507.0,1976,SingleFamily,09/04/2024,1075000.0
+R2869284,3,0,"30385 Sunset Cres, Abbotsford, BC, Canada",1083.0,0,2933.0,737.0,1967,MultiFamily,08/04/2024,799000.0
+R2868613,2,2,"30930 Westridge Pl, Abbotsford, BC, Canada",1275.0,3,2464.0,549.0,2018,Townhouse,08/04/2024,700000.0
+R2869294,5,2,"34727 1st Ave, Abbotsford, BC, Canada",2254.0,2,4471.0,488.0,1989,SingleFamily,09/04/2024,1100000.0
+R2868443,2,2,"2180 Gladwin Rd, Abbotsford, BC, Canada",875.0,1,2921.0,731.0,2018,Condo,09/04/2024,639900.0
+R2867547,3,1,"2544 Campbell Ave, Abbotsford, BC, Canada",1204.0,5,4339.0,1021.0,1943,SingleFamily,08/04/2024,1229900.0
+R2868866,5,3,"3160 Townline Rd, Abbotsford, BC, Canada",1946.0,3,2837.0,441.0,1994,Townhouse,08/04/2024,859000.0
+R2869577,2,2,"34101 Old Yale Rd, Abbotsford, BC, Canada",1292.0,2,1938.0,464.0,1997,Condo,09/04/2024,599900.0
+R2867260,5,2,"35120 Morgan Way, Abbotsford, BC, Canada",1969.0,1,4195.0,588.0,1979,SingleFamily,02/04/2024,1159000.0
+R2865411,4,2,"2826 Maple St, Abbotsford, BC, Canada",1880.0,6,2023.0,913.0,1942,SingleFamily,02/04/2024,1717000.0
+R2864827,6,3,"35005 Bateman Rd, Abbotsford, BC, Canada",3676.0,8,5875.0,446.0,2014,SingleFamily,01/04/2024,1639900.0
+R2866454,2,2,"33280 Bourquin Cres E, Abbotsford, BC, Canada",1026.0,1,1538.0,511.0,1993,Condo,02/04/2024,525000.0
+R2865712,7,6,"2541 Railcar Cres, Abbotsford, BC, Canada",3981.0,6,6180.0,427.0,2015,SingleFamily,02/04/2024,1700000.0
+R2865762,5,2,"2977 Princess St, Abbotsford, BC, Canada",2166.0,4,4526.0,623.0,1972,SingleFamily,02/04/2024,1349900.0
+R2864730,1,1,"1909 Salton Rd, Abbotsford, BC, Canada",728.0,1,1044.0,349.0,1976,Condo,02/04/2024,254700.0
+R2863587,2,2,"33960 Old Yale Rd, Abbotsford, BC, Canada",838.0,1,1464.0,523.0,2007,Condo,26/03/2024,439000.0
+R2863395,7,4,"33222 Lynn Ave, Abbotsford, BC, Canada",3248.0,6,4956.0,461.0,1972,SingleFamily,26/03/2024,1499888.0
+R2863604,1,1,"34797 Delair Rd, Abbotsford, BC, Canada",1000.0,6,6517.0,2190.0,1938,SingleFamily,25/03/2024,2190000.0
+R2863566,4,3,"2592 Mitchell St, Abbotsford, BC, Canada",1951.0,6,4526.0,609.0,1990,SingleFamily,26/03/2024,1190000.0
+R2865021,4,3,"2380 Farrant Cres, Abbotsford, BC, Canada",1677.0,6,4671.0,775.0,1969,SingleFamily,26/03/2024,1299999.0
+R2863705,2,2,"6077 Ross Rd, Abbotsford, BC, Canada",1500.0,10,3952.0,4600.0,1960,SingleFamily,26/03/2024,6900000.0
+R2864088,5,4,"1783 Everett Rd, Abbotsford, BC, Canada",3184.0,8,6235.0,625.0,1982,SingleFamily,25/03/2024,1990000.0
+R2861893,7,5,"3436 Headwater Pl, Abbotsford, BC, Canada",4056.0,6,6227.0,394.0,2016,SingleFamily,17/03/2024,1599999.0
+R2859851,5,3,"30627 Crestview Crt, Abbotsford, BC, Canada",2718.0,5,4972.0,522.0,2002,SingleFamily,17/03/2024,1420000.0
+R2859382,3,1,"1963 Townline Rd, Abbotsford, BC, Canada",1280.0,0,1372.0,7656.0,1948,SingleFamily,17/03/2024,9800000.0
+R2860510,5,3,"28585 Townshipline Rd, Abbotsford, BC, Canada",3635.0,10,11888.0,880.0,1971,SingleFamily,17/03/2024,3199900.0
+R2860557,5,3,"33918 George Ferguson Way, Abbotsford, BC, Canada",2756.0,8,2023.0,652.0,1955,MultiFamily,17/03/2024,1799000.0
+R2860929,5,3,"36472 Cardiff Pl, Abbotsford, BC, Canada",2551.0,4,5130.0,558.0,2005,SingleFamily,17/03/2024,1425000.0
+R2861992,3,3,"3588 Mckinley Dr, Abbotsford, BC, Canada",2883.0,2,4087.0,443.0,1992,SingleFamily,16/03/2024,1279000.0
+R2860775,4,3,"2558 Lakeview Cres, Abbotsford, BC, Canada",2090.0,4,4091.0,693.0,1967,SingleFamily,17/03/2024,1449000.0
+R2856999,5,3,"31453 Springhill Pl, Abbotsford, BC, Canada",2704.0,10,4737.0,480.0,1980,SingleFamily,07/03/2024,1299900.0
+R2855632,5,3,"3847 Lindsay St, Abbotsford, BC, Canada",2200.0,8,4338.0,536.0,1980,SingleFamily,04/03/2024,1179900.0
+R2856089,2,1,"1909 Salton Rd, Abbotsford, BC, Canada",950.0,2,1295.0,315.0,1975,Condo,05/03/2024,299700.0
+R2857336,1,1,"30525 Cardinal Ave, Abbotsford, BC, Canada",536.0,1,1378.0,744.0,2009,Condo,07/03/2024,399000.0
+R2855682,6,4,"35468 Verado Crt, Abbotsford, BC, Canada",4696.0,4,4281.0,489.0,2022,SingleFamily,04/03/2024,2298800.0
+R2855048,5,3,"2332 Mckenzie Rd, Abbotsford, BC, Canada",2308.0,6,5334.0,519.0,2004,SingleFamily,03/03/2024,1199900.0
+R2855795,6,3,"2949 Flagman Pl, Abbotsford, BC, Canada",4126.0,0,6252.0,436.0,2010,SingleFamily,04/03/2024,1799000.0
+R2857025,4,3,"28028 Layman Ave, Abbotsford, BC, Canada",2970.0,0,9900.0,888.0,1970,SingleFamily,07/03/2024,2639900.0
+R2848951,2,1,"34740 3rd Ave, Abbotsford, BC, Canada",1450.0,12,4346.0,603.0,1980,SingleFamily,11/02/2024,875000.0
+R2848637,4,2,"1033 York Rd, Abbotsford, BC, Canada",3683.0,0,8719.0,1373.0,1973,SingleFamily,08/02/2024,5059000.0
+R2850021,6,2,"33230 Westbury Ave, Abbotsford, BC, Canada",2194.0,5,4091.0,501.0,1972,SingleFamily,13/02/2024,1099950.0
+R2849346,2,2,"201 Mccallum Rd, Abbotsford, BC, Canada",908.0,15,3593.0,1707.0,2020,SingleFamily,12/02/2024,1550000.0
+R2848480,3,2,"2267 Mckenzie Rd, Abbotsford, BC, Canada",1329.0,2,1856.0,564.0,2022,Townhouse,07/02/2024,749999.0
+R2848471,2,1,"32055 Old Yale Rd, Abbotsford, BC, Canada",1050.0,1,1128.0,304.0,1979,Condo,08/02/2024,320000.0
+R2835095,3,2,"39464 Wells Line Rd, Abbotsford, BC, Canada",2905.0,10,10505.0,3784.0,1975,SingleFamily,26/11/2023,10995000.0
+R2837305,2,2,"2860 Trethewey St, Abbotsford, BC, Canada",1170.0,2,2263.0,546.0,2017,Condo,10/12/2023,639000.0
+R2836625,4,2,"4210 Gladwin Rd, Abbotsford, BC, Canada",2566.0,6,6605.0,816.0,1984,SingleFamily,06/12/2023,2095000.0
+R2839045,6,3,"32595 George Ferguson Way, Abbotsford, BC, Canada",1940.0,4,4162.0,608.0,1977,SingleFamily,07/01/2024,1180000.0
+R2836851,6,4,"32588 Peardonville Rd, Abbotsford, BC, Canada",3053.0,5,2899.0,490.0,2021,SingleFamily,07/12/2023,1499000.0
+R2836427,5,3,"35620 Dina Pl, Abbotsford, BC, Canada",2365.0,4,4284.0,465.0,1998,SingleFamily,05/12/2023,1099900.0
+R2838231,4,2,"27625 Gray Ave, Abbotsford, BC, Canada",2000.0,0,5564.0,3700.0,9999,SingleFamily,21/12/2023,7400000.0
+R2782675,5,2,"2786 Fairlane St, Abbotsford, BC, Canada",2284.0,6,4586.0,908.0,9999,SingleFamily,30/05/2023,2075000.0
+R2779709,5,3,"494 Sumas Way, Abbotsford, BC, Canada",2485.0,10,8482.0,1810.0,1984,SingleFamily,24/05/2023,4499000.0

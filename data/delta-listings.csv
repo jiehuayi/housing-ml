@@ -1,0 +1,1183 @@
+,address,beds,bath,area,maintenance,parking,taxes,built,mlsNumber,levels,garage,lotSize,pricePerSqFt,soldDate,soldPrice,listingDate,listingPrice,type
+0,"610 - 9015 120 St, Delta, BC",1,1,644 sqft,,1,"$1,315",2019,R2896874,Residential,Yes,,$774,28/06/2024,"$485,000",18/06/2024,"$499,000",Apartment/Condominium
+1,"137 - 5550 Admiral Way, Delta, BC",4,2,1665 sqft,,3,"$3,472",2017,R2898852,Residential,Yes,,$672,26/06/2024,"$1,115,000",24/06/2024,"$1,120,000",Townhouse
+2,"102 - 4955 River Rd, Delta, BC",2,2,1401 sqft,,2,"$2,563",1990,R2887819,Residential,Yes,,$677,24/06/2024,"$925,000",26/05/2024,"$949,000",Apartment/Condominium
+3,"7 - 4756 62 St, Delta, BC",3,2,1551 sqft,,2,"$3,012",1991,R2896418,Residential,No,,$580,24/06/2024,"$1,005,000",17/06/2024,"$899,900",Townhouse
+4,"897 Gale Pl, Delta, BC",5,2,2753 sqft,,6,"$5,738",1970,R2896382,Residential,Yes,,$753,24/06/2024,"$2,175,000",17/06/2024,"$2,075,000",Single Family Residence
+5,"5389 Laurel Way, Delta, BC",3,2,1850 sqft,,4,"$4,343",1986,R2895382,Residential,Yes,,$702,23/06/2024,"$1,351,333",16/06/2024,"$1,299,999",Single Family Residence
+6,"6032 45 Ave, Delta, BC",5,2,2045 sqft,,3,"$3,903",1977,R2896052,Residential,Yes,,$635,23/06/2024,"$1,381,000",17/06/2024,"$1,299,000",Single Family Residence
+7,"4486 61 St, Delta, BC",4,2,2491 sqft,,1,"$3,958",1977,R2874693,Residential,Yes,,$561,23/06/2024,"$1,345,000",23/04/2024,"$1,399,900",Single Family Residence
+8,"1809 - 11967 80 Ave, Delta, BC",2,1,576 sqft,,1,"$2,220",2017,R2890971,Residential,Yes,,$954,23/06/2024,"$567,500",04/06/2024,"$549,900",Apartment/Condominium
+9,"96 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2897551,Residential,Yes,,$782,23/06/2024,"$2,128,000",18/06/2024,"$2,128,000",Townhouse
+10,"5050 Wallace Ave, Delta, BC",3,2,1863 sqft,,4,"$5,232",1973,R2896720,Residential,No,,$778,22/06/2024,"$1,500,000",17/06/2024,"$1,449,900",Single Family Residence
+11,"6302 Dawn Dr, Delta, BC",3,2,2093 sqft,,6,"$4,653",1988,R2857442,Residential,Yes,,$711,22/06/2024,"$1,350,000",07/03/2024,"$1,490,000",Single Family Residence
+12,"4578 Kensington Crt, Delta, BC",4,2,2521 sqft,,4,"$4,889",1990,R2888776,Residential,Yes,,$624,20/06/2024,"$1,480,000",29/05/2024,"$1,575,000",Single Family Residence
+13,"1255 49 St, Delta, BC",5,3,3280 sqft,,4,"$5,124",1978,R2897482,Residential,No,,$467,20/06/2024,"$1,620,000",19/06/2024,"$1,535,000",Single Family Residence
+14,"4 - 10735 84 Ave, Delta, BC",3,2,1492 sqft,,2,"$3,034",2015,R2897998,Residential,Yes,,$626,20/06/2024,"$920,000",19/06/2024,"$935,000",Townhouse
+15,"608 - 11501 84 Ave, Delta, BC",2,2,1183 sqft,,2,"$2,657",2020,R2897628,Residential,Yes,,$691,20/06/2024,"$817,999",18/06/2024,"$817,999",Apartment/Condominium
+16,"1636 Fir Springs Lane, Delta, BC",2,2,1798 sqft,,4,"$4,907",2015,R2897036,Residential,Yes,,$889,19/06/2024,"$1,610,000",18/06/2024,"$1,599,900",Single Family Residence
+17,"1909 - 11967 80 Ave, Delta, BC",2,1,577 sqft,,1,"$1,663",2017,R2859568,Residential,Yes,,$970,18/06/2024,"$535,000",11/03/2024,"$559,995",Apartment/Condominium
+18,"1FH - 4515 River Rd W, Delta, BC",2,1,761 sqft,,1,$500,1986,R2894886,Residential,No,,$314,17/06/2024,"$237,000",12/06/2024,"$239,000",Single Family Residence
+19,"7755 Garrett Dr, Delta, BC",5,3,2501 sqft,,6,,1973,R2873135,Residential,No,,$639,17/06/2024,"$1,555,000",21/04/2024,"$1,599,900",Single Family Residence
+20,"408 - 9015 120 St, Delta, BC",2,2,873 sqft,,1,"$1,975",2019,R2881454,Residential,Yes,,$732,16/06/2024,"$620,000",08/05/2024,"$639,900",Apartment/Condominium
+21,"262 52 St, Delta, BC",4,2,2788 sqft,,6,"$5,334",1976,R2871927,Residential,Yes,,$645,16/06/2024,"$1,690,000",15/04/2024,"$1,799,000",Single Family Residence
+22,"205 - 6866 Nicholson Rd, Delta, BC",2,2,1375 sqft,,1,"$1,663",1991,R2893606,Residential,Yes,,$435,16/06/2024,"$599,000",10/06/2024,"$599,000",Apartment/Condominium
+23,"4875 53 St, Delta, BC",2,1,924 sqft,,1,"$1,717",1987,R2885616,Residential,No,,$745,16/06/2024,"$685,000",20/05/2024,"$689,000",Apartment/Condominium
+24,"8219 111b St, Delta, BC",4,2,2450 sqft,,8,"$4,237",9999,R2894520,Residential,No,,$530,16/06/2024,"$1,376,100",10/06/2024,"$1,299,000",Single Family Residence
+25,"10917 Mcadam Rd, Delta, BC",7,6,4640 sqft,,0,"$6,566",2022,R2886263,Residential,Yes,,$536,16/06/2024,"$2,363,500",22/05/2024,"$2,489,999",Single Family Residence
+26,"470 Sandbar Pl, Delta, BC",3,2,1870 sqft,,6,"$5,452",1988,R2875760,Residential,Yes,,"$1,081",13/06/2024,"$1,990,000",25/04/2024,"$2,022,000",Single Family Residence
+27,"470 Sandbar Pl, Delta, BC",3,2,1870 sqft,,6,"$5,452",1988,R2875760,Residential,Yes,,"$1,081",13/06/2024,"$1,990,000",25/04/2024,"$2,022,000",Single Family Residence
+28,"115 - 6505 3 Ave, Delta, BC",3,2,2258 sqft,,6,"$5,111",1993,R2894691,Residential,Yes,,$876,13/06/2024,"$1,980,000",12/06/2024,"$1,980,000",Townhouse
+29,"412 - 9015 120 St, Delta, BC",3,2,1297 sqft,,1,"$2,419",2019,R2892630,Residential,Yes,,$538,12/06/2024,"$725,000",09/06/2024,"$699,000",Apartment/Condominium
+30,"11415 91a Ave, Delta, BC",5,2,2229 sqft,,3,"$4,384",1966,R2873419,Residential,Yes,,$627,12/06/2024,"$1,340,000",21/04/2024,"$1,399,000",Single Family Residence
+31,"66 Diefenbaker Wynd, Delta, BC",4,2,2579 sqft,,4,"$4,842",1979,R2877209,Residential,Yes,,$646,11/06/2024,"$1,650,000",29/04/2024,"$1,668,000",Single Family Residence
+32,"403 - 5599 14b Ave, Delta, BC",2,2,866 sqft,,1,"$1,942",2011,R2883479,Residential,Yes,,$692,11/06/2024,"$585,000",14/05/2024,"$599,900",Apartment/Condominium
+33,"11464 Lyon Rd, Delta, BC",5,3,3046 sqft,,6,"$5,419",1977,R2893088,Residential,Yes,,$688,11/06/2024,"$2,098,000",09/06/2024,"$2,098,000",Single Family Residence
+34,"10620 Westside Dr, Delta, BC",4,1,2340 sqft,,5,"$4,112",1973,R2888837,Residential,No,,$597,10/06/2024,"$1,345,000",27/05/2024,"$1,399,000",Single Family Residence
+35,"5789 51 Ave, Delta, BC",3,1,1546 sqft,,3,"$4,390",1972,R2891476,Residential,No,,$775,10/06/2024,"$1,272,500",05/06/2024,"$1,199,000",Single Family Residence
+36,"5819 48a Ave, Delta, BC",4,2,2002 sqft,,2,"$4,492",1968,R2890648,Residential,Yes,,$718,10/06/2024,"$1,418,000",03/06/2024,"$1,438,000",Single Family Residence
+37,"202 - 11901 89a Ave, Delta, BC",3,1,1209 sqft,,1,"$1,895",1971,R2889607,Residential,No,,$496,10/06/2024,"$575,000",02/06/2024,"$599,800",Townhouse
+38,"6597 Faber Cres, Delta, BC",3,3,2662 sqft,,6,"$5,433",1971,R2889864,Residential,Yes,,$563,09/06/2024,"$1,400,000",02/06/2024,"$1,499,999",Single Family Residence
+39,"305 - 4768 53 St, Delta, BC",2,2,947 sqft,,1,"$1,916",1995,R2876638,Residential,Yes,,$628,09/06/2024,"$585,000",28/04/2024,"$595,000",Apartment/Condominium
+40,"8794 Shepherd Way, Delta, BC",3,2,1719 sqft,,5,"$4,142",1958,R2888686,Residential,No,,$726,09/06/2024,"$1,245,000",28/05/2024,"$1,248,000",Single Family Residence
+41,"6595 Lyon Rd, Delta, BC",4,2,2585 sqft,,4,"$4,462",1978,R2891384,Residential,Yes,,$606,09/06/2024,"$1,567,000",05/06/2024,"$1,567,000",Single Family Residence
+42,"1310 53a St, Delta, BC",4,3,2294 sqft,,6,"$4,256",1966,R2869158,Residential,No,,$653,09/06/2024,"$1,488,000",09/04/2024,"$1,499,000",Single Family Residence
+43,"5171 57 St, Delta, BC",2,1,1170 sqft,,6,"$4,100",1972,R2877147,Residential,No,,"$1,058",08/06/2024,"$1,215,000",27/04/2024,"$1,239,000",Single Family Residence
+44,"11373 88a Ave, Delta, BC",7,3,2348 sqft,,2,"$4,455",1971,R2882266,Residential,No,,$638,08/06/2024,"$1,445,000",12/05/2024,"$1,499,999",Single Family Residence
+45,"3541 41b St, Delta, BC",4,2,3752 sqft,,12,"$7,767",1969,R2890654,Residential,Yes,,$665,07/06/2024,"$2,498,000",03/06/2024,"$2,498,000",Single Family Residence
+46,"5448 5b Ave, Delta, BC",3,2,2560 sqft,,5,"$4,863",1974,R2871531,Residential,No,,$577,06/06/2024,"$1,489,000",15/04/2024,"$1,479,000",Single Family Residence
+47,"102 - 6505 3 Ave, Delta, BC",2,2,1957 sqft,,4,"$4,286",1993,R2891592,Residential,Yes,,$766,06/06/2024,"$1,500,000",04/06/2024,"$1,499,900",Townhouse
+48,"9474 118 St, Delta, BC",4,2,2050 sqft,,5,"$4,540",1971,R2884031,Residential,Yes,,$629,06/06/2024,"$1,352,500",21/05/2024,"$1,290,000",Single Family Residence
+49,"217 - 7445 120 St, Delta, BC",1,1,655 sqft,,1,"$1,410",2010,R2882679,Residential,Yes,,$723,06/06/2024,"$470,000",12/05/2024,"$473,888",Apartment/Condominium
+50,"372 - 1440 Garden Pl, Delta, BC",2,1,1058 sqft,,1,"$1,852",1982,R2888353,Residential,No,,$613,06/06/2024,"$640,000",29/05/2024,"$649,000",Apartment/Condominium
+51,"4916 58 St, Delta, BC",4,3,3020 sqft,,5,"$4,477",1969,R2874015,Residential,Yes,,$514,05/06/2024,"$1,535,000",22/04/2024,"$1,555,000",Single Family Residence
+52,"258 66 St, Delta, BC",4,2,1626 sqft,,5,"$4,801",1967,R2865143,Residential,No,,$913,05/06/2024,"$1,460,000",01/04/2024,"$1,485,000",Single Family Residence
+53,"208 - 4885 53 St, Delta, BC",2,2,1136 sqft,,1,"$1,922",1987,R2890592,Residential,No,,$624,04/06/2024,"$725,000",03/06/2024,"$709,000",Apartment/Condominium
+54,"306 - 5535 Admiral Way, Delta, BC",2,2,1200 sqft,,2,"$2,908",2021,R2865829,Residential,Yes,,$874,04/06/2024,"$1,015,000",31/03/2024,"$1,049,900",Apartment/Condominium
+55,"3 - 6300 Cottonwood St, Delta, BC",3,2,1866 sqft,,2,"$3,336",1988,R2889122,Residential,Yes,,$509,04/06/2024,"$935,000",30/05/2024,"$949,900",Townhouse
+56,"96 - 5900 Ferry Rd, Delta, BC",3,2,2247 sqft,,2,"$4,216",1998,R2872915,Residential,Yes,,$644,04/06/2024,"$1,443,000",17/04/2024,"$1,449,000",Townhouse
+57,"5800 28 Ave, Delta, BC",4,2,3418 sqft,,5,"$4,490",2004,R2870856,Residential,Yes,,"$1,462",03/06/2024,"$4,800,000",14/04/2024,"$4,999,900",Single Family Residence
+58,"9247 Hardy Rd, Delta, BC",5,2,2158 sqft,,6,"$4,509",1964,R2887865,Residential,No,,$718,03/06/2024,"$1,475,000",27/05/2024,"$1,549,900",Single Family Residence
+59,"62 - 10500 Delsom Cres, Delta, BC",4,2,2174 sqft,,4,"$3,987",2014,R2886219,Residential,Yes,,$597,03/06/2024,"$1,370,000",20/05/2024,"$1,299,000",Townhouse
+60,"4826 48 Ave, Delta, BC",6,3,3155 sqft,,3,"$4,445",1920,R2887374,Residential,Yes,,$538,02/06/2024,"$1,830,000",26/05/2024,"$1,699,000",Single Family Residence
+61,"11272 Sussex Pl, Delta, BC",6,3,3181 sqft,,6,"$5,064",1976,R2885662,Residential,Yes,,$556,02/06/2024,"$1,730,000",21/05/2024,"$1,769,000",Single Family Residence
+62,"1631 Birch Springs Lane, Delta, BC",2,2,1517 sqft,,4,"$4,457",2012,R2888346,Residential,Yes,,$955,02/06/2024,"$1,525,000",28/05/2024,"$1,450,000",Single Family Residence
+63,"11220 Mason Pl, Delta, BC",6,6,3652 sqft,,10,"$7,389",1972,R2887159,Residential,Yes,,$602,02/06/2024,"$2,275,000",26/05/2024,"$2,199,000",Single Family Residence
+64,"3 - 4743 54a St, Delta, BC",3,2,1590 sqft,,2,"$3,162",1998,R2886805,Residential,Yes,,$583,02/06/2024,"$925,000",26/05/2024,"$928,000",Townhouse
+65,"B208 - 4821 53 St, Delta, BC",1,1,1000 sqft,,1,"$1,943",1991,R2887418,Residential,Yes,,$699,01/06/2024,"$675,000",27/05/2024,"$699,000",Apartment/Condominium
+66,"50 - 10500 Delsom Cres, Delta, BC",3,2,2154 sqft,,3,"$3,984",2014,R2874296,Residential,Yes,,$626,30/05/2024,"$1,348,000",22/04/2024,"$1,350,000",Townhouse
+67,"4933 44b Ave, Delta, BC",4,3,2368 sqft,,0,"$4,295",1988,R2883321,Residential,No,,$548,30/05/2024,"$1,315,000",13/05/2024,"$1,299,800",Single Family Residence
+68,"7758 Boynton Pl, Delta, BC",4,2,3014 sqft,,6,"$4,819",1984,R2872289,Residential,Yes,,$630,30/05/2024,"$1,850,000",17/04/2024,"$1,899,900",Single Family Residence
+69,"10586 River Rd, Delta, BC",8,6,4568 sqft,,6,"$6,051",2022,R2864608,Residential,Yes,,$492,29/05/2024,"$2,170,000",01/04/2024,"$2,249,000",Single Family Residence
+70,"1034 Walalee Dr, Delta, BC",4,2,2850 sqft,,3,"$4,938",1965,R2888573,Residential,No,,$550,29/05/2024,"$1,569,000",28/05/2024,"$1,569,000",Single Family Residence
+71,"10748 Burbank Dr, Delta, BC",4,2,1996 sqft,,1,"$4,586",1973,R2885977,Residential,Yes,,$751,28/05/2024,"$1,450,000",21/05/2024,"$1,499,000",Single Family Residence
+72,"10654 Hermosa Dr, Delta, BC",4,2,2477 sqft,,4,"$4,729",1975,R2880831,Residential,Yes,,$617,28/05/2024,"$1,482,000",07/05/2024,"$1,529,800",Single Family Residence
+73,"40 - 4955 57 St, Delta, BC",2,1,960 sqft,,1,"$2,007",1969,R2884046,Residential,No,,$645,28/05/2024,"$616,000",15/05/2024,"$619,800",Townhouse
+74,"10473 Dunlop Rd, Delta, BC",6,3,2433 sqft,,4,"$4,423",1973,R2873995,Residential,Yes,,$657,28/05/2024,"$1,445,000",22/04/2024,"$1,600,000",Single Family Residence
+75,"9 - 11965 84a Ave, Delta, BC",3,3,2637 sqft,,3,"$2,858",1991,R2886144,Residential,Yes,,$378,28/05/2024,"$1,018,000",21/05/2024,"$998,000",Townhouse
+76,"6587 Hillside Cres, Delta, BC",6,4,3554 sqft,,8,"$5,987",1970,R2885964,Residential,Yes,,$528,27/05/2024,"$1,975,000",22/05/2024,"$1,879,000",Single Family Residence
+77,"7744 Wansford Dr, Delta, BC",3,2,1889 sqft,,6,"$4,272",1979,R2885351,Residential,Yes,,$793,27/05/2024,"$1,500,000",26/05/2024,"$1,499,000",Single Family Residence
+78,"122 - 1702 56 St, Delta, BC",2,2,1250 sqft,,2,"$2,547",1997,R2885474,Residential,Yes,,$671,27/05/2024,"$824,900",20/05/2024,"$839,900",Townhouse
+79,"404 - 11501 84 Ave, Delta, BC",2,2,996 sqft,,2,"$1,770",2020,R2885383,Residential,No,,$701,27/05/2024,"$683,500",20/05/2024,"$699,000",Apartment/Condominium
+80,"1537 Braid Rd, Delta, BC",5,5,3148 sqft,,4,"$4,724",2024,R2874910,Residential,Yes,,$873,26/05/2024,"$2,700,000",23/04/2024,"$2,749,888",Single Family Residence
+81,"9303 114a St, Delta, BC",4,3,1961 sqft,,4,"$4,360",1960,R2879703,Residential,No,,$688,26/05/2024,"$1,316,000",05/05/2024,"$1,349,900",Single Family Residence
+82,"209 - 1140 55 St, Delta, BC",2,2,1518 sqft,,1,"$2,283",1990,R2884851,Residential,Yes,,$559,26/05/2024,"$850,000",20/05/2024,"$849,000",Apartment/Condominium
+83,"96 Diefenbaker Wynd, Delta, BC",3,2,1592 sqft,,4,"$4,427",1979,R2885639,Residential,Yes,,$970,26/05/2024,"$1,525,000",21/05/2024,"$1,545,000",Single Family Residence
+84,"311 - 5055 Springs Blvd, Delta, BC",1,1,1053 sqft,,1,"$2,706",2014,R2880407,Residential,Yes,,$835,26/05/2024,"$830,000",05/05/2024,"$879,900",Apartment/Condominium
+85,"7463 Barrymore Dr, Delta, BC",3,1,2464 sqft,,2,"$3,707",1973,R2872518,Residential,No,,$506,26/05/2024,"$1,220,000",21/04/2024,"$1,249,000",Single Family Residence
+86,"8 - 11910 90 Ave, Delta, BC",3,2,1794 sqft,,2,"$3,069",1996,R2884481,Residential,Yes,,$523,25/05/2024,"$905,000",16/05/2024,"$939,880",Townhouse
+87,"10590 River Rd, Delta, BC",8,6,4568 sqft,,6,"$6,032",2022,R2867884,Residential,Yes,,$492,24/05/2024,"$2,170,000",08/04/2024,"$2,249,000",Single Family Residence
+88,"4883 42b Ave, Delta, BC",3,2,2653 sqft,,8,"$4,371",1969,R2882004,Residential,No,,$565,23/05/2024,"$1,452,000",12/05/2024,"$1,499,900",Single Family Residence
+89,"106 - 1166 54 A St, Delta, BC",2,2,1054 sqft,,1,"$2,592",2016,R2877478,Residential,Yes,,$754,23/05/2024,"$765,000",30/04/2024,"$794,900",Apartment/Condominium
+90,"7267 116 St, Delta, BC",4,3,2020 sqft,,6,"$3,571",2012,R2882101,Residential,Yes,,$608,23/05/2024,"$1,210,000",12/05/2024,"$1,230,000",Multi Family
+91,"103 - 4743 River Rd W, Delta, BC",2,2,1407 sqft,,1,"$2,210",1990,R2875799,Residential,Yes,,$674,23/05/2024,"$825,000",25/04/2024,"$949,000",Apartment/Condominium
+92,"5623 Grove Ave, Delta, BC",3,1,1217 sqft,,4,"$4,365",1964,R2883338,Residential,No,,"$1,075",23/05/2024,"$1,292,500",14/05/2024,"$1,309,000",Single Family Residence
+93,"6601 Wade Rd, Delta, BC",4,3,2107 sqft,,4,"$4,624",1980,R2885060,Residential,Yes,,$658,23/05/2024,"$1,388,000",20/05/2024,"$1,388,000",Single Family Residence
+94,"311 - 7445 120 St, Delta, BC",1,1,852 sqft,,2,"$1,517",2010,R2877585,Residential,Yes,,$645,22/05/2024,"$525,000",30/04/2024,"$549,999",Apartment/Condominium
+95,"7323 York Cres, Delta, BC",4,2,2120 sqft,,8,"$4,584",1971,R2877591,Residential,Yes,,$674,22/05/2024,"$1,400,000",29/04/2024,"$1,429,000",Single Family Residence
+96,"11545 81a Ave, Delta, BC",3,1,2282 sqft,,0,"$4,813",1970,R2885378,Residential,No,,$630,22/05/2024,"$1,430,000",21/05/2024,"$1,439,000",Single Family Residence
+97,"8184 117 St, Delta, BC",3,1,1262 sqft,,3,"$4,462",1953,R2879614,Residential,Yes,,"$1,108",22/05/2024,"$1,300,000",05/05/2024,"$1,399,000",Single Family Residence
+98,"11769 64b Ave, Delta, BC",5,4,2625 sqft,,6,"$5,091",1976,R2878003,Residential,Yes,,$628,22/05/2024,"$1,560,000",01/05/2024,"$1,649,900",Single Family Residence
+99,"117 - 4770 52a St, Delta, BC",2,2,984 sqft,,2,"$2,205",1996,R2884472,Residential,Yes,,$669,22/05/2024,"$659,000",15/05/2024,"$659,000",Apartment/Condominium
+100,"210 - 1300 Hunter Rd, Delta, BC",2,2,1347 sqft,,1,"$2,909",1996,R2862189,Residential,Yes,,$629,22/05/2024,"$845,000",21/03/2024,"$848,000",Apartment/Condominium
+101,"7694 Garrett Dr, Delta, BC",4,3,2400 sqft,,4,"$5,254",1977,R2884842,Residential,Yes,,$728,21/05/2024,"$1,748,000",20/05/2024,"$1,748,000",Single Family Residence
+102,"7832 115 St, Delta, BC",10,4,4596 sqft,,4,"$5,300",1976,R2880213,Residential Income,No,,$391,21/05/2024,"$1,750,000",11/05/2024,"$1,799,000",Duplex
+103,"115 - 4889 53 St, Delta, BC",2,2,1132 sqft,,1,"$1,960",1988,R2883030,Residential,No,,$626,20/05/2024,"$730,000",13/05/2024,"$709,000",Apartment/Condominium
+104,"6 - 6350 48a Ave, Delta, BC",2,2,1789 sqft,,2,"$2,515",1990,R2883313,Residential,Yes,,$435,20/05/2024,"$800,000",13/05/2024,"$780,000",Townhouse
+105,"9225 112 St, Delta, BC",6,3,3152 sqft,,0,"$4,504",1973,R2884221,Residential,Yes,,$554,19/05/2024,"$1,680,000",14/05/2024,"$1,749,000",Single Family Residence
+106,"1462 Village Greens Wynd, Delta, BC",3,2,1785 sqft,,3,"$4,188",1986,R2881633,Residential,Yes,,$839,19/05/2024,"$1,600,000",09/05/2024,"$1,499,000",Single Family Residence
+107,"856 55a St, Delta, BC",4,2,1980 sqft,,0,"$4,807",1968,R2880704,Residential,Yes,,$707,19/05/2024,"$1,326,000",07/05/2024,"$1,399,900",Single Family Residence
+108,"7926 118 St, Delta, BC",6,4,3502 sqft,,4,"$4,488",2023,R2877819,Residential,Yes,,$456,18/05/2024,"$1,555,000",30/04/2024,"$1,599,000",Single Family Residence
+109,"4675 53a St, Delta, BC",3,3,1956 sqft,,4,"$4,703",1978,R2883451,Residential,Yes,,$766,18/05/2024,"$1,499,000",14/05/2024,"$1,499,000",Single Family Residence
+110,"5165 57 St, Delta, BC",3,2,1673 sqft,,2,"$4,209",1963,R2884304,Residential,No,,$776,18/05/2024,"$1,315,000",16/05/2024,"$1,299,000",Single Family Residence
+111,"102 - 1212 Hunter Rd, Delta, BC",2,2,1857 sqft,,1,"$5,827",2016,R2882409,Residential,Yes,,"$1,022",17/05/2024,"$1,925,000",09/05/2024,"$1,899,000",Apartment/Condominium
+112,"64 - 8385 Delsom Way, Delta, BC",3,2,1385 sqft,,2,"$3,070",2009,R2881878,Residential,Yes,,$670,17/05/2024,"$929,000",12/05/2024,"$929,000",Townhouse
+113,"110 - 5550 Admiral Way, Delta, BC",3,2,1609 sqft,,2,"$3,450",2017,R2882288,Residential,Yes,,$652,17/05/2024,"$1,045,000",12/05/2024,"$1,050,000",Townhouse
+114,"138 - 5550 Admiral Way, Delta, BC",3,2,1521 sqft,,0,"$3,244",2016,R2882604,Residential,Yes,,$733,16/05/2024,"$1,100,000",13/05/2024,"$1,115,000",Townhouse
+115,"1390 Farrell Ave, Delta, BC",3,1,1295 sqft,,4,"$4,986",1966,R2869547,Residential,No,,"$1,080",15/05/2024,"$1,370,000",09/04/2024,"$1,399,000",Single Family Residence
+116,"11076 84 Ave, Delta, BC",5,3,2759 sqft,,4,"$5,160",1997,R2873991,Residential,Yes,,$539,15/05/2024,"$1,469,000",23/04/2024,"$1,488,000",Single Family Residence
+117,"201 - 6950 Nicholson Rd, Delta, BC",2,2,720 sqft,,2,"$1,966",2021,R2882757,Residential,Yes,,$873,15/05/2024,"$617,500",13/05/2024,"$629,000",Apartment/Condominium
+118,"15 - 6712 Baker Rd, Delta, BC",3,1,1305 sqft,,2,"$2,254",1979,R2876031,Residential,No,,$589,15/05/2024,"$748,000",28/04/2024,"$769,000",Townhouse
+119,"5313 Belair Cres, Delta, BC",3,2,2050 sqft,,2,"$5,065",1970,R2869408,Residential,No,,$677,15/05/2024,"$1,380,000",09/04/2024,"$1,389,000",Single Family Residence
+120,"4919 Cedar Cres, Delta, BC",3,2,2380 sqft,,4,"$4,936",1968,R2880661,Residential,No,,$567,14/05/2024,"$1,375,000",06/05/2024,"$1,350,000",Single Family Residence
+121,"4811 47a Ave, Delta, BC",4,3,3212 sqft,,3,"$4,280",1999,R2877056,Residential,Yes,,$435,13/05/2024,"$1,390,000",28/04/2024,"$1,399,000",Single Family Residence
+122,"412 - 1350 View Cres, Delta, BC",2,2,1344 sqft,,1,"$2,078",1983,R2879716,Residential,Yes,,$491,13/05/2024,"$628,213",02/05/2024,"$660,000",Apartment/Condominium
+123,"34 - 5311 Admiral Way, Delta, BC",4,3,1947 sqft,,2,,2024,R2882393,Residential,Yes,,$697,12/05/2024,"$1,358,000",09/05/2024,"$1,358,000",Townhouse
+124,"11912 Briarwood Pl, Delta, BC",3,2,2339 sqft,,4,"$5,043",1980,R2878368,Residential,Yes,,$641,12/05/2024,"$1,525,000",05/05/2024,"$1,499,900",Single Family Residence
+125,"105 - 4743 River Rd W, Delta, BC",2,2,1359 sqft,,1,"$2,151",1990,R2880190,Residential,Yes,,$587,12/05/2024,"$800,000",06/05/2024,"$799,000",Apartment/Condominium
+126,"4866 Turnbuckle Wynd, Delta, BC",3,3,1449 sqft,,2,"$2,405",1978,R2879113,Residential,Yes,,$572,12/05/2024,"$812,500",02/05/2024,"$829,900",Townhouse
+127,"904 - 11910 80 Ave, Delta, BC",1,1,903 sqft,,1,"$1,507",1992,R2860203,Residential,Yes,,$553,12/05/2024,"$478,000",17/03/2024,"$499,900",Apartment/Condominium
+128,"5092b Bentley Dr, Delta, BC",6,6,3508 sqft,,4,"$6,720",2022,R2846897,Residential,Yes,,$684,12/05/2024,"$2,250,000",04/02/2024,"$2,399,900",Single Family Residence
+129,"147 - 5550 Admiral Way, Delta, BC",4,2,1665 sqft,,2,"$3,472",2017,R2879245,Residential,Yes,,$654,12/05/2024,"$1,168,000",05/05/2024,"$1,090,000",Townhouse
+130,"11661 84 Ave, Delta, BC",5,4,3119 sqft,,4,,2018,R2877459,Residential,Yes,,$528,12/05/2024,"$1,571,313",28/04/2024,"$1,648,000",Single Family Residence
+131,"4615 Edmonds Dr, Delta, BC",4,2,2213 sqft,,6,"$4,843",1989,R2870723,Residential,Yes,,$632,12/05/2024,"$1,380,000",11/04/2024,"$1,398,800",Single Family Residence
+132,"5 - 10605 Delsom Cres, Delta, BC",4,3,2012 sqft,,4,"$3,515",2009,R2863337,Residential,Yes,,$576,12/05/2024,"$1,115,500",25/03/2024,"$1,160,000",Townhouse
+133,"8386 Centre St, Delta, BC",3,2,1994 sqft,,4,"$3,349",1989,R2869112,Residential,Yes,,$476,11/05/2024,"$955,000",08/04/2024,"$949,900",Townhouse
+134,"8235 110 St, Delta, BC",5,3,1945 sqft,,4,"$4,111",1967,R2877109,Residential,No,,$712,11/05/2024,"$1,340,000",05/05/2024,"$1,385,000",Single Family Residence
+135,"5823 16 Ave, Delta, BC",5,5,3017 sqft,,6,"$4,287",2022,R2869175,Residential,Yes,,$725,11/05/2024,"$1,800,000",09/04/2024,"$2,188,000",Single Family Residence
+136,"11028 64a Ave, Delta, BC",3,2,2146 sqft,,6,"$4,897",1973,R2880660,Residential,No,,$814,11/05/2024,"$1,748,000",07/05/2024,"$1,748,000",Single Family Residence
+137,"5425 Candlewyck Wynd, Delta, BC",4,3,2970 sqft,,8,"$5,196",1980,R2868644,Residential,Yes,,$599,10/05/2024,"$1,720,000",08/04/2024,"$1,780,000",Single Family Residence
+138,"5013 1 Ave, Delta, BC",4,2,2549 sqft,,6,"$5,971",1975,R2867638,Residential,Yes,,$759,09/05/2024,"$1,900,000",07/04/2024,"$1,935,000",Single Family Residence
+139,"211 - 6505 3 Ave, Delta, BC",2,2,2024 sqft,,4,"$4,722",1992,R2861854,Residential,Yes,,$731,09/05/2024,"$1,480,000",19/03/2024,"$1,480,000",Townhouse
+140,"10466 Dunlop Rd, Delta, BC",4,2,2387 sqft,,4,"$5,068",2009,R2878656,Residential,Yes,,$707,09/05/2024,"$1,665,000",02/05/2024,"$1,688,000",Single Family Residence
+141,"5410 Chestnut Cres, Delta, BC",5,2,2362 sqft,,6,"$4,545",1970,R2879522,Residential,Yes,,$583,08/05/2024,"$1,420,000",05/05/2024,"$1,378,000",Single Family Residence
+142,"11280 88 Ave, Delta, BC",5,3,2740 sqft,,7,"$4,489",1959,R2875195,Residential,Yes,,$685,08/05/2024,"$1,772,500",21/04/2024,"$1,879,000",Single Family Residence
+143,"4924 Cedar Springs Dr, Delta, BC",5,3,2621 sqft,,4,"$5,150",2019,R2874672,Residential,Yes,,$758,08/05/2024,"$1,925,000",23/04/2024,"$1,988,000",Single Family Residence
+144,"6440 117a St, Delta, BC",4,2,2136 sqft,,6,"$5,101",1976,R2874284,Residential,No,,$697,08/05/2024,"$1,457,000",22/04/2024,"$1,489,000",Single Family Residence
+145,"8679 110a St, Delta, BC",5,3,2110 sqft,,4,"$4,511",1959,R2869782,Residential,No,,$625,08/05/2024,"$1,300,000",16/04/2024,"$1,320,000",Single Family Residence
+146,"215 - 5535 Admiral Way, Delta, BC",2,2,1050 sqft,,1,"$2,658",2021,R2868951,Residential,Yes,,$838,08/05/2024,"$879,900",08/04/2024,"$879,900",Apartment/Condominium
+147,"4780 44b Ave, Delta, BC",5,2,2172 sqft,,0,"$4,444",1969,R2875782,Residential,No,,$644,08/05/2024,"$1,369,900",25/04/2024,"$1,399,900",Single Family Residence
+148,"5924 49 Ave, Delta, BC",4,2,2101 sqft,,4,"$4,152",1987,R2865355,Residential,Yes,,$704,08/05/2024,"$1,435,000",01/04/2024,"$1,480,000",Single Family Residence
+149,"802 - 11967 80 Ave, Delta, BC",2,2,765 sqft,,1,"$2,046",2017,R2872576,Residential,Yes,,$784,08/05/2024,"$578,000",16/04/2024,"$599,900",Apartment/Condominium
+150,"5000 Cliff Dr, Delta, BC",4,3,3760 sqft,,7,"$6,256",1965,R2859462,Residential,No,,$795,07/05/2024,"$2,560,000",13/03/2024,"$2,990,000",Single Family Residence
+151,"3 - 4787 57 St, Delta, BC",3,2,1425 sqft,,2,"$2,761",1998,R2876021,Residential,No,,$596,07/05/2024,"$825,000",30/04/2024,"$850,000",Townhouse
+152,"10888 79a Ave, Delta, BC",4,3,2325 sqft,,6,"$4,349",1983,R2878151,Residential,Yes,,$617,07/05/2024,"$1,395,000",01/05/2024,"$1,435,000",Single Family Residence
+153,"5 - 11556 72a Ave, Delta, BC",4,2,1452 sqft,,2,"$2,690",2023,R2869593,Residential,Yes,,$653,07/05/2024,"$950,000",10/04/2024,"$949,000",Townhouse
+154,"69 - 5551 Admiral Way, Delta, BC",4,3,1960 sqft,,3,"$4,041",2020,R2872846,Residential,Yes,,$677,06/05/2024,"$1,300,000",18/04/2024,"$1,328,000",Townhouse
+155,"6185 Sunwood Dr, Delta, BC",3,2,2248 sqft,,6,"$4,886",1981,R2875305,Residential,Yes,,$612,06/05/2024,"$1,380,000",24/04/2024,"$1,378,000",Single Family Residence
+156,"76 - 8355 Delsom Way, Delta, BC",4,3,2154 sqft,,2,"$3,561",2011,R2876056,Residential,Yes,,$556,06/05/2024,"$1,170,000",29/04/2024,"$1,199,000",Townhouse
+157,"43 - 6712 Baker Rd, Delta, BC",3,1,1305 sqft,,1,"$2,258",1979,R2877398,Residential,No,,$550,06/05/2024,"$719,000",29/04/2024,"$719,000",Townhouse
+158,"11105 Lincoln Dr, Delta, BC",4,3,3120 sqft,,5,"$5,963",1972,R2877747,Residential,Yes,,$606,05/05/2024,"$1,845,000",30/04/2024,"$1,891,000",Single Family Residence
+159,"10985 Mcadam Rd, Delta, BC",4,1,1861 sqft,,1,"$4,155",1957,R2876036,Residential,Yes,,$584,05/05/2024,"$1,170,000",28/04/2024,"$1,088,000",Single Family Residence
+160,"29 - 5311 Admiral Way, Delta, BC",4,3,2030 sqft,,2,,2024,R2880127,Residential,Yes,,$713,05/05/2024,"$1,448,000",02/05/2024,"$1,448,000",Townhouse
+161,"5334 45 Ave, Delta, BC",5,2,2223 sqft,,2,"$4,474",1970,R2876288,Residential,No,,$674,05/05/2024,"$1,555,000",28/04/2024,"$1,499,000",Single Family Residence
+162,"11682 71a Ave, Delta, BC",4,2,2198 sqft,,4,"$4,418",1970,R2866198,Residential,No,,$636,05/05/2024,"$1,285,000",01/04/2024,"$1,399,900",Single Family Residence
+163,"24 - 3871 River Rd W, Delta, BC",2,2,1715 sqft,,2,"$2,304",2007,R2877458,Residential,No,,$568,05/05/2024,"$950,000",29/04/2024,"$975,000",Single Family Residence
+164,"4727 Cannery Pl, Delta, BC",3,2,1796 sqft,,4,"$4,134",1979,R2878353,Residential,No,,$695,04/05/2024,"$1,205,000",01/05/2024,"$1,249,000",Single Family Residence
+165,"79 - 5551 Admiral Way, Delta, BC",4,3,1921 sqft,,1,"$4,061",2019,R2878632,Residential,Yes,,$649,03/05/2024,"$1,250,000",02/05/2024,"$1,248,000",Townhouse
+166,"7357 Whitby Pl, Delta, BC",4,2,2678 sqft,,2,"$4,522",1973,R2870155,Residential,No,,$537,03/05/2024,"$1,375,000",11/04/2024,"$1,439,880",Single Family Residence
+167,"11240 Kendale Way, Delta, BC",4,2,2226 sqft,,3,"$4,179",1967,R2856284,Residential,No,,$606,03/05/2024,"$1,287,500",04/03/2024,"$1,349,000",Single Family Residence
+168,"5212 Laurel Dr, Delta, BC",5,2,3003 sqft,,4,"$4,536",1989,R2870435,Residential,Yes,,$549,02/05/2024,"$1,620,000",14/04/2024,"$1,649,000",Single Family Residence
+169,"601 - 6950 Nicholson Rd, Delta, BC",2,2,720 sqft,,1,"$1,992",2021,R2866212,Residential,No,,$895,01/05/2024,"$625,000",31/03/2024,"$644,900",Apartment/Condominium
+170,"866 56 St, Delta, BC",3,1,1381 sqft,,3,"$3,850",1987,R2875287,Residential,Yes,,$847,01/05/2024,"$1,140,000",24/04/2024,"$1,170,000",Single Family Residence
+171,"2108 - 11967 80 Ave, Delta, BC",2,2,731 sqft,,1,"$2,102",2017,R2867994,Residential,Yes,,$820,01/05/2024,"$599,000",09/04/2024,"$599,900",Apartment/Condominium
+172,"11526 93 Ave, Delta, BC",4,2,2378 sqft,,5,"$4,406",1960,R2875069,Residential,Yes,,$580,01/05/2024,"$1,379,000",22/04/2024,"$1,379,900",Single Family Residence
+173,"5326 Camaro Dr, Delta, BC",4,2,2555 sqft,,6,"$4,477",1969,R2878324,Residential,No,,$559,01/05/2024,"$1,450,000",01/05/2024,"$1,429,000",Single Family Residence
+174,"4726 45a Ave, Delta, BC",4,2,2196 sqft,,4,"$4,300",1970,R2871714,Residential,Yes,,$606,30/04/2024,"$1,265,000",15/04/2024,"$1,331,100",Single Family Residence
+175,"5289 Windjammer Rd, Delta, BC",5,3,3053 sqft,,4,"$5,546",1998,R2875121,Residential,Yes,,$654,30/04/2024,"$1,975,000",23/04/2024,"$1,998,000",Single Family Residence
+176,"11987 Mckee Dr, Delta, BC",6,2,2694 sqft,,7,"$4,716",1966,R2872688,Residential,No,,$649,30/04/2024,"$1,725,000",16/04/2024,"$1,749,000",Single Family Residence
+177,"4845 13 Ave, Delta, BC",4,1,3271 sqft,,5,"$5,913",1965,R2874674,Residential,No,,$607,30/04/2024,"$1,950,000",23/04/2024,"$1,988,000",Single Family Residence
+178,"6655 Wade Rd, Delta, BC",3,2,1900 sqft,,4,"$4,501",1978,R2873152,Residential,Yes,,$683,29/04/2024,"$1,270,000",21/04/2024,"$1,299,000",Single Family Residence
+179,"8832 Delvista Dr, Delta, BC",5,4,5031 sqft,,10,"$5,602",1990,R2872094,Residential,Yes,,$392,29/04/2024,"$1,900,000",17/04/2024,"$1,975,000",Single Family Residence
+180,"7051 Westview Dr, Delta, BC",4,1,2503 sqft,,4,"$4,181",1977,R2862232,Residential,Yes,,$474,29/04/2024,"$1,050,000",20/03/2024,"$1,188,888",Single Family Residence
+181,"6686 Knight Dr, Delta, BC",5,3,4601 sqft,,3,"$6,921",1977,R2873221,Residential,Yes,,$499,29/04/2024,"$2,451,000",21/04/2024,"$2,298,000",Single Family Residence
+182,"11461 88 Ave, Delta, BC",8,6,4320 sqft,,8,"$6,438",2018,R2862672,Residential,Yes,,$543,29/04/2024,"$2,298,000",20/03/2024,"$2,350,000",Single Family Residence
+183,"30 - 4953 57 St, Delta, BC",3,1,1152 sqft,,1,"$2,037",1969,R2873208,Residential,No,,$598,29/04/2024,"$689,000",21/04/2024,"$689,000",Townhouse
+184,"9192 118a St, Delta, BC",4,2,1948 sqft,,3,"$4,396",1977,R2867356,Residential,Yes,,$692,29/04/2024,"$1,327,000",09/04/2024,"$1,349,000",Single Family Residence
+185,"4880 55b St, Delta, BC",5,4,2672 sqft,,4,"$5,623",2014,R2867398,Residential,Yes,,$729,28/04/2024,"$1,915,000",07/04/2024,"$1,948,800",Single Family Residence
+186,"210 - 6950 Nicholson Rd, Delta, BC",3,2,1412 sqft,,2,"$3,366",2021,R2861733,Residential,Yes,,$594,28/04/2024,"$820,000",20/03/2024,"$839,900",Townhouse
+187,"309 - 1363 56 St, Delta, BC",2,2,960 sqft,,2,"$1,977",1994,R2864008,Residential,Yes,,$665,28/04/2024,"$628,000",26/03/2024,"$639,000",Apartment/Condominium
+188,"10933 Scarborough Dr, Delta, BC",5,4,3248 sqft,,5,"$4,732",1980,R2873151,Residential,Yes,,$534,28/04/2024,"$1,705,000",21/04/2024,"$1,735,000",Single Family Residence
+189,"11221 64a Ave, Delta, BC",4,2,2536 sqft,,6,"$5,264",1973,R2871461,Residential,Yes,,$630,28/04/2024,"$1,585,000",15/04/2024,"$1,599,000",Single Family Residence
+190,"206 - 11816 88 Ave, Delta, BC",1,1,715 sqft,,2,$921,1971,R2854249,Residential,No,,$541,28/04/2024,"$373,000",29/02/2024,"$387,000",Apartment/Condominium
+191,"30 - 10489 Delsom Cres, Delta, BC",4,3,2031 sqft,,3,"$3,910",2012,R2875519,Residential,Yes,,$590,27/04/2024,"$1,200,000",21/04/2024,"$1,198,800",Townhouse
+192,"4861 5 Ave, Delta, BC",3,2,1700 sqft,,6,"$4,804",1965,R2864723,Residential,No,,$800,26/04/2024,"$1,335,000",26/03/2024,"$1,360,000",Single Family Residence
+193,"110 - 5551 Admiral Way, Delta, BC",4,2,1981 sqft,,4,"$4,357",2018,R2870912,Residential,Yes,,$630,25/04/2024,"$1,235,000",14/04/2024,"$1,250,000",Townhouse
+194,"312 - 4770 52a St, Delta, BC",2,2,954 sqft,,1,"$2,097",1996,R2870446,Residential,Yes,,$675,24/04/2024,"$640,000",16/04/2024,"$644,900",Apartment/Condominium
+195,"11741 92 Ave, Delta, BC",9,6,3242 sqft,,4,"$4,213",1967,R2865910,Residential,No,,$446,24/04/2024,"$1,465,000",01/04/2024,"$1,449,000",Single Family Residence
+196,"644 Bluegrouse Pl, Delta, BC",3,2,1834 sqft,,4,"$5,162",1978,R2861610,Residential,Yes,,$817,24/04/2024,"$1,450,000",19/03/2024,"$1,499,900",Single Family Residence
+197,"8823 Shepherd Way, Delta, BC",4,2,2238 sqft,,6,"$4,309",1972,R2868212,Residential,No,,$558,24/04/2024,"$1,182,000",08/04/2024,"$1,250,000",Single Family Residence
+198,"11824 Cowley Dr N, Delta, BC",4,2,2315 sqft,,4,"$4,307",1975,R2875643,Residential,Yes,,$647,23/04/2024,"$1,500,000",22/04/2024,"$1,499,900",Single Family Residence
+199,"5986 17a Ave, Delta, BC",3,2,1654 sqft,,3,"$4,797",1967,R2872843,Residential,No,,$882,23/04/2024,"$1,400,000",18/04/2024,"$1,459,000",Single Family Residence
+200,"609 - 9015 120 St, Delta, BC",1,1,626 sqft,,1,"$1,315",2019,R2855720,Residential,Yes,,$798,22/04/2024,"$485,000",03/03/2024,"$499,800",Apartment/Condominium
+201,"154 49 St, Delta, BC",5,2,3431 sqft,,6,"$6,051",1965,R2871016,Residential,Yes,,$553,22/04/2024,"$1,890,000",14/04/2024,"$1,899,000",Single Family Residence
+202,"303 - 4770 52a St, Delta, BC",2,2,1018 sqft,,1,"$2,097",1996,R2870440,Residential,Yes,,$667,22/04/2024,"$752,300",16/04/2024,"$679,900",Apartment/Condominium
+203,"1353 Enderby Ave, Delta, BC",3,2,1801 sqft,,1,"$4,545",1966,R2850142,Residential,No,,$760,22/04/2024,"$1,330,000",14/02/2024,"$1,369,900",Single Family Residence
+204,"5635 120 St, Delta, BC",4,1,2493 sqft,,4,"$4,061",1984,R2871976,Residential,Yes,,$561,22/04/2024,"$1,568,000",16/04/2024,"$1,399,000",Single Family Residence
+205,"11638 Commonwealth Cres, Delta, BC",4,2,2519 sqft,,4,"$5,095",1979,R2870306,Residential,Yes,,$614,21/04/2024,"$1,561,000",14/04/2024,"$1,549,000",Single Family Residence
+206,"5455 13a Ave, Delta, BC",3,3,1570 sqft,,3,"$4,307",1980,R2871469,Residential,Yes,,$987,17/04/2024,"$1,545,000",15/04/2024,"$1,550,000",Single Family Residence
+207,"201 - 4808 Linden Dr, Delta, BC",2,2,1009 sqft,,1,"$2,240",2011,R2865409,Residential,No,,$692,16/04/2024,"$718,000",01/04/2024,"$699,000",Townhouse
+208,"26 - 10595 Delsom Cres, Delta, BC",4,3,2203 sqft,,2,"$4,004",2012,R2871212,Residential,Yes,,$585,16/04/2024,"$1,279,000",15/04/2024,"$1,289,900",Townhouse
+209,"31 - 5550 Admiral Way, Delta, BC",3,2,1480 sqft,,2,"$3,176",2017,R2867463,Residential,Yes,,$675,15/04/2024,"$1,040,000",07/04/2024,"$999,900",Townhouse
+210,"11451 95 Ave, Delta, BC",3,1,1162 sqft,,5,"$4,585",1958,R2869773,Residential,No,,$860,15/04/2024,"$1,200,000",08/04/2024,"$999,999",Single Family Residence
+211,"11715 93 Ave, Delta, BC",4,1,2070 sqft,,4,"$4,294",1969,R2868429,Residential,Yes,,$627,14/04/2024,"$1,270,000",09/04/2024,"$1,299,000",Single Family Residence
+212,"51 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2871836,Residential,Yes,,$708,14/04/2024,"$1,928,000",11/04/2024,"$1,928,000",Townhouse
+213,"141 - 5550 Admiral Way, Delta, BC",4,2,1516 sqft,,3,"$3,466",2017,R2867101,Residential,Yes,,$791,14/04/2024,"$1,100,000",04/04/2024,"$1,200,000",Townhouse
+214,"201 - 11881 88 Ave, Delta, BC",2,1,1168 sqft,,1,"$1,673",1986,R2862328,Residential,Yes,,$512,14/04/2024,"$599,000",19/03/2024,"$599,000",Apartment/Condominium
+215,"315 54 St, Delta, BC",4,3,2681 sqft,,4,"$5,203",1971,R2869232,Residential,Yes,,$559,14/04/2024,"$1,545,000",09/04/2024,"$1,499,900",Single Family Residence
+216,"263 52a St, Delta, BC",5,5,5884 sqft,,6,"$4,945",2023,R2841195,Residential,Yes,,$507,14/04/2024,"$2,750,000",09/01/2024,"$2,988,000",Single Family Residence
+217,"5801 Goldenrod Cres, Delta, BC",4,2,2098 sqft,,4,"$5,271",1981,R2851230,Residential,Yes,,$857,13/04/2024,"$1,790,000",19/02/2024,"$1,799,000",Single Family Residence
+218,"105 - 1166 54a St, Delta, BC",2,2,1054 sqft,,1,"$2,586",2015,R2855827,Residential,Yes,,$758,13/04/2024,"$790,000",04/03/2024,"$799,000",Apartment/Condominium
+219,"4921 Stevens Dr, Delta, BC",4,2,2165 sqft,,5,"$5,391",1966,R2854003,Residential,No,,$738,13/04/2024,"$1,550,000",27/02/2024,"$1,599,000",Single Family Residence
+220,"11277 91 Ave, Delta, BC",7,3,2270 sqft,,4,"$4,412",1959,R2847992,Residential,No,,$616,12/04/2024,"$1,403,000",06/02/2024,"$1,399,900",Single Family Residence
+221,"11044 Southridge Rd, Delta, BC",5,2,2474 sqft,,5,"$4,444",1977,R2855683,Residential,Yes,,$605,12/04/2024,"$1,475,000",04/03/2024,"$1,498,900",Single Family Residence
+222,"I - 4845 Linden Dr, Delta, BC",3,1,1686 sqft,,2,"$2,399",1973,R2863271,Residential,No,,$533,11/04/2024,"$895,000",25/03/2024,"$899,900",Townhouse
+223,"8 - 11735 89a Ave, Delta, BC",3,1,1549 sqft,,1,"$1,999",1970,R2867559,Residential,No,,$403,11/04/2024,"$600,000",02/04/2024,"$624,999",Townhouse
+224,"11183 Kendale Way, Delta, BC",5,2,2210 sqft,,5,"$4,275",1958,R2860045,Residential,No,,$723,11/04/2024,"$1,530,000",17/03/2024,"$1,600,000",Single Family Residence
+225,"11197 64 Ave, Delta, BC",4,3,2339 sqft,,9,"$4,626",1971,R2866115,Residential,Yes,,$855,10/04/2024,"$1,955,000",02/04/2024,"$1,999,900",Single Family Residence
+226,"5386 Crescent Dr, Delta, BC",5,4,3608 sqft,,2,"$5,999",2010,R2846983,Residential,Yes,,$609,10/04/2024,"$2,080,000",04/02/2024,"$2,198,000",Single Family Residence
+227,"7385 Bates Rd, Delta, BC",4,1,2175 sqft,,6,"$3,716",1973,R2861303,Residential,Yes,,$528,10/04/2024,"$1,050,000",19/03/2024,"$1,150,000",Single Family Residence
+228,"5301 3rd Ave, Delta, BC",3,2,1839 sqft,,4,"$4,914",1974,R2858041,Residential,Yes,,$760,09/04/2024,"$1,230,000",10/03/2024,"$1,399,000",Single Family Residence
+229,"314 - 1768 55a St, Delta, BC",3,2,1528 sqft,,2,"$3,012",2016,R2864948,Residential,Yes,,$620,08/04/2024,"$942,000",01/04/2024,"$948,000",Townhouse
+230,"8009 Modesto Dr, Delta, BC",5,2,2772 sqft,,5,"$4,061",1975,R2864345,Residential,Yes,,$540,08/04/2024,"$1,516,000",01/04/2024,"$1,499,000",Single Family Residence
+231,"10300 Sheaves Pl, Delta, BC",4,2,1424 sqft,,3,"$3,349",1978,R2864671,Residential,Yes,,$695,08/04/2024,"$1,000,000",01/04/2024,"$990,000",Single Family Residence
+232,"34 55a St, Delta, BC",5,2,2517 sqft,,4,"$5,252",1990,R2865312,Residential,Yes,,$576,07/04/2024,"$1,440,000",28/03/2024,"$1,450,000",Single Family Residence
+233,"11387 92 Ave, Delta, BC",6,2,2075 sqft,,5,"$4,423",1958,R2865319,Residential,No,,$481,07/04/2024,"$1,400,000",26/03/2024,"$999,999",Single Family Residence
+234,"6838 Dover Pl, Delta, BC",4,3,2932 sqft,,4,"$5,671",1976,R2864591,Residential,Yes,,$528,07/04/2024,"$1,620,000",01/04/2024,"$1,549,000",Single Family Residence
+235,"1086 Walalee Dr, Delta, BC",4,3,2355 sqft,,6,"$5,198",1967,R2861575,Residential,Yes,,$674,07/04/2024,"$1,585,000",17/03/2024,"$1,588,000",Single Family Residence
+236,"4605 48b St, Delta, BC",2,1,1055 sqft,,3,"$4,435",1962,R2866303,Residential,No,,"$1,325",05/04/2024,"$1,395,000",03/04/2024,"$1,398,000",Single Family Residence
+237,"10 - 8921 117a St, Delta, BC",2,2,1573 sqft,,4,"$2,573",1987,R2861127,Residential,Yes,,$588,05/04/2024,"$900,000",17/03/2024,"$925,000",Townhouse
+238,"303 - 1320 55 St, Delta, BC",2,2,2422 sqft,,2,"$4,392",1999,R2864500,Residential,Yes,,$618,05/04/2024,"$1,525,000",01/04/2024,"$1,498,000",Apartment/Condominium
+239,"21 - 10415 Delsom Cres, Delta, BC",3,2,1410 sqft,,2,"$3,008",2010,R2863178,Residential,Yes,,$659,05/04/2024,"$945,000",03/04/2024,"$929,900",Townhouse
+240,"5306 Augusta Pl, Delta, BC",3,3,1970 sqft,,4,"$4,760",1992,R2864710,Residential,Yes,,$811,04/04/2024,"$1,599,000",01/04/2024,"$1,599,000",Single Family Residence
+241,"102 - 1400 View Cres, Delta, BC",2,2,1365 sqft,,2,"$2,588",1995,R2855441,Residential,Yes,,$659,04/04/2024,"$875,000",03/03/2024,"$899,800",Apartment/Condominium
+242,"4598 Kensington Crt, Delta, BC",4,2,2783 sqft,,4,"$4,354",1990,R2866079,Residential,Yes,,$565,04/04/2024,"$1,650,000",02/04/2024,"$1,575,000",Single Family Residence
+243,"20 - 5510 Admiral Way, Delta, BC",4,2,1700 sqft,,2,"$3,834",2016,R2865676,Residential,Yes,,$728,04/04/2024,"$1,238,000",02/04/2024,"$1,238,000",Townhouse
+244,"202 - 4743 River Rd W, Delta, BC",2,2,1885 sqft,,2,"$3,194",1991,R2849791,Residential,No,,$656,03/04/2024,"$1,180,000",11/02/2024,"$1,238,000",Apartment/Condominium
+245,"5348 Wildwood Cres, Delta, BC",3,2,1943 sqft,,4,"$4,603",1984,R2864473,Residential,Yes,,$746,03/04/2024,"$1,475,000",31/03/2024,"$1,450,000",Single Family Residence
+246,"1112 Wilmington Dr, Delta, BC",4,2,2074 sqft,,7,"$5,333",1963,R2862592,Residential,No,,$813,02/04/2024,"$1,593,000",23/03/2024,"$1,688,000",Single Family Residence
+247,"7511 116 St, Delta, BC",8,6,5265 sqft,,10,"$7,256",2019,R2864809,Residential,Yes,,$510,02/04/2024,"$2,600,000",01/04/2024,"$2,688,000",Single Family Residence
+248,"8321 108 St, Delta, BC",5,3,3476 sqft,,4,"$5,251",2007,R2862247,Residential,Yes,,$431,02/04/2024,"$1,600,000",19/03/2024,"$1,499,000",Single Family Residence
+249,"5424 Candlewyck Wynd, Delta, BC",3,2,1757 sqft,,4,"$3,860",1978,R2843971,Residential,Yes,,$796,01/04/2024,"$1,360,000",22/01/2024,"$1,399,000",Single Family Residence
+250,"11443 87 Ave, Delta, BC",6,4,2394 sqft,,6,"$4,467",1969,R2860492,Residential,No,,$626,01/04/2024,"$1,480,000",17/03/2024,"$1,499,000",Single Family Residence
+251,"2 - 850 53a St, Delta, BC",4,3,2105 sqft,,2,"$3,997",2021,R2852118,Residential,Yes,,$581,01/04/2024,"$1,168,000",20/02/2024,"$1,225,000",Townhouse
+252,"6479 Sunshine Dr, Delta, BC",8,6,5665 sqft,,12,"$8,139",2019,R2863237,Residential,Yes,,$562,31/03/2024,"$3,075,000",25/03/2024,"$3,188,000",Single Family Residence
+253,"33 - 5550 Admiral Way, Delta, BC",4,2,1600 sqft,,2,"$3,453",2017,R2862793,Residential,Yes,,$656,31/03/2024,"$1,120,000",24/03/2024,"$1,050,000",Townhouse
+254,"5368 Commodore Dr, Delta, BC",2,2,1971 sqft,,4,"$4,958",1993,R2863460,Residential,Yes,,$707,30/03/2024,"$1,425,100",26/03/2024,"$1,395,000",Single Family Residence
+255,"802 - 11910 80 Ave, Delta, BC",2,2,1384 sqft,,1,"$1,726",1991,R2856553,Residential,Yes,,$458,30/03/2024,"$610,000",05/03/2024,"$635,000",Apartment/Condominium
+256,"204 - 11501 84 Ave, Delta, BC",2,2,982 sqft,,1,"$2,213",2020,R2863689,Residential,Yes,,$677,30/03/2024,"$661,000",25/03/2024,"$665,000",Apartment/Condominium
+257,"104 - 8360 Delsom Way, Delta, BC",2,2,897 sqft,,1,"$2,094",2019,R2861128,Residential,Yes,,$780,29/03/2024,"$679,000",18/03/2024,"$699,900",Apartment/Condominium
+258,"5378 46 Ave, Delta, BC",5,2,2110 sqft,,4,"$4,442",1976,R2862746,Residential,Yes,,$657,28/03/2024,"$1,378,000",24/03/2024,"$1,388,000",Single Family Residence
+259,"49 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2863927,Residential,Yes,,$694,27/03/2024,"$1,888,000",26/03/2024,"$1,888,000",Townhouse
+260,"48 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2865301,Residential,Yes,,$694,27/03/2024,"$1,888,000",26/03/2024,"$1,888,000",Townhouse
+261,"5506 Westminster Ave, Delta, BC",4,3,2800 sqft,,2,"$5,310",1994,R2826569,Residential,Yes,,$515,27/03/2024,"$1,556,000",19/10/2023,"$1,443,000",Single Family Residence
+262,"1801 - 11967 80 Ave, Delta, BC",2,2,821 sqft,,2,"$2,066",2017,R2856215,Residential,Yes,,$822,27/03/2024,"$645,000",06/03/2024,"$675,000",Apartment/Condominium
+263,"310 - 4977 Springs Blvd, Delta, BC",2,2,1005 sqft,,2,"$2,704",2019,R2854182,Residential,Yes,,$884,27/03/2024,"$875,000",26/02/2024,"$888,800",Apartment/Condominium
+264,"6636 Ryall Cres, Delta, BC",4,2,3017 sqft,,6,"$5,064",1975,R2850734,Residential,Yes,,$480,26/03/2024,"$1,400,000",18/02/2024,"$1,450,000",Single Family Residence
+265,"5626 48b Ave, Delta, BC",3,2,1564 sqft,,4,"$4,136",1988,R2855853,Residential,Yes,,$798,25/03/2024,"$1,200,000",04/03/2024,"$1,249,000",Single Family Residence
+266,"5153 Central Ave, Delta, BC",5,3,2269 sqft,,5,"$4,420",1986,R2854115,Residential,Yes,,$639,25/03/2024,"$1,396,999",27/02/2024,"$1,450,000",Single Family Residence
+267,"11293 78 Ave, Delta, BC",4,1,1842 sqft,,3,"$4,506",1971,R2852003,Residential,Yes,,$759,25/03/2024,"$1,386,000",20/02/2024,"$1,399,000",Single Family Residence
+268,"402 - 4955 River Rd, Delta, BC",1,1,1052 sqft,,1,"$2,047",1990,R2862856,Residential,Yes,,$617,25/03/2024,"$660,000",24/03/2024,"$649,800",Apartment/Condominium
+269,"5466 7b Ave, Delta, BC",3,3,2139 sqft,,3,"$5,097",1965,R2861903,Residential,Yes,,$728,22/03/2024,"$1,570,000",16/03/2024,"$1,559,000",Single Family Residence
+270,"482 Connaught Dr, Delta, BC",4,2,2954 sqft,,4,"$5,713",1980,R2856646,Residential,Yes,,$653,22/03/2024,"$1,900,000",05/03/2024,"$1,929,000",Single Family Residence
+271,"8454 116a St, Delta, BC",4,3,2182 sqft,,4,"$4,513",1978,R2857562,Residential,No,,$641,21/03/2024,"$1,260,000",10/03/2024,"$1,399,000",Single Family Residence
+272,"95 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2862373,Residential,Yes,,$804,21/03/2024,"$2,188,000",19/03/2024,"$2,188,000",Townhouse
+273,"7940 110 St, Delta, BC",3,1,1320 sqft,,0,"$4,162",1969,R2863230,Residential,No,,"$1,021",20/03/2024,"$1,337,500",20/03/2024,"$1,349,000",Single Family Residence
+274,"11403 72 Ave, Delta, BC",6,2,2093 sqft,,0,"$4,885",1969,R2848725,Residential,No,,$763,20/03/2024,"$1,590,000",11/02/2024,"$1,599,000",Single Family Residence
+275,"10989 Mcadam Rd, Delta, BC",4,2,1704 sqft,,3,"$4,147",1956,R2857788,Residential,Yes,,$756,20/03/2024,"$1,260,000",10/03/2024,"$1,288,800",Single Family Residence
+276,"11836 74 Ave, Delta, BC",5,3,2400 sqft,,0,"$4,523",1970,R2853859,Residential,No,,$583,20/03/2024,"$1,375,000",27/02/2024,"$1,399,900",Single Family Residence
+277,"1014 Eden Cres, Delta, BC",4,3,2886 sqft,,8,"$5,974",1972,R2787609,Residential,Yes,,$762,20/03/2024,"$2,100,000",11/06/2023,"$2,200,000",Single Family Residence
+278,"10813 85a Ave, Delta, BC",6,3,2388 sqft,,6,"$4,376",1969,R2851762,Residential,No,,$613,19/03/2024,"$1,450,000",19/02/2024,"$1,465,000",Single Family Residence
+279,"4819 47a Ave, Delta, BC",4,2,3589 sqft,,3,"$4,280",1999,R2843727,Residential,Yes,,$434,19/03/2024,"$1,420,000",22/01/2024,"$1,558,000",Single Family Residence
+280,"4929 59a St, Delta, BC",4,2,2332 sqft,,6,"$4,434",1968,R2854183,Residential,Yes,,$557,19/03/2024,"$1,275,000",27/02/2024,"$1,299,900",Single Family Residence
+281,"10977 Norum Cres, Delta, BC",4,2,2321 sqft,,6,"$4,460",1977,R2813327,Residential,No,,$688,18/03/2024,"$1,500,000",06/09/2023,"$1,599,000",Single Family Residence
+282,"29 50 St, Delta, BC",5,5,3243 sqft,,4,"$4,693",2024,R2841726,Residential,Yes,,$832,17/03/2024,"$3,000,000",14/01/2024,"$2,699,888",Single Family Residence
+283,"54 - 10489 Delsom Cres, Delta, BC",3,2,1424 sqft,,3,"$3,157",2012,R2856581,Residential,Yes,,$659,17/03/2024,"$930,000",05/03/2024,"$939,000",Townhouse
+284,"8614 116 St, Delta, BC",5,3,2550 sqft,,8,"$4,520",1971,R2858409,Residential,Yes,,$558,17/03/2024,"$1,420,000",11/03/2024,"$1,425,000",Single Family Residence
+285,"1705 Spyglass Cres, Delta, BC",6,4,3389 sqft,,0,"$5,455",1992,R2859965,Residential,No,,$616,17/03/2024,"$2,075,000",14/03/2024,"$2,088,000",Single Family Residence
+286,"5426 Chestnut Cres, Delta, BC",6,2,2785 sqft,,6,"$4,808",1972,R2858598,Residential,No,,$534,17/03/2024,"$1,473,000",11/03/2024,"$1,488,000",Single Family Residence
+287,"5121 Whitworth Cres N, Delta, BC",4,2,2217 sqft,,1,"$4,608",1965,R2859200,Residential,No,,$653,16/03/2024,"$1,551,000",12/03/2024,"$1,448,000",Single Family Residence
+288,"5495 Candlewyck Wynd, Delta, BC",3,2,1824 sqft,,2,"$4,788",1978,R2859043,Residential,Yes,,$931,16/03/2024,"$1,680,000",12/03/2024,"$1,699,900",Single Family Residence
+289,"13 - 11556 72a Ave, Delta, BC",4,2,1452 sqft,,2,"$2,690",2022,R2861060,Residential,Yes,,$681,15/03/2024,"$990,000",14/03/2024,"$989,000",Townhouse
+290,"6734 Nicholson Rd, Delta, BC",3,2,1653 sqft,,4,"$4,409",1979,R2855424,Residential,Yes,,$586,13/03/2024,"$1,150,100",04/03/2024,"$970,000",Single Family Residence
+291,"4573 55a St, Delta, BC",4,1,1615 sqft,,0,"$4,401",1975,R2844421,Residential,No,,$859,13/03/2024,"$1,375,000",24/01/2024,"$1,388,000",Single Family Residence
+292,"701 - 11920 80 Ave, Delta, BC",2,2,1308 sqft,,2,"$1,780",1990,R2855140,Residential,Yes,,$496,12/03/2024,"$635,000",05/03/2024,"$650,000",Apartment/Condominium
+293,"4693 55 St, Delta, BC",5,2,2660 sqft,,4,"$4,779",1973,R2857943,Residential,No,,$559,12/03/2024,"$1,485,000",10/03/2024,"$1,488,000",Single Family Residence
+294,"5255 Lynn Pl, Delta, BC",5,3,2948 sqft,,6,"$5,718",2012,R2843841,Residential,Yes,,$634,11/03/2024,"$1,835,000",22/01/2024,"$1,869,900",Single Family Residence
+295,"35 - 5311 Admiral Way, Delta, BC",4,3,2098 sqft,,3,,2024,R2858226,Residential,Yes,,$714,11/03/2024,"$1,498,000",10/03/2024,"$1,498,000",Townhouse
+296,"83 - 5550 Admiral Way, Delta, BC",3,2,1550 sqft,,2,"$3,234",2017,R2855579,Residential,Yes,,$645,11/03/2024,"$1,100,000",03/03/2024,"$999,900",Townhouse
+297,"87 - 5551 Admiral Way, Delta, BC",4,3,1918 sqft,,4,"$4,061",2020,R2855300,Residential,Yes,,$651,10/03/2024,"$1,250,000",03/03/2024,"$1,250,000",Townhouse
+298,"5716 Goldenrod Cres, Delta, BC",5,2,3468 sqft,,6,"$5,868",1980,R2846938,Residential,Yes,,$541,10/03/2024,"$1,860,000",04/02/2024,"$1,879,000",Single Family Residence
+299,"27 - 5311 Admiral Way, Delta, BC",4,3,1934 sqft,,2,,2024,R2858223,Residential,Yes,,$686,10/03/2024,"$1,328,000",10/03/2024,"$1,328,000",Townhouse
+300,"4533 River Rd W, Delta, BC",2,1,1081 sqft,,7,"$3,712",1986,R2751827,Residential,No,,"$1,201",10/03/2024,"$1,200,000",08/02/2023,"$1,299,000",Single Family Residence
+301,"7521 Minster Dr E, Delta, BC",4,1,1912 sqft,,4,"$4,133",1973,R2856820,Residential,No,,$747,10/03/2024,"$1,380,000",04/03/2024,"$1,429,000",Single Family Residence
+302,"102 - 6263 River Rd, Delta, BC",2,2,1268 sqft,,1,"$2,434",2001,R2855076,Residential,Yes,,$670,10/03/2024,"$1,000,102",03/03/2024,"$850,000",Apartment/Condominium
+303,"393 56 St, Delta, BC",4,2,2023 sqft,,2,"$3,159",1970,R2856320,Residential,No,,$592,09/03/2024,"$1,320,000",05/03/2024,"$1,199,000",Single Family Residence
+304,"110N - 1100 56 St, Delta, BC",2,2,1301 sqft,,1,"$2,459",1993,R2839957,Residential,Yes,,$844,09/03/2024,"$1,070,000",07/01/2024,"$1,099,000",Apartment/Condominium
+305,"6545 Wade Rd, Delta, BC",4,3,2251 sqft,,4,"$4,633",1983,R2824091,Residential,Yes,,$754,08/03/2024,"$1,450,000",10/10/2023,"$1,699,000",Single Family Residence
+306,"101 - 1375 View Cres, Delta, BC",2,2,1018 sqft,,1,"$2,088",2006,R2857018,Residential,Yes,,$686,08/03/2024,"$750,000",06/03/2024,"$699,000",Apartment/Condominium
+307,"9214 Barnes Rd, Delta, BC",5,3,2998 sqft,,6,"$4,243",1979,R2850709,Residential,Yes,,$513,08/03/2024,"$1,500,000",20/02/2024,"$1,538,800",Single Family Residence
+308,"13 - 8355 Delsom Way, Delta, BC",4,3,1994 sqft,,4,"$3,290",2010,R2857117,Residential,Yes,,$576,08/03/2024,"$1,148,000",06/03/2024,"$1,149,000",Townhouse
+309,"407 - 5556 14 Ave, Delta, BC",1,1,765 sqft,,1,"$1,676",1993,R2848262,Residential,Yes,,$783,07/03/2024,"$584,000",07/02/2024,"$599,000",Apartment/Condominium
+310,"9 - 4748 53 St, Delta, BC",3,2,1641 sqft,,2,"$2,646",1992,R2854461,Residential,Yes,,$609,07/03/2024,"$999,999",28/02/2024,"$999,999",Townhouse
+311,"53 Woodland Dr, Delta, BC",4,3,2690 sqft,,4,"$5,450",1980,R2853925,Residential,Yes,,$590,06/03/2024,"$1,580,000",27/02/2024,"$1,589,000",Single Family Residence
+312,"3210 - 11967 80 Ave, Delta, BC",3,2,813 sqft,,2,"$2,371",2017,R2845172,Residential,Yes,,$830,06/03/2024,"$650,000",28/01/2024,"$674,900",Apartment/Condominium
+313,"8552 115 A St, Delta, BC",4,2,2667 sqft,,5,"$4,544",1973,R2855621,Residential,Yes,,$524,06/03/2024,"$1,400,000",04/03/2024,"$1,399,900",Single Family Residence
+314,"4605 Arthur Dr, Delta, BC",6,4,4944 sqft,,10,"$6,278",1915,R2848621,Residential,Yes,,$505,06/03/2024,"$2,400,000",07/02/2024,"$2,498,000",Single Family Residence
+315,"122 - 5550 Admiral Way, Delta, BC",3,2,1545 sqft,,2,"$3,456",2017,R2851448,Residential,Yes,,$679,05/03/2024,"$1,045,000",19/02/2024,"$1,050,000",Townhouse
+316,"5276 Dixon Pl, Delta, BC",5,2,2434 sqft,,6,"$4,470",1970,R2853514,Residential,No,,$574,05/03/2024,"$1,428,000",26/02/2024,"$1,399,000",Single Family Residence
+317,"11854 87 Ave, Delta, BC",4,2,1968 sqft,,0,"$4,604",1963,R2841281,Residential,No,,$889,04/03/2024,"$1,615,000",10/01/2024,"$1,750,000",Single Family Residence
+318,"28 - 6340 Market Ave, Delta, BC",2,2,1364 sqft,,2,,2024,R2856365,Residential,Yes,,$791,04/03/2024,"$1,079,900",04/03/2024,"$1,079,900",Townhouse
+319,"625 Gilchrist Dr, Delta, BC",5,4,2260 sqft,,2,"$3,450",1968,R2849984,Residential,No,,$552,03/03/2024,"$1,233,000",13/02/2024,"$1,249,000",Multi Family
+320,"4806 48 Ave, Delta, BC",2,2,854 sqft,,2,"$4,622",9999,R2833528,Residential,Yes,,"$2,106",03/03/2024,"$1,730,000",19/11/2023,"$1,799,000",Single Family Residence
+321,"47 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2855557,Residential,Yes,,$694,03/03/2024,"$1,888,000",02/03/2024,"$1,888,000",Townhouse
+322,"69 - 10415 Delsom Cres, Delta, BC",3,2,1527 sqft,,3,"$3,033",2011,R2853202,Residential,Yes,,$589,03/03/2024,"$935,000",25/02/2024,"$899,900",Townhouse
+323,"302 - 11920 80 Ave, Delta, BC",2,2,1254 sqft,,1,"$1,698",1989,R2853402,Residential,Yes,,$501,03/03/2024,"$615,000",26/02/2024,"$629,000",Apartment/Condominium
+324,"413 - 1363 56 St, Delta, BC",2,1,852 sqft,,1,"$1,811",1996,R2853732,Residential,Yes,,$703,03/03/2024,"$590,000",28/02/2024,"$599,000",Apartment/Condominium
+325,"28 - 5311 Admiral Way, Delta, BC",4,3,1903 sqft,,2,,2024,R2843658,Residential,Yes,,$697,03/03/2024,"$1,328,000",21/01/2024,"$1,328,000",Townhouse
+326,"19 - 10500 Delsom Cres, Delta, BC",3,2,2167 sqft,,2,"$4,449",2014,R2853806,Residential,Yes,,$659,03/03/2024,"$1,448,888",27/02/2024,"$1,428,888",Townhouse
+327,"11727 64a Ave, Delta, BC",4,3,2327 sqft,,4,"$4,849",1977,R2853343,Residential,Yes,,$666,02/03/2024,"$1,475,000",26/02/2024,"$1,550,000",Single Family Residence
+328,"11714 73 Ave, Delta, BC",4,2,1941 sqft,,2,"$4,320",1967,R2816872,Residential,No,,$747,02/03/2024,"$1,420,000",16/09/2023,"$1,449,990",Single Family Residence
+329,"112 - 1702 56 St, Delta, BC",2,2,1186 sqft,,2,"$2,515",1996,R2847375,Residential,Yes,,$639,02/03/2024,"$735,000",05/02/2024,"$759,000",Townhouse
+330,"6049 Briarwood Cres, Delta, BC",4,2,2380 sqft,,6,"$5,258",1980,R2844355,Residential,Yes,,$629,01/03/2024,"$1,565,000",25/01/2024,"$1,499,000",Single Family Residence
+331,"379 - 1440 Garden Pl, Delta, BC",2,2,1011 sqft,,1,"$1,808",1982,R2854441,Residential,Yes,,$603,01/03/2024,"$605,000",28/02/2024,"$610,000",Apartment/Condominium
+332,"5358 1a Ave, Delta, BC",5,2,2628 sqft,,6,"$5,250",1967,R2851462,Residential,No,,$624,29/02/2024,"$1,600,000",14/02/2024,"$1,640,000",Single Family Residence
+333,"31 - 11880 82 Ave, Delta, BC",3,2,1780 sqft,,2,"$2,556",1988,R2849894,Residential,No,,$448,28/02/2024,"$878,000",14/02/2024,"$799,000",Townhouse
+334,"10680 Westside Dr, Delta, BC",6,4,3543 sqft,,8,"$4,779",1972,R2848846,Residential,Yes,,$486,28/02/2024,"$1,640,000",08/02/2024,"$1,725,000",Single Family Residence
+335,"901 - 11920 80 Ave, Delta, BC",2,2,1326 sqft,,1,"$1,776",1990,R2852095,Residential,Yes,,$482,27/02/2024,"$610,500",21/02/2024,"$639,999",Apartment/Condominium
+336,"7077 Papuc Pl, Delta, BC",4,2,2360 sqft,,0,"$4,540",1973,R2850782,Residential,No,,$635,27/02/2024,"$1,450,000",18/02/2024,"$1,499,000",Single Family Residence
+337,"109 - 8360 Delsom Way, Delta, BC",1,1,744 sqft,,1,"$1,809",2019,R2846430,Residential,Yes,,$873,26/02/2024,"$615,000",01/02/2024,"$650,000",Apartment/Condominium
+338,"12 - 5311 Admiral Way, Delta, BC",4,3,1947 sqft,,2,,2024,R2853241,Residential,Yes,,$682,25/02/2024,"$1,328,000",22/02/2024,"$1,328,000",Townhouse
+339,"10432 Glenrose Dr, Delta, BC",4,2,2393 sqft,,4,"$4,914",2009,R2848461,Residential,Yes,,$659,25/02/2024,"$1,556,000",08/02/2024,"$1,578,000",Single Family Residence
+340,"5334 6th Ave, Delta, BC",5,2,2430 sqft,,1,"$4,368",1969,R2829195,Residential,No,,$572,25/02/2024,"$1,260,000",27/10/2023,"$1,390,000",Single Family Residence
+341,"244B - 8635 120 St, Delta, BC",1,1,801 sqft,,1,$994,1977,R2828883,Residential,No,,$536,25/02/2024,"$420,000",29/10/2023,"$430,000",Apartment/Condominium
+342,"5279 1 Ave, Delta, BC",3,2,1542 sqft,,4,"$4,840",1973,R2846166,Residential,Yes,,$894,24/02/2024,"$1,325,000",31/01/2024,"$1,378,800",Single Family Residence
+343,"203S - 1100 56 St, Delta, BC",2,2,1316 sqft,,1,"$2,475",1992,R2847864,Residential,Yes,,$683,23/02/2024,"$880,000",03/02/2024,"$899,000",Apartment/Condominium
+344,"5811 Fair Wynd, Delta, BC",4,3,2598 sqft,,2,"$5,114",2007,R2842622,Residential,Yes,,$692,23/02/2024,"$1,795,000",12/01/2024,"$1,799,000",Single Family Residence
+345,"225 English Bluff Rd, Delta, BC",5,5,6785 sqft,,8,"$12,871",1993,R2848788,Residential,Yes,,$630,22/02/2024,"$3,925,000",07/02/2024,"$4,280,000",Single Family Residence
+346,"107 - 1704 56 St, Delta, BC",2,2,1069 sqft,,0,"$2,340",2005,R2846217,Residential,Yes,,$748,22/02/2024,"$770,000",31/01/2024,"$799,900",Apartment/Condominium
+347,"C - 4901 Linden Dr, Delta, BC",3,1,1569 sqft,,2,"$2,349",1973,R2840848,Residential,No,,$509,22/02/2024,"$785,000",24/01/2024,"$799,900",Townhouse
+348,"205 - 5518 14 Ave, Delta, BC",2,2,882 sqft,,1,"$1,856",1995,R2838744,Residential,Yes,,$735,21/02/2024,"$625,000",01/01/2024,"$649,000",Apartment/Condominium
+349,"7869 108b St, Delta, BC",3,2,1594 sqft,,4,"$4,282",1985,R2845303,Residential,Yes,,$752,21/02/2024,"$1,100,000",29/01/2024,"$1,199,800",Single Family Residence
+350,"6654 London Lane, Delta, BC",4,4,2688 sqft,,6,"$5,082",1990,R2820738,Residential,Yes,,$590,21/02/2024,"$1,580,000",28/09/2023,"$1,588,000",Single Family Residence
+351,"85 - 8355 Delsom Way, Delta, BC",4,3,2103 sqft,,2,"$3,556",2010,R2851920,Residential,Yes,,$561,21/02/2024,"$1,160,000",19/02/2024,"$1,180,000",Townhouse
+352,"10982 Brandy Dr, Delta, BC",3,2,2045 sqft,,3,"$4,306",1969,R2851541,Residential,Yes,,$586,20/02/2024,"$1,185,000",20/02/2024,"$1,200,000",Single Family Residence
+353,"18 - 10500 Delsom Cres, Delta, BC",4,2,2163 sqft,,4,"$4,452",2014,R2848950,Residential,No,,$670,20/02/2024,"$1,440,000",11/02/2024,"$1,450,000",Townhouse
+354,"39 - 8355 Delsom Way, Delta, BC",4,3,2154 sqft,,4,"$3,561",2010,R2843578,Residential,Yes,,$533,18/02/2024,"$1,140,000",21/01/2024,"$1,149,000",Townhouse
+355,"251 - 5421 10 Ave, Delta, BC",1,1,765 sqft,,1,"$1,399",1976,R2847884,Residential,Yes,,$560,18/02/2024,"$420,000",06/02/2024,"$429,000",Apartment/Condominium
+356,"224 - 7511 120 St, Delta, BC",2,2,913 sqft,,2,"$1,974",2012,R2844937,Residential,Yes,,$644,18/02/2024,"$615,000",28/01/2024,"$588,000",Apartment/Condominium
+357,"15 - 5551 Admiral Way, Delta, BC",3,2,1444 sqft,,2,"$3,641",2020,R2844138,Residential,Yes,,$691,18/02/2024,"$1,005,000",23/01/2024,"$999,000",Townhouse
+358,"11498 93a Ave, Delta, BC",3,1,1644 sqft,,2,"$4,414",1959,R2849148,Residential,No,,$790,18/02/2024,"$1,290,000",13/02/2024,"$1,299,000",Single Family Residence
+359,"1730 Farrell Cres, Delta, BC",4,2,2388 sqft,,1,"$5,756",1967,R2846827,Residential,Yes,,$816,18/02/2024,"$1,875,000",03/02/2024,"$1,949,000",Single Family Residence
+360,"5226 Saratoga Dr, Delta, BC",4,2,2209 sqft,,4,"$4,570",1963,R2849939,Residential,Yes,,$632,16/02/2024,"$1,360,000",13/02/2024,"$1,398,000",Single Family Residence
+361,"303 - 1375 View Cres, Delta, BC",2,2,963 sqft,,1,"$2,122",2006,R2848290,Residential,Yes,,$725,16/02/2024,"$689,000",07/02/2024,"$699,000",Apartment/Condominium
+362,"23 - 5900 Ferry Rd, Delta, BC",4,2,2166 sqft,,2,"$4,877",1998,R2848318,Residential,Yes,,$680,16/02/2024,"$1,500,000",07/02/2024,"$1,475,000",Townhouse
+363,"6603 Albion Way, Delta, BC",8,6,5520 sqft,,10,"$7,012",2020,R2846769,Residential,Yes,,$498,16/02/2024,"$2,595,000",04/02/2024,"$2,750,000",Single Family Residence
+364,"6695 Lyon Rd, Delta, BC",3,3,3339 sqft,,2,"$4,693",1987,R2846452,Residential,Yes,,$473,16/02/2024,"$1,535,000",31/01/2024,"$1,580,000",Single Family Residence
+365,"603 - 5055 Springs Blvd, Delta, BC",2,2,920 sqft,,1,"$2,503",2014,R2846979,Residential,Yes,,$869,15/02/2024,"$800,000",04/02/2024,"$799,999",Apartment/Condominium
+366,"315 - 5055 Springs Blvd, Delta, BC",2,2,910 sqft,,1,"$2,438",2014,R2848509,Residential,Yes,,$824,15/02/2024,"$745,000",07/02/2024,"$749,990",Apartment/Condominium
+367,"6 - 263 Parkside St, Delta, BC",2,2,1240 sqft,,2,"$4,217",2021,R2844702,Residential,Yes,,"$1,008",14/02/2024,"$1,249,999",28/01/2024,"$1,249,999",Single Family Residence
+368,"10707 Santa Monica Dr, Delta, BC",3,2,2273 sqft,,6,"$4,277",1973,R2800929,Residential,No,,$646,12/02/2024,"$1,430,000",23/07/2023,"$1,469,000",Single Family Residence
+369,"1008 50b St, Delta, BC",0,0,101 sqft,,4,"$4,788",2023,R2762307,Residential,No,,"$11,871",09/02/2024,"$1,047,619",21/03/2023,"$1,199,000",Single Family Residence
+370,"7664 Garrett Dr, Delta, BC",5,3,3345 sqft,,5,"$5,559",1978,R2797947,Residential,Yes,,$470,09/02/2024,"$1,540,000",12/07/2023,"$1,575,000",Single Family Residence
+371,"998 50b St, Delta, BC",5,5,4830 sqft,,4,"$4,788",2023,R2809467,Residential,Yes,,$517,09/02/2024,"$1,095,238",22/08/2023,"$2,499,000",Single Family Residence
+372,"200 - 1150 54a St, Delta, BC",2,2,1369 sqft,,1,"$2,230",1988,R2844498,Residential,Yes,,$555,09/02/2024,"$740,000",25/01/2024,"$759,900",Apartment/Condominium
+373,"305 - 1175 55 St, Delta, BC",2,2,1381 sqft,,1,"$2,654",2004,R2840495,Residential,Yes,,$636,08/02/2024,"$867,500",08/01/2024,"$878,900",Apartment/Condominium
+374,"403 - 5055 Springs Blvd, Delta, BC",2,2,920 sqft,,1,"$2,493",2014,R2841951,Residential,Yes,,$869,07/02/2024,"$785,500",14/01/2024,"$799,999",Apartment/Condominium
+375,"207 - 4955 River Rd, Delta, BC",1,1,1042 sqft,,1,"$1,991",1990,R2847379,Residential,Yes,,$614,06/02/2024,"$639,900",05/02/2024,"$639,900",Apartment/Condominium
+376,"1647 Farrell Cres, Delta, BC",3,3,2286 sqft,,0,"$4,821",1975,R2847942,Residential,No,,$697,06/02/2024,"$1,640,000",06/02/2024,"$1,595,000",Single Family Residence
+377,"8871 115 St, Delta, BC",2,1,2132 sqft,,5,"$4,371",1967,R2848360,Residential,No,,$492,06/02/2024,"$1,049,000",05/02/2024,"$1,049,000",Single Family Residence
+378,"11531 89a Ave, Delta, BC",5,3,2589 sqft,,7,,1978,R2844717,Residential,No,,$550,05/02/2024,"$1,390,000",28/01/2024,"$1,425,000",Single Family Residence
+379,"5300 1 Ave, Delta, BC",5,3,2952 sqft,,4,"$4,618",1969,R2845763,Residential,No,,$491,05/02/2024,"$1,471,000",30/01/2024,"$1,450,000",Single Family Residence
+380,"11371 89 Ave, Delta, BC",5,2,2050 sqft,,8,"$4,435",1971,R2846222,Residential,No,,$682,04/02/2024,"$1,422,000",31/01/2024,"$1,399,888",Single Family Residence
+381,"5026 Willow Springs Ave, Delta, BC",3,4,2474 sqft,,4,"$5,323",2015,R2844701,Residential,Yes,,$732,04/02/2024,"$1,800,000",28/01/2024,"$1,811,111",Single Family Residence
+382,"6305 Sunwood Dr, Delta, BC",3,2,1697 sqft,,4,"$4,959",1980,R2842243,Residential,Yes,,$765,04/02/2024,"$1,250,000",14/01/2024,"$1,299,800",Single Family Residence
+383,"10 - 4788 57 St, Delta, BC",3,3,2042 sqft,,2,"$3,123",1994,R2841671,Residential,Yes,,$440,04/02/2024,"$888,000",14/01/2024,"$898,800",Townhouse
+384,"103 - 5421 10 Ave, Delta, BC",3,1,1515 sqft,,1,"$2,582",1976,R2845036,Residential,Yes,,$573,04/02/2024,"$859,000",25/01/2024,"$869,000",Townhouse
+385,"204 - 4770 52a St, Delta, BC",2,2,1024 sqft,,1,"$2,077",1996,R2844247,Residential,Yes,,$644,03/02/2024,"$640,000",24/01/2024,"$659,900",Apartment/Condominium
+386,"4425 46b St, Delta, BC",3,2,1938 sqft,,4,"$4,042",1972,R2843721,Residential,Yes,,$721,03/02/2024,"$1,340,000",22/01/2024,"$1,399,000",Single Family Residence
+387,"11243 Kendale View, Delta, BC",4,2,2356 sqft,,4,"$4,309",1967,R2843732,Residential,Yes,,$585,02/02/2024,"$1,300,000",22/01/2024,"$1,379,900",Single Family Residence
+388,"607 - 9015 120 St, Delta, BC",2,2,1028 sqft,,1,"$2,360",2019,R2845188,Residential,Yes,,$641,01/02/2024,"$655,000",28/01/2024,"$659,000",Apartment/Condominium
+389,"7597 114 St, Delta, BC",5,2,2021 sqft,,5,"$3,885",1973,R2833263,Residential,No,,$692,01/02/2024,"$1,385,000",16/11/2023,"$1,399,999",Single Family Residence
+390,"401 - 11501 84 Ave, Delta, BC",2,2,1266 sqft,,1,"$2,657",2020,R2832996,Residential,Yes,,$630,01/02/2024,"$785,000",14/11/2023,"$798,800",Apartment/Condominium
+391,"4518 51 St, Delta, BC",6,4,4000 sqft,,6,"$6,943",2005,R2826091,Residential,Yes,,$525,31/01/2024,"$1,970,000",18/10/2023,"$2,100,000",Single Family Residence
+392,"8221 114 St, Delta, BC",7,5,3176 sqft,,4,"$4,941",2022,R2839997,Residential,Yes,,$597,31/01/2024,"$1,795,238",07/01/2024,"$1,899,000",Single Family Residence
+393,"36 - 5510 Admiral Way, Delta, BC",4,3,1978 sqft,,2,"$3,872",2018,R2844933,Residential,Yes,,$581,30/01/2024,"$1,175,000",28/01/2024,"$1,149,900",Townhouse
+394,"210 - 4768 53 St, Delta, BC",2,2,944 sqft,,1,"$1,912",1995,R2844958,Residential,Yes,,$635,29/01/2024,"$595,000",28/01/2024,"$599,850",Apartment/Condominium
+395,"7017 Woodcrest Pl, Delta, BC",3,2,1837 sqft,,6,"$5,603",1979,R2841840,Residential,Yes,,$816,28/01/2024,"$1,515,000",14/01/2024,"$1,499,900",Single Family Residence
+396,"13 - 5311 Admiral Way, Delta, BC",4,3,1934 sqft,,2,,2024,R2845291,Residential,Yes,,$686,28/01/2024,"$1,328,000",27/01/2024,"$1,328,000",Townhouse
+397,"5238 Windjammer Rd, Delta, BC",3,2,2088 sqft,,4,"$5,016",1995,R2833879,Residential,Yes,,$811,28/01/2024,"$1,695,000",19/11/2023,"$1,695,000",Single Family Residence
+398,"105 - 5311 Admiral Way, Delta, BC",4,3,1904 sqft,,2,,2024,R2836247,Residential,Yes,,$718,28/01/2024,"$1,368,000",04/12/2023,"$1,368,000",Townhouse
+399,"8210 Sheaves Rd, Delta, BC",4,2,3415 sqft,,6,"$4,138",1994,R2831403,Residential,Yes,,$409,28/01/2024,"$1,430,000",07/11/2023,"$1,398,813",Single Family Residence
+400,"301 - 6950 Nicholson Rd, Delta, BC",2,2,720 sqft,,1,"$1,972",2021,R2817717,Residential,Yes,,$833,28/01/2024,"$580,000",19/09/2023,"$599,900",Apartment/Condominium
+401,"8230 Delsom Pl, Delta, BC",4,3,3428 sqft,,6,"$5,938",2010,R2840405,Residential,Yes,,$553,27/01/2024,"$1,810,000",08/01/2024,"$1,899,000",Single Family Residence
+402,"7586 Filey Dr, Delta, BC",4,3,2058 sqft,,4,"$4,097",1975,R2843780,Residential,Yes,,$728,27/01/2024,"$1,500,000",22/01/2024,"$1,499,000",Single Family Residence
+403,"A201 - 4811 53 St, Delta, BC",2,2,1201 sqft,,1,"$2,213",1992,R2844384,Residential,Yes,,$590,27/01/2024,"$709,000",24/01/2024,"$709,000",Apartment/Condominium
+404,"29 - 6340 Market Ave, Delta, BC",2,2,1364 sqft,,2,,2024,R2844914,Residential,Yes,,$791,27/01/2024,"$1,079,900",26/01/2024,"$1,079,900",Townhouse
+405,"6 - 5311 Admiral Way, Delta, BC",3,2,1687 sqft,,2,,2023,R2844529,Residential,Yes,,$911,25/01/2024,"$1,538,000",23/01/2024,"$1,538,000",Townhouse
+406,"207 Murphy Dr W, Delta, BC",4,3,2630 sqft,,4,"$5,597",1975,R2839295,Residential,Yes,,$638,25/01/2024,"$1,645,000",03/01/2024,"$1,679,900",Single Family Residence
+407,"413 - 1350 View Cres, Delta, BC",2,2,1255 sqft,,1,"$1,855",1983,R2823646,Residential,Yes,,$537,25/01/2024,"$650,000",09/10/2023,"$674,000",Apartment/Condominium
+408,"5400 1 Ave, Delta, BC",3,2,2137 sqft,,4,"$4,384",1975,R2844154,Residential,Yes,,$620,24/01/2024,"$1,300,000",23/01/2024,"$1,325,000",Single Family Residence
+409,"6 - 4910 Central Ave, Delta, BC",3,2,1451 sqft,,2,"$3,277",2007,R2842198,Residential,Yes,,$620,23/01/2024,"$967,000",15/01/2024,"$899,800",Townhouse
+410,"9 - 4767 64 St, Delta, BC",4,2,2010 sqft,,4,"$2,777",1994,R2842193,Residential,Yes,,$496,23/01/2024,"$993,000",15/01/2024,"$998,000",Townhouse
+411,"5094b Bentley Dr, Delta, BC",5,5,3088 sqft,,4,"$6,067",2022,R2830871,Residential,Yes,,$679,22/01/2024,"$1,947,619",02/11/2023,"$2,098,800",Single Family Residence
+412,"988 English Bluff Rd, Delta, BC",5,3,2488 sqft,,8,"$5,252",1970,R2841769,Residential,Yes,,$693,21/01/2024,"$1,720,000",14/01/2024,"$1,724,900",Single Family Residence
+413,"15 - 3473 River Rd W, Delta, BC",2,2,1996 sqft,,2,"$3,165",2009,R2841663,Residential,Yes,,$440,20/01/2024,"$865,000",12/01/2024,"$879,900",Single Family Residence
+414,"11 - 6340 Market Ave, Delta, BC",2,2,1137 sqft,,3,,2024,R2841260,Residential,Yes,,$835,20/01/2024,"$949,900",10/01/2024,"$949,900",Townhouse
+415,"4663 54 St, Delta, BC",6,3,3124 sqft,,4,"$5,051",1981,R2822351,Residential,Yes,,$799,20/01/2024,"$2,415,000",03/10/2023,"$2,499,000",Single Family Residence
+416,"201 - 4689 52 A St, Delta, BC",2,2,1087 sqft,,2,"$2,560",2012,R2827793,Residential,Yes,,$745,20/01/2024,"$809,900",24/10/2023,"$809,900",Apartment/Condominium
+417,"10699 Hermosa Dr, Delta, BC",4,2,2027 sqft,,4,"$4,434",1974,R2839664,Residential,Yes,,$739,20/01/2024,"$1,400,000",15/01/2024,"$1,499,000",Single Family Residence
+418,"407 - 1428 56 St, Delta, BC",3,2,1581 sqft,,2,"$2,579",1994,R2830647,Residential,Yes,,$540,19/01/2024,"$850,000",05/11/2023,"$855,000",Apartment/Condominium
+419,"4494 45a St, Delta, BC",3,2,2135 sqft,,0,"$4,338",1971,R2843415,Residential,No,,$538,19/01/2024,"$1,149,000",17/01/2024,"$1,149,000",Single Family Residence
+420,"33 - 6340 Market Ave, Delta, BC",2,2,1364 sqft,,2,,2023,R2814722,Residential,Yes,,$791,19/01/2024,"$1,079,900",11/09/2023,"$1,079,900",Townhouse
+421,"5378 Brigantine Rd, Delta, BC",4,3,2239 sqft,,4,"$4,189",1993,R2827708,Residential,Yes,,$647,16/01/2024,"$1,425,000",24/10/2023,"$1,450,000",Single Family Residence
+422,"76 - 5311 Admiral Way, Delta, BC",4,3,1947 sqft,,2,,2024,R2842332,Residential,Yes,,$733,15/01/2024,"$1,428,000",14/01/2024,"$1,428,000",Townhouse
+423,"5463 River Rd, Delta, BC",3,1,1347 sqft,,2,"$4,192",1970,R2840854,Residential,No,,$927,14/01/2024,"$1,240,000",10/01/2024,"$1,250,000",Single Family Residence
+424,"11775 90 Ave, Delta, BC",3,1,1348 sqft,,6,"$4,117",1977,R2839644,Residential,No,,$741,14/01/2024,"$1,170,000",04/01/2024,"$999,990",Single Family Residence
+425,"211 - 1150 54a St, Delta, BC",2,2,1375 sqft,,1,"$2,200",1988,R2838205,Residential,Yes,,$589,14/01/2024,"$809,900",19/12/2023,"$809,900",Apartment/Condominium
+426,"11459 75b Ave, Delta, BC",5,3,2554 sqft,,4,"$4,826",1972,R2832220,Residential,No,,$547,14/01/2024,"$1,400,000",14/11/2023,"$1,399,000",Single Family Residence
+427,"83 - 5900 Ferry Rd, Delta, BC",3,2,2201 sqft,,2,"$4,325",1998,R2840024,Residential,Yes,,$636,13/01/2024,"$1,400,000",07/01/2024,"$1,400,000",Townhouse
+428,"5007 Linden Dr, Delta, BC",3,2,2113 sqft,,2,"$4,547",1988,R2841054,Residential,Yes,,$709,13/01/2024,"$1,500,000",09/01/2024,"$1,499,000",Single Family Residence
+429,"6 - 10735 84 Ave, Delta, BC",4,2,1451 sqft,,4,"$3,173",2015,R2839937,Residential,Yes,,$613,12/01/2024,"$890,100",07/01/2024,"$890,000",Townhouse
+430,"5127 Calvert Dr, Delta, BC",3,1,1697 sqft,,0,"$4,341",1970,R2836879,Residential,No,,$706,12/01/2024,"$1,105,000",07/12/2023,"$1,199,000",Single Family Residence
+431,"5172 7b Ave, Delta, BC",4,3,2959 sqft,,6,"$5,201",1970,R2837141,Residential,No,,$573,11/01/2024,"$1,650,000",10/12/2023,"$1,698,000",Single Family Residence
+432,"427 Seashell Dr, Delta, BC",3,2,1942 sqft,,4,"$4,783",1987,R2834617,Residential,Yes,,$816,09/01/2024,"$1,525,000",27/11/2023,"$1,585,000",Single Family Residence
+433,"11771 74 Ave, Delta, BC",3,2,2174 sqft,,3,"$4,944",1969,R2839063,Residential,Yes,,$564,09/01/2024,"$1,185,000",01/01/2024,"$1,228,000",Single Family Residence
+434,"6009 16 Ave, Delta, BC",2,1,720 sqft,,3,"$4,090",1949,R2816210,Residential,No,,"$1,595",08/01/2024,"$1,145,000",12/09/2023,"$1,149,000",Single Family Residence
+435,"331 53a St, Delta, BC",5,2,3058 sqft,,5,"$5,331",1976,R2826174,Residential,Yes,,$548,08/01/2024,"$1,626,000",18/10/2023,"$1,678,000",Single Family Residence
+436,"218 - 7511 120 St, Delta, BC",1,1,659 sqft,,1,"$1,514",2012,R2840025,Residential,Yes,,$679,08/01/2024,"$440,000",05/01/2024,"$448,000",Apartment/Condominium
+437,"4484 45a Ave, Delta, BC",3,2,2261 sqft,,4,"$4,352",1971,R2838442,Residential,No,,$508,08/01/2024,"$1,137,000",26/12/2023,"$1,149,900",Single Family Residence
+438,"5218 Schooner Gate, Delta, BC",2,2,1323 sqft,,1,"$2,695",1987,R2827972,Residential,Yes,,$721,08/01/2024,"$945,000",24/10/2023,"$955,000",Single Family Residence
+439,"8464 116 St, Delta, BC",5,3,2650 sqft,,6,"$4,801",1971,R2838531,Residential,Yes,,$565,07/01/2024,"$1,601,000",02/01/2024,"$1,499,000",Single Family Residence
+440,"4572 47a St, Delta, BC",4,2,2080 sqft,,5,"$4,673",1970,R2828240,Residential,Yes,,$672,07/01/2024,"$1,376,500",26/10/2023,"$1,398,000",Single Family Residence
+441,"612 - 6950 Nicholson Rd, Delta, BC",1,1,696 sqft,,1,"$1,470",2021,R2753282,Residential,Yes,,$790,07/01/2024,"$535,000",09/02/2023,"$549,900",Apartment/Condominium
+442,"6 - 10415 Delsom Cres, Delta, BC",3,2,1517 sqft,,0,"$2,923",2011,R2823746,Residential,Yes,,$638,07/01/2024,"$956,000",10/10/2023,"$968,000",Townhouse
+443,"11670 75a Ave, Delta, BC",5,3,2112 sqft,,5,"$4,459",1980,R2834654,Residential,No,,$674,07/01/2024,"$1,440,000",27/11/2023,"$1,425,000",Single Family Residence
+444,"11927 92 Ave, Delta, BC",9,7,4117 sqft,,9,"$6,128",2014,R2838901,Residential,Yes,,$546,04/01/2024,"$2,240,000",01/01/2024,"$2,249,800",Single Family Residence
+445,"303 - 251 Boundary Bay Rd, Delta, BC",1,1,668 sqft,,3,,2023,R2823026,Residential,Yes,,"$1,047",-,Not Sold Yet,05/05/2024,"$717,900",Apartment/Condominium
+446,"4429 Savoy St, Delta, BC",4,2,2383 sqft,,0,"$4,324",1970,R2832695,Residential,No,,$603,03/01/2024,"$1,358,000",13/11/2023,"$1,438,000",Single Family Residence
+447,"8232 112 St, Delta, BC",5,3,2050 sqft,,3,"$4,168",1969,R2780117,Residential,Yes,,$974,03/01/2024,"$1,800,000",22/05/2023,"$1,998,000",Single Family Residence
+448,"5097 2a Ave, Delta, BC",4,2,2993 sqft,,2,"$5,217",1974,R2824429,Residential,Yes,,$634,03/01/2024,"$1,875,000",11/10/2023,"$1,899,000",Single Family Residence
+449,"7705 Garrett Dr, Delta, BC",5,4,3745 sqft,,4,"$5,483",1978,R2827891,Residential,Yes,,$407,01/01/2024,"$1,525,000",26/10/2023,"$1,525,000",Single Family Residence
+450,"1154 Fairway Views Wynd, Delta, BC",3,2,1643 sqft,,2,"$2,923",1977,R2833556,Residential,No,,$486,01/01/2024,"$800,000",16/11/2023,"$799,000",Townhouse
+451,"11438 90 Ave, Delta, BC",6,4,3128 sqft,,6,"$5,790",2008,R2836561,Residential,Yes,,$575,29/12/2023,"$1,790,000",05/12/2023,"$1,800,000",Single Family Residence
+452,"9 - 11952 64 Ave, Delta, BC",3,2,1968 sqft,,2,"$2,998",1993,R2821764,Residential,Yes,,$456,29/12/2023,"$855,000",28/09/2023,"$899,000",Townhouse
+453,"7493 117 St, Delta, BC",8,6,3749 sqft,,6,"$5,050",2023,R2827983,Residential,Yes,,$580,28/12/2023,"$2,240,000",25/10/2023,"$2,175,000",Single Family Residence
+454,"4942 56 St, Delta, BC",5,2,2016 sqft,,4,"$4,484",1972,R2835446,Residential,No,,$694,27/12/2023,"$1,395,000",28/11/2023,"$1,399,900",Single Family Residence
+455,"5285 104 St, Delta, BC",3,3,2024 sqft,,6,"$1,045",1970,R2754701,Residential,Yes,,"$1,284",27/12/2023,"$2,250,000",20/02/2023,"$2,600,000",Single Family Residence
+456,"7480 112 St, Delta, BC",3,2,1400 sqft,,4,"$3,309",1978,R2801971,Residential,No,,$892,27/12/2023,"$1,175,000",26/07/2023,"$1,249,000",Single Family Residence
+457,"5639 Copsefield Pl, Delta, BC",5,2,2917 sqft,,4,"$6,033",1979,R2827054,Residential,Yes,,$567,27/12/2023,"$1,385,000",22/10/2023,"$1,655,000",Single Family Residence
+458,"30 - 11556 72a Ave, Delta, BC",4,3,1440 sqft,,1,,2022,R2818353,Residential,Yes,,$624,25/12/2023,"$855,000",20/09/2023,"$899,999",Townhouse
+459,"8605 116 St, Delta, BC",6,2,2460 sqft,,3,"$4,342",1972,R2833566,Residential,Yes,,$603,23/12/2023,"$1,375,000",19/11/2023,"$1,485,000",Single Family Residence
+460,"11603 76a Ave, Delta, BC",6,2,2373 sqft,,0,"$4,028",1972,R2786130,Residential,No,,$526,22/12/2023,"$1,215,000",22/06/2023,"$1,250,000",Single Family Residence
+461,"11625 64 Ave, Delta, BC",4,2,2101 sqft,,6,"$4,064",1973,R2824708,Residential,Yes,,$666,21/12/2023,"$1,360,000",15/10/2023,"$1,399,900",Single Family Residence
+462,"215 - 6505 3 Ave, Delta, BC",2,2,2693 sqft,,4,"$5,322",1994,R2828969,Residential,Yes,,$686,21/12/2023,"$1,775,000",30/10/2023,"$1,850,000",Townhouse
+463,"5115 Stevens Dr, Delta, BC",5,2,2711 sqft,,3,"$5,250",1965,R2821487,Residential,No,,$516,21/12/2023,"$1,235,000",28/09/2023,"$1,399,000",Single Family Residence
+464,"7 - 6320 48a Ave, Delta, BC",2,2,1269 sqft,,2,"$2,008",1991,R2831957,Residential,Yes,,$571,20/12/2023,"$710,000",11/11/2023,"$725,000",Townhouse
+465,"602 - 9015 120 St, Delta, BC",2,2,968 sqft,,2,"$2,062",2019,R2817761,Residential,No,,$669,20/12/2023,"$665,000",19/09/2023,"$648,000",Apartment/Condominium
+466,"142 - 5421 10 Ave, Delta, BC",2,1,1073 sqft,,1,"$1,767",1978,R2837868,Residential,Yes,,$558,19/12/2023,"$590,000",17/12/2023,"$599,000",Apartment/Condominium
+467,"11760 Chateau Wynd, Delta, BC",4,3,2387 sqft,,6,"$4,992",1981,R2835316,Residential,Yes,,$602,19/12/2023,"$1,429,900",26/11/2023,"$1,439,000",Single Family Residence
+468,"9448 118 St, Delta, BC",7,6,4240 sqft,,4,"$4,015",2023,R2832696,Residential,Yes,,$518,18/12/2023,"$2,129,285",13/11/2023,"$2,198,888",Single Family Residence
+469,"11035 83a Ave, Delta, BC",3,2,1856 sqft,,6,"$3,688",1980,R2832937,Residential,Yes,,$646,14/12/2023,"$1,205,000",13/11/2023,"$1,199,000",Single Family Residence
+470,"48 - 5551 Admiral Way, Delta, BC",4,3,2021 sqft,,2,"$4,022",2018,R2837272,Residential,Yes,,$568,13/12/2023,"$1,148,000",11/12/2023,"$1,148,000",Townhouse
+471,"11011 86 Ave, Delta, BC",5,2,1995 sqft,,0,"$4,471",1967,R2831831,Residential,Yes,,$636,12/12/2023,"$1,240,000",13/11/2023,"$1,268,888",Single Family Residence
+472,"11940 84a Ave, Delta, BC",4,3,1985 sqft,,9,"$4,616",1985,R2825780,Residential,Yes,,$705,11/12/2023,"$1,325,000",17/10/2023,"$1,399,800",Single Family Residence
+473,"1610 - 11967 80 Ave, Delta, BC",1,1,487 sqft,,0,"$1,450",2017,R2811590,Residential,Yes,,"$1,000",09/12/2023,"$468,000",31/08/2023,"$487,000",Apartment/Condominium
+474,"10332 Main St, Delta, BC",6,3,2913 sqft,,6,,2023,R2835347,Residential,Yes,,$514,09/12/2023,"$1,495,000",28/11/2023,"$1,499,000",Single Family Residence
+475,"4812 Glendale Ave, Delta, BC",4,2,2176 sqft,,2,"$3,830",1991,R2836098,Residential,Yes,,$582,09/12/2023,"$1,268,000",03/12/2023,"$1,268,000",Single Family Residence
+476,"6320 45a Ave, Delta, BC",3,2,2216 sqft,,4,"$4,729",1989,R2834931,Residential,Yes,,$694,09/12/2023,"$1,500,000",26/11/2023,"$1,538,000",Single Family Residence
+477,"452 Seashell Dr, Delta, BC",2,1,1667 sqft,,4,"$4,842",1987,R2833402,Residential,Yes,,$890,07/12/2023,"$1,450,000",19/11/2023,"$1,484,000",Single Family Residence
+478,"59 - 5311 Admiral Way, Delta, BC",4,3,1908 sqft,,2,,2024,R2836025,Residential,Yes,,$743,07/12/2023,"$1,418,000",03/12/2023,"$1,418,000",Townhouse
+479,"9480 119a St, Delta, BC",4,1,1964 sqft,,2,"$3,711",1979,R2831866,Residential,No,,$509,07/12/2023,"$1,200,000",12/11/2023,"$999,900",Single Family Residence
+480,"7101 116 St, Delta, BC",4,3,2048 sqft,,4,"$4,184",1967,R2830839,Residential,Yes,,$654,05/12/2023,"$1,275,000",06/11/2023,"$1,339,999",Single Family Residence
+481,"1474 Village Greens Wynd, Delta, BC",3,2,2045 sqft,,4,"$3,744",1982,R2825151,Residential,Yes,,$635,05/12/2023,"$1,225,000",15/10/2023,"$1,299,000",Single Family Residence
+482,"5282 Williams Ave, Delta, BC",4,2,4259 sqft,,6,"$6,933",1995,R2834970,Residential,Yes,,$422,04/12/2023,"$1,685,000",23/11/2023,"$1,800,000",Single Family Residence
+483,"307 - 1375 View Cres, Delta, BC",2,2,1002 sqft,,1,"$2,109",2006,R2830358,Residential,Yes,,$657,03/12/2023,"$640,000",05/11/2023,"$659,000",Apartment/Condominium
+484,"368 Ridge St, Delta, BC",4,3,2065 sqft,,2,,2023,R2835982,Residential,Yes,,$823,03/12/2023,"$1,699,900",03/12/2023,"$1,699,900",Single Family Residence
+485,"8218 Wiltshire Blvd, Delta, BC",6,4,3183 sqft,,4,"$4,936",1997,R2834453,Residential,Yes,,$408,02/12/2023,"$1,285,000",27/11/2023,"$1,299,000",Single Family Residence
+486,"211 - 9015 120 St, Delta, BC",1,1,637 sqft,,1,"$1,527",2019,R2821521,Residential,Yes,,$745,02/12/2023,"$460,000",02/10/2023,"$475,000",Apartment/Condominium
+487,"60 - 5510 Admiral Way, Delta, BC",4,3,1851 sqft,,2,"$3,872",2016,R2822359,Residential,Yes,,$631,02/12/2023,"$1,128,000",02/10/2023,"$1,168,000",Townhouse
+488,"8113 Modesto Dr, Delta, BC",5,2,2748 sqft,,8,"$3,964",1973,R2832676,Residential,No,,$482,01/12/2023,"$1,250,000",14/11/2023,"$1,325,000",Single Family Residence
+489,"328 54 St, Delta, BC",7,2,2861 sqft,,6,"$4,606",1964,R2835073,Residential,Yes,,$506,30/11/2023,"$1,428,000",27/11/2023,"$1,449,000",Single Family Residence
+490,"364 54a St, Delta, BC",4,2,2132 sqft,,4,"$5,128",1958,R2748394,Residential,No,,$815,30/11/2023,"$1,500,000",22/01/2023,"$1,738,000",Single Family Residence
+491,"8224 112 St, Delta, BC",5,3,2407 sqft,,0,"$4,257",1967,R2779982,Residential,No,,$871,29/11/2023,"$1,800,000",22/05/2023,"$2,098,000",Single Family Residence
+492,"11205 78a Ave, Delta, BC",5,3,2195 sqft,,4,"$4,354",1957,R2833745,Residential,No,,$546,29/11/2023,"$1,200,000",26/11/2023,"$1,199,000",Single Family Residence
+493,"7871 110 St, Delta, BC",3,1,1135 sqft,,5,"$4,305",1969,R2829827,Residential,Yes,,"$1,144",27/11/2023,"$1,250,000",01/11/2023,"$1,299,000",Single Family Residence
+494,"1707 - 11967 80 Ave, Delta, BC",2,2,821 sqft,,1,"$2,060",2017,R2820920,Residential,Yes,,$749,27/11/2023,"$610,000",01/10/2023,"$615,000",Apartment/Condominium
+495,"4169 40 St, Delta, BC",5,2,3179 sqft,,2,"$1,971",1945,R2791137,Residential,No,,"$1,100",27/11/2023,"$3,070,000",20/06/2023,"$3,499,900",Single Family Residence
+496,"4663 47a St, Delta, BC",3,2,2240 sqft,,4,"$4,272",1970,R2814530,Residential,No,,$579,27/11/2023,"$1,235,000",11/09/2023,"$1,299,000",Single Family Residence
+497,"11042 86a Ave, Delta, BC",5,2,2142 sqft,,5,"$4,488",1961,R2831812,Residential,No,,$630,26/11/2023,"$1,272,000",09/11/2023,"$1,349,900",Single Family Residence
+498,"15 - 7167 116 St, Delta, BC",4,3,2333 sqft,,4,"$4,066",2020,R2832650,Residential,Yes,,$428,26/11/2023,"$1,180,000",14/11/2023,"$999,999",Townhouse
+499,"4939 Linden Dr, Delta, BC",3,2,1655 sqft,,4,"$4,259",1981,R2827713,Residential,Yes,,$809,25/11/2023,"$1,317,000",24/10/2023,"$1,339,000",Single Family Residence
+500,"11831 95 Ave, Delta, BC",3,2,1889 sqft,,5,"$4,249",1970,R2812769,Residential,Yes,,$661,25/11/2023,"$1,202,000",04/09/2023,"$1,249,000",Single Family Residence
+501,"205 - 4747 54a St, Delta, BC",1,1,850 sqft,,1,"$1,608",1997,R2831156,Residential,Yes,,$646,24/11/2023,"$525,000",07/11/2023,"$549,900",Apartment/Condominium
+502,"11941 82 Ave, Delta, BC",9,5,3431 sqft,,6,"$5,647",2010,R2818565,Residential,Yes,,$571,24/11/2023,"$1,950,000",21/09/2023,"$1,960,000",Single Family Residence
+503,"8607 112 St, Delta, BC",4,2,2493 sqft,,6,"$4,400",1969,R2818699,Residential,Yes,,$541,23/11/2023,"$1,327,313",24/09/2023,"$1,349,900",Single Family Residence
+504,"28 - 5510 Admiral Way, Delta, BC",4,3,1945 sqft,,2,"$3,872",2016,R2821068,Residential,Yes,,$636,23/11/2023,"$1,228,000",02/10/2023,"$1,238,800",Townhouse
+505,"A209 - 6950 Nicholson Rd, Delta, BC",3,2,1139 sqft,,2,,2021,R2828987,Residential,Yes,,$636,23/11/2023,"$692,000",30/10/2023,"$724,999",Townhouse
+506,"4610 44b Ave, Delta, BC",3,1,1501 sqft,,0,"$4,317",1970,R2830828,Residential,No,,$798,23/11/2023,"$1,170,000",06/11/2023,"$1,199,000",Single Family Residence
+507,"5090 1 Ave, Delta, BC",3,3,3746 sqft,,4,"$9,579",1989,R2803320,Residential,Yes,,"$2,135",-,-,10/08/2023,"$8,000,000",Single Family Residence
+508,"8971 Collings Way, Delta, BC",5,2,3770 sqft,,0,"$5,573",1977,R2825861,Residential,Yes,,$397,22/11/2023,"$1,450,000",17/10/2023,"$1,499,000",Single Family Residence
+509,"96 - 5551 Admiral Way, Delta, BC",4,3,2051 sqft,,2,"$4,012",2018,R2823029,Residential,Yes,,$559,22/11/2023,"$1,138,000",09/10/2023,"$1,148,000",Townhouse
+510,"9525 116a St, Delta, BC",6,4,2501 sqft,,5,"$4,096",1977,R2791890,Residential,No,,$559,22/11/2023,"$1,327,000",26/06/2023,"$1,399,000",Single Family Residence
+511,"10980 64a Ave, Delta, BC",5,4,4346 sqft,,6,"$5,156",1962,R2812328,Residential,Yes,,$425,21/11/2023,"$1,830,000",05/09/2023,"$1,849,000",Single Family Residence
+512,"4950 Coleman Pl, Delta, BC",4,2,2865 sqft,,4,"$4,595",1970,R2829866,Residential,No,,$522,21/11/2023,"$1,480,000",01/11/2023,"$1,498,000",Single Family Residence
+513,"104 - 4747 54a St, Delta, BC",1,1,811 sqft,,1,"$1,594",1997,R2832318,Residential,Yes,,$676,21/11/2023,"$500,000",13/11/2023,"$548,800",Apartment/Condominium
+514,"207 - 5011 Springs Blvd, Delta, BC",1,1,553 sqft,,1,"$1,738",2018,R2834076,Residential,Yes,,$992,21/11/2023,"$540,000",21/11/2023,"$549,000",Apartment/Condominium
+515,"401 - 7511 120 St, Delta, BC",2,2,981 sqft,,2,"$2,155",2012,R2830589,Residential,Yes,,$611,21/11/2023,"$595,000",05/11/2023,"$599,900",Apartment/Condominium
+516,"501 - 6950 Nicholson Rd, Delta, BC",2,2,720 sqft,,1,"$1,521",2021,R2829229,Residential,Yes,,$830,21/11/2023,"$577,000",29/10/2023,"$598,000",Apartment/Condominium
+517,"256 - 5421 10 Ave, Delta, BC",1,1,753 sqft,,1,"$1,416",1976,R2827625,Residential,Yes,,$590,20/11/2023,"$439,000",26/10/2023,"$444,900",Apartment/Condominium
+518,"8880 118 St, Delta, BC",5,4,3169 sqft,,0,"$6,672",2010,R2824904,Residential,Yes,,$630,20/11/2023,"$1,930,000",16/10/2023,"$1,999,000",Single Family Residence
+519,"7623 Garfield Dr, Delta, BC",5,4,3942 sqft,,4,"$4,366",1983,R2831122,Residential,Yes,,$431,20/11/2023,"$1,689,000",07/11/2023,"$1,699,800",Single Family Residence
+520,"4824 48 Ave, Delta, BC",5,4,3033 sqft,,3,"$4,816",2007,R2826340,Residential,Yes,,$576,19/11/2023,"$1,712,500",18/10/2023,"$1,749,000",Single Family Residence
+521,"6074 45a Ave, Delta, BC",4,2,2560 sqft,,3,"$3,972",1972,R2826980,Residential,No,,$483,19/11/2023,"$1,200,000",22/10/2023,"$1,238,800",Single Family Residence
+522,"57 - 5311 Admiral Way, Delta, BC",4,3,2098 sqft,,2,,2024,R2827097,Residential,Yes,,$714,19/11/2023,"$1,498,000",22/10/2023,"$1,498,000",Townhouse
+523,"213 - 8360 Delsom Way, Delta, BC",1,1,590 sqft,,1,"$1,304",2019,R2807420,Residential,Yes,,$862,19/11/2023,"$513,000",15/08/2023,"$509,000",Apartment/Condominium
+524,"11790 72 Ave, Delta, BC",5,2,2075 sqft,,5,"$4,185",1971,R2818127,Residential,Yes,,$611,19/11/2023,"$1,229,000",20/09/2023,"$1,269,000",Single Family Residence
+525,"7303 115 A St, Delta, BC",5,2,2503 sqft,,4,"$4,629",1973,R2823569,Residential,No,,$598,18/11/2023,"$1,430,000",11/10/2023,"$1,499,000",Single Family Residence
+526,"5417 18 Ave, Delta, BC",3,2,2421 sqft,,5,"$5,079",1978,R2829792,Residential,Yes,,$671,18/11/2023,"$1,600,000",31/10/2023,"$1,625,000",Single Family Residence
+527,"175 65b St, Delta, BC",3,2,1693 sqft,,4,"$4,085",1986,R2794111,Residential,Yes,,"$1,033",-,-,12/11/2023,"$1,699,000",Single Family Residence
+528,"7586 115 St, Delta, BC",4,2,2015 sqft,,6,"$4,782",1985,R2825019,Residential,Yes,,$645,15/11/2023,"$1,290,000",15/10/2023,"$1,299,900",Single Family Residence
+529,"11165 72 Ave, Delta, BC",6,4,2873 sqft,,5,"$4,785",1969,R2830624,Residential,Yes,,$347,15/11/2023,"$1,500,000",06/11/2023,"$999,000",Single Family Residence
+530,"11688 96 Ave, Delta, BC",8,6,4169 sqft,,7,"$3,832",2023,R2828601,Residential,Yes,,$515,15/11/2023,"$2,140,000",23/10/2023,"$2,150,000",Single Family Residence
+531,"4978 59 St, Delta, BC",4,4,2306 sqft,,4,"$5,286",2006,R2813823,Residential,Yes,,$684,14/11/2023,"$1,495,000",10/09/2023,"$1,578,000",Single Family Residence
+532,"130 - 5550 Admiral Way, Delta, BC",3,2,1380 sqft,,2,"$3,176",2016,R2827764,Residential,Yes,,$723,14/11/2023,"$998,000",24/10/2023,"$998,000",Townhouse
+533,"6167 45 Ave, Delta, BC",3,2,2233 sqft,,4,"$4,678",1988,R2824787,Residential,Yes,,$662,14/11/2023,"$1,445,000",15/10/2023,"$1,479,900",Single Family Residence
+534,"6455 60 Ave, Delta, BC",7,4,2716 sqft,,10,"$6,081",1905,R2824375,Residential,Yes,,$956,14/11/2023,"$2,380,000",16/10/2023,"$2,599,000",Single Family Residence
+535,"20 - 10415 Delsom Cres, Delta, BC",3,2,1430 sqft,,2,"$2,909",2010,R2829871,Residential,Yes,,$646,13/11/2023,"$910,000",30/10/2023,"$924,800",Townhouse
+536,"11042 Scarborough Dr, Delta, BC",4,3,3780 sqft,,6,"$4,835",1987,R2830448,Residential,Yes,,$429,13/11/2023,"$1,750,000",05/11/2023,"$1,625,000",Single Family Residence
+537,"11409 86a Ave, Delta, BC",5,2,2000 sqft,,2,"$4,448",1970,R2830683,Residential,Yes,,$499,12/11/2023,"$1,155,000",05/11/2023,"$999,000",Single Family Residence
+538,"11081 Warwick Rd, Delta, BC",4,2,2282 sqft,,4,"$4,266",1977,R2829175,Residential,Yes,,$630,12/11/2023,"$1,320,000",30/10/2023,"$1,438,880",Single Family Residence
+539,"11135 85a Ave, Delta, BC",3,2,2015 sqft,,4,"$3,953",1986,R2828269,Residential,Yes,,$594,10/11/2023,"$1,120,000",26/10/2023,"$1,198,000",Single Family Residence
+540,"34 - 11188 72 Ave, Delta, BC",4,3,2070 sqft,,2,"$3,287",2019,R2829266,Residential,Yes,,$515,10/11/2023,"$1,040,000",30/10/2023,"$1,068,000",Townhouse
+541,"9573 116 St, Delta, BC",6,3,2362 sqft,,0,"$4,078",1964,R2807386,Residential,Yes,,$583,09/11/2023,"$1,327,500",15/08/2023,"$1,379,000",Single Family Residence
+542,"5865 Fair Wynd, Delta, BC",4,3,2606 sqft,,4,"$5,181",2007,R2821686,Residential,Yes,,$709,09/11/2023,"$1,778,000",03/10/2023,"$1,849,000",Single Family Residence
+543,"7445 118 St, Delta, BC",3,1,1392 sqft,,4,"$4,473",1969,R2830212,Residential,No,,$826,09/11/2023,"$1,020,000",06/11/2023,"$1,150,000",Single Family Residence
+544,"7712 Garfield Dr, Delta, BC",6,4,2702 sqft,,3,"$5,170",1969,R2826581,Residential,Yes,,$591,09/11/2023,"$1,500,000",18/10/2023,"$1,599,000",Single Family Residence
+545,"7378 112a St, Delta, BC",5,3,2944 sqft,,8,"$5,236",1970,R2827155,Residential,Yes,,$509,09/11/2023,"$1,499,000",22/10/2023,"$1,499,000",Single Family Residence
+546,"11809 Chateau Wynd, Delta, BC",3,2,1851 sqft,,6,"$4,761",1981,R2829337,Residential,Yes,,$741,09/11/2023,"$1,399,000",01/11/2023,"$1,373,000",Single Family Residence
+547,"4778 45 Ave, Delta, BC",4,3,3302 sqft,,4,"$4,365",1968,R2827229,Residential,Yes,,$408,09/11/2023,"$1,330,000",22/10/2023,"$1,349,900",Single Family Residence
+548,"11613 Summit Cres, Delta, BC",4,3,3268 sqft,,6,"$5,754",1980,R2813870,Residential,Yes,,$570,09/11/2023,"$1,845,000",06/09/2023,"$1,865,000",Single Family Residence
+549,"4670 48b St, Delta, BC",5,3,2535 sqft,,2,"$4,795",1967,R2813635,Residential,No,,$630,09/11/2023,"$1,470,000",07/09/2023,"$1,598,000",Single Family Residence
+550,"6921 Nicholson Rd, Delta, BC",3,2,2769 sqft,,6,"$4,200",1982,R2790580,Residential,Yes,,$501,08/11/2023,"$1,260,000",21/06/2023,"$1,389,000",Single Family Residence
+551,"229 52 A St, Delta, BC",5,2,2631 sqft,,2,"$4,638",1967,R2806564,Residential,No,,$512,08/11/2023,"$1,300,888",13/08/2023,"$1,348,800",Single Family Residence
+552,"9228 116a St, Delta, BC",4,2,2460 sqft,,5,"$4,232",1982,R2829406,Residential,Yes,,$487,06/11/2023,"$1,210,000",01/11/2023,"$1,199,000",Single Family Residence
+553,"8376 110 St, Delta, BC",6,3,2341 sqft,,4,"$4,465",1970,R2824723,Residential,No,,$672,06/11/2023,"$1,550,000",15/10/2023,"$1,575,000",Single Family Residence
+554,"58 - 5550 Admiral Way, Delta, BC",3,2,1492 sqft,,2,"$3,688",2017,R2824713,Residential,No,,$695,06/11/2023,"$980,000",14/10/2023,"$1,037,000",Townhouse
+555,"6352 Alderwood Lane, Delta, BC",4,2,1875 sqft,,6,"$4,916",1981,R2810931,Residential,Yes,,$746,05/11/2023,"$1,364,000",29/08/2023,"$1,399,000",Single Family Residence
+556,"9272 119 St, Delta, BC",4,1,2200 sqft,,4,"$4,279",1969,R2826858,Residential,No,,$585,05/11/2023,"$1,135,000",22/10/2023,"$1,288,000",Single Family Residence
+557,"320 - 7511 120 St, Delta, BC",2,1,818 sqft,,2,"$1,810",2012,R2822309,Residential,Yes,,$660,04/11/2023,"$516,000",02/10/2023,"$539,900",Apartment/Condominium
+558,"8801 Brooke Rd, Delta, BC",5,1,2090 sqft,,0,"$4,161",1960,R2826664,Residential,No,,$592,03/11/2023,"$1,105,000",24/10/2023,"$1,239,000",Single Family Residence
+559,"4956 Cedar Springs Dr, Delta, BC",3,3,2236 sqft,,4,"$6,004",2020,R2823235,Residential,Yes,,$893,02/11/2023,"$1,955,000",09/10/2023,"$1,998,000",Single Family Residence
+560,"1398 Beach Grove Rd, Delta, BC",5,3,3081 sqft,,4,"$8,864",2021,R2827740,Residential,Yes,,"$1,297",01/11/2023,"$3,998,000",24/10/2023,"$3,998,000",Single Family Residence
+561,"5075 1 Ave, Delta, BC",5,4,4047 sqft,,4,"$4,270",2023,R2807732,Residential,Yes,,$654,01/11/2023,"$2,500,000",13/08/2023,"$2,649,000",Single Family Residence
+562,"3845 Wellington Rd, Delta, BC",4,2,3267 sqft,,5,"$1,701",1976,R2791219,Residential,Yes,,"$1,224",31/10/2023,"$3,700,000",20/06/2023,"$3,999,999",Single Family Residence
+563,"10759 Vista Pl, Delta, BC",4,2,2089 sqft,,9,"$4,688",1973,R2828709,Residential,Yes,,$667,31/10/2023,"$1,316,000",31/10/2023,"$1,395,000",Single Family Residence
+564,"11978 Cottonwood Crt, Delta, BC",5,3,2739 sqft,,6,"$4,823",1988,R2826922,Residential,Yes,,$547,31/10/2023,"$1,470,000",23/10/2023,"$1,500,000",Single Family Residence
+565,"511 - 1350 View Cres, Delta, BC",2,2,1317 sqft,,1,"$2,088",1984,R2822985,Residential,Yes,,$489,31/10/2023,"$625,000",04/10/2023,"$645,000",Apartment/Condominium
+566,"405 - 1300 Hunter Rd, Delta, BC",2,2,1626 sqft,,2,"$3,103",1994,R2828035,Residential,Yes,,$522,31/10/2023,"$850,000",24/10/2023,"$850,000",Apartment/Condominium
+567,"11089 84 Ave, Delta, BC",6,4,3239 sqft,,6,"$5,471",2007,R2820796,Residential,Yes,,$489,31/10/2023,"$1,550,000",08/10/2023,"$1,584,900",Single Family Residence
+568,"5038 12 Ave, Delta, BC",3,1,1331 sqft,,1,"$4,138",1957,R2827580,Residential,Yes,,$975,30/10/2023,"$1,250,000",24/10/2023,"$1,298,000",Single Family Residence
+569,"711 - 11967 80 Ave, Delta, BC",2,2,662 sqft,,1,"$1,566",2017,R2792528,Residential,Yes,,$904,29/10/2023,"$595,000",24/06/2023,"$599,000",Apartment/Condominium
+570,"4534 Savoy St, Delta, BC",4,3,2658 sqft,,6,"$4,455",1989,R2818518,Residential,Yes,,$479,29/10/2023,"$1,225,000",21/09/2023,"$1,275,000",Single Family Residence
+571,"304 - 6950 Nicholson Rd, Delta, BC",1,1,609 sqft,,1,"$1,294",2021,R2806195,Residential,Yes,,$820,29/10/2023,"$505,000",06/08/2023,"$499,900",Apartment/Condominium
+572,"106 - 5311 Admiral Way, Delta, BC",4,3,1908 sqft,,2,,2024,R2828831,Residential,Yes,,$716,29/10/2023,"$1,368,000",26/10/2023,"$1,368,000",Townhouse
+573,"201 - 4977 Springs Blvd, Delta, BC",2,2,1022 sqft,,2,"$2,645",2019,R2827265,Residential,Yes,,$839,28/10/2023,"$850,000",22/10/2023,"$858,000",Apartment/Condominium
+574,"11293 78 Ave, Delta, BC",4,1,1842 sqft,,3,"$4,506",1971,R2815776,Residential,Yes,,$694,25/03/2024,"$1,386,000",20/02/2024,"$1,399,000",Single Family Residence
+575,"11074 Fuller Cres N, Delta, BC",4,2,2349 sqft,,5,"$4,147",1967,R2826424,Residential,Yes,,$553,28/10/2023,"$1,240,000",19/10/2023,"$1,299,900",Single Family Residence
+576,"103 - 8360 Delsom Way, Delta, BC",2,2,895 sqft,,1,"$2,094",2019,R2825804,Residential,Yes,,$780,28/10/2023,"$700,000",15/10/2023,"$698,800",Apartment/Condominium
+577,"1597 Fir Springs Lane, Delta, BC",2,2,1317 sqft,,4,"$4,493",2016,R2814543,Residential,Yes,,"$1,182",28/10/2023,"$1,505,000",10/09/2023,"$1,558,000",Single Family Residence
+578,"1659 Braid Rd, Delta, BC",2,2,1379 sqft,,5,"$4,824",1968,R2816418,Residential,Yes,,"$1,058",27/10/2023,"$1,450,000",17/09/2023,"$1,459,000",Single Family Residence
+579,"8232 109b St, Delta, BC",5,5,2981 sqft,,8,"$5,609",2011,R2808673,Residential,Yes,,$620,27/10/2023,"$1,770,000",20/08/2023,"$1,849,000",Single Family Residence
+580,"5849 Cove Reach Rd, Delta, BC",4,3,2700 sqft,,4,"$5,022",2010,R2797646,Residential,Yes,,$677,26/10/2023,"$1,800,000",11/07/2023,"$1,829,000",Single Family Residence
+581,"49 - 10500 Delsom Cres, Delta, BC",4,2,2162 sqft,,4,"$3,588",2014,R2811508,Residential,Yes,,$610,23/10/2023,"$1,295,000",04/09/2023,"$1,320,000",Townhouse
+582,"241 - 5421 10 Ave, Delta, BC",2,1,1079 sqft,,1,"$1,840",1978,R2824134,Residential,Yes,,$545,23/10/2023,"$580,000",10/10/2023,"$589,000",Apartment/Condominium
+583,"9046 Pemberton Pl, Delta, BC",4,2,2492 sqft,,3,,1970,R2825189,Residential,No,,$521,23/10/2023,"$1,289,000",15/10/2023,"$1,299,000",Single Family Residence
+584,"11389 90 Ave, Delta, BC",4,2,2269 sqft,,4,"$4,239",1968,R2823611,Residential,No,,$616,23/10/2023,"$1,304,500",08/10/2023,"$1,399,700",Single Family Residence
+585,"11735 74b Ave, Delta, BC",5,2,2533 sqft,,3,"$4,093",1972,R2801672,Residential,No,,$548,22/10/2023,"$1,095,000",24/07/2023,"$1,390,000",Single Family Residence
+586,"5346 Belair Dr, Delta, BC",5,2,2610 sqft,,5,"$4,652",1968,R2813417,Residential,Yes,,$535,22/10/2023,"$1,349,000",07/09/2023,"$1,398,888",Single Family Residence
+587,"11362 89 Ave, Delta, BC",4,2,1915 sqft,,0,"$4,603",1969,R2825778,Residential,Yes,,$678,22/10/2023,"$1,275,000",17/10/2023,"$1,299,999",Single Family Residence
+588,"8735 Delcrest Dr, Delta, BC",4,1,1926 sqft,,8,"$4,425",1973,R2825620,Residential,No,,$622,22/10/2023,"$1,311,000",16/10/2023,"$1,199,000",Single Family Residence
+589,"1630 Duncan Dr, Delta, BC",4,4,3082 sqft,,6,"$4,894",2023,R2822445,Residential,Yes,,$908,22/10/2023,"$2,700,000",05/10/2023,"$2,799,000",Single Family Residence
+590,"112 - 4768 53 St, Delta, BC",2,2,953 sqft,,1,"$1,893",1995,R2823237,Residential,Yes,,$628,22/10/2023,"$598,000",09/10/2023,"$599,000",Apartment/Condominium
+591,"11776 95a Ave, Delta, BC",5,2,2551 sqft,,0,"$4,318",1968,R2819104,Residential,No,,$503,21/10/2023,"$1,185,000",25/09/2023,"$1,285,000",Single Family Residence
+592,"11145 Monroe Dr, Delta, BC",3,2,2158 sqft,,5,"$4,193",1979,R2815228,Residential,Yes,,$601,21/10/2023,"$1,315,000",11/09/2023,"$1,299,000",Single Family Residence
+593,"5640 Abbey Dr, Delta, BC",4,3,2368 sqft,,8,"$4,379",1968,R2825520,Residential,Yes,,$675,21/10/2023,"$1,610,000",15/10/2023,"$1,599,000",Single Family Residence
+594,"1209 - 11967 80 Ave, Delta, BC",2,1,576 sqft,,1,"$1,618",2017,R2824622,Residential,Yes,,$953,21/10/2023,"$535,000",16/10/2023,"$549,000",Apartment/Condominium
+595,"5284 3 Ave, Delta, BC",4,3,2262 sqft,,6,"$5,914",1973,R2824868,Residential,Yes,,$795,21/10/2023,"$1,780,000",15/10/2023,"$1,799,000",Single Family Residence
+596,"5011 57 St, Delta, BC",3,1,1573 sqft,,1,"$2,690",1978,R2824916,Residential,No,,$565,21/10/2023,"$928,000",15/10/2023,"$889,000",Townhouse
+597,"202 - 4738 53 St, Delta, BC",1,1,834 sqft,,1,"$1,684",1991,R2826591,Residential,Yes,,$659,20/10/2023,"$550,000",19/10/2023,"$549,999",Apartment/Condominium
+598,"1002 - 11920 80 Ave, Delta, BC",2,2,1251 sqft,,1,"$1,741",1990,R2822045,Residential,Yes,,$475,20/10/2023,"$562,500",03/10/2023,"$595,000",Apartment/Condominium
+599,"27 - 4756 62 St, Delta, BC",3,2,1808 sqft,,4,"$4,027",1991,R2808841,Residential,Yes,,$660,20/10/2023,"$1,160,000",21/08/2023,"$1,195,000",Single Family Residence
+600,"5043 2 Ave, Delta, BC",4,3,2438 sqft,,4,"$4,703",1974,R2821027,Residential,No,,$594,20/10/2023,"$1,408,000",02/10/2023,"$1,449,000",Single Family Residence
+601,"10531 Santa Monica Dr, Delta, BC",3,2,1897 sqft,,0,"$4,197",1973,R2820973,Residential,No,,$632,18/10/2023,"$1,120,000",02/10/2023,"$1,199,000",Single Family Residence
+602,"908 - 11967 80 Ave, Delta, BC",2,2,731 sqft,,1,"$1,726",2017,R2825022,Residential,Yes,,$819,18/10/2023,"$610,000",15/10/2023,"$599,000",Apartment/Condominium
+603,"1602 - 11920 80 Ave, Delta, BC",2,2,1360 sqft,,1,"$1,803",1990,R2821443,Residential,Yes,,$403,17/10/2023,"$545,000",03/10/2023,"$549,000",Apartment/Condominium
+604,"139 - 5550 Admiral Way, Delta, BC",3,2,1544 sqft,,4,"$3,234",2017,R2817586,Residential,Yes,,$672,16/10/2023,"$1,018,000",17/09/2023,"$1,038,000",Townhouse
+605,"204 - 5011 Springs Blvd, Delta, BC",2,2,1612 sqft,,2,"$4,274",2018,R2817221,Residential,Yes,,$867,16/10/2023,"$1,385,000",18/09/2023,"$1,399,000",Apartment/Condominium
+606,"11845 90 Ave, Delta, BC",3,1,1610 sqft,,5,"$4,345",1952,R2824296,Residential,No,,$806,16/10/2023,"$1,250,000",10/10/2023,"$1,299,000",Single Family Residence
+607,"5155 11a Ave, Delta, BC",4,2,2231 sqft,,4,"$5,489",1978,R2824535,Residential,Yes,,$761,16/10/2023,"$1,725,000",12/10/2023,"$1,699,000",Single Family Residence
+608,"1204 - 11910 80 Ave, Delta, BC",1,1,954 sqft,,2,"$1,510",1989,R2822172,Residential,Yes,,$512,15/10/2023,"$485,000",09/10/2023,"$489,000",Apartment/Condominium
+609,"298 67a St, Delta, BC",3,2,1704 sqft,,5,"$3,570",1979,R2824161,Residential,Yes,,$703,15/10/2023,"$1,300,000",11/10/2023,"$1,199,000",Single Family Residence
+610,"7152 Brewster Dr E, Delta, BC",4,2,2049 sqft,,4,"$4,420",1972,R2825212,Residential,Yes,,$634,-,-,14/03/2024,"$1,479,000",Single Family Residence
+611,"4823 13 Ave, Delta, BC",3,2,2791 sqft,,5,"$5,240",1963,R2816032,Residential,Yes,,$658,14/10/2023,"$1,750,000",14/09/2023,"$1,839,000",Single Family Residence
+612,"1901 - 11967 80 Ave, Delta, BC",2,2,821 sqft,,1,"$2,076",2017,R2818381,Residential,Yes,,$778,14/10/2023,"$625,000",21/09/2023,"$639,000",Apartment/Condominium
+613,"6814 Sandpiper Pl, Delta, BC",4,2,2545 sqft,,6,"$5,769",1980,R2821732,Residential,Yes,,$706,14/10/2023,"$1,700,000",02/10/2023,"$1,799,000",Single Family Residence
+614,"6833 Sussex Cres, Delta, BC",4,2,1976 sqft,,6,"$5,561",1975,R2822077,Residential,Yes,,$708,13/10/2023,"$1,455,000",05/10/2023,"$1,400,000",Single Family Residence
+615,"8 - 11528 84a Ave, Delta, BC",3,3,2022 sqft,,2,"$3,467",2020,R2815752,Residential,Yes,,$543,13/10/2023,"$1,070,000",14/09/2023,"$1,099,800",Townhouse
+616,"11842 95a Ave, Delta, BC",3,1,1580 sqft,,6,"$4,062",1970,R2818220,Residential,No,,$758,13/10/2023,"$1,150,000",20/09/2023,"$1,199,000",Single Family Residence
+617,"1735 Enderby Ave, Delta, BC",3,2,1714 sqft,,3,"$4,630",1971,R2823765,Residential,No,,$699,12/10/2023,"$1,265,000",10/10/2023,"$1,199,000",Single Family Residence
+618,"601 - 6960 Nicholson Rd, Delta, BC",2,2,790 sqft,,1,"$2,138",2022,R2817952,Residential,Yes,,$759,12/10/2023,"$622,000",18/09/2023,"$599,999",Apartment/Condominium
+619,"124 - 5535 Admiral Way, Delta, BC",3,2,1365 sqft,,1,"$3,098",2021,R2813091,Residential,Yes,,$819,11/10/2023,"$1,080,000",06/09/2023,"$1,118,000",Apartment/Condominium
+620,"75 - 5311 Admiral Way, Delta, BC",4,3,1945 sqft,,2,,2024,R2824196,Residential,Yes,,$785,11/10/2023,"$1,528,000",09/10/2023,"$1,528,000",Townhouse
+621,"5239 Windjammer Rd, Delta, BC",4,2,3209 sqft,,4,"$5,647",2000,R2821915,Residential,Yes,,$621,11/10/2023,"$1,930,000",02/10/2023,"$1,995,000",Single Family Residence
+622,"9122 Hardy Rd, Delta, BC",3,3,3588 sqft,,4,"$4,713",1987,R2817550,Residential,Yes,,$417,11/10/2023,"$1,391,200",19/09/2023,"$1,498,000",Single Family Residence
+623,"11768 80 Ave, Delta, BC",5,2,2484 sqft,,4,"$4,757",1969,R2813007,Residential,Yes,,$683,11/10/2023,"$1,570,000",06/09/2023,"$1,699,000",Single Family Residence
+624,"326A - 8635 120 St, Delta, BC",2,1,930 sqft,,1,"$1,102",1972,R2819402,Residential,No,,$494,11/10/2023,"$445,000",25/09/2023,"$459,900",Apartment/Condominium
+625,"1601 Spyglass Cres, Delta, BC",3,3,2490 sqft,,4,"$4,582",1994,R2821373,Residential,Yes,,$589,11/10/2023,"$1,455,000",02/10/2023,"$1,469,000",Single Family Residence
+626,"5060 Bentley Dr, Delta, BC",3,2,1836 sqft,,4,"$4,772",1992,R2821338,Residential,No,,$735,10/10/2023,"$1,450,000",01/10/2023,"$1,350,000",Single Family Residence
+627,"7096 Barkley Dr, Delta, BC",4,1,2141 sqft,,4,"$4,462",1959,R2823815,Residential,No,,$648,10/10/2023,"$1,250,000",10/10/2023,"$1,388,888",Single Family Residence
+628,"4983 Mariner Pl, Delta, BC",3,2,1777 sqft,,4,"$4,107",1985,R2805485,Residential,Yes,,$821,09/10/2023,"$1,347,000",07/08/2023,"$1,459,000",Single Family Residence
+629,"11963 Woodgrove Ave, Delta, BC",3,2,1988 sqft,,4,"$3,896",1984,R2809095,Residential,Yes,,$704,09/10/2023,"$1,350,000",22/08/2023,"$1,399,900",Single Family Residence
+630,"8005 108 St, Delta, BC",5,3,2201 sqft,,6,"$4,272",1986,R2820893,Residential,Yes,,$576,08/10/2023,"$1,300,000",02/10/2023,"$1,269,900",Single Family Residence
+631,"282C - 8635 120 St, Delta, BC",2,1,926 sqft,,1,"$1,138",1972,R2821016,Residential,No,,$463,08/10/2023,"$440,000",02/10/2023,"$429,000",Apartment/Condominium
+632,"10660 Santa Monica Dr, Delta, BC",4,2,2444 sqft,,2,"$3,742",1973,R2820887,Residential,No,,$450,08/10/2023,"$1,035,000",04/10/2023,"$1,100,000",Single Family Residence
+633,"8378 114 St, Delta, BC",4,2,2024 sqft,,5,"$4,001",1972,R2820735,Residential,No,,$642,07/10/2023,"$1,228,000",27/09/2023,"$1,299,999",Single Family Residence
+634,"504 - 6960 Nicholson Rd, Delta, BC",2,2,1047 sqft,,2,"$2,063",2021,R2808639,Residential,Yes,,$724,06/10/2023,"$740,000",21/08/2023,"$758,800",Apartment/Condominium
+635,"929 50 St, Delta, BC",3,2,1873 sqft,,4,"$4,678",1985,R2821779,Residential,Yes,,$730,06/10/2023,"$1,365,000",03/10/2023,"$1,369,000",Single Family Residence
+636,"10567 Harrogate Dr, Delta, BC",5,3,3619 sqft,,6,"$5,054",1989,R2820963,Residential,Yes,,$490,06/10/2023,"$1,730,000",02/10/2023,"$1,775,000",Single Family Residence
+637,"501 - 11901 89a Ave, Delta, BC",3,1,1117 sqft,,1,"$1,794",1971,R2816503,Residential,No,,$536,05/10/2023,"$530,000",12/09/2023,"$599,000",Townhouse
+638,"8428 Centre St, Delta, BC",7,7,3771 sqft,,6,"$4,125",2022,R2786380,Residential,Yes,,$580,05/10/2023,"$2,120,000",07/06/2023,"$2,188,888",Single Family Residence
+639,"42 - 3459 River Rd W, Delta, BC",3,2,1709 sqft,,2,"$2,500",2010,R2799592,Residential,Yes,,$760,05/10/2023,"$1,250,000",17/07/2023,"$1,299,000",Single Family Residence
+640,"6141 Brodie Rd, Delta, BC",4,3,3142 sqft,,4,"$5,052",1990,R2795780,Residential,Yes,,$540,02/10/2023,"$1,640,000",05/07/2023,"$1,699,000",Single Family Residence
+641,"5054 Massey Dr, Delta, BC",5,2,2160 sqft,,5,"$4,668",1963,R2803830,Residential,No,,$648,02/10/2023,"$1,330,000",01/08/2023,"$1,399,900",Single Family Residence
+642,"302 - 1153 54a St, Delta, BC",2,2,1188 sqft,,1,"$1,796",1992,R2812726,Residential,Yes,,$563,02/10/2023,"$652,000",05/09/2023,"$669,000",Apartment/Condominium
+643,"4410 44 B Ave, Delta, BC",4,2,2256 sqft,,4,"$4,356",1971,R2820086,Residential,No,,$664,02/10/2023,"$1,515,000",26/09/2023,"$1,499,000",Single Family Residence
+644,"11135 72a Ave, Delta, BC",4,1,2128 sqft,,10,"$5,017",1970,R2820443,Residential,No,,$704,01/10/2023,"$1,410,000",27/09/2023,"$1,499,000",Single Family Residence
+645,"1 - 11952 64 Ave, Delta, BC",3,2,1487 sqft,,1,"$1,732",1993,R2815846,Residential,Yes,,$537,01/10/2023,"$844,000",14/09/2023,"$799,999",Townhouse
+646,"5 - 5510 Admiral Way, Delta, BC",4,3,1973 sqft,,2,"$4,150",2016,R2818691,Residential,Yes,,$648,01/10/2023,"$1,260,000",24/09/2023,"$1,280,000",Townhouse
+647,"222A - 8635 120 St, Delta, BC",2,1,843 sqft,,1,"$1,062",1972,R2820198,Residential,No,,$504,30/09/2023,"$424,900",27/09/2023,"$424,900",Apartment/Condominium
+648,"8133 112a St, Delta, BC",6,2,2060 sqft,,5,"$4,559",1960,R2814223,Residential,No,,$618,-,-,08/05/2024,"$1,499,900",Single Family Residence
+649,"407 - 1315 56 St, Delta, BC",2,2,930 sqft,,1,"$2,170",2007,R2817871,Residential,Yes,,$751,29/09/2023,"$681,500",21/09/2023,"$699,000",Apartment/Condominium
+650,"9487 113b St, Delta, BC",4,2,2176 sqft,,6,"$4,259",1965,R2813679,Residential,Yes,,$597,29/09/2023,"$1,265,000",10/09/2023,"$1,299,900",Single Family Residence
+651,"6685 Kent Cres, Delta, BC",4,3,2800 sqft,,2,"$4,752",1973,R2818266,Residential,No,,$606,28/09/2023,"$1,660,000",17/09/2023,"$1,698,888",Single Family Residence
+652,"54 - 5550 Admiral Way, Delta, BC",3,2,1508 sqft,,2,"$3,227",2016,R2817508,Residential,Yes,,$682,28/09/2023,"$1,020,000",19/09/2023,"$1,028,900",Townhouse
+653,"212 - 4808 Linden Dr, Delta, BC",2,2,1047 sqft,,1,"$2,240",2011,R2820234,Residential,No,,$663,27/09/2023,"$695,000",27/09/2023,"$695,000",Townhouse
+654,"539 55 St, Delta, BC",6,4,3353 sqft,,4,"$5,011",1969,R2807369,Residential,No,,$532,27/09/2023,"$1,794,000",15/08/2023,"$1,785,000",Single Family Residence
+655,"5518 1 Ave, Delta, BC",3,2,1661 sqft,,4,"$4,476",1984,R2819466,Residential,Yes,,$776,27/09/2023,"$1,259,000",25/09/2023,"$1,289,000",Single Family Residence
+656,"7336 Priory Pl, Delta, BC",5,3,2713 sqft,,6,"$4,334",1974,R2809824,Residential,Yes,,$511,26/09/2023,"$1,300,000",23/08/2023,"$1,388,880",Single Family Residence
+657,"209 - 5555 13a Ave, Delta, BC",2,2,1400 sqft,,2,"$2,374",1996,R2797558,Residential,Yes,,$606,26/09/2023,"$820,000",11/07/2023,"$849,000",Apartment/Condominium
+658,"8509 Terrace Dr, Delta, BC",3,1,1321 sqft,,4,"$4,088",1971,R2818354,Residential,Yes,,$907,26/09/2023,"$1,181,250",24/09/2023,"$1,199,000",Single Family Residence
+659,"9497 118 St, Delta, BC",4,1,1579 sqft,,3,"$4,038",1968,R2816805,Residential,No,,$782,-,Not Sold Yet,04/06/2024,"$1,198,000",Single Family Residence
+660,"4946 Willow Springs Ave, Delta, BC",5,3,2350 sqft,,2,"$5,060",2018,R2817432,Residential,Yes,,$722,25/09/2023,"$1,660,000",17/09/2023,"$1,698,000",Single Family Residence
+661,"1446 Village Greens Wynd, Delta, BC",3,2,1936 sqft,,2,"$3,714",1985,R2817137,Residential,Yes,,$722,25/09/2023,"$1,150,000",15/09/2023,"$1,399,000",Single Family Residence
+662,"160 - 5421 10 Ave, Delta, BC",2,1,1345 sqft,,1,"$2,449",1977,R2812410,Residential,Yes,,$594,25/09/2023,"$795,000",05/09/2023,"$799,000",Townhouse
+663,"246 - 5421 10 Ave, Delta, BC",2,1,814 sqft,,1,"$1,490",1976,R2817712,Residential,Yes,,$650,24/09/2023,"$519,000",19/09/2023,"$529,900",Apartment/Condominium
+664,"13 - 7167 116 St, Delta, BC",3,2,1613 sqft,,3,"$3,011",2020,R2816548,Residential,Yes,,$495,24/09/2023,"$901,800",18/09/2023,"$799,000",Townhouse
+665,"5813 Grove Ave, Delta, BC",5,2,2525 sqft,,6,"$4,430",1966,R2817733,Residential,Yes,,$514,24/09/2023,"$1,280,000",19/09/2023,"$1,299,000",Single Family Residence
+666,"9 - 8921 117a St, Delta, BC",2,2,1564 sqft,,2,"$2,345",1987,R2806861,Residential,Yes,,$567,24/09/2023,"$888,888",13/08/2023,"$888,000",Townhouse
+667,"314 - 7445 120 St, Delta, BC",1,1,648 sqft,,2,"$1,142",2010,R2809121,Residential,Yes,,$739,24/09/2023,"$467,000",21/08/2023,"$479,000",Apartment/Condominium
+668,"103 - 1175 Ferguson Rd, Delta, BC",2,1,1000 sqft,,0,"$1,598",1975,R2815442,Residential,Yes,,$559,23/09/2023,"$540,000",11/09/2023,"$559,000",Apartment/Condominium
+669,"8666 119 St, Delta, BC",4,3,2120 sqft,,6,"$4,135",1981,R2810341,Residential,No,,$636,23/09/2023,"$1,295,000",29/08/2023,"$1,350,000",Single Family Residence
+670,"210 - 4753 River Rd W, Delta, BC",2,2,1306 sqft,,2,"$1,988",1991,R2793742,Residential,Yes,,$535,23/09/2023,"$711,000",28/06/2023,"$699,000",Apartment/Condominium
+671,"1034 53a St, Delta, BC",5,2,2544 sqft,,5,"$4,184",1965,R2807043,Residential,Yes,,$707,23/09/2023,"$1,722,000",14/08/2023,"$1,799,000",Single Family Residence
+672,"307 - 1768 55a St, Delta, BC",2,2,989 sqft,,1,"$2,046",2016,R2805152,Residential,Yes,,$747,22/09/2023,"$705,000",07/08/2023,"$739,000",Townhouse
+673,"6779 Carncross Cres, Delta, BC",4,2,2123 sqft,,6,"$5,026",1973,R2807031,Residential,Yes,,$697,-,-,03/04/2024,"$1,749,000",Single Family Residence
+674,"5936 48a Ave, Delta, BC",2,2,1247 sqft,,4,"$3,601",1987,R2789162,Residential,Yes,,$930,21/09/2023,"$1,090,000",14/06/2023,"$1,160,000",Single Family Residence
+675,"11460 95 Ave, Delta, BC",4,2,2636 sqft,,4,"$4,506",1958,R2812735,Residential,No,,$492,21/09/2023,"$1,290,000",05/09/2023,"$1,299,000",Single Family Residence
+676,"1751 55 St, Delta, BC",3,1,1371 sqft,,4,"$4,546",1961,R2815275,Residential,No,,$874,20/09/2023,"$1,220,000",12/09/2023,"$1,199,000",Single Family Residence
+677,"5376 Chamberlayne Way, Delta, BC",4,2,2210 sqft,,6,"$4,533",1980,R2817253,Residential,Yes,,$610,20/09/2023,"$1,345,000",18/09/2023,"$1,349,000",Single Family Residence
+678,"11430 79a Ave, Delta, BC",5,3,2748 sqft,,4,"$4,318",1979,R2804554,Residential,Yes,,$564,20/09/2023,"$1,478,000",06/08/2023,"$1,550,000",Single Family Residence
+679,"11686 95a Ave, Delta, BC",4,2,1667 sqft,,10,"$4,288",1977,R2797024,Residential,Yes,,$794,20/09/2023,"$1,250,000",10/07/2023,"$1,325,000",Single Family Residence
+680,"58 - 5311 Admiral Way, Delta, BC",4,3,1947 sqft,,2,,2024,R2818367,Residential,Yes,,$738,19/09/2023,"$1,438,000",18/09/2023,"$1,438,000",Townhouse
+681,"15 - 6350 48 A Ave, Delta, BC",2,2,1810 sqft,,2,"$2,532",1990,R2813223,Residential,Yes,,$441,19/09/2023,"$780,000",06/09/2023,"$799,900",Townhouse
+682,"2906 - 11967 80 Ave, Delta, BC",2,2,775 sqft,,1,"$2,248",2017,R2816180,Residential,Yes,,$862,19/09/2023,"$648,500",14/09/2023,"$668,800",Apartment/Condominium
+683,"A507 - 6950 Nicholson Rd, Delta, BC",3,2,1111 sqft,,2,,2021,R2815344,Residential,Yes,,$629,19/09/2023,"$710,000",12/09/2023,"$699,000",Apartment/Condominium
+684,"6 - 5551 Admiral Way, Delta, BC",4,3,2128 sqft,,2,"$5,125",2020,R2814427,Residential,Yes,,$775,18/09/2023,"$1,610,000",10/09/2023,"$1,649,900",Multi Family
+685,"304 - 4885 53 St, Delta, BC",2,2,1097 sqft,,1,"$1,861",1987,R2814865,Residential,Yes,,$555,18/09/2023,"$600,000",11/09/2023,"$609,000",Apartment/Condominium
+686,"11024 78 Ave, Delta, BC",4,2,1946 sqft,,3,"$4,459",1971,R2815132,Residential,No,,$611,18/09/2023,"$1,325,000",11/09/2023,"$1,189,900",Single Family Residence
+687,"6793 London Dr, Delta, BC",3,2,2429 sqft,,6,"$4,760",1989,R2815649,Residential,Yes,,$617,18/09/2023,"$1,498,000",13/09/2023,"$1,499,900",Single Family Residence
+688,"110 - 5055 Springs Blvd, Delta, BC",2,2,1282 sqft,,2,"$2,972",2014,R2809404,Residential,Yes,,$850,18/09/2023,"$1,065,000",22/08/2023,"$1,089,900",Apartment/Condominium
+689,"5587 45 Ave, Delta, BC",4,3,2200 sqft,,3,"$4,450",1969,R2815089,Residential,Yes,,$659,18/09/2023,"$1,420,000",11/09/2023,"$1,450,000",Single Family Residence
+690,"14 - 6320 48 A Ave, Delta, BC",2,2,1798 sqft,,2,"$2,522",1990,R2817164,Residential,Yes,,$438,18/09/2023,"$793,000",18/09/2023,"$788,800",Townhouse
+691,"5312 9a Ave, Delta, BC",2,1,1712 sqft,,6,"$5,008",1967,R2815960,Residential,Yes,,$793,17/09/2023,"$1,359,000",14/09/2023,"$1,358,000",Single Family Residence
+692,"1610 Maple Springs Lane, Delta, BC",3,3,2095 sqft,,4,"$4,859",2016,R2794309,Residential,Yes,,$853,17/09/2023,"$1,748,800",03/07/2023,"$1,789,000",Single Family Residence
+693,"4711 56 St, Delta, BC",3,2,1927 sqft,,6,"$4,449",1978,R2810674,Residential,Yes,,$752,17/09/2023,"$1,425,000",29/08/2023,"$1,450,000",Single Family Residence
+694,"10740 Burbank Dr, Delta, BC",6,1,2699 sqft,,6,"$4,718",1973,R2798558,Residential,Yes,,$518,17/09/2023,"$1,350,000",17/07/2023,"$1,399,000",Single Family Residence
+695,"1404 - 11881 88 Ave, Delta, BC",2,1,1162 sqft,,1,"$1,703",1986,R2815746,Residential,Yes,,$451,16/09/2023,"$525,000",13/09/2023,"$525,000",Apartment/Condominium
+696,"412 - 8360 Delsom Way, Delta, BC",1,1,591 sqft,,1,"$1,315",2019,R2810444,Residential,Yes,,$878,16/09/2023,"$519,000",28/08/2023,"$519,000",Apartment/Condominium
+697,"1096 53a St, Delta, BC",4,2,2164 sqft,,6,"$4,487",1965,R2815368,Residential,Yes,,$635,15/09/2023,"$1,375,000",12/09/2023,"$1,375,000",Single Family Residence
+698,"152 English Bluff Rd, Delta, BC",5,3,4828 sqft,,4,"$4,698",1950,R2804220,Residential,Yes,,$362,14/09/2023,"$1,625,000",02/08/2023,"$1,749,000",Single Family Residence
+699,"1723 Farrell Cres, Delta, BC",5,4,3135 sqft,,4,"$6,809",2020,R2810453,Residential,Yes,,$829,14/09/2023,"$2,580,000",28/08/2023,"$2,599,000",Single Family Residence
+700,"50 Centennial Pky, Delta, BC",4,4,3868 sqft,,4,"$11,718",1990,R2811600,Residential,Yes,,"$1,031",13/09/2023,"$3,915,000",04/09/2023,"$3,988,800",Single Family Residence
+701,"307 - 5518 14 Ave, Delta, BC",2,2,948 sqft,,1,"$1,724",1995,R2815484,Residential,Yes,,$705,13/09/2023,"$655,000",12/09/2023,"$669,000",Apartment/Condominium
+702,"5443 Rawlins Cres, Delta, BC",4,3,1971 sqft,,4,"$5,164",1972,R2813118,Residential,Yes,,$824,13/09/2023,"$1,615,000",06/09/2023,"$1,625,000",Single Family Residence
+703,"4608 London Cres, Delta, BC",5,3,3462 sqft,,4,"$5,468",2001,R2814292,Residential,Yes,,$574,13/09/2023,"$1,850,000",10/09/2023,"$1,988,000",Single Family Residence
+704,"7731 119a St, Delta, BC",5,3,1950 sqft,,5,"$3,906",1976,R2809506,Residential,Yes,,$707,12/09/2023,"$1,360,000",27/08/2023,"$1,380,000",Single Family Residence
+705,"73 - 10415 Delsom Cres, Delta, BC",3,2,1398 sqft,,2,"$2,987",2011,R2814937,Residential,Yes,,$643,12/09/2023,"$900,000",07/09/2023,"$899,000",Townhouse
+706,"8035 110 St, Delta, BC",3,2,1507 sqft,,4,"$4,164",1968,R2798208,Residential,No,,$796,12/09/2023,"$1,160,000",16/07/2023,"$1,199,900",Single Family Residence
+707,"5114 Westminster Ave, Delta, BC",3,2,1321 sqft,,8,"$4,114",1960,R2787555,Residential,Yes,,$907,12/09/2023,"$1,100,000",09/06/2023,"$1,199,000",Single Family Residence
+708,"5531 49 Ave, Delta, BC",3,2,1952 sqft,,0,"$4,557",1973,R2814047,Residential,No,,$716,11/09/2023,"$1,365,000",10/09/2023,"$1,399,000",Single Family Residence
+709,"11133 Patricia Dr, Delta, BC",5,2,2055 sqft,,4,"$4,148",1958,R2811031,Residential,No,,$617,11/09/2023,"$1,270,000",05/09/2023,"$1,268,888",Single Family Residence
+710,"4369 41b St, Delta, BC",8,5,5664 sqft,,12,"$2,886",1996,R2775714,Residential,Yes,,$653,11/09/2023,"$3,500,000",07/05/2023,"$3,699,900",Single Family Residence
+711,"5299 Regatta Way, Delta, BC",2,2,1557 sqft,,4,"$2,686",1989,R2811693,Residential,Yes,,$648,11/09/2023,"$1,203,000",04/09/2023,"$1,010,000",Single Family Residence
+712,"6488 109 St, Delta, BC",6,3,2984 sqft,,4,"$4,464",1979,R2807568,Residential,No,,$529,11/09/2023,"$1,520,000",13/08/2023,"$1,580,000",Single Family Residence
+713,"11612 Commonwealth Cres, Delta, BC",4,2,3070 sqft,,6,"$5,800",1979,R2802103,Residential,Yes,,$582,11/09/2023,"$1,668,000",24/07/2023,"$1,788,000",Single Family Residence
+714,"100 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2800647,Residential,Yes,,$708,-,Not Sold Yet,01/07/2024,"$2,187,000",Townhouse
+715,"7396 Minster Dr W, Delta, BC",4,3,2301 sqft,,6,"$4,136",1973,R2810869,Residential,Yes,,$579,10/09/2023,"$1,360,000",06/09/2023,"$1,333,000",Single Family Residence
+716,"202 - 4955 River Rd, Delta, BC",2,2,1410 sqft,,2,"$2,723",1992,R2812887,Residential,Yes,,$549,10/09/2023,"$790,188",06/09/2023,"$775,000",Apartment/Condominium
+717,"8688 Brooke Rd, Delta, BC",3,2,1100 sqft,,2,"$4,007",1954,R2810939,Residential,No,,$908,09/09/2023,"$885,000",28/08/2023,"$998,800",Single Family Residence
+718,"1260 Enderby Ave, Delta, BC",4,3,2399 sqft,,6,"$5,710",1984,R2797976,Residential,No,,$833,09/09/2023,"$1,865,000",12/07/2023,"$1,998,800",Single Family Residence
+719,"21 - 5510 Admiral Way, Delta, BC",3,2,1605 sqft,,2,"$3,702",2016,R2812216,Residential,Yes,,$727,09/09/2023,"$1,160,000",04/09/2023,"$1,168,000",Townhouse
+720,"4940 Stevens Dr, Delta, BC",4,3,2879 sqft,,6,"$4,467",1967,R2798480,Residential,No,,$694,09/09/2023,"$1,845,000",16/07/2023,"$1,999,000",Single Family Residence
+721,"5076 Cedar Springs Dr, Delta, BC",3,3,2164 sqft,,4,"$5,606",2013,R2812812,Residential,Yes,,$965,08/09/2023,"$2,068,000",05/09/2023,"$2,089,000",Single Family Residence
+722,"4848 57 St, Delta, BC",3,1,1839 sqft,,0,"$4,031",1979,R2784327,Residential,Yes,,$647,08/09/2023,"$1,150,000",31/05/2023,"$1,189,900",Single Family Residence
+723,"122 Graham Dr, Delta, BC",2,2,1450 sqft,,6,"$6,960",1965,R2741659,Residential,No,,"$1,341",07/09/2023,"$1,680,000",04/12/2022,"$1,945,000",Single Family Residence
+724,"213 - 1738 55a St, Delta, BC",3,2,1449 sqft,,2,"$3,025",2016,R2806048,Residential,Yes,,$638,07/09/2023,"$910,000",09/08/2023,"$925,000",Townhouse
+725,"302 - 11650 96 Ave, Delta, BC",4,1,1720 sqft,,1,"$2,096",1973,R2797460,Residential,No,,$434,07/09/2023,"$741,000",10/07/2023,"$748,000",Townhouse
+726,"11384 89a Ave, Delta, BC",4,1,1850 sqft,,3,"$3,990",1968,R2806534,Residential,Yes,,$729,06/09/2023,"$1,250,000",15/08/2023,"$1,350,000",Single Family Residence
+727,"218 - 11816 88 Ave, Delta, BC",2,1,825 sqft,,1,$970,1973,R2810688,Residential,No,,$472,04/09/2023,"$360,000",26/08/2023,"$390,000",Apartment/Condominium
+728,"30 - 6430 Market Ave, Delta, BC",2,2,1364 sqft,,2,,2023,R2788621,Residential,Yes,,$791,04/09/2023,"$1,079,900",12/06/2023,"$1,079,900",Townhouse
+729,"141 - 1440 Garden Pl, Delta, BC",2,1,1002 sqft,,1,"$1,461",1982,R2804753,Residential,Yes,,$567,03/09/2023,"$555,000",07/08/2023,"$569,000",Apartment/Condominium
+730,"67 - 5510 Admiral Way, Delta, BC",4,3,1999 sqft,,3,"$3,822",2016,R2810214,Residential,Yes,,$640,03/09/2023,"$1,258,880",27/08/2023,"$1,280,000",Townhouse
+731,"3208 - 11967 80 Ave, Delta, BC",2,2,860 sqft,,2,"$2,427",2017,R2793306,Residential,Yes,,$871,02/09/2023,"$718,000",27/06/2023,"$749,900",Apartment/Condominium
+732,"5072 2a Ave, Delta, BC",4,2,2795 sqft,,6,"$5,036",1981,R2805689,Residential,Yes,,$675,02/09/2023,"$1,800,000",08/08/2023,"$1,888,000",Single Family Residence
+733,"11432 85 Ave, Delta, BC",4,2,1783 sqft,,4,"$4,158",1973,R2781121,Residential,No,,$728,02/09/2023,"$1,190,000",23/05/2023,"$1,299,000",Single Family Residence
+734,"308 - 5599 14b Ave, Delta, BC",2,2,910 sqft,,1,"$1,633",2011,R2791973,Residential,Yes,,$648,01/09/2023,"$581,900",21/06/2023,"$589,900",Apartment/Condominium
+735,"11855 Ivywood Pl, Delta, BC",4,2,2141 sqft,,6,"$4,559",1980,R2806406,Residential,Yes,,$732,01/09/2023,"$1,500,000",12/08/2023,"$1,569,000",Single Family Residence
+736,"886 English Bluff Rd, Delta, BC",6,5,4406 sqft,,6,"$4,171",2023,R2808782,Residential,No,,$517,31/08/2023,"$2,099,956",20/08/2023,"$2,280,000",Single Family Residence
+737,"207 - 4689 52a St, Delta, BC",2,2,943 sqft,,1,"$1,908",2013,R2810416,Residential,Yes,,$847,31/08/2023,"$799,000",28/08/2023,"$799,000",Apartment/Condominium
+738,"111 - 11266 72 Ave, Delta, BC",4,3,2809 sqft,,4,"$3,073",1990,R2810448,Residential,Yes,,$355,31/08/2023,"$999,000",29/08/2023,"$999,000",Townhouse
+739,"827 Pacific Dr, Delta, BC",6,4,4130 sqft,,8,"$6,880",2001,R2797359,Residential,No,,$568,30/08/2023,"$2,270,000",10/07/2023,"$2,349,000",Single Family Residence
+740,"514 - 9015 120 St, Delta, BC",1,1,645 sqft,,1,"$1,335",2019,R2792506,Residential,Yes,,$775,29/08/2023,"$478,000",27/06/2023,"$499,900",Apartment/Condominium
+741,"5717 Timbervalley Rd, Delta, BC",3,2,1959 sqft,,4,"$5,383",1983,R2783940,Residential,Yes,,$783,29/08/2023,"$1,475,000",31/05/2023,"$1,535,000",Single Family Residence
+742,"10 - 5053 47 Ave, Delta, BC",3,2,1720 sqft,,2,"$3,056",1994,R2808943,Residential,Yes,,$563,29/08/2023,"$960,000",21/08/2023,"$968,718",Townhouse
+743,"1138 50b St, Delta, BC",5,1,2831 sqft,,4,"$4,790",1967,R2809515,Residential,No,,$459,29/08/2023,"$1,310,000",22/08/2023,"$1,300,000",Single Family Residence
+744,"11121 85 Ave, Delta, BC",4,1,2013 sqft,,0,"$4,105",1976,R2809139,Residential,Yes,,$620,29/08/2023,"$1,195,000",21/08/2023,"$1,249,000",Single Family Residence
+745,"513 - 9015 120 St, Delta, BC",1,1,634 sqft,,0,"$1,325",2019,R2808566,Residential,Yes,,$709,28/08/2023,"$477,000",20/08/2023,"$449,800",Apartment/Condominium
+746,"981 Gale Dr, Delta, BC",3,3,2914 sqft,,8,"$4,631",1961,R2810108,Residential,No,,$469,28/08/2023,"$1,407,000",27/08/2023,"$1,368,000",Single Family Residence
+747,"101 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2811168,Residential,Yes,,$708,28/08/2023,"$1,928,000",28/08/2023,"$1,928,000",Townhouse
+748,"1492 Gillespie Rd, Delta, BC",5,5,3055 sqft,,6,"$4,942",2022,R2807030,Residential,Yes,,$912,28/08/2023,"$2,720,000",14/08/2023,"$2,788,000",Single Family Residence
+749,"11859 83 Ave, Delta, BC",6,4,2609 sqft,,4,"$4,203",1974,R2807560,Residential,Yes,,$613,28/08/2023,"$1,565,000",15/08/2023,"$1,599,888",Single Family Residence
+750,"113 - 5011 Springs Blvd, Delta, BC",2,2,1658 sqft,,2,"$4,070",2018,R2799411,Residential,Yes,,$838,28/08/2023,"$1,328,000",17/07/2023,"$1,390,000",Apartment/Condominium
+751,"309 - 5535 Admiral Way, Delta, BC",2,2,1182 sqft,,1,"$2,924",2021,R2807730,Residential,Yes,,$913,27/08/2023,"$938,000",14/08/2023,"$1,080,000",Apartment/Condominium
+752,"47 - 5550 Admiral Way, Delta, BC",3,2,1592 sqft,,2,"$3,151",2016,R2776550,Residential,Yes,,$664,27/08/2023,"$1,030,000",08/05/2023,"$1,058,000",Townhouse
+753,"103 - 5311 Admiral Way, Delta, BC",4,3,2098 sqft,,2,,2024,R2800950,Residential,Yes,,$699,27/08/2023,"$1,468,000",20/07/2023,"$1,468,000",Townhouse
+754,"5351 Jibset Bay, Delta, BC",2,2,1333 sqft,,4,"$2,741",1987,R2809240,Residential,Yes,,$696,27/08/2023,"$982,000",22/08/2023,"$929,000",Single Family Residence
+755,"4521 47 St, Delta, BC",4,2,1896 sqft,,3,"$4,179",1969,R2808492,Residential,Yes,,$780,27/08/2023,"$1,445,000",20/08/2023,"$1,479,900",Single Family Residence
+756,"5167 Cliff Pl, Delta, BC",6,3,3239 sqft,,5,"$7,408",1973,R2802654,Residential,Yes,,$646,27/08/2023,"$1,950,000",26/07/2023,"$2,095,000",Single Family Residence
+757,"97 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2810536,Residential,Yes,,$708,26/08/2023,"$1,928,000",23/08/2023,"$1,928,000",Townhouse
+758,"11336 90 Ave, Delta, BC",5,5,3103 sqft,,6,"$5,655",2008,R2808889,Residential,Yes,,$595,26/08/2023,"$1,820,000",22/08/2023,"$1,848,000",Single Family Residence
+759,"715 Gilchrist Dr, Delta, BC",5,3,2742 sqft,,3,"$4,560",1961,R2809726,Residential,No,,$572,26/08/2023,"$1,558,000",24/08/2023,"$1,570,000",Single Family Residence
+760,"11308 80 Ave, Delta, BC",5,2,2841 sqft,,4,"$4,028",1969,R2809113,Residential,No,,$475,25/08/2023,"$1,332,000",22/08/2023,"$1,349,785",Single Family Residence
+761,"286 66a St, Delta, BC",3,2,1479 sqft,,6,"$5,140",1968,R2795212,Residential,Yes,,"$1,064",25/08/2023,"$1,519,000",04/07/2023,"$1,574,888",Single Family Residence
+762,"11574 77a Ave, Delta, BC",5,2,2060 sqft,,6,"$4,300",1972,R2809153,Residential,Yes,,$630,25/08/2023,"$1,300,000",23/08/2023,"$1,299,000",Single Family Residence
+763,"5 - 10500 Delsom Cres, Delta, BC",3,2,1916 sqft,,4,"$3,391",2014,R2809454,Residential,Yes,,$625,25/08/2023,"$1,190,000",23/08/2023,"$1,198,000",Townhouse
+764,"5200 57 St, Delta, BC",4,2,2648 sqft,,7,"$4,878",1990,R2807984,Residential,Yes,,$675,24/08/2023,"$1,785,000",17/08/2023,"$1,788,800",Single Family Residence
+765,"8693 Delnova Dr, Delta, BC",8,5,4253 sqft,,5,"$4,515",1981,R2799650,Residential,Yes,,$434,24/08/2023,"$1,800,000",19/07/2023,"$1,849,000",Single Family Residence
+766,"11276 Kendale View, Delta, BC",3,2,2212 sqft,,0,"$4,817",1976,R2778179,Residential,Yes,,$786,-,Not Sold Yet,12/05/2024,"$1,999,000",Single Family Residence
+767,"307 - 4768 53 St, Delta, BC",2,2,1020 sqft,,1,"$1,684",1995,R2797930,Residential,Yes,,$617,24/08/2023,"$620,000",18/07/2023,"$629,900",Apartment/Condominium
+768,"7338 Priory Pl, Delta, BC",4,3,2478 sqft,,6,"$4,026",1974,R2792108,Residential,Yes,,$586,23/08/2023,"$1,360,000",21/06/2023,"$1,454,000",Single Family Residence
+769,"112 - 5550 Admiral Way, Delta, BC",2,2,1338 sqft,,2,"$2,943",2017,R2783597,Residential,Yes,,$687,23/08/2023,"$869,800",29/05/2023,"$920,000",Townhouse
+770,"1 - 6940 Nicholson Rd, Delta, BC",2,2,1562 sqft,,2,,1989,R2803219,Residential,Yes,,$569,23/08/2023,"$878,000",30/07/2023,"$888,888",Townhouse
+771,"33 - 10500 Delsom Cres, Delta, BC",3,2,2015 sqft,,4,"$2,995",2014,R2807192,Residential,Yes,,$574,22/08/2023,"$1,153,000",13/08/2023,"$1,158,000",Townhouse
+772,"304 - 8360 Delsom Way, Delta, BC",2,2,906 sqft,,1,"$1,835",2019,R2807266,Residential,Yes,,$749,22/08/2023,"$679,000",13/08/2023,"$679,000",Apartment/Condominium
+773,"11702 Summit Cres, Delta, BC",6,3,3948 sqft,,4,"$5,995",1981,R2799887,Residential,Yes,,$506,22/08/2023,"$1,850,000",18/07/2023,"$1,999,800",Single Family Residence
+774,"205 - 5500 13a Ave, Delta, BC",2,2,1342 sqft,,1,"$2,021",1994,R2771122,Residential,Yes,,$622,22/08/2023,"$800,000",24/04/2023,"$835,000",Apartment/Condominium
+775,"6863 Upper Canyon Pl, Delta, BC",3,2,1804 sqft,,2,"$4,346",1977,R2790036,Residential,No,,$803,22/08/2023,"$1,399,000",18/06/2023,"$1,449,000",Single Family Residence
+776,"10219 Sheaves Crt, Delta, BC",4,1,1905 sqft,,4,"$3,699",1989,R2795942,Residential,Yes,,$681,22/08/2023,"$1,255,000",04/07/2023,"$1,299,000",Single Family Residence
+777,"5844 17 A Ave, Delta, BC",4,2,1829 sqft,,4,"$3,359",1974,R2807277,Residential,No,,$600,21/08/2023,"$1,060,000",14/08/2023,"$1,098,000",Single Family Residence
+778,"55 - 10500 Delsom Cres, Delta, BC",4,2,2083 sqft,,2,"$3,588",2014,R2806470,Residential,Yes,,$527,21/08/2023,"$1,300,800",13/08/2023,"$1,099,000",Townhouse
+779,"26 - 11556 72a Ave, Delta, BC",3,2,1307 sqft,,2,,2022,R2784330,Residential,Yes,,$687,21/08/2023,"$875,000",04/06/2023,"$899,000",Townhouse
+780,"335 52 St, Delta, BC",4,3,3678 sqft,,7,"$7,768",2016,R2800419,Residential,Yes,,$643,21/08/2023,"$2,330,000",18/07/2023,"$2,368,000",Single Family Residence
+781,"7436 Barrymore Dr, Delta, BC",5,3,2593 sqft,,4,"$3,885",1973,R2800177,Residential,Yes,,$532,21/08/2023,"$1,248,000",19/07/2023,"$1,380,000",Single Family Residence
+782,"10549 Suncrest Dr, Delta, BC",4,2,2100 sqft,,6,"$3,968",1972,R2804343,Residential,Yes,,$666,21/08/2023,"$1,387,000",07/08/2023,"$1,398,900",Single Family Residence
+783,"205 67 A St, Delta, BC",3,2,2052 sqft,,6,"$4,772",1969,R2781926,Residential,Yes,,$720,20/08/2023,"$1,420,000",27/05/2023,"$1,479,000",Single Family Residence
+784,"107N - 1100 56 St, Delta, BC",2,2,1365 sqft,,1,"$2,059",1993,R2786971,Residential,Yes,,$567,20/08/2023,"$755,000",07/06/2023,"$774,900",Apartment/Condominium
+785,"6425 Knight Dr, Delta, BC",2,1,1055 sqft,,2,"$4,735",1942,R2806128,Residential,No,,"$1,374",19/08/2023,"$1,350,000",10/08/2023,"$1,450,000",Single Family Residence
+786,"123 - 6505 3 Ave, Delta, BC",2,2,2808 sqft,,4,"$5,391",1992,R2783661,Residential,Yes,,$632,18/08/2023,"$1,650,000",27/05/2023,"$1,775,000",Townhouse
+787,"5431 Westminster Ave, Delta, BC",4,2,2508 sqft,,4,"$4,127",1970,R2801190,Residential,No,,$478,18/08/2023,"$1,145,000",23/07/2023,"$1,199,000",Single Family Residence
+788,"56 - 10735 84 Ave, Delta, BC",3,2,1477 sqft,,2,"$2,389",2015,R2802641,Residential,Yes,,$628,17/08/2023,"$910,000",26/07/2023,"$928,000",Townhouse
+789,"8206 112 St, Delta, BC",5,3,2745 sqft,,6,"$4,329",1968,R2766920,Residential,No,,$727,17/08/2023,"$1,775,000",10/04/2023,"$1,998,000",Single Family Residence
+790,"502 - 9015 120 St, Delta, BC",2,2,912 sqft,,1,"$1,783",2019,R2798372,Residential,Yes,,$683,17/08/2023,"$637,000",16/07/2023,"$622,999",Apartment/Condominium
+791,"6535 Hillside Cres, Delta, BC",5,2,2845 sqft,,6,"$4,914",1971,R2795102,Residential,Yes,,$553,16/08/2023,"$1,555,000",05/07/2023,"$1,575,000",Single Family Residence
+792,"7321 115a St, Delta, BC",5,3,2413 sqft,,2,"$4,510",1974,R2801313,Residential,Yes,,$579,16/08/2023,"$1,400,000",24/07/2023,"$1,399,000",Single Family Residence
+793,"4 - 11952 64 Ave, Delta, BC",3,2,1445 sqft,,2,"$2,295",1993,R2804416,Residential,Yes,,$552,15/08/2023,"$840,000",03/08/2023,"$799,000",Townhouse
+794,"5093 7b Ave, Delta, BC",4,3,2778 sqft,,5,"$4,685",1970,R2796452,Residential,Yes,,$575,15/08/2023,"$1,548,000",05/07/2023,"$1,599,000",Single Family Residence
+795,"601 - 11881 88 Ave, Delta, BC",2,2,1153 sqft,,1,"$1,461",1986,R2803918,Residential,Yes,,$455,14/08/2023,"$520,000",31/07/2023,"$525,000",Apartment/Condominium
+796,"10355 Iverson Cres, Delta, BC",3,2,1861 sqft,,1,,1971,R2803193,Residential,Yes,,$655,-,Not Sold Yet,02/07/2024,"$1,499,000",Single Family Residence
+797,"11772 90 Ave, Delta, BC",5,2,2192 sqft,,0,"$3,281",1975,R2805165,Residential,No,,$456,14/08/2023,"$1,125,000",08/08/2023,"$999,900",Multi Family
+798,"5129 Wilson Dr, Delta, BC",5,6,6802 sqft,,4,"$8,249",2018,R2760915,Residential,Yes,,$381,14/08/2023,"$2,440,000",19/03/2023,"$2,598,000",Single Family Residence
+799,"302 - 4689 52a St, Delta, BC",2,2,1033 sqft,,1,"$2,041",2013,R2804938,Residential,Yes,,$774,14/08/2023,"$795,000",07/08/2023,"$799,900",Apartment/Condominium
+800,"5339 Belair Cres, Delta, BC",3,1,1896 sqft,,6,"$4,401",1968,R2800346,Residential,Yes,,$737,14/08/2023,"$1,360,000",19/07/2023,"$1,399,000",Single Family Residence
+801,"10864 79 Ave, Delta, BC",3,3,1900 sqft,,4,"$4,411",1975,R2799277,Residential,Yes,,$631,13/08/2023,"$1,175,000",13/07/2023,"$1,200,000",Single Family Residence
+802,"3701 - 11967 80 Ave, Delta, BC",1,1,657 sqft,,2,"$2,000",2017,R2792015,Residential,Yes,,$759,13/08/2023,"$500,000",20/06/2023,"$499,000",Apartment/Condominium
+803,"202 - 5535 Admiral Way, Delta, BC",2,2,1196 sqft,,2,"$2,914",2021,R2802659,Residential,Yes,,$752,12/08/2023,"$895,000",27/07/2023,"$899,900",Apartment/Condominium
+804,"313 - 1363 56 St, Delta, BC",2,1,836 sqft,,1,"$1,558",1997,R2805782,Residential,Yes,,$669,12/08/2023,"$554,900",09/08/2023,"$559,900",Apartment/Condominium
+805,"11057 Westridge Pl, Delta, BC",4,2,2090 sqft,,4,"$4,702",1977,R2799910,Residential,Yes,,$669,12/08/2023,"$1,367,000",17/07/2023,"$1,399,999",Single Family Residence
+806,"8511 111a St, Delta, BC",4,2,2001 sqft,,4,"$4,165",1975,R2787157,Residential,Yes,,$674,11/08/2023,"$1,275,000",11/06/2023,"$1,350,000",Single Family Residence
+807,"11459 87 Ave, Delta, BC",5,2,2152 sqft,,3,"$4,140",1971,R2803904,Residential,Yes,,$604,10/08/2023,"$1,283,000",02/08/2023,"$1,299,999",Single Family Residence
+808,"92 Centennial Pky, Delta, BC",3,3,3287 sqft,,6,"$12,847",2004,R2778176,Residential,Yes,,"$1,194",10/08/2023,"$3,750,000",14/05/2023,"$3,925,000",Single Family Residence
+809,"11701 74 Ave, Delta, BC",6,4,2964 sqft,,4,"$5,625",2019,R2803094,Residential,Yes,,$573,10/08/2023,"$1,695,000",27/07/2023,"$1,699,000",Single Family Residence
+810,"6895 120 St, Delta, BC",4,4,1923 sqft,,3,"$2,685",2008,R2802078,Residential,Yes,,$597,09/08/2023,"$1,070,000",26/07/2023,"$1,149,900",Multi Family
+811,"4688 66 St, Delta, BC",4,2,2334 sqft,,4,"$4,809",1990,R2804899,Residential,Yes,,$642,09/08/2023,"$1,499,000",07/08/2023,"$1,499,000",Single Family Residence
+812,"11780 82 Ave, Delta, BC",5,3,2497 sqft,,4,"$4,020",1979,R2803043,Residential,Yes,,$559,09/08/2023,"$1,510,000",30/07/2023,"$1,398,000",Single Family Residence
+813,"27 - 5510 Admiral Way, Delta, BC",4,3,1919 sqft,,4,"$3,570",2016,R2786540,Residential,Yes,,$598,09/08/2023,"$1,125,000",07/06/2023,"$1,149,000",Townhouse
+814,"7738 114 A St, Delta, BC",3,2,2128 sqft,,4,"$4,308",1978,R2798669,Residential,Yes,,$610,08/08/2023,"$1,260,000",19/07/2023,"$1,299,000",Single Family Residence
+815,"5323 Laurel Dr, Delta, BC",3,2,1982 sqft,,8,"$4,286",1975,R2805212,Residential,Yes,,$731,08/08/2023,"$1,481,207",07/08/2023,"$1,449,000",Single Family Residence
+816,"6297 Crescent Pl, Delta, BC",4,2,2864 sqft,,8,"$5,006",1994,R2803215,Residential,Yes,,$698,07/08/2023,"$1,888,000",31/07/2023,"$1,999,999",Single Family Residence
+817,"5238 Schooner Gate, Delta, BC",2,1,930 sqft,,2,"$2,485",1987,R2803112,Residential,Yes,,$945,07/08/2023,"$873,000",30/07/2023,"$879,000",Single Family Residence
+818,"144 - 5550 Admiral Way, Delta, BC",3,2,1513 sqft,,4,"$3,004",2017,R2800852,Residential,Yes,,$693,07/08/2023,"$1,030,000",23/07/2023,"$1,050,000",Townhouse
+819,"11710 Ridgecrest Dr, Delta, BC",5,4,2924 sqft,,4,"$5,336",1981,R2773450,Residential,Yes,,$649,06/08/2023,"$1,838,000",01/05/2023,"$1,899,000",Single Family Residence
+820,"1144 Fairway Views Wynd, Delta, BC",3,2,2188 sqft,,1,"$2,722",1980,R2798337,Residential,No,,$472,05/08/2023,"$1,020,000",12/07/2023,"$1,034,000",Townhouse
+821,"9116 116 St, Delta, BC",8,6,4291 sqft,,7,"$6,460",2019,R2790543,Residential,Yes,,$512,05/08/2023,"$2,140,000",19/06/2023,"$2,199,000",Single Family Residence
+822,"4816 Turnbuckle Wynd, Delta, BC",3,1,1475 sqft,,2,"$2,252",1980,R2804460,Residential,Yes,,$542,05/08/2023,"$830,000",03/08/2023,"$799,900",Townhouse
+823,"107 - 5311 Admiral Way, Delta, BC",3,2,1738 sqft,,2,,2024,R2804902,Residential,Yes,,$856,04/08/2023,"$1,488,000",03/08/2023,"$1,488,000",Townhouse
+824,"4950 Cedar Springs Dr, Delta, BC",4,3,2534 sqft,,5,"$6,113",2020,R2801880,Residential,Yes,,$828,04/08/2023,"$2,010,000",25/07/2023,"$2,099,000",Single Family Residence
+825,"1152 Fairway Views Wynd, Delta, BC",3,2,2267 sqft,,2,"$2,722",1980,R2799696,Residential,No,,$435,04/08/2023,"$978,000",18/07/2023,"$988,000",Townhouse
+826,"8424 Centre St, Delta, BC",7,7,3771 sqft,,6,"$4,125",2022,R2785403,Residential,Yes,,$580,04/08/2023,"$2,047,619",05/06/2023,"$2,188,888",Single Family Residence
+827,"820 English Bluff Rd, Delta, BC",3,2,1717 sqft,,5,"$4,129",1988,R2802771,Residential,Yes,,$745,03/08/2023,"$1,280,000",01/08/2023,"$1,280,000",Single Family Residence
+828,"5667 Fairlight Cres, Delta, BC",7,5,4688 sqft,,2,"$4,669",2023,R2793584,Residential,Yes,,$533,03/08/2023,"$2,331,875",28/06/2023,"$2,499,000",Single Family Residence
+829,"106 - 1441 Garden Pl, Delta, BC",1,1,710 sqft,,1,"$1,163",1982,R2781925,Residential,Yes,,$701,03/08/2023,"$480,000",27/05/2023,"$498,000",Apartment/Condominium
+830,"8150 Sheaves Rd, Delta, BC",6,2,3218 sqft,,6,"$4,444",1995,R2797021,Residential,Yes,,$527,02/08/2023,"$1,625,000",10/07/2023,"$1,698,000",Single Family Residence
+831,"5121 44b Ave, Delta, BC",5,4,2485 sqft,,3,"$5,310",2010,R2793340,Residential,Yes,,$763,01/08/2023,"$1,898,000",27/06/2023,"$1,898,000",Single Family Residence
+832,"11225 82 Ave, Delta, BC",4,2,2735 sqft,,4,"$4,389",1967,R2767308,Residential,Yes,,$821,01/08/2023,"$1,900,000",10/04/2023,"$2,248,000",Single Family Residence
+833,"7488 115a St, Delta, BC",4,2,2117 sqft,,0,"$4,390",1970,R2798883,Residential,Yes,,$703,01/08/2023,"$1,275,000",16/07/2023,"$1,489,000",Single Family Residence
+834,"7453 113a St, Delta, BC",5,2,2268 sqft,,4,"$4,338",1973,R2791197,Residential,No,,$643,31/07/2023,"$1,450,000",20/06/2023,"$1,459,900",Single Family Residence
+835,"20 - 1700 56 St, Delta, BC",3,2,1578 sqft,,2,"$2,951",1997,R2778262,Residential,Yes,,$538,30/07/2023,"$849,900",15/05/2023,"$849,900",Townhouse
+836,"2 - 4910 Central Ave, Delta, BC",3,2,1426 sqft,,2,"$2,993",2007,R2802189,Residential,Yes,,$699,30/07/2023,"$998,000",26/07/2023,"$998,000",Townhouse
+837,"17 - 8385 Delsom Way, Delta, BC",3,2,1412 sqft,,2,"$2,650",2009,R2802139,Residential,No,,$644,30/07/2023,"$910,000",25/07/2023,"$909,800",Townhouse
+838,"107 - 4733 River Rd W, Delta, BC",2,2,1236 sqft,,1,"$1,899",1992,R2800296,Residential,Yes,,$525,30/07/2023,"$650,000",19/07/2023,"$650,000",Apartment/Condominium
+839,"7150 114a St, Delta, BC",4,2,2121 sqft,,3,"$4,470",1971,R2800220,Residential,Yes,,$706,29/07/2023,"$1,460,000",19/07/2023,"$1,499,000",Single Family Residence
+840,"4853 55b St, Delta, BC",3,1,1532 sqft,,1,"$2,338",1977,R2801718,Residential,No,,$495,29/07/2023,"$755,000",24/07/2023,"$758,800",Townhouse
+841,"5365 6 Ave, Delta, BC",5,4,2850 sqft,,0,"$5,292",2004,R2793637,Residential,Yes,,$662,28/07/2023,"$1,850,000",28/06/2023,"$1,888,000",Single Family Residence
+842,"142B - 8635 120 St, Delta, BC",1,1,709 sqft,,1,$823,1972,R2801268,Residential,No,,$548,28/07/2023,"$385,000",23/07/2023,"$389,000",Apartment/Condominium
+843,"75 - 5550 Admiral Way, Delta, BC",3,2,1378 sqft,,2,"$3,144",2016,R2800834,Residential,Yes,,$725,28/07/2023,"$990,000",23/07/2023,"$999,999",Townhouse
+844,"7486 115 St, Delta, BC",7,6,4387 sqft,,4,"$4,015",2023,R2788677,Residential,Yes,,$546,28/07/2023,"$2,350,000",14/06/2023,"$2,399,000",Single Family Residence
+845,"5400 Wallace Ave, Delta, BC",3,2,1931 sqft,,4,"$4,332",1977,R2769917,Residential,Yes,,$708,27/07/2023,"$1,360,000",19/04/2023,"$1,368,800",Single Family Residence
+846,"7788 114a St, Delta, BC",4,1,2408 sqft,,4,"$4,186",1972,R2794181,Residential,Yes,,$539,27/07/2023,"$1,360,000",03/07/2023,"$1,299,000",Single Family Residence
+847,"328A - 8635 120 St, Delta, BC",2,1,856 sqft,,1,$968,1972,R2800350,Residential,No,,$501,27/07/2023,"$432,000",19/07/2023,"$429,000",Apartment/Condominium
+848,"9 - 5510 Admiral Way, Delta, BC",4,3,1849 sqft,,2,"$3,570",2016,R2798684,Residential,Yes,,$620,26/07/2023,"$1,143,000",16/07/2023,"$1,148,000",Townhouse
+849,"8495 112 St, Delta, BC",6,4,2760 sqft,,6,"$4,783",1999,R2797223,Residential,Yes,,$543,25/07/2023,"$1,432,000",11/07/2023,"$1,499,888",Single Family Residence
+850,"8446 Sullivan Pl, Delta, BC",5,3,2256 sqft,,0,"$4,185",1972,R2785102,Residential,Yes,,$664,25/07/2023,"$1,450,000",04/06/2023,"$1,499,000",Single Family Residence
+851,"8020 114 St, Delta, BC",9,7,5332 sqft,,2,"$7,217",2021,R2782613,Residential,Yes,,$524,25/07/2023,"$2,660,000",29/05/2023,"$2,798,000",Single Family Residence
+852,"213 Woodland Dr, Delta, BC",3,2,2535 sqft,,4,"$4,943",1980,R2779362,Residential,Yes,,$591,25/07/2023,"$1,475,000",16/05/2023,"$1,499,000",Single Family Residence
+853,"401 - 8360 Delsom Way, Delta, BC",2,2,1036 sqft,,2,"$2,090",2019,R2799200,Residential,Yes,,$751,25/07/2023,"$820,000",19/07/2023,"$779,000",Apartment/Condominium
+854,"2101 - 11967 80 Ave, Delta, BC",2,2,821 sqft,,2,"$1,749",2017,R2799932,Residential,Yes,,$778,,,,,Apartment/Condominium
+855,"208 - 4728 53 St, Delta, BC",2,2,1050 sqft,,1,"$1,784",1991,R2800236,Residential,Yes,,$618,,,,,Apartment/Condominium
+856,,,,,,,,,,,,,,,,,,
+857,"7948 118a St, Delta, BC",4,3,2210 sqft,,0,"$3,998",1989,R2796827,Residential,No,,$633,24/07/2023,"$1,330,000",10/07/2023,"$1,399,000",Single Family Residence
+858,"506 - 9015 120 St, Delta, BC",2,2,922 sqft,,1,"$1,770",2019,R2794650,Residential,Yes,,$677,23/07/2023,"$620,000",03/07/2023,"$625,000",Apartment/Condominium
+859,"405 - 1369 56 St, Delta, BC",1,1,853 sqft,,1,"$1,571",1994,R2798545,Residential,Yes,,$690,23/07/2023,"$589,000",16/07/2023,"$589,000",Apartment/Condominium
+860,"104 - 5311 Admiral Way, Delta, BC",4,3,1947 sqft,,2,,2024,R2800661,Residential,Yes,,$702,22/07/2023,"$1,368,000",19/07/2023,"$1,368,000",Townhouse
+861,"98 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2801828,Residential,Yes,,$694,22/07/2023,"$1,888,000",20/07/2023,"$1,888,000",Townhouse
+862,"10 - 4910 Central Ave, Delta, BC",3,2,1483 sqft,,2,"$3,335",2007,R2800145,Residential,Yes,,$708,22/07/2023,"$1,055,000",19/07/2023,"$1,050,000",Townhouse
+863,"80 - 5311 Admiral Way, Delta, BC",4,3,2098 sqft,,2,,2024,R2800964,Residential,Yes,,$785,21/07/2023,"$1,648,000",20/07/2023,"$1,648,000",Townhouse
+864,"1405 - 11910 80 Ave, Delta, BC",1,1,815 sqft,,1,"$1,091",1989,R2794178,Residential,Yes,,$552,21/07/2023,"$445,001",03/07/2023,"$450,000",Apartment/Condominium
+865,"102 - 5311 Admiral Way, Delta, BC",4,4,2720 sqft,,4,,2024,R2800941,Residential,Yes,,$745,21/07/2023,"$2,028,000",20/07/2023,"$2,028,000",Townhouse
+866,"111 - 4977 Springs Blvd, Delta, BC",1,1,623 sqft,,1,"$1,678",2019,R2796371,Residential,Yes,,$930,20/07/2023,"$579,900",09/07/2023,"$579,900",Apartment/Condominium
+867,"1603 Golf Club Dr, Delta, BC",5,3,2871 sqft,,4,"$5,117",1995,R2785309,Residential,Yes,,$556,19/07/2023,"$1,510,000",05/06/2023,"$1,599,000",Single Family Residence
+868,"10965 84 Ave, Delta, BC",5,5,2844 sqft,,4,"$3,224",2023,R2798110,Residential,Yes,,$562,19/07/2023,"$1,610,000",13/07/2023,"$1,599,980",Single Family Residence
+869,"1473 54 St, Delta, BC",4,2,2229 sqft,,3,"$3,950",1965,R2798143,Residential,No,,$582,19/07/2023,"$1,280,000",11/07/2023,"$1,298,000",Single Family Residence
+870,"11766 85a Ave, Delta, BC",4,3,2279 sqft,,6,"$4,226",1971,R2799988,Residential,Yes,,$627,19/07/2023,"$1,395,000",18/07/2023,"$1,429,000",Single Family Residence
+871,"10961 84 Ave, Delta, BC",4,4,2419 sqft,,6,"$3,172",2023,R2798107,Residential,Yes,,$578,19/07/2023,"$1,525,000",13/07/2023,"$1,399,980",Single Family Residence
+872,"273 55 St, Delta, BC",5,2,2935 sqft,,3,"$5,284",1968,R2762369,Residential,Yes,,$578,18/07/2023,"$1,598,000",22/03/2023,"$1,699,000",Single Family Residence
+873,"88 - 8385 Delsom Way, Delta, BC",4,3,1668 sqft,,2,"$2,915",2008,R2798813,Residential,Yes,,$550,18/07/2023,"$920,000",16/07/2023,"$918,800",Townhouse
+874,"4605 45a Ave, Delta, BC",4,2,1900 sqft,,5,,1972,R2793895,Residential,Yes,,$683,18/07/2023,"$1,260,000",02/07/2023,"$1,299,000",Single Family Residence
+875,"5668 Dove Pl, Delta, BC",5,3,2420 sqft,,4,"$4,123",1977,R2796047,Residential,No,,$557,17/07/2023,"$1,446,000",06/07/2023,"$1,350,000",Single Family Residence
+876,"4713 46 Ave, Delta, BC",4,2,1819 sqft,,0,"$4,067",1969,R2783675,Residential,No,,$703,17/07/2023,"$1,250,000",31/05/2023,"$1,279,900",Single Family Residence
+877,"1 - 4887 Central Ave, Delta, BC",4,2,1775 sqft,,2,"$3,307",2008,R2797667,Residential,Yes,,$619,17/07/2023,"$1,170,000",11/07/2023,"$1,099,000",Multi Family
+878,"5330 Wallace Ave, Delta, BC",4,2,2231 sqft,,0,"$4,385",1969,R2792428,Residential,No,,$672,16/07/2023,"$1,400,000",25/06/2023,"$1,499,900",Single Family Residence
+879,"113 - 4889 53 St, Delta, BC",2,2,1104 sqft,,1,"$1,870",1988,R2797846,Residential,Yes,,$624,16/07/2023,"$775,000",12/07/2023,"$689,000",Apartment/Condominium
+880,"5383 Regatta Way, Delta, BC",2,2,1294 sqft,,3,"$2,539",1989,R2798047,Residential,Yes,,$733,16/07/2023,"$950,000",12/07/2023,"$948,800",Single Family Residence
+881,"9015 120 St, Delta, BC",1,1,852 sqft,,1,"$1,661",2018,R2795169,Residential,Yes,,$645,16/07/2023,"$545,000",03/07/2023,"$550,000",Apartment/Condominium
+882,"11768 73a Ave, Delta, BC",4,3,2352 sqft,,6,"$4,234",1967,R2780565,Residential,Yes,,$607,15/07/2023,"$1,415,000",23/05/2023,"$1,429,879",Single Family Residence
+883,"8981 Collings Way, Delta, BC",3,3,1872 sqft,,6,"$3,783",1975,R2795952,Residential,No,,$639,15/07/2023,"$1,250,000",04/07/2023,"$1,198,000",Single Family Residence
+884,"6335 45a Ave, Delta, BC",6,2,2886 sqft,,4,"$4,589",1989,R2791818,Residential,Yes,,$589,15/07/2023,"$1,625,000",22/06/2023,"$1,700,000",Single Family Residence
+885,"4678 London Cres, Delta, BC",5,4,2944 sqft,,2,"$4,721",1992,R2795741,Residential,Yes,,$475,14/07/2023,"$1,450,000",04/07/2023,"$1,399,000",Single Family Residence
+886,"5163 Kilkenny Dr, Delta, BC",4,2,2242 sqft,,6,"$4,270",1974,R2797121,Residential,Yes,,$726,14/07/2023,"$1,615,000",10/07/2023,"$1,629,000",Single Family Residence
+887,"11414 Northview Cres, Delta, BC",4,2,2092 sqft,,4,"$5,186",1978,R2792242,Residential,Yes,,$865,13/07/2023,"$1,680,000",25/06/2023,"$1,810,000",Single Family Residence
+888,"11524 Lyon Rd, Delta, BC",4,3,2656 sqft,,2,"$4,498",1977,R2797554,Residential,Yes,,$507,13/07/2023,"$1,451,000",12/07/2023,"$1,349,000",Single Family Residence
+889,"403 Seashell Dr, Delta, BC",5,2,3129 sqft,,4,"$6,031",1988,R2767542,Residential,Yes,,$670,13/07/2023,"$2,062,500",11/04/2023,"$2,098,000",Single Family Residence
+890,"5468 1 Ave, Delta, BC",4,2,2621 sqft,,4,"$4,296",1983,R2796546,Residential,Yes,,$522,12/07/2023,"$1,400,000",09/07/2023,"$1,368,800",Single Family Residence
+891,"304 - 5518 14 Ave, Delta, BC",2,2,1235 sqft,,1,"$2,122",1995,R2795001,Residential,Yes,,$712,12/07/2023,"$879,000",04/07/2023,"$879,500",Apartment/Condominium
+892,"114 - 5311 Admiral Way, Delta, BC",3,2,1687 sqft,,2,,2023,R2795237,Residential,Yes,,$804,12/07/2023,"$1,358,000",03/07/2023,"$1,358,000",Townhouse
+893,"103 - 4747 54a St, Delta, BC",1,1,810 sqft,,1,"$1,444",1997,R2786264,Residential,Yes,,$635,11/07/2023,"$500,000",05/06/2023,"$515,000",Apartment/Condominium
+894,"59 - 5550 Admiral Way, Delta, BC",3,2,1445 sqft,,0,"$2,800",2016,R2795363,Residential,Yes,,$622,11/07/2023,"$920,000",03/07/2023,"$899,999",Townhouse
+895,"5390 Wallace Ave, Delta, BC",3,2,2639 sqft,,6,"$5,256",1975,R2788727,Residential,Yes,,$644,11/07/2023,"$1,690,000",13/06/2023,"$1,699,800",Single Family Residence
+896,"5485 Pennant Bay, Delta, BC",2,2,1341 sqft,,2,"$2,647",1989,R2792915,Residential,Yes,,$692,10/07/2023,"$921,500",26/06/2023,"$929,000",Single Family Residence
+897,"5692 Clipper Rd, Delta, BC",4,2,2552 sqft,,4,"$4,922",1994,R2795677,Residential,Yes,,$661,10/07/2023,"$1,750,000",05/07/2023,"$1,688,000",Single Family Residence
+898,"6043 45 Ave, Delta, BC",3,2,2210 sqft,,4,"$3,710",1977,R2794654,Residential,No,,$587,10/07/2023,"$1,217,000",03/07/2023,"$1,298,800",Single Family Residence
+899,"7651 Barrymore Dr, Delta, BC",5,4,3482 sqft,,5,"$4,357",1982,R2793483,Residential,Yes,,$430,09/07/2023,"$1,510,000",02/07/2023,"$1,499,000",Single Family Residence
+900,"76 - 10500 Delsom Cres, Delta, BC",3,2,1984 sqft,,4,"$3,388",2014,R2795022,Residential,Yes,,$579,09/07/2023,"$1,176,000",04/07/2023,"$1,150,000",Townhouse
+901,"9054 116 St, Delta, BC",4,1,1307 sqft,,6,"$3,955",1968,R2793914,Residential,No,,$993,09/07/2023,"$1,255,000",03/07/2023,"$1,299,000",Single Family Residence
+902,"7075 115 St, Delta, BC",6,3,2665 sqft,,4,"$4,291",1974,R2785714,Residential,Yes,,$562,09/07/2023,"$1,625,000",04/06/2023,"$1,499,000",Single Family Residence
+903,"5359 Paton Dr, Delta, BC",3,1,1779 sqft,,2,"$4,062",1973,R2796012,Residential,Yes,,$673,08/07/2023,"$1,189,000",06/07/2023,"$1,199,000",Single Family Residence
+904,"201S - 1100 56 St, Delta, BC",2,2,1290 sqft,,1,"$1,964",1993,R2783480,Residential,Yes,,$580,08/07/2023,"$740,000",25/05/2023,"$748,800",Apartment/Condominium
+905,"6583 Albion Way, Delta, BC",6,4,2656 sqft,,6,"$4,594",1971,R2782627,Residential,No,,$602,07/07/2023,"$1,517,000",29/05/2023,"$1,599,888",Single Family Residence
+906,"39 Wallace Pl, Delta, BC",3,2,1842 sqft,,6,"$4,332",1974,R2782450,Residential,Yes,,$769,07/07/2023,"$1,330,000",28/05/2023,"$1,418,000",Single Family Residence
+907,"401 - 5099 Springs Blvd, Delta, BC",1,1,872 sqft,,2,"$2,044",2011,R2758763,Residential,Yes,,$790,05/07/2023,"$689,000",08/03/2023,"$689,000",Apartment/Condominium
+908,"6978 Bison Pl, Delta, BC",3,1,2003 sqft,,4,"$4,114",1975,R2792588,Residential,Yes,,$673,05/07/2023,"$1,350,000",25/06/2023,"$1,349,000",Single Family Residence
+909,"11282 Sussex Pl, Delta, BC",5,3,4481 sqft,,8,"$5,295",1975,R2793629,Residential,Yes,,$445,05/07/2023,"$1,975,000",28/06/2023,"$1,995,000",Single Family Residence
+910,"9251 114 St, Delta, BC",5,4,2642 sqft,,6,"$3,994",1964,R2789529,Residential,Yes,,$529,05/07/2023,"$1,425,000",18/06/2023,"$1,399,999",Single Family Residence
+911,"60 - 11188 72 Ave, Delta, BC",3,2,1501 sqft,,2,"$2,636",2018,R2792498,Residential,Yes,,$599,05/07/2023,"$888,000",25/06/2023,"$900,000",Townhouse
+912,"11853 86a Ave, Delta, BC",5,2,1850 sqft,,1,"$4,337",1964,R2790911,Residential,No,,$856,05/07/2023,"$1,520,000",20/06/2023,"$1,585,000",Single Family Residence
+913,"1084 53a St, Delta, BC",3,1,1170 sqft,,4,"$4,183",1961,R2771718,Residential,Yes,,"$1,047",04/07/2023,"$1,245,000",22/04/2023,"$1,225,000",Single Family Residence
+914,"111 - 8360 Delsom Way, Delta, BC",1,1,600 sqft,,1,"$1,313",2019,R2788821,Residential,Yes,,$881,-,Not Sold Yet,03/06/2024,"$598,888",Apartment/Condominium
+915,"1205 - 11910 80 Ave, Delta, BC",1,1,730 sqft,,1,"$1,087",1990,R2786682,Residential,Yes,,$628,04/07/2023,"$440,000",07/06/2023,"$459,000",Apartment/Condominium
+916,"11896 Woodhurst Dr, Delta, BC",4,3,3185 sqft,,5,"$4,766",1968,R2790847,Residential,No,,$494,04/07/2023,"$1,500,000",18/06/2023,"$1,575,000",Single Family Residence
+917,"54 - 11188 72 Ave, Delta, BC",4,3,2015 sqft,,0,"$3,157",2019,R2748346,Residential,Yes,,$589,04/07/2023,"$1,168,800",23/01/2023,"$1,188,000",Townhouse
+918,"6198 Rosewood Dr, Delta, BC",5,3,2534 sqft,,6,"$4,510",1980,R2793648,Residential,Yes,,$611,03/07/2023,"$1,533,000",28/06/2023,"$1,549,000",Single Family Residence
+919,"212 - 11901 89a Ave, Delta, BC",3,1,1155 sqft,,0,"$1,534",1971,R2792481,Residential,No,,$475,03/07/2023,"$580,000",03/07/2023,"$549,000",Townhouse
+920,"112 - 1175 Ferguson Rd, Delta, BC",1,1,830 sqft,,1,"$1,217",1975,R2791232,Residential,Yes,,$590,03/07/2023,"$483,000",19/06/2023,"$489,900",Apartment/Condominium
+921,"11711 84a Ave, Delta, BC",5,2,1968 sqft,,5,"$4,251",1972,R2792886,Residential,Yes,,$609,02/07/2023,"$1,270,000",26/06/2023,"$1,198,800",Single Family Residence
+922,"303 - 5011 Springs Blvd, Delta, BC",2,2,1290 sqft,,2,"$3,186",2018,R2794830,Residential,Yes,,$835,02/07/2023,"$1,075,000",02/07/2023,"$1,078,000",Apartment/Condominium
+923,"31 - 5510 Admiral Way, Delta, BC",4,3,1858 sqft,,4,,2016,R2775384,Residential,Yes,,$664,02/07/2023,"$1,210,000",07/05/2023,"$1,235,000",Townhouse
+924,"8 - 11556 72a Ave, Delta, BC",4,2,1480 sqft,,2,,2022,R2792831,Residential,Yes,,$661,02/07/2023,"$962,500",25/06/2023,"$979,000",Townhouse
+925,"29 - 7167 116 St, Delta, BC",3,2,1463 sqft,,3,"$2,479",2021,R2771813,Residential,Yes,,$648,02/07/2023,"$900,000",23/04/2023,"$949,000",Townhouse
+926,"315 - 1166 54a St, Delta, BC",2,2,1189 sqft,,2,"$2,379",2016,R2778360,Residential,Yes,,$714,01/07/2023,"$845,000",12/05/2023,"$849,000",Apartment/Condominium
+927,"402N - 1100 56 St, Delta, BC",3,2,1652 sqft,,2,"$2,864",1992,R2768121,Residential,Yes,,$665,01/07/2023,"$1,040,000",11/04/2023,"$1,099,000",Apartment/Condominium
+928,"11680 72 Ave, Delta, BC",3,1,1867 sqft,,3,"$4,001",1968,R2794049,Residential,Yes,,$748,01/07/2023,"$1,380,000",27/06/2023,"$1,398,000",Single Family Residence
+929,"11832 73 Ave, Delta, BC",5,3,2000 sqft,,10,"$4,205",1967,R2790287,Residential,No,,$749,30/06/2023,"$1,470,000",18/06/2023,"$1,499,999",Single Family Residence
+930,"5492 16 Ave, Delta, BC",8,7,6520 sqft,,5,"$4,227",2023,R2778130,Residential,Yes,,$482,30/06/2023,"$2,852,380",15/05/2023,"$3,149,000",Single Family Residence
+931,"11140 72a Ave, Delta, BC",5,2,1928 sqft,,5,"$4,449",1971,R2780518,Residential,No,,$767,29/06/2023,"$1,425,000",22/05/2023,"$1,479,000",Single Family Residence
+932,"9130 Annieville Pl, Delta, BC",4,2,2119 sqft,,4,"$4,171",1966,R2777056,Residential,Yes,,$660,29/06/2023,"$1,391,000",10/05/2023,"$1,399,000",Single Family Residence
+933,"4923 47a Ave, Delta, BC",3,2,1439 sqft,,2,"$3,055",2019,R2790043,Residential,Yes,,$659,28/06/2023,"$940,000",18/06/2023,"$948,800",Townhouse
+934,"11058 84b Ave, Delta, BC",5,3,2563 sqft,,4,"$4,121",1973,R2791790,Residential,Yes,,$565,28/06/2023,"$1,480,000",21/06/2023,"$1,449,000",Single Family Residence
+935,"215 - 5055 Springs Blvd, Delta, BC",2,2,904 sqft,,1,"$2,425",2014,R2790708,Residential,Yes,,$773,28/06/2023,"$725,000",19/06/2023,"$699,000",Apartment/Condominium
+936,"4581 53 St, Delta, BC",4,4,2775 sqft,,2,$1,2023,R2791657,Residential,Yes,,$648,28/06/2023,"$1,799,000",20/06/2023,"$1,799,000",Single Family Residence
+937,"1100 56 St, Delta, BC",3,3,2278 sqft,,3,"$3,362",1993,R2790017,Residential,Yes,,$565,28/06/2023,"$1,250,000",17/06/2023,"$1,288,000",Townhouse
+938,"194 53 St, Delta, BC",3,2,2362 sqft,,4,"$4,569",1977,R2792521,Residential,Yes,,$698,28/06/2023,"$1,665,000",25/06/2023,"$1,650,000",Single Family Residence
+939,"324A - 8635 120 St, Delta, BC",2,1,892 sqft,,1,$958,1972,R2790425,Residential,No,,$447,27/06/2023,"$435,000",18/06/2023,"$398,800",Apartment/Condominium
+940,"5631 Greenland Dr, Delta, BC",7,5,5636 sqft,,6,"$7,860",1990,R2790359,Residential,Yes,,$408,27/06/2023,"$2,262,000",18/06/2023,"$2,299,999",Single Family Residence
+941,"50 - 5900 Ferry Rd, Delta, BC",3,2,2197 sqft,,2,"$4,384",2001,R2791176,Residential,Yes,,$682,27/06/2023,"$1,499,999",20/06/2023,"$1,499,999",Townhouse
+942,"11237 82 Ave, Delta, BC",4,2,2682 sqft,,4,"$4,392",1967,R2766826,Residential,No,,$838,26/06/2023,"$1,900,000",10/04/2023,"$2,248,000",Single Family Residence
+943,"396C - 8635 120 St, Delta, BC",2,1,853 sqft,,1,$934,1973,R2791863,Residential,No,,$503,26/06/2023,"$445,000",22/06/2023,"$429,800",Apartment/Condominium
+944,"207 - 8360 Delsom Way, Delta, BC",2,2,1034 sqft,,2,"$2,066",2019,R2790126,Residential,Yes,,$724,26/06/2023,"$792,500",18/06/2023,"$749,000",Apartment/Condominium
+945,"313 - 1350 View Cres, Delta, BC",2,2,1478 sqft,,1,"$2,188",1985,R2792017,Residential,Yes,,$463,26/06/2023,"$685,000",21/06/2023,"$685,000",Apartment/Condominium
+946,"11270 Lyon Rd, Delta, BC",4,3,3137 sqft,,6,"$4,754",1977,R2791073,Residential,Yes,,$499,26/06/2023,"$1,568,000",20/06/2023,"$1,568,000",Single Family Residence
+947,"5479 44 Ave, Delta, BC",5,2,2419 sqft,,0,"$3,864",1970,R2786782,Residential,No,,$578,26/06/2023,"$1,370,000",07/06/2023,"$1,399,900",Single Family Residence
+948,"8884 116 St, Delta, BC",4,3,2500 sqft,,5,"$3,797",1980,R2791025,Residential,Yes,,$559,26/06/2023,"$1,398,000",20/06/2023,"$1,398,000",Single Family Residence
+949,"6031 Sunwood Dr, Delta, BC",3,2,1654 sqft,,6,"$4,467",1980,R2791166,Residential,Yes,,$773,26/06/2023,"$1,360,000",19/06/2023,"$1,280,000",Single Family Residence
+950,"9251 116 A St, Delta, BC",3,2,2134 sqft,,2,"$4,283",1983,R2790579,Residential,Yes,,$585,26/06/2023,"$1,300,000",19/06/2023,"$1,248,880",Single Family Residence
+951,"8068 112a St, Delta, BC",4,2,2180 sqft,,4,"$4,525",1971,R2783813,Residential,Yes,,$655,25/06/2023,"$1,386,000",28/05/2023,"$1,429,000",Single Family Residence
+952,"9535 117 St, Delta, BC",5,3,2066 sqft,,6,"$4,269",1973,R2782330,Residential,No,,$531,25/06/2023,"$1,300,000",28/05/2023,"$1,099,000",Single Family Residence
+953,"32 - 6340 Market Ave, Delta, BC",2,2,1322 sqft,,2,,2023,R2792678,Residential,Yes,,$816,25/06/2023,"$1,079,900",23/06/2023,"$1,079,900",Townhouse
+954,"5995 Crescent Dr, Delta, BC",3,1,1506 sqft,,6,"$3,733",1969,R2788458,Residential,Yes,,$862,25/06/2023,"$1,299,000",11/06/2023,"$1,299,000",Single Family Residence
+955,"217 - 7511 120 St, Delta, BC",1,1,656 sqft,,1,"$1,215",2012,R2788100,Residential,Yes,,$762,24/06/2023,"$486,000",12/06/2023,"$499,999",Apartment/Condominium
+956,"4641 55 A St, Delta, BC",3,3,2416 sqft,,4,"$4,325",1986,R2791457,Residential,Yes,,$570,24/06/2023,"$1,396,800",21/06/2023,"$1,379,000",Single Family Residence
+957,"4407 River Rd W, Delta, BC",3,4,4330 sqft,,7,"$8,061",2021,R2783833,Residential,Yes,,$759,24/06/2023,"$3,000,000",30/05/2023,"$3,288,000",Single Family Residence
+958,"6825 Nicholson Rd, Delta, BC",4,3,2582 sqft,,2,"$2,930",1988,R2786824,Residential,Yes,,$460,23/06/2023,"$1,167,000",05/06/2023,"$1,188,000",Townhouse
+959,"4980 1 Ave, Delta, BC",4,2,3146 sqft,,4,"$4,607",1976,R2791120,Residential,Yes,,$508,22/06/2023,"$1,559,900",20/06/2023,"$1,599,900",Single Family Residence
+960,"11 - 7167 116 St, Delta, BC",3,2,1640 sqft,,2,"$2,580",2020,R2785780,Residential,Yes,,$548,22/06/2023,"$905,000",04/06/2023,"$899,000",Townhouse
+961,"8641 Byron Rd, Delta, BC",5,2,2708 sqft,,4,"$4,029",1977,R2788636,Residential,Yes,,$553,22/06/2023,"$1,600,000",14/06/2023,"$1,499,000",Single Family Residence
+962,"315 - 1315 56 St, Delta, BC",2,2,928 sqft,,2,"$1,741",2007,R2787427,Residential,Yes,,$695,22/06/2023,"$657,000",08/06/2023,"$645,000",Apartment/Condominium
+963,"5555 46 Ave, Delta, BC",4,4,3088 sqft,,6,"$6,273",2014,R2788679,Residential,Yes,,$744,20/06/2023,"$2,240,000",13/06/2023,"$2,299,000",Single Family Residence
+964,"5447 44 Ave, Delta, BC",4,2,2114 sqft,,0,"$3,868",1969,R2786654,Residential,No,,$614,20/06/2023,"$1,290,800",07/06/2023,"$1,299,000",Single Family Residence
+965,"4386 48a St, Delta, BC",4,2,2106 sqft,,2,"$4,126",1969,R2788665,Residential,No,,$593,19/06/2023,"$1,352,000",13/06/2023,"$1,250,000",Single Family Residence
+966,"163 English Bluff Rd, Delta, BC",4,3,2807 sqft,,4,"$6,510",2016,R2779061,Residential,Yes,,$765,19/06/2023,"$2,100,000",17/05/2023,"$2,149,980",Single Family Residence
+967,"17 - 11188 72 Ave, Delta, BC",4,3,1735 sqft,,2,"$2,950",2019,R2782857,Residential,Yes,,$633,19/06/2023,"$1,060,000",29/05/2023,"$1,099,000",Townhouse
+968,"4827 Central Ave, Delta, BC",3,2,1533 sqft,,2,"$2,522",1978,R2789355,Residential,No,,$619,19/06/2023,"$980,000",15/06/2023,"$950,000",Townhouse
+969,"7580 Minster Dr E, Delta, BC",4,3,1896 sqft,,3,"$4,145",1973,R2787794,Residential,Yes,,$737,19/06/2023,"$1,450,000",11/06/2023,"$1,399,000",Single Family Residence
+970,"C301 - 4831 53 St, Delta, BC",2,2,1219 sqft,,1,"$1,934",1992,R2776750,Residential,Yes,,$606,19/06/2023,"$737,500",09/05/2023,"$739,000",Apartment/Condominium
+971,"114 - 4768 53 St, Delta, BC",2,2,1006 sqft,,1,"$1,650",1995,R2786976,Residential,Yes,,$566,18/06/2023,"$588,000",07/06/2023,"$569,800",Apartment/Condominium
+972,"3 - 6712 Baker Rd, Delta, BC",3,2,1285 sqft,,2,"$2,122",1979,R2787903,Residential,No,,$621,18/06/2023,"$790,000",11/06/2023,"$799,000",Townhouse
+973,"8158 113b St, Delta, BC",4,1,2139 sqft,,4,"$4,517",1970,R2787727,Residential,Yes,,$649,18/06/2023,"$1,280,000",11/06/2023,"$1,389,000",Single Family Residence
+974,"8282 Nechako Dr, Delta, BC",4,2,1921 sqft,,3,"$3,488",1972,R2787710,Residential,No,,$624,18/06/2023,"$1,250,000",11/06/2023,"$1,198,800",Single Family Residence
+975,"PH1 - 5555 13a Ave, Delta, BC",1,1,864 sqft,,1,"$1,627",1996,R2787256,Residential,Yes,,$711,18/06/2023,"$634,050",11/06/2023,"$615,000",Apartment/Condominium
+976,"11937 Carriage Pl, Delta, BC",6,3,4024 sqft,,6,"$4,411",1987,R2789208,Residential,Yes,,$387,17/06/2023,"$1,560,000",14/06/2023,"$1,560,000",Single Family Residence
+977,"312 - 6960 Nicholson Rd, Delta, BC",3,2,1027 sqft,,0,"$2,033",2022,R2775793,Residential,Yes,,$803,17/06/2023,"$825,000",09/05/2023,"$825,000",Apartment/Condominium
+978,"11248 82a Ave, Delta, BC",4,2,2537 sqft,,6,"$5,544",1972,R2771906,Residential,Yes,,"$1,576",17/06/2023,"$3,100,000",30/04/2023,"$3,999,900",Single Family Residence
+979,"56 - 8385 Delsom Way, Delta, BC",3,2,1409 sqft,,2,"$2,421",2009,R2785381,Residential,No,,$624,17/06/2023,"$873,000",05/06/2023,"$880,000",Townhouse
+980,"10911 63 Ave, Delta, BC",4,2,2032 sqft,,4,"$3,818",1981,R2790831,Residential,Yes,,$639,17/06/2023,"$1,300,000",17/06/2023,"$1,300,000",Single Family Residence
+981,"206 - 4977 Springs Blvd, Delta, BC",1,1,630 sqft,,1,"$1,678",2019,R2785400,Residential,Yes,,$942,16/06/2023,"$582,000",05/06/2023,"$594,000",Apartment/Condominium
+982,"10976 Mcadam Rd, Delta, BC",2,1,1390 sqft,,4,"$3,999",1954,R2789046,Residential,Yes,,$862,16/06/2023,"$1,250,000",14/06/2023,"$1,198,888",Single Family Residence
+983,"5190 Whitworth Cres S, Delta, BC",4,5,3698 sqft,,2,"$3,986",2023,R2774474,Residential,Yes,,$662,16/06/2023,"$2,475,000",01/05/2023,"$2,449,900",Single Family Residence
+984,"11794 74 Ave, Delta, BC",5,2,2008 sqft,,5,"$4,230",1984,R2780919,Residential,Yes,,$696,15/06/2023,"$1,385,000",04/06/2023,"$1,399,000",Single Family Residence
+985,"5655 10 Ave, Delta, BC",4,2,2184 sqft,,8,"$4,499",1965,R2779394,Residential,No,,$686,14/06/2023,"$1,485,000",17/05/2023,"$1,499,000",Single Family Residence
+986,"4 - 5510 Admiral Way, Delta, BC",4,3,1919 sqft,,3,"$3,822",2016,R2787673,Residential,Yes,,$655,14/06/2023,"$1,258,000",11/06/2023,"$1,258,000",Townhouse
+987,"394C - 8635 120 St, Delta, BC",2,1,900 sqft,,1,"$1,268",1975,R2752174,Residential,No,,$555,13/06/2023,"$485,000",12/02/2023,"$499,900",Apartment/Condominium
+988,"5626 9a Ave, Delta, BC",6,3,2832 sqft,,6,"$4,848",1961,R2783244,Residential,No,,$536,13/06/2023,"$1,438,000",29/05/2023,"$1,518,000",Single Family Residence
+989,"8802 Delwood Dr, Delta, BC",3,3,2179 sqft,,6,"$3,990",1974,R2777065,Residential,Yes,,$710,12/06/2023,"$1,500,000",14/05/2023,"$1,549,000",Single Family Residence
+990,"721 Underhill Dr, Delta, BC",4,2,2485 sqft,,6,"$4,684",1971,R2785036,Residential,Yes,,$562,12/06/2023,"$1,402,000",04/06/2023,"$1,399,000",Single Family Residence
+991,"4980 Cedar Springs Dr, Delta, BC",4,3,2260 sqft,,4,"$5,849",2017,R2787043,Residential,Yes,,$879,11/06/2023,"$1,968,000",08/06/2023,"$1,988,000",Single Family Residence
+992,"5459 49a Ave, Delta, BC",3,2,1863 sqft,,4,"$4,112",1982,R2784728,Residential,Yes,,$858,11/06/2023,"$1,605,000",04/06/2023,"$1,599,000",Single Family Residence
+993,"10316 Johnson Wynd, Delta, BC",3,2,2010 sqft,,2,"$3,917",1972,R2785242,Residential,Yes,,$596,11/06/2023,"$1,200,000",04/06/2023,"$1,198,000",Single Family Residence
+994,"5451 Grove Ave, Delta, BC",3,2,2070 sqft,,4,"$4,647",1988,R2785619,Residential,Yes,,$673,11/06/2023,"$1,475,000",05/06/2023,"$1,395,000",Single Family Residence
+995,"201 - 4768 53 St, Delta, BC",2,2,1002 sqft,,1,"$1,615",1995,R2784960,Residential,Yes,,$618,11/06/2023,"$650,000",04/06/2023,"$619,900",Apartment/Condominium
+996,"109 - 11501 84 Ave, Delta, BC",2,2,1203 sqft,,2,"$2,272",2020,R2785663,Residential,Yes,,$622,11/06/2023,"$755,000",05/06/2023,"$748,888",Apartment/Condominium
+997,"209 - 1150 54a St, Delta, BC",2,2,1370 sqft,,1,"$1,784",1987,R2785661,Residential,Yes,,$575,11/06/2023,"$815,000",05/06/2023,"$788,000",Apartment/Condominium
+998,"7656 115a St, Delta, BC",5,2,2378 sqft,,4,"$4,282",1972,R2785737,Residential,No,,$588,11/06/2023,"$1,525,000",05/06/2023,"$1,399,000",Single Family Residence
+999,"8336 118 St, Delta, BC",5,2,2179 sqft,,3,"$3,752",1970,R2785002,Residential,Yes,,$596,11/06/2023,"$1,350,000",04/06/2023,"$1,299,999",Single Family Residence
+1000,"5328 Galleon Pl, Delta, BC",3,2,2276 sqft,,4,"$4,441",1994,R2785971,Residential,Yes,,$746,11/06/2023,"$1,700,000",07/06/2023,"$1,699,900",Single Family Residence
+1001,"4952 Willow Springs Ave, Delta, BC",4,5,2900 sqft,,4,"$5,581",2019,R2746170,Residential,Yes,,$654,10/06/2023,"$1,780,000",15/01/2023,"$1,898,000",Single Family Residence
+1002,"104 - 11650 96 Ave, Delta, BC",3,1,1607 sqft,,1,"$1,882",1972,R2786170,Residential,No,,$434,10/06/2023,"$720,000",07/06/2023,"$699,000",Townhouse
+1003,"59 - 8385 Delsom Way, Delta, BC",3,2,1457 sqft,,3,,9999,R2782864,Residential,Yes,,$617,09/06/2023,"$898,000",21/05/2023,"$899,000",Townhouse
+1004,"1101 - 11881 88 Ave, Delta, BC",2,1,1139 sqft,,1,"$1,475",1986,R2785069,Residential,Yes,,$438,09/06/2023,"$515,000",04/06/2023,"$499,900",Apartment/Condominium
+1005,"1635 Maple Springs Lane, Delta, BC",3,3,2175 sqft,,4,"$4,950",2017,R2778068,Residential,Yes,,$827,09/06/2023,"$1,765,000",15/05/2023,"$1,800,000",Single Family Residence
+1006,"6847 Ryall Cres, Delta, BC",3,2,1801 sqft,,6,"$4,895",1973,R2783418,Residential,Yes,,$860,09/06/2023,"$1,485,000",29/05/2023,"$1,549,000",Single Family Residence
+1007,"306 - 1428 56 St, Delta, BC",2,2,1044 sqft,,2,"$1,617",1994,R2782731,Residential,Yes,,$602,07/06/2023,"$620,000",29/05/2023,"$629,000",Apartment/Condominium
+1008,"5089 Westminster Ave, Delta, BC",3,2,2364 sqft,,6,"$4,396",1969,R2780066,Residential,Yes,,$634,07/06/2023,"$1,510,000",21/05/2023,"$1,499,000",Single Family Residence
+1009,"3 - 5260 Ferry Rd, Delta, BC",4,2,1816 sqft,,4,"$4,369",1992,R2772280,Residential,Yes,,$764,07/06/2023,"$1,360,000",27/04/2023,"$1,389,000",Single Family Residence
+1010,"5046 Linden Dr, Delta, BC",4,2,2454 sqft,,5,"$4,263",1969,R2763053,Residential,Yes,,$672,06/06/2023,"$1,600,000",27/03/2023,"$1,650,000",Single Family Residence
+1011,"11045 Lincoln Dr, Delta, BC",6,3,3157 sqft,,7,"$5,511",1972,R2781952,Residential,Yes,,$595,06/06/2023,"$1,810,000",28/05/2023,"$1,880,000",Single Family Residence
+1012,"35 53 St, Delta, BC",5,4,3057 sqft,,6,"$4,264",2023,R2781578,Residential,Yes,,$811,06/06/2023,"$2,354,000",23/05/2023,"$2,479,888",Single Family Residence
+1013,"3 - 3871 River Rd W, Delta, BC",2,2,2157 sqft,,2,"$1,825",2004,R2780403,Residential,No,,$402,05/06/2023,"$841,000",22/05/2023,"$869,000",Single Family Residence
+1014,"11834 87 Ave, Delta, BC",4,1,2100 sqft,,0,"$4,396",1960,R2758525,Residential,No,,$797,05/06/2023,"$1,600,000",02/03/2023,"$1,675,000",Single Family Residence
+1015,"11232 Glenbrook Pl, Delta, BC",4,2,1665 sqft,,3,"$4,006",1977,R2783204,Residential,Yes,,$780,05/06/2023,"$1,311,000",31/05/2023,"$1,299,000",Single Family Residence
+1016,"4918 Cedar Cres, Delta, BC",3,2,2105 sqft,,4,"$4,346",1969,R2782885,Residential,Yes,,$617,05/06/2023,"$1,560,000",29/05/2023,"$1,299,000",Single Family Residence
+1017,"7273 111a St, Delta, BC",5,2,2205 sqft,,5,"$4,799",1970,R2779288,Residential,Yes,,$634,05/06/2023,"$1,600,000",17/05/2023,"$1,399,000",Single Family Residence
+1018,"5627 52 Ave, Delta, BC",4,2,2470 sqft,,4,"$4,002",1978,R2782434,Residential,No,,$526,05/06/2023,"$1,355,000",28/05/2023,"$1,299,900",Single Family Residence
+1019,"8904 116 St, Delta, BC",4,2,2281 sqft,,4,"$3,875",1970,R2783246,Residential,Yes,,$613,05/06/2023,"$1,325,000",30/05/2023,"$1,399,000",Single Family Residence
+1020,"4625 44b Ave, Delta, BC",5,2,2223 sqft,,6,"$4,135",1970,R2783426,Residential,Yes,,$652,05/06/2023,"$1,500,000",30/05/2023,"$1,449,900",Single Family Residence
+1021,"11304 91 Ave, Delta, BC",3,1,1060 sqft,,5,"$3,958",1959,R2783274,Residential,No,,"$1,113",05/06/2023,"$1,200,000",30/05/2023,"$1,179,800",Single Family Residence
+1022,"7416 Barrymore Dr, Delta, BC",3,2,2022 sqft,,3,"$4,043",1976,R2782996,Residential,No,,$592,05/06/2023,"$1,300,000",31/05/2023,"$1,199,000",Single Family Residence
+1023,"11902 Baker Pl, Delta, BC",3,2,1376 sqft,,3,"$3,729",1979,R2783345,Residential,No,,$799,04/06/2023,"$1,163,000",30/05/2023,"$1,099,900",Single Family Residence
+1024,"1160 Ehkolie Cres, Delta, BC",4,3,2194 sqft,,8,"$4,541",1965,R2770705,Residential,Yes,,$706,04/06/2023,"$1,480,000",23/04/2023,"$1,549,000",Single Family Residence
+1025,"47 - 5510 Admiral Way, Delta, BC",4,3,1972 sqft,,4,"$3,822",2016,R2783312,Residential,Yes,,$659,04/06/2023,"$1,320,000",30/05/2023,"$1,299,800",Townhouse
+1026,"406 - 9015 120 St, Delta, BC",2,2,904 sqft,,0,"$1,769",2019,R2782634,Residential,Yes,,$663,04/06/2023,"$620,000",30/05/2023,"$599,888",Apartment/Condominium
+1027,"301 - 9015 120 St, Delta, BC",2,1,869 sqft,,1,"$1,640",2019,R2767178,Residential,Yes,,$677,04/06/2023,"$585,000",11/04/2023,"$589,000",Apartment/Condominium
+1028,"11367 88 Ave, Delta, BC",5,1,2148 sqft,,2,"$3,911",1969,R2782097,Residential,No,,$674,04/06/2023,"$1,520,000",30/05/2023,"$1,449,000",Single Family Residence
+1029,"98 - 5550 Admiral Way, Delta, BC",3,2,1379 sqft,,2,"$2,936",2016,R2780433,Residential,Yes,,$723,04/06/2023,"$1,010,000",22/05/2023,"$998,000",Townhouse
+1030,"12 - 6300 Cottonwood St, Delta, BC",4,2,2201 sqft,,2,"$3,187",1988,R2783952,Residential,Yes,,$408,04/06/2023,"$1,020,000",31/05/2023,"$899,000",Townhouse
+1031,"6277 Dawn Dr, Delta, BC",4,2,2687 sqft,,6,"$4,709",1989,R2783556,Residential,Yes,,$632,04/06/2023,"$1,675,000",30/05/2023,"$1,699,000",Single Family Residence
+1032,"7522 Minster Dr E, Delta, BC",4,2,2295 sqft,,4,"$4,019",1974,R2778705,Residential,Yes,,$609,04/06/2023,"$1,400,000",16/05/2023,"$1,399,900",Single Family Residence
+1033,"2 - 6427 Hammermill Ave, Delta, BC",3,2,1577 sqft,,3,"$3,118",2021,R2764809,Residential,Yes,,$823,04/06/2023,"$1,243,000",02/04/2023,"$1,299,000",Townhouse
+1034,"3360 River Rd W, Delta, BC",7,8,8000 sqft,,7,"$7,058",2007,R2689780,Residential,Yes,,$985,03/06/2023,"$5,900,000",15/05/2022,"$7,880,000",Single Family Residence
+1035,"304 - 1175 Ferguson Rd, Delta, BC",2,1,990 sqft,,2,"$1,369",1975,R2783475,Residential,Yes,,$555,-,Not Sold Yet,16/04/2024,"$515,000",Apartment/Condominium
+1036,"215 - 6960 Nicholson Rd, Delta, BC",2,2,860 sqft,,1,"$1,718",2021,R2778973,Residential,Yes,,$779,02/06/2023,"$670,000",16/05/2023,"$670,000",Apartment/Condominium
+1037,"23 - 5661 Ladner Trunk Rd, Delta, BC",2,1,862 sqft,,1,"$1,567",1989,R2777777,Residential,Yes,,$637,01/06/2023,"$558,000",14/05/2023,"$549,900",Apartment/Condominium
+1038,"11761 92 Ave, Delta, BC",6,3,2290 sqft,,4,"$4,027",1967,R2776543,Residential,No,,$676,01/06/2023,"$1,390,000",08/05/2023,"$1,549,000",Single Family Residence
+1039,"8098 113a St, Delta, BC",4,2,2358 sqft,,4,"$4,342",1973,R2780209,Residential,Yes,,$635,31/05/2023,"$1,510,000",22/05/2023,"$1,499,000",Single Family Residence
+1040,"11452 93 Ave, Delta, BC",5,4,2500 sqft,,6,"$5,831",2021,R2781198,Residential,Yes,,$755,31/05/2023,"$1,870,000",24/05/2023,"$1,888,888",Single Family Residence
+1041,"43 - 8355 Delsom Way, Delta, BC",3,2,1343 sqft,,2,"$2,945",2009,R2781336,Residential,Yes,,$670,30/05/2023,"$876,000",22/05/2023,"$899,880",Townhouse
+1042,"5026 1a Ave, Delta, BC",4,3,2327 sqft,,6,"$4,426",1977,R2782168,Residential,Yes,,$729,30/05/2023,"$1,680,000",28/05/2023,"$1,698,000",Single Family Residence
+1043,"6123 28 Ave, Delta, BC",4,3,3627 sqft,,15,"$2,129",1983,R2769855,Residential,Yes,,"$1,516",30/05/2023,"$4,750,000",18/04/2023,"$5,499,000",Single Family Residence
+1044,"10504 Main St, Delta, BC",5,2,2351 sqft,,7,"$4,176",1970,R2779281,Residential,No,,$680,30/05/2023,"$1,600,000",22/05/2023,"$1,599,900",Single Family Residence
+1045,"4885 64 St, Delta, BC",3,1,1495 sqft,,4,"$4,090",1956,R2772657,Residential,No,,$848,30/05/2023,"$1,260,000",03/05/2023,"$1,268,000",Single Family Residence
+1046,"10871 Brandy Dr, Delta, BC",6,3,2850 sqft,,8,"$3,966",1969,R2780886,Residential,No,,$508,30/05/2023,"$1,449,000",22/05/2023,"$1,449,000",Single Family Residence
+1047,"11438 Somerset Cres, Delta, BC",4,2,2557 sqft,,6,"$5,366",1979,R2780584,Residential,Yes,,$674,29/05/2023,"$1,757,000",24/05/2023,"$1,725,000",Single Family Residence
+1048,"5575 45 Ave, Delta, BC",5,2,1966 sqft,,0,"$4,034",1968,R2771576,Residential,No,,$726,29/05/2023,"$1,400,000",25/04/2023,"$1,429,000",Single Family Residence
+1049,"11 - 6105 River Rd, Delta, BC",2,2,1647 sqft,,2,"$2,885",2005,R2781323,Residential,Yes,,$690,29/05/2023,"$1,130,000",24/05/2023,"$1,138,000",Multi Family
+1050,"4702 Holly Park Wynd, Delta, BC",3,3,2218 sqft,,4,"$4,799",1989,R2779989,Residential,Yes,,$698,29/05/2023,"$1,610,000",22/05/2023,"$1,549,900",Single Family Residence
+1051,"6521 Bradford Pl, Delta, BC",4,2,1875 sqft,,8,"$5,167",1972,R2773812,Residential,No,,$840,29/05/2023,"$1,540,000",01/05/2023,"$1,575,000",Single Family Residence
+1052,"11827 85b Ave, Delta, BC",4,3,2393 sqft,,6,"$4,313",1972,R2780782,Residential,Yes,,$543,29/05/2023,"$1,453,500",22/05/2023,"$1,299,900",Single Family Residence
+1053,"8090 Modesto Dr, Delta, BC",4,2,2422 sqft,,4,"$3,814",1975,R2779675,Residential,No,,$618,29/05/2023,"$1,400,000",21/05/2023,"$1,498,888",Single Family Residence
+1054,"5251 10 Ave, Delta, BC",3,2,1707 sqft,,6,"$4,455",1969,R2781359,Residential,Yes,,$848,29/05/2023,"$1,420,000",24/05/2023,"$1,449,000",Single Family Residence
+1055,"379 54 St, Delta, BC",3,2,2114 sqft,,4,"$4,931",1976,R2782144,Residential,Yes,,$780,29/05/2023,"$1,650,000",28/05/2023,"$1,650,000",Single Family Residence
+1056,"5048 57 St, Delta, BC",5,2,2273 sqft,,3,"$4,143",1968,R2780944,Residential,No,,$610,29/05/2023,"$1,440,000",23/05/2023,"$1,388,000",Single Family Residence
+1057,"1043 Walalee Dr, Delta, BC",3,2,1877 sqft,,6,"$4,551",1964,R2779790,Residential,No,,$905,28/05/2023,"$1,790,000",22/05/2023,"$1,699,000",Single Family Residence
+1058,"6931 Nicholson Rd, Delta, BC",5,3,3229 sqft,,6,"$4,243",1983,R2780305,Residential,Yes,,$394,28/05/2023,"$1,481,000",24/05/2023,"$1,275,000",Single Family Residence
+1059,"5311 Saratoga Dr, Delta, BC",4,4,3038 sqft,,7,"$4,531",1965,R2779513,Residential,Yes,,$575,28/05/2023,"$1,710,000",18/05/2023,"$1,749,000",Single Family Residence
+1060,"370 53a St, Delta, BC",4,4,3977 sqft,,4,"$4,828",1978,R2780175,Residential,No,,$626,28/05/2023,"$2,450,000",22/05/2023,"$2,490,000",Single Family Residence
+1061,"5 - 5311 Admiral Way, Delta, BC",3,2,1803 sqft,,2,,2023,R2776623,Residential,Yes,,$747,28/05/2023,"$1,348,000",09/05/2023,"$1,348,000",Townhouse
+1062,"68 - 10415 Delsom Cres, Delta, BC",3,2,1484 sqft,,2,"$2,675",2011,R2780217,Residential,Yes,,$606,28/05/2023,"$937,500",22/05/2023,"$899,900",Townhouse
+1063,"11211 Kendale Way, Delta, BC",5,3,3450 sqft,,6,"$4,550",1959,R2777514,Residential,No,,$449,27/05/2023,"$1,575,000",14/05/2023,"$1,550,000",Single Family Residence
+1064,"303 - 1768 55a St, Delta, BC",3,3,1844 sqft,,2,"$3,361",2016,R2767615,Residential,Yes,,$557,27/05/2023,"$987,000",09/04/2023,"$1,028,000",Townhouse
+1065,"9045 114 St, Delta, BC",4,2,2294 sqft,,2,"$4,391",1967,R2781316,Residential,No,,$640,26/05/2023,"$1,440,000",23/05/2023,"$1,469,000",Single Family Residence
+1066,"11776 Chateau Wynd, Delta, BC",4,3,3271 sqft,,6,"$4,803",1981,R2766986,Residential,Yes,,$537,26/05/2023,"$1,757,000",10/04/2023,"$1,759,000",Single Family Residence
+1067,"11052 Upper Canyon Rd, Delta, BC",3,2,1564 sqft,,4,"$4,303",1978,R2773504,Residential,Yes,,$894,26/05/2023,"$1,375,000",01/05/2023,"$1,399,000",Single Family Residence
+1068,"11509 72 A Ave, Delta, BC",4,2,1839 sqft,,2,"$4,245",1970,R2775451,Residential,No,,"$1,005",25/05/2023,"$1,685,000",07/05/2023,"$1,849,000",Single Family Residence
+1069,"5013 Linden Dr, Delta, BC",4,2,2103 sqft,,4,"$4,140",1988,R2780374,Residential,Yes,,$655,25/05/2023,"$1,425,000",21/05/2023,"$1,379,000",Single Family Residence
+1070,"11845 Ivywood Pl, Delta, BC",4,3,2503 sqft,,6,"$5,229",1980,R2778096,Residential,Yes,,$674,25/05/2023,"$1,670,000",14/05/2023,"$1,689,000",Single Family Residence
+1071,"48 - 11188 72 Ave, Delta, BC",4,3,2020 sqft,,2,"$3,157",2018,R2781667,Residential,Yes,,$569,25/05/2023,"$1,150,000",21/05/2023,"$1,150,000",Townhouse
+1072,"110 - 6950 Nicholson Rd, Delta, BC",1,1,645 sqft,,1,"$1,365",2021,R2772549,Residential,Yes,,$821,24/05/2023,"$520,000",30/04/2023,"$529,800",Apartment/Condominium
+1073,"208 - 1428 56 St, Delta, BC",1,1,683 sqft,,2,"$1,147",1994,R2778083,Residential,Yes,,$753,24/05/2023,"$518,400",15/05/2023,"$514,800",Apartment/Condominium
+1074,"5162 57a St, Delta, BC",4,2,2136 sqft,,4,"$4,205",1968,R2780310,Residential,No,,$648,24/05/2023,"$1,405,000",22/05/2023,"$1,385,000",Single Family Residence
+1075,"1749 Duncan Dr, Delta, BC",4,2,2198 sqft,,6,"$4,658",1986,R2777659,Residential,No,,$727,23/05/2023,"$1,600,000",14/05/2023,"$1,599,000",Single Family Residence
+1076,"5675 Abbey Dr, Delta, BC",7,6,5467 sqft,,5,"$8,680",2020,R2777637,Residential,Yes,,$512,23/05/2023,"$2,932,000",15/05/2023,"$2,800,000",Single Family Residence
+1077,"147 - 5421 10 Ave, Delta, BC",1,1,755 sqft,,1,"$1,111",1976,R2777016,Residential,Yes,,$596,23/05/2023,"$455,000",11/05/2023,"$450,000",Apartment/Condominium
+1078,"5466 6a Ave, Delta, BC",3,2,2224 sqft,,3,"$4,169",1970,R2779070,Residential,Yes,,$584,22/05/2023,"$1,300,000",17/05/2023,"$1,299,000",Single Family Residence
+1079,"5335 Commodore Dr, Delta, BC",3,2,2190 sqft,,4,"$4,646",1994,R2775117,Residential,Yes,,$684,16/05/2023,"$1,500,000",07/05/2023,"$1,498,000",Single Family Residence
+1080,"7383 Minster Dr S, Delta, BC",3,1,2099 sqft,,6,"$3,999",1971,R2775983,Residential,Yes,,$662,16/05/2023,"$1,450,000",08/05/2023,"$1,390,000",Single Family Residence
+1081,"237 66a St, Delta, BC",4,3,2264 sqft,,4,"$5,258",1982,R2776185,Residential,Yes,,$882,10/05/2023,"$1,998,000",07/05/2023,"$1,998,000",Single Family Residence
+1082,"204 - 1315 56 St, Delta, BC",2,2,942 sqft,,1,"$1,744",2007,R2767918,Residential,Yes,,$674,05/05/2023,"$618,000",11/04/2023,"$635,000",Apartment/Condominium
+1083,"6003 Kirkwood Rd, Delta, BC",5,4,2840 sqft,,6,"$5,035",1946,R2770622,Residential,Yes,,$524,30/04/2023,"$1,500,000",18/04/2023,"$1,489,000",Single Family Residence
+1084,"1585 Beach Grove Rd, Delta, BC",3,2,2091 sqft,,3,"$4,260",1956,R2769068,Residential,No,,$803,25/04/2023,"$1,650,000",16/04/2023,"$1,680,000",Single Family Residence
+1085,"4912 River Reach, Delta, BC",3,1,1211 sqft,,1,"$2,142",1978,R2754941,Residential,No,,$648,21/04/2023,"$775,000",22/02/2023,"$785,000",Townhouse
+1086,"6075 49 Ave, Delta, BC",3,1,1561 sqft,,5,"$3,905",1968,R2766865,Residential,Yes,,$768,17/04/2023,"$1,330,000",10/04/2023,"$1,199,000",Single Family Residence
+1087,"11468 Pemberton Cres, Delta, BC",7,7,4639 sqft,,6,"$3,970",2022,R2744532,Residential,Yes,,$506,12/04/2023,"$2,300,000",05/01/2023,"$2,349,000",Single Family Residence
+1088,"7092 115 St, Delta, BC",4,2,2891 sqft,,6,"$4,391",1987,R2765323,Residential,Yes,,$510,05/04/2023,"$1,415,000",04/04/2023,"$1,475,000",Single Family Residence
+1089,"8855 Stegavik Crt, Delta, BC",7,6,3929 sqft,,6,"$5,765",2014,R2764859,Residential,Yes,,$473,02/04/2023,"$1,860,000",02/04/2023,"$1,860,000",Single Family Residence
+1090,"7143 Nicholson Rd, Delta, BC",4,2,1815 sqft,,3,"$3,899",1977,R2761014,Residential,Yes,,$710,28/03/2023,"$1,350,000",19/03/2023,"$1,289,000",Single Family Residence
+1091,"9565 116 St, Delta, BC",7,3,2670 sqft,,0,"$3,715",1956,R2745804,Residential,No,,$505,22/03/2023,"$1,350,000",12/01/2023,"$1,349,000",Single Family Residence
+1092,"4523 King Edward Pl, Delta, BC",5,4,5390 sqft,,4,"$5,003",1970,R2871718,Residential,Yes,,$332,-,Not Sold Yet,15/04/2024,"$1,790,000",Single Family Residence
+1093,"114 - 1702 56 St, Delta, BC",2,2,1196 sqft,,2,"$2,288",1996,R2756348,Residential,Yes,,$601,05/03/2023,"$712,000",28/02/2023,"$719,900",Townhouse
+1094,"625 Gilchrist Dr, Delta, BC",5,4,2260 sqft,,2,"$3,450",1968,R2849984,Residential,No,,$552,03/03/2024,"$1,233,000",13/02/2024,"$1,249,000",Multi Family
+1095,"210 - 9015 120 St, Delta, BC",1,1,686 sqft,,1,"$1,314",2019,R2747681,Residential,Yes,,$711,15/02/2023,"$485,000",22/01/2023,"$488,000",Apartment/Condominium
+1096,"7159 York Cres, Delta, BC",3,2,1809 sqft,,4,"$3,967",1979,R2745841,Residential,Yes,,$704,08/02/2023,"$1,275,000",12/01/2023,"$1,275,000",Single Family Residence
+1097,"505 - 1350 View Cres, Delta, BC",2,2,1602 sqft,,2,"$2,293",1984,R2748853,Residential,Yes,,$480,29/01/2023,"$797,500",26/01/2023,"$769,000",Apartment/Condominium
+1098,"6636 Ryall Cres, Delta, BC",4,2,3017 sqft,,6,"$5,064",1975,R2850734,Residential,Yes,,$480,26/03/2024,"$1,400,000",18/02/2024,"$1,450,000",Single Family Residence
+1099,"5 - 11556 72a Ave, Delta, BC",4,2,1452 sqft,,2,"$2,690",2023,R2869593,Residential,Yes,,$653,07/05/2024,"$950,000",10/04/2024,"$949,000",Townhouse
+1100,"16 - 6712 Baker Rd, Delta, BC",3,1,1337 sqft,,2,"$2,203",1982,R2741900,Residential,No,,$486,14/12/2022,"$645,000",07/12/2022,"$649,900",Townhouse
+1101,"5743 17a Ave, Delta, BC",3,2,2214 sqft,,2,"$4,536",1963,R2729077,Residential,No,,$541,01/12/2022,"$1,100,000",04/10/2022,"$1,199,000",Single Family Residence
+1102,"5445 Candlewyck Wynd, Delta, BC",4,2,2476 sqft,,6,"$4,334",1981,R2711646,Residential,Yes,,$595,16/11/2022,"$1,370,000",20/07/2022,"$1,475,000",Single Family Residence
+1103,"1027 Walalee Dr, Delta, BC",4,3,2629 sqft,,6,"$4,366",1963,R2735955,Residential,Yes,,$595,05/11/2022,"$1,575,000",31/10/2022,"$1,565,800",Single Family Residence
+1104,"304 - 6866 Nicholson Rd, Delta, BC",2,2,1739 sqft,,2,"$2,073",1990,R2723016,Residential,Yes,,$448,18/10/2022,"$600,000",12/09/2022,"$779,999",Apartment/Condominium
+1105,"5200 Lynn Pl, Delta, BC",4,3,2226 sqft,,4,"$3,411",2022,R2718797,Residential,Yes,,$718,10/10/2022,"$1,523,809",23/08/2022,"$1,599,000",Single Family Residence
+1106,"1 - 4965 47 Ave, Delta, BC",2,2,1833 sqft,,2,"$2,683",1987,R2725641,Residential,Yes,,$436,25/09/2022,"$799,900",20/09/2022,"$799,900",Townhouse
+1107,"5066 Massey Dr, Delta, BC",3,1,2457 sqft,,8,"$4,150",1968,R2723345,Residential,Yes,,$447,14/09/2022,"$1,160,000",12/09/2022,"$1,099,000",Single Family Residence
+1108,"5379 Regatta Way, Delta, BC",2,2,1333 sqft,,2,"$2,653",1989,R2717608,Residential,Yes,,$673,31/08/2022,"$890,000",16/08/2022,"$898,000",Single Family Residence
+1109,"210 - 4803 48 Ave, Delta, BC",2,2,1245 sqft,,1,"$2,269",1985,R2692837,Residential,Yes,,$641,21/08/2022,"$770,000",24/05/2022,"$799,000",Apartment/Condominium
+1110,"8135 116 A St, Delta, BC",5,2,2109 sqft,,3,"$3,649",1971,R2705248,Residential,Yes,,$615,12/08/2022,"$1,056,000",05/07/2022,"$1,299,000",Single Family Residence
+1111,"23 - 11880 82 Ave, Delta, BC",2,2,1802 sqft,,2,"$2,157",1988,R2699671,Residential,Yes,,$443,01/08/2022,"$775,000",13/06/2022,"$798,800",Townhouse
+1112,"6230 Sunwood Dr, Delta, BC",4,2,2835 sqft,,6,"$4,505",1981,R2692166,Residential,Yes,,$560,18/07/2022,"$1,500,000",23/05/2022,"$1,590,000",Single Family Residence
+1113,"11493 Bond Blvd, Delta, BC",4,3,2657 sqft,,6,"$5,488",1972,R2695438,Residential,Yes,,$691,11/07/2022,"$1,685,000",31/05/2022,"$1,838,000",Single Family Residence
+1114,"11942 Carriage Pl, Delta, BC",3,2,2005 sqft,,6,"$4,218",1986,R2693968,Residential,Yes,,$747,27/06/2022,"$1,400,000",29/05/2022,"$1,498,888",Single Family Residence
+1115,"11945 Carriage Pl, Delta, BC",4,2,3083 sqft,,4,"$4,405",1987,R2697114,Residential,Yes,,$544,17/06/2022,"$1,600,000",05/06/2022,"$1,680,000",Single Family Residence
+1116,"4963 Cedar Cres, Delta, BC",6,4,3746 sqft,,0,"$4,381",1970,R2891923,Residential,No,,$471,-,Not Sold Yet,05/06/2024,"$1,768,000",Single Family Residence
+1117,"4 - 6712 Baker Rd, Delta, BC",3,1,1283 sqft,,2,"$2,149",1980,R2680726,Residential,No,,$583,02/06/2022,"$749,000",24/04/2022,"$749,000",Townhouse
+1118,"11892 Gilmour Cres, Delta, BC",7,2,2549 sqft,,6,"$4,428",1971,R2802730,Residential,Yes,,$627,-,-,27/07/2023,"$1,599,800",Single Family Residence
+1119,"34 - 4787 57 St, Delta, BC",3,2,1543 sqft,,2,"$2,383",2003,R2687535,Residential,No,,$550,16/05/2022,"$915,000",10/05/2022,"$849,900",Townhouse
+1120,"305 - 9015 120 St, Delta, BC",2,2,905 sqft,,1,"$1,466",2019,R2673031,Residential,Yes,,$745,10/05/2022,"$662,000",04/04/2022,"$675,000",Apartment/Condominium
+1121,"8133 113a St, Delta, BC",4,2,2100 sqft,,4,"$3,801",1959,R2682654,Residential,No,,$713,03/05/2022,"$1,400,000",28/04/2022,"$1,498,000",Single Family Residence
+1122,"4793 46 Ave, Delta, BC",5,2,2458 sqft,,3,"$3,766",1970,R2679647,Residential,No,,$609,25/04/2022,"$1,565,000",20/04/2022,"$1,499,000",Single Family Residence
+1123,"10785 80 Ave, Delta, BC",4,3,2128 sqft,,6,"$3,676",1986,R2675131,Residential,Yes,,$657,18/04/2022,"$1,538,000",11/04/2022,"$1,399,900",Single Family Residence
+1124,"77 - 5510 Admiral Way, Delta, BC",4,3,1859 sqft,,2,"$3,726",2016,R2668304,Residential,Yes,,$714,11/04/2022,"$1,280,000",22/03/2022,"$1,328,000",Townhouse
+1125,"305 - 1175 Ferguson Rd, Delta, BC",2,1,972 sqft,,2,"$1,600",1976,R2667820,Residential,Yes,,$554,04/04/2022,"$520,000",21/03/2022,"$539,000",Apartment/Condominium
+1126,"414 - 5518 14 Ave, Delta, BC",1,1,800 sqft,,1,"$1,505",1995,R2667507,Residential,Yes,,$623,28/03/2022,"$639,000",21/03/2022,"$499,000",Apartment/Condominium
+1127,"2708 - 11967 80 Ave, Delta, BC",2,2,837 sqft,,2,"$2,565",2017,R2664206,Residential,Yes,,$895,22/03/2022,"$760,000",13/03/2022,"$749,900",Apartment/Condominium
+1128,"103 - 4745 54a St, Delta, BC",2,2,1142 sqft,,1,"$2,420",1997,R2649593,Residential,Yes,,$556,15/03/2022,"$620,000",05/02/2022,"$635,000",Apartment/Condominium
+1129,"9120 114 St, Delta, BC",4,1,2269 sqft,,3,"$3,598",1966,R2655063,Residential,Yes,,$628,12/03/2022,"$1,525,000",21/02/2022,"$1,425,000",Single Family Residence
+1130,"16 - 4959 57 St, Delta, BC",2,1,982 sqft,,0,"$1,667",1969,R2659258,Residential,No,,$599,06/03/2022,"$596,000",28/02/2022,"$589,000",Townhouse
+1131,"5051 Willow Springs Ave, Delta, BC",3,3,1828 sqft,,4,"$5,238",2015,R2655331,Residential,Yes,,$856,28/02/2022,"$1,650,000",21/02/2022,"$1,565,000",Single Family Residence
+1132,"5400 Paton Dr, Delta, BC",5,2,3030 sqft,,4,"$4,080",1973,R2651622,Residential,Yes,,$659,26/02/2022,"$2,010,000",09/02/2022,"$1,998,000",Single Family Residence
+1133,"10228 Sheaves Way, Delta, BC",7,4,3973 sqft,,0,"$5,902",1994,R2877355,Residential,Yes,,$500,-,Not Sold Yet,30/04/2024,"$1,989,000",Single Family Residence
+1134,"5580 48 B Ave, Delta, BC",4,3,2423 sqft,,4,"$3,973",1975,R2650922,Residential,Yes,,$619,16/02/2022,"$1,550,000",08/02/2022,"$1,499,900",Single Family Residence
+1135,"4690 53 St, Delta, BC",3,3,1925 sqft,,4,"$4,053",2014,R2651003,Residential,Yes,,$830,14/02/2022,"$1,575,000",08/02/2022,"$1,599,000",Single Family Residence
+1136,"11450 73 Ave, Delta, BC",5,2,2017 sqft,,4,"$3,772",1971,R2650783,Residential,No,,$792,10/02/2022,"$1,715,000",07/02/2022,"$1,598,000",Single Family Residence
+1137,"250 Parkside St, Delta, BC",4,2,2507 sqft,,2,,2021,R2629186,Residential,Yes,,$781,06/02/2022,"$1,959,900",26/10/2021,"$1,959,900",Single Family Residence
+1138,"7293 Blake Dr, Delta, BC",6,2,2110 sqft,,0,"$3,886",1969,R2836008,Residential,No,,$684,-,-,28/11/2023,"$1,444,000",Single Family Residence
+1139,"5519 5b Ave, Delta, BC",3,2,2778 sqft,,3,"$4,087",1966,R2645076,Residential,Yes,,$467,30/01/2022,"$1,580,000",23/01/2022,"$1,299,000",Single Family Residence
+1140,"1698 53a St, Delta, BC",4,3,3049 sqft,,2,"$4,397",1989,R2644401,Residential,Yes,,$517,24/01/2022,"$1,547,000",18/01/2022,"$1,578,000",Single Family Residence
+1141,"1593 Pine Springs Lane, Delta, BC",5,5,2870 sqft,,4,"$5,517",2019,R2642186,Residential,Yes,,$625,17/01/2022,"$1,838,000",10/01/2022,"$1,795,000",Single Family Residence
+1142,"A106 - 4811 53 St, Delta, BC",1,1,840 sqft,,1,"$1,465",1992,R2640590,Residential,Yes,,$511,10/01/2022,"$525,000",04/01/2022,"$429,785",Apartment/Condominium
+1143,"1143 Pacific Dr, Delta, BC",5,4,5627 sqft,,6,"$12,408",1978,R2614201,Residential,Yes,,$602,25/12/2021,"$3,000,000",01/09/2021,"$3,388,800",Single Family Residence
+1144,"215 - 1359 56 St, Delta, BC",2,2,1280 sqft,,1,"$2,436",1994,R2888354,Residential,Yes,,$624,-,Not Sold Yet,27/05/2024,"$799,000",Apartment/Condominium
+1145,"5409 4a Ave, Delta, BC",3,2,1538 sqft,,5,"$4,110",1973,R2746119,Residential,Yes,,"$1,007",06/04/2023,"$1,460,000",15/01/2023,"$1,549,000",Single Family Residence
+1146,"712 Thistledown Pl, Delta, BC",4,2,2482 sqft,,6,"$5,402",1980,R2636072,Residential,Yes,,$644,04/12/2021,"$1,599,000",28/11/2021,"$1,599,000",Single Family Residence
+1147,"4 - 10605 Delsom Cres, Delta, BC",4,3,2012 sqft,,4,"$3,023",2009,R2635062,Residential,No,,$484,28/11/2021,"$1,100,000",22/11/2021,"$975,000",Townhouse
+1148,"8211 Wadham Dr, Delta, BC",3,1,1144 sqft,,4,"$3,699",1971,R2633010,Residential,Yes,,"$1,048",22/11/2021,"$1,510,000",15/11/2021,"$1,199,000",Single Family Residence
+1149,"11993 Sunwood Pl, Delta, BC",3,1,1204 sqft,,4,"$4,051",1955,R2632617,Residential,No,,$975,15/11/2021,"$1,175,000",11/11/2021,"$1,175,000",Single Family Residence
+1150,"210 - 4745 54a St, Delta, BC",1,1,705 sqft,,1,"$1,467",1999,R2632876,Residential,Yes,,$550,13/11/2021,"$396,000",10/11/2021,"$388,000",Apartment/Condominium
+1151,"202 - 6950 Nicholson Rd, Delta, BC",1,1,602 sqft,,1,,2021,R2625937,Residential,Yes,,$789,06/11/2021,"$470,000",12/10/2021,"$475,000",Apartment/Condominium
+1152,"7326 112 St, Delta, BC",5,3,2555 sqft,,7,"$3,639",1969,R2628189,Residential,Yes,,$567,31/10/2021,"$1,496,000",24/10/2021,"$1,449,000",Single Family Residence
+1153,"11284 86a Ave, Delta, BC",3,4,1803 sqft,,6,"$4,020",1972,R2728898,Residential,Yes,,$720,02/04/2023,"$1,268,000",02/10/2022,"$1,299,888",Single Family Residence
+1154,"103 - 4518 51 St, Delta, BC",1,1,822 sqft,,1,,2021,R2619390,Residential,Yes,,$694,21/10/2021,"$570,500",19/09/2021,"$570,500",Apartment/Condominium
+1155,"260 Parkside St, Delta, BC",4,3,2517 sqft,,2,,2021,R2623979,Residential,Yes,,$762,16/10/2021,"$1,919,900",03/10/2021,"$1,919,900",Single Family Residence
+1156,"9376 118 St, Delta, BC",3,2,2074 sqft,,5,"$4,039",1967,R2622675,Residential,Yes,,$614,13/10/2021,"$1,513,000",30/09/2021,"$1,275,000",Single Family Residence
+1157,"B505 - 6950 Nicholson Rd, Delta, BC",1,1,608 sqft,,1,,2021,R2622008,Residential,Yes,,$738,06/10/2021,"$435,500",28/09/2021,"$449,000",Apartment/Condominium
+1158,"44 - 10735 84 Ave, Delta, BC",3,2,1430 sqft,,3,"$2,531",2015,R2616329,Residential,Yes,,$579,30/09/2021,"$812,500",06/09/2021,"$829,000",Townhouse
+1159,"335 - 1441 Garden Pl, Delta, BC",1,1,736 sqft,,1,"$1,181",1982,R2620896,Residential,Yes,,$514,26/09/2021,"$365,000",23/09/2021,"$379,000",Apartment/Condominium
+1160,"280 54 St, Delta, BC",4,1,1730 sqft,,4,"$4,470",1971,R2618459,Residential,Yes,,$865,19/09/2021,"$1,468,000",12/09/2021,"$1,498,000",Single Family Residence
+1161,"645 52 St, Delta, BC",5,2,2675 sqft,,2,"$3,694",1967,R2613552,Residential,Yes,,$522,15/09/2021,"$1,384,000",30/08/2021,"$1,398,000",Single Family Residence
+1162,"6021 Sunwood Dr, Delta, BC",3,3,-,,4,"$3,999",,R2640112,Residential Lease,No,,$648,10/01/2022,"$3,600",26/12/2021,"$3,600",Single Family Residence
+1163,"52 - 6712 Baker Rd, Delta, BC",3,1,1314 sqft,,2,"$2,108",1979,R2736113,Residential,No,,$531,25/12/2022,"$690,000",02/11/2022,"$699,000",Townhouse
+1164,"11064 86a Ave, Delta, BC",5,2,2258 sqft,,5,"$3,748",1961,R2610971,Residential,No,,$515,29/08/2021,"$1,200,000",20/08/2021,"$1,163,000",Single Family Residence
+1165,"113 - 4977 Springs Blvd, Delta, BC",2,2,1622 sqft,,2,"$4,302",2019,R2610226,Residential,Yes,,$732,22/08/2021,"$1,188,000",16/08/2021,"$1,188,000",Apartment/Condominium
+1166,"150 - 5421 10 Ave, Delta, BC",1,1,745 sqft,,1,"$1,184",1976,R2603447,Residential,Yes,,$510,17/08/2021,"$369,000",19/07/2021,"$380,000",Apartment/Condominium
+1167,"5417 15b Ave, Delta, BC",4,3,2842 sqft,,4,"$4,043",1968,R2598816,Residential,No,,$597,11/08/2021,"$1,625,000",04/07/2021,"$1,698,000",Single Family Residence
+1168,"106 - 1175 55 St, Delta, BC",2,2,1350 sqft,,1,"$2,361",2003,R2607071,Residential,Yes,,$517,05/08/2021,"$690,000",02/08/2021,"$699,000",Apartment/Condominium
+1169,"6479 Cabeldu Cres, Delta, BC",4,3,2928 sqft,,6,"$5,673",1969,R2605090,Residential,Yes,,$644,29/07/2021,"$1,800,000",27/07/2021,"$1,888,000",Single Family Residence
+1170,"11833 95a Ave, Delta, BC",5,2,1924 sqft,,4,"$3,730",1976,R2603442,Residential,No,,$518,25/07/2021,"$1,281,000",19/07/2021,"$998,000",Single Family Residence
+1171,"6848 Dover Pl, Delta, BC",4,3,2741 sqft,,4,"$4,450",1976,R2590714,Residential,Yes,,$579,21/07/2021,"$1,535,000",07/06/2021,"$1,589,000",Single Family Residence
+1172,"413 - 7511 120 St, Delta, BC",2,2,899 sqft,,2,"$1,782",2012,R2601065,Residential,Yes,,$553,18/07/2021,"$531,000",11/07/2021,"$498,000",Apartment/Condominium
+1173,"4508 Dawn Pl, Delta, BC",5,3,2884 sqft,,4,"$3,975",1989,R2580776,Residential,Yes,,$528,12/07/2021,"$1,515,000",13/05/2021,"$1,525,000",Single Family Residence
+1174,"1616 Braid Rd, Delta, BC",5,3,2428 sqft,,4,"$4,602",2024,R2889592,Residential,Yes,,"$1,066",-,Not Sold Yet,02/06/2024,"$2,588,888",Single Family Residence
+1175,"6889 Nicholson Rd, Delta, BC",5,4,2627 sqft,,0,"$3,933",1996,R2596195,Residential,Yes,,$411,29/06/2021,"$1,305,000",22/06/2021,"$1,080,000",Single Family Residence
+1176,"10500 Delsom Cres, Delta, BC",4,2,2083 sqft,,0,"$3,838",2014,R2569189,Residential,Yes,,$537,22/06/2021,"$1,092,500",19/04/2021,"$1,120,000",Townhouse
+1177,"10991 63 Ave, Delta, BC",5,3,2325 sqft,,0,"$3,359",1980,R2591286,Residential,Yes,,$492,17/06/2021,"$1,145,000",09/06/2021,"$1,145,000",Single Family Residence
+1178,"204 - 7511 120 St, Delta, BC",1,1,728 sqft,,2,"$1,407",2012,R2632299,Residential,Yes,,$616,28/11/2021,"$470,000",09/11/2021,"$449,000",Apartment/Condominium
+1179,"11413 86 Ave, Delta, BC",5,2,2044 sqft,,0,"$3,535",1969,R2580658,Residential,No,,$579,07/06/2021,"$1,127,000",13/05/2021,"$1,185,088",Single Family Residence
+1180,"357 55a St, Delta, BC",3,4,2111 sqft,,0,"$3,842",1995,R2690556,Residential,No,,$567,05/07/2022,"$1,100,000",16/05/2022,"$1,199,000",Multi Family
+1181,"5421 10 Ave, Delta, BC",2,1,1356 sqft,,0,"$2,396",1976,R2591489,Residential,Yes,,$507,29/06/2021,"$680,000",09/06/2021,"$688,000",Townhouse

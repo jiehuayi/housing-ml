@@ -1,0 +1,254 @@
+mlsId,beds,baths,address,sqFt,parking,taxes,pricePerSqFt,yearBuilt,propertyType,listingDate,listingPrice
+R2906014,3,2,"1135 Lansdowne Dr, Coquitlam, BC, Canada",1617.0,2,2768.0,672.0,1989.0,Townhouse,14/07/2024,1088000.0
+R2905759,3,2,"750 Dogwood St, Coquitlam, BC, Canada",1112.0,2,2787.0,809.0,2022.0,Condo,14/07/2024,899900.0
+R2905795,3,2,"234b Hart St, Coquitlam, BC, Canada",1453.0,1,3200.0,825.0,1983.0,MultiFamily,14/07/2024,1199999.0
+R2905696,5,3,"2909 Keets Dr, Coquitlam, BC, Canada",3756.0,5,5653.0,580.0,1997.0,SingleFamily,14/07/2024,2180000.0
+R2906017,4,4,"1367 Charter Hill Dr, Coquitlam, BC, Canada",4321.0,6,5248.0,552.0,1982.0,SingleFamily,14/07/2024,2388000.0
+R2905860,3,2,"300 Decaire St, Coquitlam, BC, Canada",1500.0,1,1931.0,565.0,1972.0,Townhouse,14/07/2024,848000.0
+R2905577,4,1,"1031 Stewart Ave, Coquitlam, BC, Canada",1895.0,6,4632.0,1054.0,1935.0,SingleFamily,14/07/2024,1999000.0
+R2906011,4,3,"1828 Hampton Green, Coquitlam, BC, Canada",3241.0,4,5337.0,524.0,1997.0,SingleFamily,11/07/2024,1700000.0
+R2905371,7,5,"1625 Parkway Blvd, Coquitlam, BC, Canada",5760.0,8,7699.0,466.0,2000.0,SingleFamily,11/07/2024,2688000.0
+R2905104,3,2,"2351 Parkway Blvd, Coquitlam, BC, Canada",2051.0,2,3333.0,487.0,2002.0,Townhouse,10/07/2024,999998.0
+R2905915,2,2,"3100 Windsor Gate, Coquitlam, BC, Canada",965.0,1,2637.0,899.0,2018.0,Condo,12/07/2024,868000.0
+R2905121,3,2,"1045 Austin Ave, Coquitlam, BC, Canada",1048.0,1,3182.0,953.0,2023.0,Condo,11/07/2024,999000.0
+R2905158,5,2,"1047 Milford Ave, Coquitlam, BC, Canada",2392.0,3,5616.0,873.0,1962.0,SingleFamily,11/07/2024,2090000.0
+R2905294,1,1,"1148 Heffley Cres, Coquitlam, BC, Canada",618.0,1,1453.0,807.0,1999.0,Condo,11/07/2024,499000.0
+R2904384,7,3,"1519 Shore View Pl, Coquitlam, BC, Canada",3851.0,2,5937.0,519.0,2013.0,SingleFamily,09/07/2024,1999000.0
+R2904666,7,6,"583 Hillcrest St, Coquitlam, BC, Canada",4929.0,4,7014.0,547.0,2011.0,SingleFamily,09/07/2024,2698000.0
+R2903895,6,5,"2274 Leclair Dr, Coquitlam, BC, Canada",4574.0,9,6726.0,546.0,1989.0,SingleFamily,08/07/2024,2499000.0
+R2904566,1,1,"516 Foster Ave, Coquitlam, BC, Canada",731.0,0,1864.0,913.0,2018.0,Condo,09/07/2024,668000.0
+R2903611,4,4,"3379 Scotch Pine Ave, Coquitlam, BC, Canada",4367.0,4,8035.0,592.0,2011.0,SingleFamily,08/07/2024,2588000.0
+R2904195,3,2,"645 Como Lake Ave, Coquitlam, BC, Canada",1101.0,2,2311.0,851.0,2023.0,Condo,09/07/2024,938000.0
+R2904323,1,1,"520 Como Lake Ave, Coquitlam, BC, Canada",603.0,1,1818.0,1027.0,2017.0,Condo,09/07/2024,619800.0
+R2905004,3,2,"551 Austin Ave, Coquitlam, BC, Canada",1265.0,1,2072.0,678.0,1991.0,Condo,09/07/2024,858000.0
+R2904452,4,2,"2285 Gale Ave, Coquitlam, BC, Canada",2067.0,4,4700.0,821.0,1987.0,SingleFamily,08/07/2024,1699000.0
+R2903713,3,3,"548 Foster Ave, Coquitlam, BC, Canada",1253.0,0,3189.0,877.0,2015.0,Townhouse,08/07/2024,1100000.0
+R2903823,2,2,"511 Rochester Ave, Coquitlam, BC, Canada",982.0,1,2380.0,702.0,2007.0,Condo,08/07/2024,689999.0
+R2904110,8,5,"963 Laurel Crt, Coquitlam, BC, Canada",4776.0,4,4993.0,471.0,2006.0,SingleFamily,08/07/2024,2250000.0
+R2904088,7,4,"2579 Sapphire Pl, Coquitlam, BC, Canada",4338.0,4,5170.0,529.0,1996.0,SingleFamily,08/07/2024,2299000.0
+R2904537,4,2,"3309 Hyde Park Pl, Coquitlam, BC, Canada",2708.0,4,5003.0,608.0,1991.0,SingleFamily,08/07/2024,1649000.0
+R2903685,4,3,"639 Rochester Ave, Coquitlam, BC, Canada",3836.0,2,6576.0,515.0,1995.0,SingleFamily,08/07/2024,1979000.0
+R2903709,2,2,"2925 Glen Dr, Coquitlam, BC, Canada",983.0,1,1769.0,598.0,1990.0,Condo,08/07/2024,588000.0
+R2902999,4,3,"548 Foster Ave, Coquitlam, BC, Canada",1725.0,2,4096.0,805.0,2015.0,Townhouse,07/07/2024,1390000.0
+R2902990,2,2,"567 Clarke Rd, Coquitlam, BC, Canada",887.0,1,2972.0,1021.0,2021.0,Condo,07/07/2024,906000.0
+R2903219,2,2,"1182 Westwood St, Coquitlam, BC, Canada",818.0,1,2759.0,1024.0,2023.0,Condo,07/07/2024,838000.0
+R2903533,2,2,"2966 Silver Springs Blvd, Coquitlam, BC, Canada",1075.0,1,2383.0,716.0,2005.0,Condo,07/07/2024,769999.0
+R2903800,2,1,"1209 Howie Ave, Coquitlam, BC, Canada",745.0,2,1318.0,536.0,1979.0,Condo,07/07/2024,399900.0
+R2902940,1,1,"657 Whiting Way, Coquitlam, BC, Canada",591.0,1,1740.0,1015.0,2019.0,Condo,07/07/2024,599900.0
+R2903460,4,3,"2205 Parkway Blvd, Coquitlam, BC, Canada",3287.0,6,4184.0,498.0,2002.0,MultiFamily,07/07/2024,1638800.0
+R2903787,4,3,"2978 Whisper Way, Coquitlam, BC, Canada",2537.0,2,4092.0,550.0,2004.0,Townhouse,07/07/2024,1397000.0
+R2902723,2,2,"530 Whiting Way, Coquitlam, BC, Canada",800.0,1,2470.0,936.0,2019.0,Condo,04/07/2024,749000.0
+R2902618,1,1,"525 Foster Ave, Coquitlam, BC, Canada",593.0,1,1824.0,1042.0,2020.0,Condo,04/07/2024,618000.0
+R2902645,2,1,"460 Westview St, Coquitlam, BC, Canada",868.0,1,1922.0,686.0,1983.0,Condo,04/07/2024,596000.0
+R2902646,2,2,"1182 Westwood St, Coquitlam, BC, Canada",861.0,2,2942.0,1113.0,2023.0,Condo,04/07/2024,959000.0
+R2902169,2,2,"958 Ridgeway Ave, Coquitlam, BC, Canada",948.0,1,2347.0,843.0,2014.0,Condo,03/07/2024,799999.0
+R2902207,2,1,"652 Whiting Way, Coquitlam, BC, Canada",733.0,1,2510.0,993.0,2020.0,Condo,03/07/2024,728000.0
+R2902027,4,3,"1077 Viewmount Dr, Coquitlam, BC, Canada",2305.0,0,4305.0,2125.0,1977.0,SingleFamily,03/07/2024,4900000.0
+R2902703,2,2,"657 Whiting Way, Coquitlam, BC, Canada",819.0,2,2713.0,975.0,2019.0,Condo,04/07/2024,799000.0
+R2901334,2,2,"2980 Atlantic Ave, Coquitlam, BC, Canada",870.0,1,1874.0,872.0,2009.0,Condo,02/07/2024,759000.0
+R2902004,3,2,"1342 Cimarron Dr, Coquitlam, BC, Canada",3039.0,4,4625.0,567.0,1988.0,SingleFamily,02/07/2024,1724900.0
+R2901960,2,2,"711 Breslay St, Coquitlam, BC, Canada",808.0,1,2125.0,950.0,2017.0,Condo,02/07/2024,768300.0
+R2901648,3,1,"1204 Nestor St, Coquitlam, BC, Canada",1418.0,5,3796.0,998.0,1979.0,SingleFamily,02/07/2024,1415900.0
+R2901472,1,1,"1506 691 North Rd, Coquitlam, BC, Canada",459.0,1,1485.0,1226.0,2019.0,Condo,02/07/2024,562800.0
+R2901451,1,1,"1188 Pinetree Way, Coquitlam, BC, Canada",560.0,1,1599.0,964.0,2015.0,Condo,02/07/2024,539900.0
+R2901867,1,1,"295 Schoolhouse St, Coquitlam, BC, Canada",710.0,1,1529.0,688.0,1993.0,Condo,02/07/2024,489000.0
+R2901651,6,2,"921 Cornell Ave, Coquitlam, BC, Canada",3076.0,6,6475.0,650.0,1967.0,SingleFamily,02/07/2024,1999990.0
+R2901015,1,1,"1188 Pinetree Way, Coquitlam, BC, Canada",637.0,1,1880.0,1028.0,2016.0,Condo,01/07/2024,655000.0
+R2899969,3,2,"1485 Parkway Blvd, Coquitlam, BC, Canada",2105.0,2,3260.0,593.0,1996.0,Townhouse,01/07/2024,1249800.0
+R2900989,1,1,"615 Cottonwood Ave, Coquitlam, BC, Canada",650.0,0,660.0,915.0,2024.0,Condo,01/07/2024,595000.0
+R2901388,1,1,"3132 Dayanee Springs Blvd, Coquitlam, BC, Canada",764.0,1,1694.0,785.0,2009.0,Condo,01/07/2024,599900.0
+R2900647,4,3,"3423 Roxton Ave, Coquitlam, BC, Canada",2086.0,2,4767.0,651.0,2020.0,Townhouse,01/07/2024,1358000.0
+R2900523,2,2,"1178 Heffley Cres, Coquitlam, BC, Canada",964.0,1,2115.0,879.0,2008.0,Condo,01/07/2024,848000.0
+R2900600,6,5,"966 Charland Ave, Coquitlam, BC, Canada",2486.0,2,5905.0,917.0,2024.0,SingleFamily,01/07/2024,2280000.0
+R2900841,3,3,"3300 Plateau Blvd, Coquitlam, BC, Canada",2885.0,2,3649.0,494.0,1998.0,Townhouse,01/07/2024,1428000.0
+R2901942,7,3,"450 Walker St, Coquitlam, BC, Canada",3594.0,6,9204.0,472.0,1961.0,SingleFamily,01/07/2024,1699000.0
+R2901296,4,3,"1331 Olmsted St, Coquitlam, BC, Canada",1529.0,2,3873.0,849.0,2023.0,Townhouse,01/07/2024,1299000.0
+R2900978,4,3,"309 Blue Mountain St, Coquitlam, BC, Canada",1686.0,2,3420.0,741.0,2006.0,MultiFamily,01/07/2024,1249800.0
+R2900544,2,2,"3071 Glen Dr, Coquitlam, BC, Canada",981.0,1,1785.0,661.0,1993.0,Condo,01/07/2024,649000.0
+R2901801,4,2,"620 Smith Ave, Coquitlam, BC, Canada",1762.0,0,6769.0,1702.0,1976.0,SingleFamily,01/07/2024,3000000.0
+R2900422,3,2,"735 Anskar Crt, Coquitlam, BC, Canada",924.0,2,2680.0,1037.0,2022.0,Condo,01/07/2024,959000.0
+R2900511,2,1,"652 Whiting Way, Coquitlam, BC, Canada",733.0,1,2520.0,998.0,2020.0,Condo,01/07/2024,732000.0
+R2901535,1,1,"516 Foster Ave, Coquitlam, BC, Canada",721.0,1,1851.0,884.0,2019.0,Condo,01/07/2024,638000.0
+R2902135,3,2,"1259 Nestor St, Coquitlam, BC, Canada",1626.0,3,3649.0,675.0,1981.0,SingleFamily,30/06/2024,1098900.0
+R2900541,3,2,"506 Poirier St, Coquitlam, BC, Canada",1890.0,6,5785.0,930.0,1960.0,SingleFamily,30/06/2024,1759000.0
+R2901290,4,3,"1331 Olmsted St, Coquitlam, BC, Canada",1523.0,4,3303.0,853.0,2023.0,Townhouse,30/06/2024,1299900.0
+R2900102,3,2,"2900 Cove Pl, Coquitlam, BC, Canada",2496.0,6,2736.0,1181.0,1987.0,SingleFamily,27/06/2024,2950000.0
+R2901734,1,1,"1195 Pipeline Rd, Coquitlam, BC, Canada",660.0,1,1126.0,604.0,1984.0,Condo,30/06/2024,399000.0
+R2901617,4,3,"1058 Langara Crt, Coquitlam, BC, Canada",3005.0,4,5532.0,1680.0,1995.0,SingleFamily,30/06/2024,5050000.0
+R2900248,6,5,"964 Charland Ave, Coquitlam, BC, Canada",2486.0,2,5905.0,917.0,2024.0,SingleFamily,27/06/2024,2280000.0
+R2900992,4,3,"972 Ranch Park Way, Coquitlam, BC, Canada",2386.0,5,4840.0,1626.0,1968.0,SingleFamily,25/06/2024,3880800.0
+R2899583,2,2,"2978 Glen Dr, Coquitlam, BC, Canada",875.0,1,2125.0,844.0,2009.0,Condo,25/06/2024,739000.0
+R2899445,2,1,"1195 Pipeline Rd, Coquitlam, BC, Canada",850.0,1,1491.0,646.0,1983.0,Condo,25/06/2024,549900.0
+R2899320,1,1,"530 Whiting Way, Coquitlam, BC, Canada",548.0,1,1658.0,1020.0,2019.0,Condo,25/06/2024,559000.0
+R2901032,4,2,"976 Ranch Park Way, Coquitlam, BC, Canada",2500.0,0,4523.0,1552.0,1967.0,SingleFamily,25/06/2024,3880800.0
+R2899230,4,3,"3200 Mariner Way, Coquitlam, BC, Canada",1942.0,4,3900.0,719.0,1977.0,SingleFamily,25/06/2024,1398000.0
+R2898730,2,2,"1199 Eastwood St, Coquitlam, BC, Canada",1169.0,2,2214.0,626.0,1995.0,Condo,24/06/2024,732000.0
+R2898559,1,1,"657 Whiting Way, Coquitlam, BC, Canada",573.0,1,1720.0,1022.0,2020.0,Condo,23/06/2024,586000.0
+R2898364,2,2,"3098 Guildford Way, Coquitlam, BC, Canada",1050.0,1,1753.0,657.0,1997.0,Condo,23/06/2024,689900.0
+R2898251,4,2,"929 Stewart Ave, Coquitlam, BC, Canada",2296.0,0,5839.0,992.0,1972.0,SingleFamily,23/06/2024,2278000.0
+R2898471,2,2,"585 Austin Ave, Coquitlam, BC, Canada",925.0,1,2780.0,1003.0,2022.0,Condo,23/06/2024,928000.0
+R2899070,1,1,"652 Whiting Way, Coquitlam, BC, Canada",501.0,1,1580.0,1115.0,2020.0,Condo,23/06/2024,559000.0
+R2899133,4,2,"1216 Johnson St, Coquitlam, BC, Canada",2317.0,3,3474.0,453.0,1990.0,Townhouse,24/06/2024,1050000.0
+R2898805,1,1,"648 Lea Ave, Coquitlam, BC, Canada",624.0,1,1285.0,1057.0,2023.0,Condo,24/06/2024,659900.0
+R2898622,1,1,"525 Foster Ave, Coquitlam, BC, Canada",544.0,1,1681.0,1047.0,2020.0,Condo,23/06/2024,570000.0
+R2898232,2,2,"618 Langside Ave, Coquitlam, BC, Canada",1034.0,1,2519.0,773.0,2013.0,Townhouse,21/06/2024,799900.0
+R2898131,0,0,"903 Edgar Ave, Coquitlam, BC, Canada",2080.0,3,5600.0,1249.0,1955.0,SingleFamily,23/06/2024,2598000.0
+R2898032,2,2,"3086 Lincoln Ave, Coquitlam, BC, Canada",1628.0,2,2908.0,614.0,2016.0,Townhouse,20/06/2024,999800.0
+R2897766,5,3,"1134 Hansard Cres, Coquitlam, BC, Canada",2157.0,3,3936.0,1437.0,1983.0,SingleFamily,20/06/2024,3100000.0
+R2898203,3,2,"555 Foster Ave, Coquitlam, BC, Canada",1013.0,1,2291.0,847.0,2012.0,Condo,23/06/2024,859000.0
+R2897882,4,2,"3300 Plateau Blvd, Coquitlam, BC, Canada",2050.0,2,3065.0,578.0,1998.0,Townhouse,18/06/2024,1184900.0
+R2897502,2,1,"602 Como Lake Ave, Coquitlam, BC, Canada",749.0,1,2115.0,965.0,2017.0,Condo,18/06/2024,723000.0
+R2897105,1,1,"2968 Glen Dr, Coquitlam, BC, Canada",633.0,1,1678.0,898.0,2012.0,Condo,18/06/2024,569000.0
+R2896527,2,2,"707 Como Lake Ave, Coquitlam, BC, Canada",945.0,1,2458.0,846.0,2020.0,Condo,17/06/2024,799900.0
+R2896684,2,2,"1188 Johnson St, Coquitlam, BC, Canada",815.0,1,1883.0,807.0,2011.0,Condo,18/06/2024,658000.0
+R2896933,5,4,"2163 Parkway Blvd, Coquitlam, BC, Canada",3440.0,4,4605.0,513.0,1998.0,MultiFamily,18/06/2024,1768000.0
+R2896155,5,3,"2986 Pinetree Close, Coquitlam, BC, Canada",2957.0,4,5282.0,490.0,1994.0,SingleFamily,17/06/2024,1449900.0
+R2897028,4,3,"3409 Harper Rd, Coquitlam, BC, Canada",2151.0,2,3802.0,650.0,2021.0,Townhouse,17/06/2024,1399000.0
+R2896524,7,4,"1051 Windward Dr, Coquitlam, BC, Canada",4253.0,4,5526.0,420.0,1988.0,SingleFamily,17/06/2024,1789000.0
+R2896566,7,4,"2349 Oneida Dr, Coquitlam, BC, Canada",5846.0,7,7014.0,545.0,1977.0,SingleFamily,17/06/2024,3190000.0
+R2896226,4,2,"1195 Shelter Cres, Coquitlam, BC, Canada",1980.0,5,3899.0,782.0,1981.0,SingleFamily,17/06/2024,1548900.0
+R2896548,5,3,"3386 Horizon Dr, Coquitlam, BC, Canada",3649.0,4,5656.0,623.0,2010.0,SingleFamily,17/06/2024,2275000.0
+R2896627,5,3,"807 Smith Ave, Coquitlam, BC, Canada",3001.0,6,5585.0,632.0,1981.0,SingleFamily,17/06/2024,1899000.0
+R2895091,3,2,"1460 Southview St, Coquitlam, BC, Canada",1437.0,2,2872.0,681.0,2011.0,Townhouse,13/06/2024,978900.0
+R2895730,2,2,"525 Foster Ave, Coquitlam, BC, Canada",962.0,2,2569.0,944.0,2020.0,Condo,16/06/2024,909000.0
+R2896474,2,2,"2958 Whisper Way, Coquitlam, BC, Canada",876.0,1,1892.0,799.0,2005.0,Condo,16/06/2024,700000.0
+R2896038,2,2,"1199 Eastwood St, Coquitlam, BC, Canada",1022.0,1,1795.0,811.0,1995.0,Condo,16/06/2024,829000.0
+R2896693,5,2,"942 Porter St, Coquitlam, BC, Canada",2506.0,5,5270.0,877.0,1960.0,SingleFamily,16/06/2024,2200000.0
+R2892315,8,4,"1699 Arbutus Pl, Coquitlam, BC, Canada",3725.0,4,5088.0,590.0,1998.0,SingleFamily,11/06/2024,2198000.0
+R2893999,2,2,"3070 Guildford Way, Coquitlam, BC, Canada",871.0,1,1691.0,729.0,1995.0,Condo,11/06/2024,635000.0
+R2894330,4,3,"3235 Chartwell Lane, Coquitlam, BC, Canada",4015.0,4,7256.0,572.0,2003.0,SingleFamily,11/06/2024,2298000.0
+R2894042,2,2,"3100 Windsor Gate, Coquitlam, BC, Canada",827.0,1,2138.0,952.0,2018.0,Condo,11/06/2024,788000.0
+R2894203,4,3,"941a Walls Ave, Coquitlam, BC, Canada",1801.0,4,3200.0,832.0,2024.0,MultiFamily,11/06/2024,1499000.0
+R2894360,2,2,"575 Delestre Ave, Coquitlam, BC, Canada",943.0,1,2079.0,794.0,2008.0,Condo,11/06/2024,749000.0
+R2894174,1,1,"530 Whiting Way, Coquitlam, BC, Canada",550.0,1,1609.0,1017.0,2019.0,Condo,11/06/2024,559800.0
+R2892917,1,1,"210 Lebleu St, Coquitlam, BC, Canada",882.0,1,1935.0,705.0,2014.0,Condo,09/06/2024,622000.0
+R2893766,4,3,"394 Hickey Dr, Coquitlam, BC, Canada",2758.0,2,4488.0,652.0,1986.0,SingleFamily,09/06/2024,1799000.0
+R2892532,7,4,"3342 Leston Ave, Coquitlam, BC, Canada",3970.0,6,5656.0,528.0,2013.0,SingleFamily,09/06/2024,2100000.0
+R2892846,2,2,"3098 Guildford Way, Coquitlam, BC, Canada",1054.0,1,1749.0,664.0,1995.0,Condo,09/06/2024,699900.0
+R2892680,5,4,"2112 Cape Horn Ave, Coquitlam, BC, Canada",2960.0,6,3377.0,540.0,1968.0,SingleFamily,09/06/2024,1599000.0
+R2893621,5,3,"275 Warrick St, Coquitlam, BC, Canada",4151.0,4,4315.0,480.0,1983.0,SingleFamily,09/06/2024,1995000.0
+R2892616,2,2,"450 Westview St, Coquitlam, BC, Canada",862.0,1,2383.0,1042.0,2021.0,Condo,09/06/2024,899000.0
+R2892806,2,2,"1182 Westwood St, Coquitlam, BC, Canada",986.0,1,3205.0,1004.0,2023.0,Condo,09/06/2024,989999.0
+R2893119,1,1,"525 Foster Ave, Coquitlam, BC, Canada",575.0,1,1952.0,1041.0,2020.0,Condo,09/06/2024,599000.0
+R2892300,5,2,"445 Byng St, Coquitlam, BC, Canada",2190.0,5,4532.0,816.0,1960.0,SingleFamily,09/06/2024,1788000.0
+R2893458,2,2,"523 Whiting Way, Coquitlam, BC, Canada",999.0,3,1915.0,745.0,1993.0,Condo,09/06/2024,745000.0
+R2892831,4,3,"1765 Paddock Dr, Coquitlam, BC, Canada",2470.0,4,3509.0,554.0,1998.0,Townhouse,09/06/2024,1368800.0
+R2892586,2,1,"617 Smith Ave, Coquitlam, BC, Canada",809.0,1,1939.0,822.0,2013.0,Condo,09/06/2024,665000.0
+R2892716,5,2,"470 Riverview Cres, Coquitlam, BC, Canada",4319.0,2,4935.0,393.0,1990.0,SingleFamily,09/06/2024,1699000.0
+R2891746,5,2,"1866 Austin Ave, Coquitlam, BC, Canada",2234.0,7,4236.0,572.0,1974.0,MultiFamily,04/06/2024,1280000.0
+R2891104,1,1,"652 Whiting Way, Coquitlam, BC, Canada",574.0,1,1818.0,1041.0,2020.0,Condo,04/06/2024,598000.0
+R2890885,6,3,"2040 Orland Dr, Coquitlam, BC, Canada",2038.0,4,4850.0,858.0,1965.0,SingleFamily,04/06/2024,1749000.0
+R2890848,4,2,"746 Alderson Ave, Coquitlam, BC, Canada",1673.0,3,4336.0,1063.0,1920.0,SingleFamily,04/06/2024,1779000.0
+R2891628,2,2,"2978 Glen Dr, Coquitlam, BC, Canada",850.0,1,2096.0,809.0,2009.0,Condo,04/06/2024,688000.0
+R2890853,3,2,"3061 Glen Dr, Coquitlam, BC, Canada",1247.0,2,2014.0,601.0,1993.0,Townhouse,04/06/2024,750000.0
+R2890935,2,2,"3100 Windsor Gate, Coquitlam, BC, Canada",1050.0,1,2911.0,1095.0,2018.0,Condo,04/06/2024,1150000.0
+R2889636,2,2,"123 Laval St, Coquitlam, BC, Canada",1200.0,3,1942.0,665.0,1994.0,Townhouse,02/06/2024,799000.0
+R2889844,7,5,"3080 Cardinal Crt, Coquitlam, BC, Canada",4839.0,6,7140.0,514.0,1998.0,SingleFamily,02/06/2024,2490000.0
+R2889505,2,1,"2980 Atlantic Ave, Coquitlam, BC, Canada",692.0,1,1974.0,994.0,2009.0,Condo,02/06/2024,688000.0
+R2889528,0,1,"2969 Whisper Way, Coquitlam, BC, Canada",436.0,1,1158.0,1050.0,2005.0,Condo,02/06/2024,458000.0
+R2890076,1,1,"3008 Glen Dr, Coquitlam, BC, Canada",576.0,1,1576.0,1015.0,2013.0,Condo,02/06/2024,585000.0
+R2890597,8,4,"2097 Dawes Hill Rd, Coquitlam, BC, Canada",3784.0,6,4710.0,628.0,1972.0,MultiFamily,03/06/2024,2380000.0
+R2889087,5,3,"920 Harris Ave, Coquitlam, BC, Canada",2779.0,2,4912.0,659.0,1972.0,SingleFamily,30/05/2024,1833500.0
+R2888814,4,3,"3266 Camelback Lane, Coquitlam, BC, Canada",3365.0,4,4455.0,499.0,2005.0,SingleFamily,29/05/2024,1680000.0
+R2888590,4,3,"1310 Mitchell St, Coquitlam, BC, Canada",1894.0,2,2024.0,791.0,2024.0,Townhouse,29/05/2024,1499900.0
+R2888447,4,2,"3500 Promenade Burke Village, Coquitlam, BC, Canada",1713.0,2,3300.0,729.0,2018.0,Townhouse,28/05/2024,1249000.0
+R2884627,6,3,"650 Adler Ave, Coquitlam, BC, Canada",3376.0,4,5333.0,681.0,1989.0,SingleFamily,26/05/2024,2299999.0
+R2887940,4,2,"361 Seaforth Cres, Coquitlam, BC, Canada",2364.0,6,4228.0,672.0,1960.0,SingleFamily,26/05/2024,1588800.0
+R2887996,4,2,"1951 Austin Ave, Coquitlam, BC, Canada",2000.0,3,2792.0,599.0,1973.0,MultiFamily,26/05/2024,1199999.0
+R2887668,3,2,"3105 Dayanee Springs Blvd, Coquitlam, BC, Canada",1375.0,2,2538.0,799.0,2009.0,Townhouse,26/05/2024,1099000.0
+R2887469,5,4,"3489 Highland Dr, Coquitlam, BC, Canada",3703.0,4,5490.0,607.0,2021.0,SingleFamily,26/05/2024,2248000.0
+R2888000,1,1,"2975 Atlantic Ave, Coquitlam, BC, Canada",619.0,0,1547.0,888.0,2014.0,Condo,26/05/2024,549800.0
+R2886419,4,3,"361 Marmont St, Coquitlam, BC, Canada",1808.0,2,5968.0,773.0,2024.0,MultiFamily,22/05/2024,1399000.0
+R2885832,1,1,"1122 King Albert Ave, Coquitlam, BC, Canada",548.0,1,1059.0,820.0,1979.0,Condo,21/05/2024,449800.0
+R2886567,2,2,"3071 Glen Dr, Coquitlam, BC, Canada",980.0,1,930.0,713.0,1993.0,Condo,22/05/2024,698888.0
+R2887202,2,3,"710 Gauthier Ave, Coquitlam, BC, Canada",1732.0,6,4993.0,1327.0,1955.0,SingleFamily,22/05/2024,2300000.0
+R2885577,5,1,"816 Westwood St, Coquitlam, BC, Canada",1728.0,6,3522.0,809.0,1962.0,SingleFamily,21/05/2024,1398000.0
+R2885715,2,2,"3110 Dayanee Springs Blvd, Coquitlam, BC, Canada",877.0,1,1916.0,841.0,2009.0,Condo,21/05/2024,738000.0
+R2887664,2,2,"450 Westview St, Coquitlam, BC, Canada",1227.0,2,3169.0,1026.0,2021.0,Condo,22/05/2024,1259000.0
+R2884766,2,1,"570 Emerson St, Coquitlam, BC, Canada",760.0,1,2108.0,932.0,2017.0,Condo,19/05/2024,709000.0
+R2885441,4,2,"1041 Rochester Ave, Coquitlam, BC, Canada",2904.0,9,5767.0,812.0,1956.0,SingleFamily,19/05/2024,2360000.0
+R2885475,7,5,"3067 Plateau Blvd, Coquitlam, BC, Canada",5595.0,7,8140.0,516.0,1995.0,SingleFamily,20/05/2024,2888000.0
+R2885186,7,3,"2975 Blackbear Crt, Coquitlam, BC, Canada",3315.0,2,5343.0,572.0,1994.0,SingleFamily,19/05/2024,1899000.0
+R2885408,5,2,"1509 Austin Ave, Coquitlam, BC, Canada",2559.0,6,4055.0,737.0,1958.0,SingleFamily,19/05/2024,1888000.0
+R2884646,1,1,"450 Westview St, Coquitlam, BC, Canada",632.0,1,2004.0,1185.0,2021.0,Condo,19/05/2024,749000.0
+R2885524,7,5,"3099 Plateau Blvd, Coquitlam, BC, Canada",7636.0,6,9693.0,522.0,1996.0,SingleFamily,20/05/2024,3988000.0
+R2885455,6,3,"1350 Kingston St, Coquitlam, BC, Canada",4264.0,4,6890.0,607.0,2013.0,SingleFamily,19/05/2024,2590000.0
+R2883024,4,3,"2697 Burnside Pl, Coquitlam, BC, Canada",2120.0,5,4586.0,858.0,1979.0,SingleFamily,12/05/2024,1820000.0
+R2882603,5,3,"798 Westwood St, Coquitlam, BC, Canada",3036.0,5,2849.0,625.0,2024.0,SingleFamily,13/05/2024,1899888.0
+R2882300,1,1,"1225 Brunette Ave, Coquitlam, BC, Canada",663.0,1,1371.0,791.0,1993.0,Condo,12/05/2024,525000.0
+R2883708,1,1,"525 Foster Ave, Coquitlam, BC, Canada",576.0,1,1852.0,1102.0,2020.0,Condo,14/05/2024,635000.0
+R2884425,6,4,"1378 Hames Cres, Coquitlam, BC, Canada",3637.0,4,6315.0,604.0,2017.0,SingleFamily,14/05/2024,2199000.0
+R2883039,6,4,"1560 Pinetree Way, Coquitlam, BC, Canada",4448.0,4,4710.0,432.0,1995.0,SingleFamily,13/05/2024,1925000.0
+R2882742,5,2,"1169 Madore Ave, Coquitlam, BC, Canada",3026.0,6,5215.0,586.0,1965.0,SingleFamily,13/05/2024,1774900.0
+R2882819,5,3,"1420 Shay St, Coquitlam, BC, Canada",3815.0,4,7234.0,602.0,2017.0,SingleFamily,13/05/2024,2300000.0
+R2882108,2,2,"990 Adair Ave, Coquitlam, BC, Canada",1129.0,2,2296.0,662.0,2007.0,Condo,09/05/2024,748000.0
+R2881784,1,1,"1306 Laval Sq, Coquitlam, BC, Canada",480.0,1,2000.0,1322.0,2023.0,Townhouse,08/05/2024,635000.0
+R2881617,1,2,"526 Appian Way, Coquitlam, BC, Canada",1795.0,3,6266.0,2932.0,1961.0,SingleFamily,09/05/2024,5263500.0
+R2883576,1,1,"652 Whiting Way, Coquitlam, BC, Canada",517.0,1,1606.0,1121.0,2020.0,Condo,08/05/2024,579888.0
+R2879650,1,1,"608 Como Lake Ave, Coquitlam, BC, Canada",594.0,1,1670.0,922.0,2013.0,Condo,05/05/2024,548000.0
+R2879230,3,2,"2902 Panorama Dr, Coquitlam, BC, Canada",2045.0,2,3195.0,611.0,1997.0,Townhouse,05/05/2024,1249800.0
+R2879353,2,2,"2978 Glen Dr, Coquitlam, BC, Canada",856.0,1,2027.0,862.0,2009.0,Condo,05/05/2024,738000.0
+R2879757,1,1,"511 Rochester Ave, Coquitlam, BC, Canada",771.0,1,1779.0,797.0,2007.0,Condo,05/05/2024,615000.0
+R2880055,2,2,"602 Como Lake Ave, Coquitlam, BC, Canada",1025.0,2,3455.0,974.0,2017.0,Condo,05/05/2024,998900.0
+R2880057,8,8,"478 Mundy St, Coquitlam, BC, Canada",7136.0,8,9174.0,498.0,2020.0,SingleFamily,05/05/2024,3560000.0
+R2880859,5,3,"1444 Mitchell St, Coquitlam, BC, Canada",3391.0,4,3398.0,648.0,2021.0,SingleFamily,06/05/2024,2199999.0
+R2879776,5,5,"1445 Shay St, Coquitlam, BC, Canada",5422.0,6,8551.0,737.0,2022.0,SingleFamily,05/05/2024,3999999.0
+R2873453,2,1,"717 Breslay St, Coquitlam, BC, Canada",753.0,1,1968.0,929.0,2019.0,Condo,30/04/2024,699900.0
+R2878192,1,1,"520 Como Lake Ave, Coquitlam, BC, Canada",587.0,1,1717.0,1018.0,2017.0,Condo,30/04/2024,598000.0
+R2877468,2,2,"1196 Pipeline Rd, Coquitlam, BC, Canada",1330.0,2,2621.0,872.0,1998.0,Condo,30/04/2024,1159900.0
+R2877775,1,1,"519 Cochrane Ave, Coquitlam, BC, Canada",2200.0,0,5943.0,1886.0,1962.0,SingleFamily,30/04/2024,4150300.0
+R2878477,5,2,"2638 Marble Crt, Coquitlam, BC, Canada",3272.0,2,5268.0,677.0,1996.0,SingleFamily,30/04/2024,2218000.0
+R2877864,2,2,"3050 Dayanee Springs Blvd, Coquitlam, BC, Canada",770.0,1,1740.0,973.0,2010.0,Condo,30/04/2024,749900.0
+R2877669,7,4,"662 Shaw Ave, Coquitlam, BC, Canada",3522.0,7,5519.0,638.0,1961.0,SingleFamily,30/04/2024,2248000.0
+R2875067,2,2,"1155 The High St, Coquitlam, BC, Canada",899.0,1,2437.0,856.0,2012.0,Condo,23/04/2024,769900.0
+R2875932,9,6,"2982 Sunridge Crt, Coquitlam, BC, Canada",7972.0,8,9638.0,500.0,2006.0,SingleFamily,24/04/2024,3988800.0
+R2877344,2,2,"555 Sydney Ave, Coquitlam, BC, Canada",761.0,1,2459.0,1119.0,2022.0,Condo,27/04/2024,851900.0
+R2875372,8,7,"708 Austin Ave, Coquitlam, BC, Canada",5173.0,10,4811.0,635.0,2022.0,SingleFamily,24/04/2024,3290000.0
+R2877361,4,3,"638 Austin Ave, Coquitlam, BC, Canada",3489.0,6,6093.0,713.0,2012.0,SingleFamily,28/04/2024,2488000.0
+R2874676,5,3,"2116 Turnberry Lane, Coquitlam, BC, Canada",2695.0,4,4843.0,682.0,2000.0,SingleFamily,23/04/2024,1838000.0
+R2875561,1,1,"527 Cochrane Ave, Coquitlam, BC, Canada",1100.0,0,5828.0,3773.0,1962.0,SingleFamily,21/04/2024,4150300.0
+R2873810,7,5,"1213 Cottonwood Ave, Coquitlam, BC, Canada",7147.0,6,11439.0,613.0,2023.0,SingleFamily,21/04/2024,4388000.0
+R2875568,1,1,"525 Brookmere Ave, Coquitlam, BC, Canada",150.0,0,5646.0,27309.0,1954.0,SingleFamily,21/04/2024,4096400.0
+R2873871,4,4,"1373 Glenbrook St, Coquitlam, BC, Canada",6708.0,8,10370.0,625.0,1995.0,SingleFamily,21/04/2024,4198000.0
+R2875554,2,1,"523 Cochrane Ave, Coquitlam, BC, Canada",250.0,0,5766.0,16601.0,1963.0,SingleFamily,21/04/2024,4150300.0
+R2875550,1,1,"532 Appian Way, Coquitlam, BC, Canada",600.0,0,6257.0,7783.0,1959.0,SingleFamily,21/04/2024,4670050.0
+R2873454,6,4,"910 Austin Ave, Coquitlam, BC, Canada",1520.0,5,4504.0,1051.0,1949.0,SingleFamily,21/04/2024,1598000.0
+R2875558,0,1,"521 Brookmere Ave, Coquitlam, BC, Canada",250.0,0,5884.0,16385.0,1954.0,SingleFamily,21/04/2024,4096400.0
+R2871347,7,6,"1127 Madore Ave, Coquitlam, BC, Canada",4346.0,0,5696.0,632.0,2021.0,SingleFamily,14/04/2024,2749000.0
+R2870976,8,5,"2230 Dawes Hill Rd, Coquitlam, BC, Canada",5280.0,5,7464.0,662.0,2020.0,SingleFamily,14/04/2024,3499900.0
+R2870010,4,2,"3475 Baycrest Ave, Coquitlam, BC, Canada",2517.0,5,5646.0,3495.0,1985.0,SingleFamily,11/04/2024,8799000.0
+R2870949,3,1,"892 Macintosh St, Coquitlam, BC, Canada",2622.0,5,6346.0,1292.0,1960.0,SingleFamily,14/04/2024,3388000.0
+R2870519,2,2,"515 Whiting Way, Coquitlam, BC, Canada",987.0,2,1890.0,683.0,1994.0,Condo,14/04/2024,675000.0
+R2866502,1,1,"3007 Glen Dr, Coquitlam, BC, Canada",551.0,1,1700.0,1032.0,2015.0,Condo,02/04/2024,569000.0
+R2867100,5,5,"2138 Braeside Pl, Coquitlam, BC, Canada",5807.0,4,9002.0,508.0,2001.0,SingleFamily,04/04/2024,2950000.0
+R2866105,4,3,"1465 Parkway Blvd, Coquitlam, BC, Canada",2315.0,4,3466.0,664.0,1998.0,Townhouse,02/04/2024,1538000.0
+R2866127,2,1,"1400 Austin Ave, Coquitlam, BC, Canada",1984.0,4,5183.0,1252.0,1959.0,SingleFamily,02/04/2024,2485000.0
+R2866666,4,2,"818 Seymour Dr, Coquitlam, BC, Canada",2020.0,5,5124.0,1029.0,1965.0,SingleFamily,02/04/2024,2080000.0
+R2866142,5,2,"1404 Austin Ave, Coquitlam, BC, Canada",2718.0,4,5036.0,914.0,1962.0,SingleFamily,02/04/2024,2485000.0
+R2861051,3,3,"1113 Wallace Crt, Coquitlam, BC, Canada",2038.0,7,3763.0,1471.0,1983.0,SingleFamily,18/03/2024,2999900.0
+R2861192,6,4,"2201 Hillside Ave, Coquitlam, BC, Canada",4976.0,2,7411.0,580.0,2000.0,SingleFamily,18/03/2024,2888000.0
+R2862072,3,1,"825 Dogwood St, Coquitlam, BC, Canada",1711.0,0,4767.0,1507.0,1954.0,SingleFamily,19/03/2024,2580000.0
+R2861827,3,2,"450 Westview St, Coquitlam, BC, Canada",1244.0,2,2934.0,961.0,2021.0,Townhouse,20/03/2024,1196000.0
+R2861517,2,2,"555 Sydney Ave, Coquitlam, BC, Canada",761.0,1,2472.0,1132.0,2022.0,Condo,19/03/2024,861900.0
+R2861648,2,2,"2968 Glen Dr, Coquitlam, BC, Canada",1307.0,2,3812.0,993.0,2012.0,Condo,19/03/2024,1298000.0
+R2861092,4,1,"1112 Wallace Crt, Coquitlam, BC, Canada",1834.0,3,3613.0,1526.0,1983.0,SingleFamily,18/03/2024,2799900.0
+R2854707,4,3,"2975 Atlantic Ave, Coquitlam, BC, Canada",1767.0,2,3587.0,820.0,2014.0,Condo,29/02/2024,1449800.0
+R2857434,2,1,"931 Como Lake Ave, Coquitlam, BC, Canada",1874.0,2,4134.0,1517.0,9999.0,SingleFamily,07/03/2024,2843000.0
+R2858387,5,3,"1165 Hansard Cres, Coquitlam, BC, Canada",2226.0,2,3433.0,1257.0,1991.0,SingleFamily,10/03/2024,2800000.0
+R2855432,4,2,"606 Foster Ave, Coquitlam, BC, Canada",1842.0,2,2562.0,813.0,2023.0,Townhouse,03/03/2024,1499000.0
+R2857454,2,1,"935 Como Lake Ave, Coquitlam, BC, Canada",2416.0,2,4254.0,1236.0,9999.0,SingleFamily,07/03/2024,2988000.0
+R2854658,6,4,"3319 Chartwell Green, Coquitlam, BC, Canada",3795.0,4,5575.0,602.0,2002.0,SingleFamily,29/02/2024,2288000.0
+R2857437,2,1,"939 Como Lake Ave, Coquitlam, BC, Canada",2537.0,2,4311.0,1106.0,1964.0,SingleFamily,07/03/2024,2806000.0
+R2852310,4,2,"709 Quadling Ave, Coquitlam, BC, Canada",1523.0,6,6106.0,2068.0,1955.0,SingleFamily,16/02/2024,3150000.0
+R2844857,3,2,"394 Blue Mountain St, Coquitlam, BC, Canada",2031.0,3,4272.0,929.0,1957.0,SingleFamily,23/01/2024,1888000.0
+R2843822,4,3,"720 Ivy Ave, Coquitlam, BC, Canada",3489.0,6,6495.0,799.0,2021.0,SingleFamily,22/01/2024,2788800.0
+R2841944,2,2,"501 Cochrane Ave, Coquitlam, BC, Canada",1136.0,1,2014.0,659.0,1992.0,Condo,14/01/2024,749000.0
+R2840658,5,3,"1621 Como Lake Ave, Coquitlam, BC, Canada",2100.0,2,4014.0,827.0,1964.0,SingleFamily,07/01/2024,1738000.0
+R2843454,3,2,"609 Madore Ave, Coquitlam, BC, Canada",2188.0,4,5258.0,1119.0,1956.0,SingleFamily,21/01/2024,2450000.0
+R2725069,5,2,"617 Harrison Ave, Coquitlam, BC, Canada",2212.0,4,5359.0,1265.0,1962.0,SingleFamily,18/09/2022,2799000.0
+R2726988,6,4,"729 Smith Ave, Coquitlam, BC, Canada",4198.0,10,10689.0,1045.0,1972.0,MultiFamily,25/09/2022,4388000.0
+R2794718,5,3,"316 Laval Sq, Coquitlam, BC, Canada",2932.0,3,4726.0,869.0,1940.0,SingleFamily,01/07/2023,2550000.0
+R2760879,2,1,"717 Dogwood St, Coquitlam, BC, Canada",1040.0,6,4992.0,2067.0,1955.0,SingleFamily,19/03/2023,2150000.0
+R2785001,5,2,"713 Dogwood St, Coquitlam, BC, Canada",2100.0,6,5196.0,942.0,1955.0,SingleFamily,05/06/2023,1980000.0
+R2767698,5,2,"629 Smith Ave, Coquitlam, BC, Canada",2528.0,6,4386.0,1423.0,1955.0,SingleFamily,11/04/2023,3598000.0
+R2742491,7,0,"704 Quadling Ave, Coquitlam, BC, Canada",6667.0,6,9405.0,704.0,2015.0,SingleFamily,07/12/2022,4700000.0

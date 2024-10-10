@@ -1,0 +1,961 @@
+,address,beds,bath,area,maintenance,type,parking,taxes,built,mlsNumber,levels,garage,pricePerSqFt,soldDate,soldPrice,listingDate,listingPrice
+0,"31916 Coral Ave, Abbotsford, BC",5.0,2.0,2502 sqft,,Single Family Residence,3.0,"$4,676",1971.0,R2799412,Residential,Yes,$399,16/08/2023,"$999,000",17/07/2023,"$999,000"
+1,"113 - 33538 Marshall Rd, Abbotsford, BC",2.0,2.0,921 sqft,,Apartment/Condominium,1.0,"$1,642",2009.0,R2797152,Residential,Yes,$542,15/08/2023,"$498,500",09/07/2023,"$499,999"
+2,"207 - 33490 Cottage Lane, Abbotsford, BC",1.0,1.0,884 sqft,,Apartment/Condominium,1.0,$858,1980.0,R2789926,Residential,Yes,$304,15/08/2023,"$250,000",21/06/2023,"$269,000"
+3,"510 - 2493 Montrose Ave, Abbotsford, BC",2.0,2.0,874 sqft,,Apartment/Condominium,1.0,"$2,168",2020.0,R2804269,Residential,Yes,$628,15/08/2023,"$545,000",07/08/2023,"$549,700"
+4,"212 - 33545 Rainbow Ave, Abbotsford, BC",2.0,2.0,924 sqft,,Apartment/Condominium,1.0,"$1,581",2007.0,R2805119,Residential,Yes,$535,,,,
+5,"34095 Woodbine St, Abbotsford, BC",4.0,3.0,3262 sqft,,Single Family Residence,8.0,"$5,533",1968.0,R2779627,Residential,No,$520,15/08/2023,"$1,600,000",23/05/2023,"$1,699,000"
+6,"35200 Mccorkell Dr, Abbotsford, BC",4.0,2.0,3074 sqft,,Single Family Residence,6.0,"$4,065",1985.0,R2790100,Residential,Yes,$357,,,,
+7,"514 - 3080 Gladwin Rd, Abbotsford, BC",2.0,2.0,806 sqft,,Apartment/Condominium,1.0,"$2,044",2017.0,R2796372,Residential,Yes,$743,14/08/2023,"$582,500",09/07/2023,"$599,000"
+8,"34232 Old Yale Rd, Abbotsford, BC",4.0,3.0,3208 sqft,,Single Family Residence,7.0,"$4,465",1982.0,R2796972,Residential,Yes,$420,,,,
+9,"115 - 2233 Mckenzie Rd, Abbotsford, BC",1.0,1.0,702 sqft,,Apartment/Condominium,1.0,"$1,261",2009.0,R2802235,Residential,Yes,$569,,,,
+10,,,,,,,,,,,,,,,,,
+11,"33 - 3087 Immel St, Abbotsford, BC",3.0,2.0,1626 sqft,,Townhouse,0.0,"$2,254",1990.0,R2783807,Residential,Yes,$408,,,,
+12,"9 - 31313 Livingstone Ave, Abbotsford, BC",2.0,1.0,681 sqft,,Manufactured Home,3.0,$320,1975.0,R2804247,Residential,No,$286,14/08/2023,"$187,000",08/08/2023,"$195,000"
+13,"406 - 2962 Trethewey St, Abbotsford, BC",2.0,2.0,916 sqft,,Apartment/Condominium,1.0,"$1,598",1994.0,R2798814,Residential,Yes,$436,,,,
+14,,,,,,,,,,,,,,,,,
+15,"2855 Mountview St, Abbotsford, BC",7.0,3.0,3673 sqft,,Single Family Residence,8.0,"$5,336",1986.0,R2783708,Residential,Yes,$399,,,,
+16,,,,,,,,,,,,,,,,,
+17,"2431 Aladdin Cres, Abbotsford, BC",4.0,2.0,1786 sqft,,Single Family Residence,3.0,"$4,123",1976.0,R2804696,Residential,Yes,$557,,"$988,000",07/08/2023,"$995,000"
+18,,,,3675 sqft,,Single Family Residence,4.0,"$4,228",2023.0,R2799542,Residential,Yes,$360,,,,
+19,"407 - 2955 Diamond Cres, Abbotsford, BC",2.0,2.0,938 sqft,,Apartment/Condominium,2.0,"$1,626",2006.0,R2792154,Residential,Yes,$549,11/08/2023,"$490,000",04/07/2023,"$515,000"
+20,"34866 Clayburn Rd, Abbotsford, BC",3.0,2.0,1465 sqft,,Single Family Residence,6.0,"$3,312",2004.0,R2802999,Residential,Yes,$747,-,Not Sold Yet,18/04/2024,"$1,149,000"
+21,"444 - 2750 Fairlane St, Abbotsford, BC",2.0,2.0,1075 sqft,,Apartment/Condominium,1.0,"$1,527",1994.0,R2802628,Residential,Yes,$445,,,,
+22,"301 - 32733 Broadway E, Abbotsford, BC",1.0,1.0,618 sqft,,Apartment/Condominium,1.0,"$1,077",1993.0,R2804671,Residential,Yes,$501,,,,
+23,,,,,,,,,,,,,,,,,
+24,"34597 Calder Pl, Abbotsford, BC",5.0,2.0,3060 sqft,,Single Family Residence,6.0,"$5,027",1992.0,R2803819,Residential,Yes,$424,10/08/2023,"$1,275,000",31/07/2023,"$1,299,000"
+25,"5 - 3632 Bulkley St, Abbotsford, BC",2.0,2.0,1663 sqft,,Townhouse,3.0,"$2,364",1985.0,R2805004,Residential,Yes,$360,,,,
+26,"35494 Edson Pl, Abbotsford, BC",4.0,3.0,2828 sqft,,Single Family Residence,6.0,"$4,652",1991.0,R2789438,Residential,Yes,$385,,,,
+27,,,,,,,,,,,,,,,,,
+28,"108 - 2958 Trethewey St, Abbotsford, BC",2.0,2.0,951 sqft,,Apartment/Condominium,0.0,"$1,348",1994.0,R2806215,Residential,Yes,$441,09/08/2023,"$411,000",07/08/2023,"$419,999"
+29,"1 - 3293 Firhill Dr, Abbotsford, BC",2.0,2.0,1579 sqft,,Townhouse,4.0,"$2,292",1991.0,R2805280,Residential,Yes,$395,09/08/2023,"$625,000",07/08/2023,"$625,000"
+30,"110 - 32823 Landeau Pl, Abbotsford, BC",2.0,2.0,1140 sqft,,Apartment/Condominium,1.0,"$1,047",1986.0,R2803407,Residential,Yes,$350,09/08/2023,"$399,000",31/07/2023,"$399,000"
+31,"37 - 3110 Trafalgar St, Abbotsford, BC",2.0,2.0,1537 sqft,,Townhouse,1.0,"$1,792",1992.0,R2805073,Residential,No,$308,09/08/2023,"$500,000",07/08/2023,"$474,700"
+32,"402 - 32838 Landeau Pl, Abbotsford, BC",1.0,1.0,664 sqft,,Apartment/Condominium,1.0,"$1,542",2021.0,R2802499,Residential,Yes,$647,09/08/2023,"$415,000",27/07/2023,"$429,900"
+33,"36745 Dianne Brook Ave, Abbotsford, BC",5.0,3.0,2781 sqft,,Single Family Residence,4.0,"$4,355",2021.0,R2796912,Residential,Yes,$422,08/08/2023,"$1,130,000",10/07/2023,"$1,175,000"
+34,"410 - 33708 King Rd, Abbotsford, BC",2.0,2.0,915 sqft,,Apartment/Condominium,2.0,"$1,656",1994.0,R2803894,Residential,Yes,$436,08/08/2023,"$465,000",01/08/2023,"$399,000"
+35,"1780 Salton Rd, Abbotsford, BC",2.0,2.0,1674 sqft,,Manufactured On Land,0.0,"$2,802",1980.0,R2804134,Residential,No,$447,08/08/2023,"$715,000",02/08/2023,"$749,900"
+36,"1883 Viewgrove Pl, Abbotsford, BC",4.0,2.0,2252 sqft,,Single Family Residence,6.0,"$4,839",1980.0,R2802184,Residential,Yes,$566,08/08/2023,"$1,150,000",25/07/2023,"$1,275,000"
+37,"36082 Southridge Pl, Abbotsford, BC",5.0,3.0,3335 sqft,,Single Family Residence,4.0,"$4,855",1985.0,R2759420,Residential,Yes,$382,08/08/2023,"$1,275,000",12/03/2023,"$1,275,000"
+38,"37721 Dawson Rd, Abbotsford, BC",4.0,3.0,2288 sqft,,Single Family Residence,10.0,"$5,386",1987.0,R2801061,Residential,Yes,$738,07/08/2023,"$1,690,000",24/07/2023,"$1,690,000"
+39,"206 - 33338 Mayfair Ave, Abbotsford, BC",2.0,2.0,1058 sqft,,Apartment/Condominium,2.0,"$1,985",2007.0,R2802916,Residential,Yes,$491,07/08/2023,"$510,000",31/07/2023,"$519,800"
+40,"302 - 32669 George Ferguson Way, Abbotsford, BC",2.0,2.0,1238 sqft,,Apartment/Condominium,2.0,"$1,496",1986.0,R2803694,Residential,Yes,$266,07/08/2023,"$380,000",01/08/2023,"$329,900"
+41,"105 - 33568 George Ferguson Way, Abbotsford, BC",2.0,2.0,780 sqft,,Apartment/Condominium,1.0,"$1,819",2021.0,R2798993,Residential,Yes,$640,07/08/2023,"$485,000",16/07/2023,"$499,700"
+42,"1 - 3070 Townline Rd, Abbotsford, BC",4.0,3.0,1980 sqft,,Townhouse,2.0,"$2,705",1993.0,R2802093,Residential,Yes,$378,07/08/2023,"$770,000",25/07/2023,"$749,900"
+43,"34643 2nd Ave, Abbotsford, BC",2.0,1.0,900 sqft,,Single Family Residence,2.0,"$3,701",9999.0,R2789672,Residential,No,$694,07/08/2023,"$550,000",19/06/2023,"$625,000"
+44,"203 - 1750 Mckenzie Rd, Abbotsford, BC",2.0,1.0,951 sqft,,Townhouse,2.0,"$1,612",1990.0,R2802222,Residential,No,$419,07/08/2023,"$398,000",25/07/2023,"$399,000"
+45,"32993 Malahat Pl, Abbotsford, BC",5.0,3.0,2142 sqft,,Single Family Residence,4.0,"$4,759",1987.0,R2802959,Residential,Yes,$560,06/08/2023,"$1,131,031",30/07/2023,"$1,199,700"
+46,"20 - 2838 Livingstone Ave, Abbotsford, BC",2.0,2.0,1307 sqft,,Townhouse,4.0,"$2,698",2019.0,R2804100,Residential,Yes,$512,06/08/2023,"$700,000",02/08/2023,"$669,800"
+47,"205 - 2649 James St, Abbotsford, BC",3.0,2.0,1097 sqft,,Apartment/Condominium,2.0,"$2,253",2021.0,R2803842,Residential,Yes,$569,06/08/2023,"$615,000",01/08/2023,"$624,900"
+48,"319 - 2700 Mccallum Rd, Abbotsford, BC",2.0,1.0,907 sqft,,Apartment/Condominium,1.0,"$1,584",1989.0,R2803630,Residential,Yes,$429,06/08/2023,"$389,900",02/08/2023,"$389,900"
+49,"205 - 32120 Mount Waddington Ave, Abbotsford, BC",2.0,2.0,1233 sqft,,Apartment/Condominium,1.0,"$1,713",1995.0,R2802889,Residential,Yes,$385,06/08/2023,"$478,000",30/07/2023,"$475,000"
+50,"404 - 3176 Gladwin Rd, Abbotsford, BC",2.0,2.0,1083 sqft,,Apartment/Condominium,1.0,"$1,692",1997.0,R2803640,Residential,Yes,$447,05/08/2023,"$485,000",02/08/2023,"$484,900"
+51,"30524 Robin Dr, Abbotsford, BC",6.0,4.0,2745 sqft,,Single Family Residence,5.0,"$5,083",1994.0,R2787571,Residential,Yes,$480,05/08/2023,"$1,270,000",10/06/2023,"$1,318,000"
+52,"416 - 31158 Westridge Pl, Abbotsford, BC",1.0,1.0,662 sqft,,Apartment/Condominium,2.0,"$1,905",2021.0,R2793504,Residential,Yes,$708,05/08/2023,"$457,500",28/06/2023,"$469,000"
+53,"194 - 30930 Westridge Pl, Abbotsford, BC",3.0,2.0,2218 sqft,,Townhouse,2.0,"$3,430",2020.0,R2794378,Residential,Yes,$405,,,,
+54,"608 - 1750 Mckenzie Rd, Abbotsford, BC",2.0,1.0,961 sqft,,Townhouse,1.0,"$1,567",1990.0,R2802840,Residential,No,$431,04/08/2023,"$407,500",29/07/2023,"$415,000"
+55,"35672 Hawksview Pl, Abbotsford, BC",3.0,3.0,2608 sqft,,Single Family Residence,4.0,"$4,793",2001.0,R2797413,Residential,Yes,$465,04/08/2023,"$1,200,000",11/07/2023,"$1,214,900"
+56,"101 - 3182 Gladwin Rd, Abbotsford, BC",1.0,1.0,616 sqft,,Apartment/Condominium,1.0,"$1,980",2022.0,R2803995,Residential,Yes,$649,04/08/2023,"$410,000",02/08/2023,"$399,900"
+57,"2720 Maple St, Abbotsford, BC",5.0,1.0,2478 sqft,,Single Family Residence,8.0,"$4,518",1956.0,R2793815,Residential,Yes,$484,03/08/2023,"$1,150,000",29/06/2023,"$1,199,900"
+58,"413 - 2632 Pauline St, Abbotsford, BC",3.0,2.0,1088 sqft,,Apartment/Condominium,2.0,"$1,915",2008.0,R2793974,Residential,Yes,$565,03/08/2023,"$600,000",29/06/2023,"$615,000"
+59,"9 - 3070 Townline Rd, Abbotsford, BC",4.0,3.0,1915 sqft,,Townhouse,2.0,"$2,417",1993.0,R2793881,Residential,No,$365,03/08/2023,"$683,000",04/07/2023,"$699,900"
+60,"98 - 1973 Winfield Dr, Abbotsford, BC",3.0,3.0,2333 sqft,,Townhouse,0.0,"$2,256",1993.0,R2799260,Residential,Yes,$321,02/08/2023,"$729,000",23/07/2023,"$749,900"
+61,"67 - 34959 Old Clayburn Rd, Abbotsford, BC",2.0,2.0,1575 sqft,,Townhouse,1.0,"$2,461",1988.0,R2802452,Residential,No,$363,02/08/2023,"$570,000",31/07/2023,"$572,000"
+62,"204 - 3150 Gladwin Rd, Abbotsford, BC",2.0,2.0,1145 sqft,,Apartment/Condominium,1.0,"$1,890",1990.0,R2799265,Residential,Yes,$414,02/08/2023,"$472,500",13/07/2023,"$475,000"
+63,"105 - 32120 Mount Waddington Ave, Abbotsford, BC",2.0,2.0,1233 sqft,,Apartment/Condominium,1.0,"$1,668",1995.0,R2799750,Residential,Yes,$405,02/08/2023,"$488,500",18/07/2023,"$499,900"
+64,"14 - 2989 Trafalgar St, Abbotsford, BC",3.0,3.0,2321 sqft,,Townhouse,2.0,"$2,240",1985.0,R2803645,Residential,No,$305,02/08/2023,"$708,300",30/07/2023,"$708,800"
+65,,,,,,,3.0,"$2,165",1980.0,R2802944,Residential,Yes,$461,,,,
+66,"118 - 2964 Trethewey St, Abbotsford, BC",2.0,2.0,921 sqft,,Apartment/Condominium,1.0,"$1,541",1993.0,R2803496,Residential,Yes,$461,01/08/2023,"$418,000",31/07/2023,"$424,900"
+67,"112 - 33490 Cottage Lane, Abbotsford, BC",2.0,1.0,1013 sqft,,Apartment/Condominium,1.0,"$1,018",1981.0,R2790478,Residential,Yes,$330,01/08/2023,"$325,000",19/06/2023,"$334,500"
+68,"316 - 2964 Trethewey St, Abbotsford, BC",1.0,1.0,815 sqft,,Apartment/Condominium,1.0,"$1,444",1993.0,R2801800,Residential,Yes,$465,01/08/2023,"$373,000",25/07/2023,"$379,000"
+69,"31391 Marshall Rd, Abbotsford, BC",5.0,3.0,2592 sqft,,Single Family Residence,7.0,"$5,441",1997.0,R2800783,Residential,Yes,$470,01/08/2023,"$1,190,000",24/07/2023,"$1,219,999"
+70,"2818 Westside Pl, Abbotsford, BC",3.0,3.0,2287 sqft,,Single Family Residence,6.0,"$4,711",1990.0,R2802802,Residential,Yes,$469,01/08/2023,"$1,050,000",27/07/2023,"$1,074,700"
+71,"2006 - 2180 Gladwin Rd, Abbotsford, BC",2.0,2.0,1035 sqft,,Apartment/Condominium,1.0,"$3,051",2018.0,R2784599,Residential,Yes,$806,,,,
+72,"302 - 31771 Peardonville Rd, Abbotsford, BC",2.0,2.0,900 sqft,,Apartment/Condominium,1.0,"$1,704",1994.0,R2803350,Residential,Yes,$499,31/07/2023,"$455,000",31/07/2023,"$449,900"
+73,"106 - 4001 Old Clayburn Rd, Abbotsford, BC",3.0,2.0,2746 sqft,,Townhouse,2.0,"$3,412",1993.0,R2799712,Residential,Yes,$327,31/07/2023,"$850,000",18/07/2023,"$899,000"
+74,,,,,,,,,,,,,,,,,
+75,"33931 Farmer Rd, Abbotsford, BC",4.0,1.0,2598 sqft,,Single Family Residence,20.0,"$5,479",1967.0,R2800043,Residential,Yes,$730,,,,
+76,,,,,,,,,,,,,,,,,
+77,"31833 Jervis Crt, Abbotsford, BC",5.0,2.0,2154 sqft,,Single Family Residence,0.0,"$4,814",1988.0,R2800361,Residential,Yes,$487,,"$1,015,000",19/07/2023,"$1,050,000"
+78,"35298 Munroe Ave, Abbotsford, BC",4.0,3.0,2224 sqft,,Single Family Residence,4.0,"$4,225",1988.0,R2802366,Residential,Yes,$449,31/07/2023,"$1,045,000",26/07/2023,"$999,900"
+79,"2455 Aladdin Cres, Abbotsford, BC",3.0,1.0,1495 sqft,,Single Family Residence,2.0,"$4,174",1976.0,R2795336,Residential,No,$601,31/07/2023,"$870,000",04/07/2023,"$899,900"
+80,"2235 Broadway St, Abbotsford, BC",4.0,2.0,2138 sqft,,Single Family Residence,5.0,"$4,933",1970.0,R2799267,Residential,No,$549,31/07/2023,"$1,150,000",18/07/2023,"$1,175,000"
+81,"35823 Timberlane Dr, Abbotsford, BC",3.0,3.0,2576 sqft,,Single Family Residence,8.0,"$5,204",1990.0,R2791914,Residential,Yes,$543,31/07/2023,"$1,270,000",26/06/2023,"$1,398,800"
+82,"101 - 32033 Old Yale Rd, Abbotsford, BC",2.0,1.0,1080 sqft,,Apartment/Condominium,1.0,"$1,076",1979.0,R2799765,Residential,Yes,$277,,,,
+83,"206 - 32733 Broadway St East, Abbotsford, BC",1.0,1.0,665 sqft,,Apartment/Condominium,1.0,$908,1982.0,R2791604,Residential,Yes,$450,30/07/2023,"$295,500",22/06/2023,"$299,750"
+84,"113 - 32870 George Ferguson Way, Abbotsford, BC",2.0,1.0,915 sqft,,Apartment/Condominium,1.0,"$1,177",1976.0,R2777148,Residential,Yes,$349,30/07/2023,"$303,000",09/05/2023,"$320,000"
+85,"121 - 2120 Gladwin Rd, Abbotsford, BC",1.0,1.0,662 sqft,,Apartment/Condominium,1.0,"$1,802",2021.0,R2799083,Residential,Yes,$702,30/07/2023,"$455,000",19/07/2023,"$464,900"
+86,"28 - 33123 George Ferguson Way, Abbotsford, BC",2.0,2.0,1432 sqft,,Townhouse,2.0,"$1,665",1990.0,R2798616,Residential,No,$279,29/07/2023,"$395,000",16/07/2023,"$399,800"
+87,"60 - 27735 Roundhouse Dr, Abbotsford, BC",3.0,2.0,1276 sqft,,Townhouse,3.0,"$2,778",2019.0,R2802109,Residential,No,$611,29/07/2023,"$779,900",26/07/2023,"$779,900"
+88,"5 - 2962 Nelson Pl, Abbotsford, BC",2.0,2.0,2034 sqft,,Townhouse,1.0,"$1,649",1984.0,R2791262,Residential,No,$245,28/07/2023,"$485,000",20/06/2023,"$499,900"
+89,"43 - 2068 Winfield Dr, Abbotsford, BC",3.0,2.0,1687 sqft,,Townhouse,2.0,"$2,747",1998.0,R2802406,Residential,Yes,$432,28/07/2023,"$745,000",27/07/2023,"$729,900"
+90,"303 - 3063 Immel St, Abbotsford, BC",2.0,2.0,885 sqft,,Apartment/Condominium,1.0,"$1,415",1993.0,R2797972,Residential,Yes,$480,28/07/2023,"$415,000",11/07/2023,"$425,000"
+91,"308 - 32725 George Ferguson Way, Abbotsford, BC",2.0,2.0,900 sqft,,Apartment/Condominium,1.0,"$1,414",1992.0,R2793186,Residential,Yes,$499,27/07/2023,"$425,000",28/06/2023,"$449,900"
+92,,,,,,,,,,,,,,,,,
+93,"131 - 3300 Horn St, Abbotsford, BC",3.0,1.0,956 sqft,,Manufactured Home,3.0,$404,1979.0,R2798803,Residential,No,$292,27/07/2023,"$270,000",16/07/2023,"$279,900"
+94,"316 - 2962 Trethewey St, Abbotsford, BC",2.0,2.0,927 sqft,,Apartment/Condominium,1.0,"$1,579",1993.0,R2800898,Residential,Yes,$452,27/07/2023,"$412,500",24/07/2023,"$419,700"
+95,"210 - 33280 Bourquin Cres E, Abbotsford, BC",2.0,2.0,1003 sqft,,Apartment/Condominium,1.0,"$1,579",1993.0,R2799139,Residential,Yes,$478,,,,
+96,"302 - 1750 Mckenzie Rd, Abbotsford, BC",2.0,1.0,984 sqft,,Townhouse,1.0,"$1,612",1992.0,R2801707,Residential,No,$426,,,,
+97,"7 - 34121 George Ferguson Way, Abbotsford, BC",4.0,3.0,1742 sqft,,Single Family Residence,2.0,"$3,264",2020.0,R2789895,Residential,Yes,$530,,,,
+98,"107 - 33400 Bourquin Pl, Abbotsford, BC",2.0,1.0,947 sqft,,Apartment/Condominium,2.0,"$1,552",1976.0,R2801329,Residential,Yes,$422,,,,
+99,"405 - 33328 Bourquin Cres E, Abbotsford, BC",1.0,1.0,664 sqft,,Apartment/Condominium,1.0,"$1,523",2006.0,R2800457,Residential,Yes,$557,,,,
+100,"30926 Brookdale Crt, Abbotsford, BC",6.0,4.0,2969 sqft,,Single Family Residence,4.0,"$4,917",1996.0,R2801125,Residential,Yes,$420,,,,
+101,"303 - 32445 Simon Ave, Abbotsford, BC",2.0,2.0,1663 sqft,,Apartment/Condominium,2.0,"$2,561",2018.0,R2780825,Residential,Yes,$450,,,,
+102,,,,,,,,,,,,,,,,,
+103,,,,,,,,,,,,,,,,,
+104,,,,,,,,,,,,,,,,,
+105,"106 - 33375 Mayfair Ave, Abbotsford, BC",2.0,2.0,1285 sqft,,Apartment/Condominium,1.0,"$1,453",1990.0,R2797806,Residential,Yes,$369,,,13/03/2024,"$535,000"
+106,,,,,,Townhouse,0.0,"$2,384",1991.0,R2794631,Residential,Yes,$506,,,,
+107,,,,,,,,,,,,,,,,,
+108,"2436 Adelaide St, Abbotsford, BC",4.0,2.0,2300 sqft,,Single Family Residence,5.0,"$5,217",1969.0,R2797521,Residential,Yes,$434,,,,
+109,"36031 Emily Carr Green, Abbotsford, BC",5.0,3.0,3069 sqft,,Single Family Residence,4.0,"$4,595",2017.0,R2794678,Residential,Yes,$377,,,,
+110,"415 - 31955 Old Yale Rd, Abbotsford, BC",2.0,2.0,1240 sqft,,Apartment/Condominium,2.0,"$1,332",1981.0,R2800872,Residential,Yes,$353,24/07/2023,"$438,900",23/07/2023,"$438,900"
+111,"3493 Picton St, Abbotsford, BC",4.0,3.0,2700 sqft,,Single Family Residence,5.0,"$4,293",1979.0,R2792739,Residential,No,$425,,,,
+112,"109 - 33280 Bourquin Cres E, Abbotsford, BC",2.0,2.0,1128 sqft,,Apartment/Condominium,1.0,"$1,644",1993.0,R2798649,Residential,Yes,$425,23/07/2023,"$480,000",19/07/2023,"$479,900"
+113,"34620 Devon Cres, Abbotsford, BC",3.0,3.0,2009 sqft,,Single Family Residence,6.0,"$4,094",1983.0,R2798124,Residential,Yes,$497,,,,
+114,"2271 Mountain Dr, Abbotsford, BC",5.0,3.0,3211 sqft,,Single Family Residence,6.0,"$4,989",1994.0,R2799713,Residential,Yes,$434,,,,
+115,"37405 Atkinson Rd, Abbotsford, BC",4.0,1.0,2530 sqft,,Single Family Residence,9.0,"$4,543",9999.0,R2799743,Residential,No,$395,23/07/2023,"$1,150,000",18/07/2023,"$999,700"
+116,,,,,,,,,,,,,,,,,
+117,,,,,,,,,,,,,,,,,
+118,,,,,,,,,,,,,,,,,
+119,"113 - 2955 Diamond Cres, Abbotsford, BC",2.0,2.0,931 sqft,,Apartment/Condominium,1.0,"$1,567",2006.0,R2793559,Residential,Yes,$569,22/07/2023,"$517,500",04/07/2023,"$529,900"
+120,"306 - 1909 Salton Rd, Abbotsford, BC",2.0,1.0,933 sqft,,Apartment/Condominium,2.0,"$1,092",1977.0,R2797772,Residential,Yes,$385,,,,
+121,,,,,,,,,,,,,,,,,
+122,,,,,,,,,,,,,,,,,
+123,"2157 Broadway St, Abbotsford, BC",5.0,3.0,2172 sqft,,Single Family Residence,4.0,"$4,676",1975.0,R2782953,Residential,Yes,$529,,,,
+124,,,,,,,,"$2,763",1940.0,R2748858,Residential,No,$592,,,,
+125,,,,,,,,,,,,,,,,,
+126,,,,,,,,,,,,,,,,,
+127,,,,,,,,,,,,,,,,,
+128,"10 - 1968 N Parallel Rd, Abbotsford, BC",3.0,2.0,1306 sqft,,Townhouse,4.0,"$2,650",2016.0,R2781896,Residential,Yes,$616,,,,"$804,900"
+129,"307 - 32733 Broadway E, Abbotsford, BC",1.0,1.0,575 sqft,,Apartment/Condominium,1.0,$855,1982.0,R2793336,Residential,Yes,$538,,,,
+130,,,,,,,,,,,,,,,,,
+131,"6 - 36060 Old Yale Rd, Abbotsford, BC",3.0,2.0,1431 sqft,,Townhouse,2.0,"$2,270",1991.0,R2799660,Residential,Yes,$471,,,,
+132,"34747 Skyline Dr, Abbotsford, BC",3.0,3.0,3532 sqft,,Single Family Residence,9.0,"$7,749",1984.0,R2784647,Residential,Yes,$565,,,,
+133,"115 - 32044 Old Yale Rd, Abbotsford, BC",2.0,2.0,1090 sqft,,Apartment/Condominium,1.0,"$1,274",1993.0,R2794134,Residential,Yes,$435,,,,
+134,"161 - 32633 Simon Ave, Abbotsford, BC",3.0,2.0,1188 sqft,,Townhouse,1.0,"$2,224",2019.0,R2790963,Residential,Yes,$559,19/07/2023,"$650,000",18/06/2023,"$665,000"
+135,"3390 Sechelt Terr, Abbotsford, BC",5.0,2.0,2010 sqft,,Single Family Residence,4.0,"$4,652",1983.0,R2799861,Residential,Yes,$497,16/07/2023,"$985,000",16/07/2023,"$999,900"
+136,"105 - 2772 Clearbrook Rd, Abbotsford, BC",2.0,2.0,1050 sqft,,Apartment/Condominium,1.0,"$1,197",1996.0,R2797863,Residential,Yes,$412,16/07/2023,"$437,000",12/07/2023,"$432,900"
+137,"30 - 35287 Old Yale Rd, Abbotsford, BC",3.0,3.0,1804 sqft,,Townhouse,2.0,"$2,531",1999.0,R2796291,Residential,Yes,$376,16/07/2023,"$675,000",09/07/2023,"$680,000"
+138,"301 - 32838 Ventura Ave, Abbotsford, BC",2.0,2.0,883 sqft,,Apartment/Condominium,1.0,"$1,886",2021.0,R2796898,Residential,Yes,$619,16/07/2023,"$540,000",09/07/2023,"$547,000"
+139,"32595 Rossland Pl, Abbotsford, BC",5.0,2.0,2351 sqft,,Single Family Residence,6.0,"$4,301",1974.0,R2798065,Residential,Yes,$495,15/07/2023,"$1,132,000",11/07/2023,"$1,164,000"
+140,"36 - 31517 Spur Ave, Abbotsford, BC",4.0,3.0,2812 sqft,,Townhouse,2.0,"$2,856",2004.0,R2789515,Residential,Yes,$316,15/07/2023,"$875,000",14/06/2023,"$889,900"
+141,"301 - 33318 Bourquin Cres E, Abbotsford, BC",1.0,1.0,663 sqft,,Apartment/Condominium,1.0,"$1,263",2006.0,R2797820,Residential,Yes,$580,15/07/2023,"$391,000",13/07/2023,"$384,999"
+142,"415 - 2943 Nelson Pl, Abbotsford, BC",2.0,2.0,979 sqft,,Apartment/Condominium,2.0,"$1,696",2009.0,R2798149,Residential,Yes,$525,15/07/2023,"$514,900",13/07/2023,"$514,900"
+143,"112 - 3090 Gladwin Rd, Abbotsford, BC",2.0,2.0,802 sqft,,Apartment/Condominium,1.0,"$1,660",2015.0,R2792557,Residential,Yes,$660,,,,
+144,"327 - 31158 Westridge Pl, Abbotsford, BC",2.0,2.0,861 sqft,,Apartment/Condominium,2.0,"$1,889",2021.0,R2781721,Residential,Yes,$615,15/07/2023,"$525,000",25/05/2023,"$529,888"
+145,"7 - 2962 Nelson Pl, Abbotsford, BC",3.0,2.0,2062 sqft,,Townhouse,1.0,"$1,691",1984.0,R2775051,Residential,No,$242,14/07/2023,"$498,000",07/05/2023,"$499,900"
+146,"29533 Marsh Mccormick Rd, Abbotsford, BC",4.0,3.0,2692 sqft,,Single Family Residence,8.0,"$6,040",1976.0,R2787211,Residential,No,$693,14/07/2023,"$1,850,000",10/06/2023,"$1,867,000"
+147,"2307 Olympia Pl, Abbotsford, BC",3.0,3.0,2716 sqft,,Single Family Residence,6.0,"$4,509",1988.0,R2795345,Residential,Yes,$460,14/07/2023,"$1,260,000",09/07/2023,"$1,250,000"
+148,"2901 Mccallum Rd, Abbotsford, BC",4.0,2.0,2287 sqft,,Single Family Residence,12.0,"$4,746",1944.0,R2787805,Residential,Yes,$480,14/07/2023,"$1,155,000",12/06/2023,"$1,099,000"
+149,"38 - 36060 Old Yale Rd, Abbotsford, BC",3.0,2.0,1417 sqft,,Townhouse,2.0,"$2,270",1992.0,R2791874,Residential,Yes,$493,14/07/2023,"$690,000",25/06/2023,"$699,700"
+150,"9 - 32917 Amicus Pl, Abbotsford, BC",4.0,3.0,2121 sqft,,Townhouse,2.0,"$2,190",1983.0,R2796061,Residential,No,$282,14/07/2023,"$665,000",09/07/2023,"$600,000"
+151,"86 - 34959 Old Clayburn Rd, Abbotsford, BC",2.0,3.0,1372 sqft,,Townhouse,1.0,"$1,733",1988.0,R2796704,Residential,No,$429,13/07/2023,"$577,000",09/07/2023,"$589,900"
+152,"4 - 33900 Mayfair Ave, Abbotsford, BC",1.0,1.0,575 sqft,,Townhouse,1.0,"$1,113",1971.0,R2792178,Residential,No,$600,12/07/2023,"$340,000",25/06/2023,"$345,000"
+153,"3525 Cariboo Crt, Abbotsford, BC",3.0,2.0,1498 sqft,,Single Family Residence,4.0,"$4,196",1977.0,R2794550,Residential,Yes,$667,12/07/2023,"$970,000",03/07/2023,"$999,900"
+154,"34602 Semlin Pl, Abbotsford, BC",6.0,3.0,3302 sqft,,Single Family Residence,0.0,"$4,904",1984.0,R2790213,Residential,Yes,$302,,,,
+155,"21 - 30703 Blueridge Dr, Abbotsford, BC",3.0,3.0,3299 sqft,,Townhouse,2.0,"$2,932",1996.0,R2796748,Residential,Yes,$271,,,,
+156,"33273 Terry Fox Ave, Abbotsford, BC",3.0,2.0,1477 sqft,,Single Family Residence,4.0,"$4,136",1986.0,R2795005,Residential,Yes,$643,,,,
+157,"206 - 33728 King Rd, Abbotsford, BC",2.0,2.0,947 sqft,,Apartment/Condominium,2.0,"$1,394",1996.0,R2794976,Residential,Yes,$491,12/07/2023,"$465,000",04/07/2023,"$465,000"
+158,"32084 Debreen Cres, Abbotsford, BC",2.0,1.0,1132 sqft,,Single Family Residence,6.0,"$4,058",1969.0,R2793424,Residential,Yes,$794,12/07/2023,"$955,000",28/06/2023,"$899,900"
+159,"10 - 3380 Gladwin Rd, Abbotsford, BC",2.0,1.0,1312 sqft,,Townhouse,2.0,"$1,628",1992.0,R2796405,Residential,No,$285,12/07/2023,"$370,000",09/07/2023,"$375,000"
+160,"1 - 3270 Blue Jay St, Abbotsford, BC",4.0,3.0,2113 sqft,,Townhouse,2.0,"$2,892",1998.0,R2790902,Residential,Yes,$425,12/07/2023,"$885,000",21/06/2023,"$899,900"
+161,"104 - 2750 Fairlane St, Abbotsford, BC",2.0,2.0,1017 sqft,,Apartment/Condominium,1.0,"$1,443",1993.0,R2797710,Residential,Yes,$392,12/07/2023,"$400,000",11/07/2023,"$399,000"
+162,"35481 Eagle Summit Dr, Abbotsford, BC",5.0,3.0,3748 sqft,,Single Family Residence,4.0,"$6,868",2016.0,R2794828,Residential,Yes,$453,12/07/2023,"$1,680,000",03/07/2023,"$1,699,995"
+163,"27725 Quinton Ave, Abbotsford, BC",1.0,1.0,1500 sqft,,Single Family Residence,0.0,"$3,918",1995.0,R2794903,Residential,No,"$1,526",,,,
+164,"508 - 3182 Gladwin Rd, Abbotsford, BC",2.0,2.0,890 sqft,,Apartment/Condominium,2.0,,2022.0,R2779919,Residential,Yes,$729,-,-,23/01/2024,"$699,980"
+165,"321 - 32445 Simon Ave, Abbotsford, BC",3.0,2.0,1080 sqft,,Apartment/Condominium,2.0,"$2,179",2018.0,R2783720,Residential,Yes,$634,11/07/2023,"$670,000",05/06/2023,"$685,000"
+166,"202 - 2038 Sandalwood Cres, Abbotsford, BC",2.0,2.0,1055 sqft,,Apartment/Condominium,2.0,"$1,783",2009.0,R2795282,Residential,Yes,$521,11/07/2023,"$541,000",05/07/2023,"$549,900"
+167,"2732 Sandon Dr, Abbotsford, BC",3.0,1.0,1480 sqft,,Multi Family,6.0,"$3,262",1976.0,R2783576,Residential,No,$539,11/07/2023,"$800,000",28/05/2023,"$799,000"
+168,"2119 Lonsdale Cres, Abbotsford, BC",5.0,2.0,2364 sqft,,Single Family Residence,6.0,"$4,944",1974.0,R2782103,Residential,Yes,$535,11/07/2023,"$1,217,250",30/05/2023,"$1,267,000"
+169,"502 - 3190 Gladwin Rd, Abbotsford, BC",2.0,2.0,1080 sqft,,Apartment/Condominium,1.0,"$1,664",1993.0,R2793474,Residential,Yes,$439,11/07/2023,"$474,800",27/06/2023,"$474,800"
+170,"335 - 2451 Gladwin Rd, Abbotsford, BC",2.0,2.0,1449 sqft,,Apartment/Condominium,1.0,"$1,618",1991.0,R2793853,Residential,Yes,$331,11/07/2023,"$485,000",04/07/2023,"$479,900"
+171,"39840 Old Yale Rd, Abbotsford, BC",3.0,3.0,1803 sqft,,Single Family Residence,0.0,"$4,889",2016.0,R2788121,Residential,Yes,$887,11/07/2023,"$1,450,000",13/06/2023,"$1,600,000"
+172,"12 - 3348 Mount Lehman Rd, Abbotsford, BC",2.0,2.0,1600 sqft,,Townhouse,4.0,"$2,758",2008.0,R2791032,Residential,Yes,$555,11/07/2023,"$865,000",20/06/2023,"$889,000"
+173,"38 - 34332 Maclure Rd, Abbotsford, BC",4.0,3.0,2197 sqft,,Townhouse,2.0,"$2,443",1994.0,R2785704,Residential,Yes,$357,10/07/2023,"$745,000",07/06/2023,"$784,900"
+174,"40 - 2989 Trafalgar St, Abbotsford, BC",3.0,1.0,1722 sqft,,Townhouse,3.0,"$1,847",1985.0,R2793806,Residential,Yes,$364,10/07/2023,"$627,700",29/06/2023,"$627,700"
+175,"23 - 2088 Winfield Dr, Abbotsford, BC",4.0,3.0,2603 sqft,,Townhouse,0.0,"$3,227",2003.0,R2782350,Residential,Yes,$320,10/07/2023,"$830,000",24/05/2023,"$835,000"
+176,"25 - 35810 Mckee Rd, Abbotsford, BC",4.0,2.0,1934 sqft,,Townhouse,2.0,,2023.0,R2795455,Residential,Yes,$485,10/07/2023,"$925,000",04/07/2023,"$939,000"
+177,"103 - 2990 Boulder St, Abbotsford, BC",1.0,1.0,810 sqft,,Apartment/Condominium,2.0,"$1,411",2006.0,R2789315,Residential,Yes,$555,-,Not Sold Yet,04/06/2024,"$399,999"
+178,"3742 Davie St, Abbotsford, BC",4.0,3.0,2292 sqft,,Single Family Residence,5.0,"$4,008",1988.0,R2796758,Residential,Yes,$470,10/07/2023,"$1,065,000",09/07/2023,"$1,079,000"
+179,"33971 Car Lin Lane, Abbotsford, BC",4.0,3.0,2082 sqft,,Single Family Residence,4.0,"$3,151",2009.0,R2792749,Residential,Yes,$470,10/07/2023,"$970,000",26/06/2023,"$979,900"
+180,"406 - 2960 Trethewey St, Abbotsford, BC",2.0,2.0,909 sqft,,Apartment/Condominium,1.0,"$1,328",1994.0,R2787282,Residential,Yes,$467,10/07/2023,"$405,000",11/06/2023,"$425,000"
+181,"1 - 2830 Bourquin Cres W, Abbotsford, BC",4.0,2.0,1766 sqft,,Townhouse,2.0,"$2,030",1979.0,R2791916,Residential,No,$372,09/07/2023,"$622,000",21/06/2023,"$658,000"
+182,"121 - 2515 Park Dr, Abbotsford, BC",2.0,2.0,805 sqft,,Apartment/Condominium,2.0,"$1,468",2007.0,R2795508,Residential,Yes,$539,-,-,12/09/2023,"$479,000"
+183,"404 - 33280 Bourquin Cres E, Abbotsford, BC",2.0,2.0,1386 sqft,,Apartment/Condominium,1.0,"$1,687",1993.0,R2795580,Residential,Yes,$389,09/07/2023,"$539,900",05/07/2023,"$539,900"
+184,,,,,,,,,,,,,,,,,
+185,"106 - 2958 Trethewey St, Abbotsford, BC",2.0,2.0,928 sqft,,Apartment/Condominium,1.0,"$1,286",1994.0,R2794237,Residential,Yes,$449,09/07/2023,"$410,000",03/07/2023,"$416,700"
+186,"3367 Hedley St, Abbotsford, BC",4.0,2.0,2559 sqft,,Single Family Residence,5.0,"$4,826",1985.0,R2794184,Residential,Yes,$351,-,Not Sold Yet,06/05/2024,"$1,199,900"
+187,"103 - 33280 Bourquin Cres E, Abbotsford, BC",2.0,2.0,1115 sqft,,Apartment/Condominium,1.0,"$1,370",1993.0,R2794709,Residential,Yes,$430,09/07/2023,"$500,000",02/07/2023,"$479,900"
+188,"5449 Glenmore Rd, Abbotsford, BC",5.0,2.0,2660 sqft,,Single Family Residence,10.0,"$2,282",1986.0,R2757377,Residential,Yes,$936,09/07/2023,"$2,200,000",02/03/2023,"$2,490,000"
+189,"3 - 32691 Garibaldi Dr, Abbotsford, BC",2.0,1.0,1166 sqft,,Townhouse,1.0,"$1,382",1989.0,R2783199,Residential,No,$364,09/07/2023,"$405,000",29/05/2023,"$425,000"
+190,"438 - 32830 George Ferguson Way, Abbotsford, BC",2.0,2.0,1265 sqft,,Apartment/Condominium,2.0,"$1,495",1993.0,R2793132,Residential,Yes,$346,09/07/2023,"$460,000",03/07/2023,"$437,800"
+191,"2170 Holly St, Abbotsford, BC",5.0,3.0,2356 sqft,,Single Family Residence,7.0,"$4,643",1977.0,R2779480,Residential,No,$462,08/07/2023,"$1,085,000",23/05/2023,"$1,089,000"
+192,"50 - 4001 Old Clayburn Rd, Abbotsford, BC",2.0,2.0,1707 sqft,,Townhouse,2.0,"$2,459",1993.0,R2793481,Residential,Yes,$468,08/07/2023,"$740,500",28/06/2023,"$799,900"
+193,"201 - 3150 Gladwin Rd, Abbotsford, BC",2.0,2.0,1160 sqft,,Apartment/Condominium,1.0,"$1,547",1990.0,R2794557,Residential,Yes,$443,07/07/2023,"$507,500",06/07/2023,"$514,900"
+194,"304 - 2565 Ware St, Abbotsford, BC",2.0,2.0,1164 sqft,,Apartment/Condominium,2.0,"$2,135",2019.0,R2791525,Residential,Yes,$575,07/07/2023,"$660,000",21/06/2023,"$669,900"
+195,"413 - 2990 Boulder St, Abbotsford, BC",2.0,2.0,950 sqft,,Apartment/Condominium,2.0,"$1,626",2007.0,R2795867,Residential,Yes,$526,07/07/2023,"$498,000",06/07/2023,"$499,800"
+196,"2648 Eagle Mountain Dr, Abbotsford, BC",5.0,4.0,4688 sqft,,Single Family Residence,4.0,"$6,847",2015.0,R2795179,Residential,Yes,$383,07/07/2023,"$1,830,000",04/07/2023,"$1,799,800"
+197,"103 - 32055 Old Yale Rd, Abbotsford, BC",2.0,1.0,1160 sqft,,Apartment/Condominium,1.0,$920,1979.0,R2781764,Residential,Yes,$245,06/07/2023,"$280,000",19/05/2023,"$284,900"
+198,"34250 Fraser St, Abbotsford, BC",5.0,5.0,5512 sqft,,Single Family Residence,15.0,"$4,474",1992.0,R2777136,Residential,Yes,$217,06/07/2023,"$1,025,000",11/05/2023,"$1,199,000"
+199,"204 - 2678 Mccallum Rd, Abbotsford, BC",2.0,2.0,1251 sqft,,Apartment/Condominium,2.0,"$1,245",1987.0,R2792807,Residential,Yes,$345,,,,
+200,"32636 Pandora Ave, Abbotsford, BC",5.0,2.0,1760 sqft,,Single Family Residence,0.0,"$4,423",1977.0,R2780566,Residential,No,$601,,,,
+201,"21 - 32615 Murray Ave, Abbotsford, BC",3.0,3.0,2416 sqft,,Townhouse,2.0,"$2,746",1988.0,R2791435,Residential,Yes,$326,,,,
+202,"32995 Brundige Ave, Abbotsford, BC",4.0,2.0,2750 sqft,,Single Family Residence,5.0,"$5,411",1938.0,R2792717,Residential,No,$363,,,,
+203,"301 - 30525 Cardinal Ave, Abbotsford, BC",1.0,1.0,550 sqft,,Apartment/Condominium,1.0,"$1,078",2009.0,R2795850,Residential,Yes,$618,06/07/2023,"$341,400",05/07/2023,"$339,900"
+204,"417 - 33478 Roberts Ave, Abbotsford, BC",2.0,2.0,958 sqft,,Apartment/Condominium,1.0,"$1,459",1995.0,R2795578,Residential,Yes,$490,06/07/2023,"$470,000",04/07/2023,"$470,000"
+205,"304 - 2678 Mccallum Rd, Abbotsford, BC",2.0,2.0,1233 sqft,,Apartment/Condominium,2.0,"$1,252",1988.0,R2796069,Residential,Yes,$308,06/07/2023,"$460,000",06/07/2023,"$380,000"
+206,"2461 Aladdin Cres, Abbotsford, BC",4.0,2.0,1798 sqft,,Single Family Residence,5.0,"$4,221",1975.0,R2794387,Residential,Yes,$528,,,,
+207,"207 - 32838 Landeau Pl, Abbotsford, BC",2.0,2.0,882 sqft,,Apartment/Condominium,1.0,"$1,996",2021.0,R2773891,Residential,Yes,$622,06/07/2023,"$545,000",02/05/2023,"$549,000"
+208,"41 - 2830 Bourquin Cres W, Abbotsford, BC",3.0,1.0,1256 sqft,,Townhouse,1.0,"$1,935",1977.0,R2793000,Residential,No,$477,05/07/2023,"$599,900",26/06/2023,"$599,900"
+209,"28285 Myrtle Ave, Abbotsford, BC",3.0,1.0,2872 sqft,,Single Family Residence,2.0,"$1,505",1977.0,R2791569,Residential,Yes,$731,05/07/2023,"$1,980,000",21/06/2023,"$2,100,000"
+210,"106 - 32055 Old Yale Rd, Abbotsford, BC",2.0,1.0,1026 sqft,,Apartment/Condominium,1.0,$891,1980.0,R2789815,Residential,Yes,$282,05/07/2023,"$280,000",19/06/2023,"$290,000"
+211,"301 - 2943 Nelson Pl, Abbotsford, BC",2.0,2.0,982 sqft,,Apartment/Condominium,2.0,"$1,632",2009.0,R2785360,Residential,Yes,$509,05/07/2023,"$495,000",05/06/2023,"$499,900"
+212,"35 - 1419 Mccallum Rd, Abbotsford, BC",2.0,2.0,694 sqft,,Apartment/Condominium,1.0,,2023.0,R2786254,Residential,Yes,$720,05/07/2023,"$499,999",07/06/2023,"$499,900"
+213,"5751 Bradner Rd, Abbotsford, BC",4.0,3.0,2762 sqft,,Single Family Residence,9.0,"$4,080",1988.0,R2780585,Residential,Yes,$977,05/07/2023,"$2,650,000",22/05/2023,"$2,699,000"
+214,"17 - 33293 Bourquin Cres E, Abbotsford, BC",3.0,2.0,1780 sqft,,Townhouse,1.0,"$2,116",1976.0,R2792251,Residential,Yes,$336,04/07/2023,"$594,000",22/06/2023,"$599,000"
+215,"22 - 32691 Garibaldi Dr, Abbotsford, BC",3.0,2.0,1495 sqft,,Townhouse,1.0,"$1,703",1988.0,R2764273,Residential,No,$380,04/07/2023,"$565,200",02/04/2023,"$569,565"
+216,"56 - 1973 Winfield Dr, Abbotsford, BC",3.0,3.0,2144 sqft,,Townhouse,2.0,"$2,256",1993.0,R2793447,Residential,Yes,$345,04/07/2023,"$739,900",27/06/2023,"$739,900"
+217,"30 - 1450 Mccallum Rd, Abbotsford, BC",2.0,2.0,1951 sqft,,Townhouse,1.0,"$2,340",1989.0,R2788913,Residential,Yes,$358,04/07/2023,"$689,900",11/06/2023,"$699,900"
+218,"615 - 31955 Old Yale Rd, Abbotsford, BC",2.0,2.0,1322 sqft,,Apartment/Condominium,0.0,"$1,166",1981.0,R2791235,Residential,Yes,$264,,,,
+219,"2680 Marble Hill Dr, Abbotsford, BC",4.0,2.0,2804 sqft,,Single Family Residence,6.0,"$3,960",1980.0,R2791299,Residential,Yes,$356,,,,
+220,"304 - 1514 Mccallum Rd, Abbotsford, BC",1.0,1.0,450 sqft,,Apartment/Condominium,1.0,$598,2022.0,R2780807,Residential,Yes,$822,03/07/2023,"$357,000",16/05/2023,"$370,000"
+221,"11 - 35287 Old Yale Rd, Abbotsford, BC",3.0,3.0,1881 sqft,,Townhouse,2.0,"$2,387",1999.0,R2792438,Residential,Yes,$393,03/07/2023,"$715,000",26/06/2023,"$739,999"
+222,"13 - 32917 Amicus Pl, Abbotsford, BC",3.0,3.0,2223 sqft,,Townhouse,2.0,"$2,127",1983.0,R2792127,Residential,No,$269,03/07/2023,"$635,000",25/06/2023,"$599,900"
+223,"3690 Cobblestone Dr, Abbotsford, BC",6.0,3.0,3894 sqft,,Single Family Residence,4.0,"$5,847",1993.0,R2791382,Residential,Yes,$392,03/07/2023,"$1,479,000",22/06/2023,"$1,529,900"
+224,"47 - 3115 Trafalgar St, Abbotsford, BC",2.0,2.0,1598 sqft,,Townhouse,1.0,"$1,774",1987.0,R2781932,Residential,Yes,$343,03/07/2023,"$525,000",28/05/2023,"$549,000"
+225,"45 - 31406 Upper Maclure Rd, Abbotsford, BC",3.0,3.0,3021 sqft,,Townhouse,2.0,"$2,733",1999.0,R2794278,Residential,Yes,$236,03/07/2023,"$715,000",03/07/2023,"$714,999"
+226,"1703 - 3190 Gladwin Rd, Abbotsford, BC",2.0,2.0,1551 sqft,,Apartment/Condominium,2.0,"$2,736",1992.0,R2794529,Residential,Yes,$502,03/07/2023,"$780,000",03/07/2023,"$780,000"
+227,"3421 Juniper Cres, Abbotsford, BC",4.0,2.0,1876 sqft,,Single Family Residence,6.0,"$3,889",1979.0,R2779720,Residential,Yes,$479,-,-,15/10/2023,"$1,159,000"
+228,"13 - 31517 Spur Ave, Abbotsford, BC",2.0,2.0,1540 sqft,,Townhouse,2.0,"$2,022",2001.0,R2792705,Residential,Yes,$505,02/07/2023,"$779,000",25/06/2023,"$779,000"
+229,"36218 Cassandra Dr, Abbotsford, BC",5.0,3.0,2900 sqft,,Single Family Residence,6.0,"$5,211",1996.0,R2792733,Residential,Yes,$344,02/07/2023,"$1,255,000",25/06/2023,"$1,000,000"
+230,"34780 Anora Dr, Abbotsford, BC",3.0,2.0,1750 sqft,,Single Family Residence,6.0,"$4,101",1981.0,R2793520,Residential,Yes,$485,02/07/2023,"$850,000",25/06/2023,"$850,000"
+231,"519 - 2860 Trethewey St, Abbotsford, BC",2.0,2.0,1069 sqft,,Apartment/Condominium,2.0,"$2,160",2017.0,R2791339,Residential,Yes,$587,02/07/2023,"$628,000",21/06/2023,"$627,900"
+232,"31121 Deertrail Dr N, Abbotsford, BC",8.0,6.0,5002 sqft,,Single Family Residence,4.0,"$5,496",2021.0,R2795409,Residential,Yes,$419,02/07/2023,"$2,072,000",01/07/2023,"$2,099,000"
+233,"53 - 3030 Trethewey St, Abbotsford, BC",3.0,1.0,1160 sqft,,Townhouse,1.0,"$1,973",1981.0,R2793129,Residential,No,$542,02/07/2023,"$629,000",27/06/2023,"$629,000"
+234,"32656 Haida Dr, Abbotsford, BC",3.0,2.0,2135 sqft,,Single Family Residence,5.0,"$3,894",1988.0,R2788365,Residential,Yes,$515,02/07/2023,"$990,000",15/06/2023,"$1,100,000"
+235,"217 - 3172 Gladwin Rd, Abbotsford, BC",2.0,2.0,1350 sqft,,Apartment/Condominium,1.0,"$1,640",1995.0,R2790509,Residential,Yes,$362,01/07/2023,"$485,000",21/06/2023,"$489,000"
+236,"3705 Dunsmuir Way, Abbotsford, BC",4.0,3.0,2228 sqft,,Single Family Residence,6.0,"$4,057",1983.0,R2792783,Residential,Yes,$511,30/06/2023,"$1,131,000",27/06/2023,"$1,138,800"
+237,"7 - 31548 Upper Maclure Rd, Abbotsford, BC",4.0,3.0,1820 sqft,,Townhouse,2.0,"$2,909",2019.0,R2786110,Residential,Yes,$453,,,,
+238,"404 - 33546 Holland Ave, Abbotsford, BC",2.0,2.0,1153 sqft,,Apartment/Condominium,1.0,"$1,925",2008.0,R2791417,Residential,Yes,$501,29/06/2023,"$565,000",20/06/2023,"$578,000"
+239,"128 - 1909 Salton Rd, Abbotsford, BC",1.0,1.0,620 sqft,,Apartment/Condominium,1.0,,1975.0,R2790995,Residential,No,$417,29/06/2023,"$258,000",25/06/2023,"$259,000"
+240,"303 - 2410 Emerson St, Abbotsford, BC",2.0,2.0,1235 sqft,,Apartment/Condominium,1.0,"$1,207",1992.0,R2781237,Residential,Yes,$364,29/06/2023,"$448,000",23/05/2023,"$449,800"
+241,"33146 Westbury Ave, Abbotsford, BC",5.0,1.0,2025 sqft,,Single Family Residence,6.0,"$3,582",1974.0,R2786435,Residential,Yes,$493,29/06/2023,"$850,000",07/06/2023,"$999,000"
+242,"1424 - 34909 Old Yale Rd, Abbotsford, BC",1.0,1.0,660 sqft,,Apartment/Condominium,1.0,"$1,148",1980.0,R2790139,Residential,No,$530,28/06/2023,"$330,000",14/06/2023,"$349,900"
+243,"206 - 2678 Mccallum Rd, Abbotsford, BC",2.0,2.0,1360 sqft,,Apartment/Condominium,2.0,"$1,338",1988.0,R2792694,Residential,Yes,$344,28/06/2023,"$460,000",26/06/2023,"$469,000"
+244,"302 - 33464 George Ferguson Way, Abbotsford, BC",2.0,1.0,953 sqft,,Apartment/Condominium,1.0,"$1,045",1976.0,R2790909,Residential,Yes,$292,28/06/2023,"$276,000",19/06/2023,"$279,000"
+245,"95 - 34248 King Rd, Abbotsford, BC",3.0,2.0,1737 sqft,,Townhouse,2.0,"$2,641",2009.0,R2790535,Residential,Yes,$413,28/06/2023,"$712,000",20/06/2023,"$719,000"
+246,"107 - 32124 Tims Ave, Abbotsford, BC",2.0,2.0,970 sqft,,Apartment/Condominium,1.0,"$1,301",1982.0,R2783626,Residential,Yes,$468,28/06/2023,"$445,000",04/06/2023,"$454,000"
+247,"417 - 3172 Gladwin Rd, Abbotsford, BC",2.0,2.0,1349 sqft,,Apartment/Condominium,1.0,"$1,676",1994.0,R2792516,Residential,Yes,$421,28/06/2023,"$559,900",27/06/2023,"$569,000"
+248,"321 - 30525 Cardinal Ave, Abbotsford, BC",1.0,1.0,686 sqft,,Apartment/Condominium,1.0,"$1,266",2009.0,R2782898,Residential,Yes,$546,27/06/2023,"$368,000",06/06/2023,"$374,900"
+249,"71 - 30930 Westridge Pl, Abbotsford, BC",2.0,2.0,1258 sqft,,Townhouse,4.0,"$2,640",2018.0,R2790203,Residential,Yes,$556,27/06/2023,"$715,000",18/06/2023,"$699,900"
+250,"111 - 32725 George Ferguson Way, Abbotsford, BC",2.0,2.0,883 sqft,,Apartment/Condominium,1.0,"$1,352",1992.0,R2791895,Residential,Yes,$447,27/06/2023,"$410,000",26/06/2023,"$395,000"
+251,"424 - 31158 Westridge Pl, Abbotsford, BC",2.0,2.0,1148 sqft,,Apartment/Condominium,2.0,"$2,352",2021.0,R2788572,Residential,Yes,$582,27/06/2023,"$655,000",14/06/2023,"$669,000"
+252,"116 - 3182 Gladwin Rd, Abbotsford, BC",2.0,2.0,955 sqft,,Apartment/Condominium,1.0,"$2,583",2022.0,R2792854,Residential,Yes,$523,20/09/2023,"$525,000",19/09/2023,"$499,700"
+253,"420 - 2565 Campbell Ave, Abbotsford, BC",3.0,2.0,1093 sqft,,Apartment/Condominium,2.0,"$2,039",2015.0,R2769420,Residential,Yes,$526,27/06/2023,"$562,500",20/04/2023,"$575,000"
+254,"29497 Sunvalley Cres, Abbotsford, BC",3.0,2.0,2200 sqft,,Single Family Residence,3.0,"$4,404",1971.0,R2765189,Residential,No,$561,-,Not Sold Yet,26/06/2024,"$1,399,999"
+255,,,,,,,,,,,,,,,,,
+256,,,,,,,,,,,,,,,,,
+257,,,,,,,,,,,,,,,,,
+258,,,,,,,,,,,,,,,,,
+259,,,,,,,,,,,,,,,,,
+260,,,,,,,,,,,,,,,,,
+261,"2569 Magnolia Cres, Abbotsford, BC",3.0,2.0,1692 sqft,,Single Family Residence,0.0,"$4,196",1969.0,R2781758,Residential,Yes,$635,,,,
+262,"2412 Parkview St, Abbotsford, BC",6.0,2.0,1229 sqft,,Single Family Residence,4.0,"$3,744",1965.0,R2783970,Residential,No,$813,,,,
+263,"35802 Eaglecrest Dr, Abbotsford, BC",4.0,3.0,2685 sqft,,Single Family Residence,0.0,"$4,740",1984.0,R2746185,Residential,Yes,$483,,,,
+264,,,,,,,,,,R2792071,Residential,Yes,$606,,,,
+265,,,,,,,,,,,,,,,,,
+266,,,,,,,,,,,,,,,,,
+267,,,2.0,954 sqft,,Apartment/Condominium,1.0,"$1,784",2006.0,R2786706,Residential,Yes,$502,,,,
+268,,,,,,,,,,,,,,,,,
+269,,,,,,,,,,,,,,,,,
+270,"27 - 31445 Ridgeview Dr, Abbotsford, BC",3.0,2.0,2799 sqft,,Townhouse,4.0,"$2,838",1993.0,R2785557,Residential,Yes,$278,25/06/2023,"$780,000",05/06/2023,"$779,900"
+271,"35148 Kootenay Dr, Abbotsford, BC",6.0,3.0,2500 sqft,,Single Family Residence,6.0,"$4,403",1997.0,R2791478,Residential,Yes,$439,25/06/2023,"$1,115,000",20/06/2023,"$1,099,000"
+272,"103 - 32124 Tims Ave, Abbotsford, BC",2.0,2.0,950 sqft,,Apartment/Condominium,1.0,"$1,260",1982.0,R2789669,Residential,Yes,$477,25/06/2023,"$467,000",18/06/2023,"$454,000"
+273,"54 - 32718 Garibaldi Dr, Abbotsford, BC",1.0,1.0,1127 sqft,,Townhouse,1.0,"$1,295",1985.0,R2754216,Residential,No,$323,25/06/2023,"$355,000",19/02/2023,"$364,900"
+274,"110 - 2451 Gladwin Rd, Abbotsford, BC",2.0,2.0,1486 sqft,,Apartment/Condominium,1.0,"$1,881",1989.0,R2789197,Residential,Yes,$353,25/06/2023,"$485,000",14/06/2023,"$525,000"
+275,"3010 Cassiar Ave, Abbotsford, BC",5.0,3.0,2193 sqft,,Single Family Residence,4.0,"$4,375",1989.0,R2785992,Residential,Yes,$523,24/06/2023,"$1,118,000",06/06/2023,"$1,149,000"
+276,"207 - 2678 Mccallum Rd, Abbotsford, BC",2.0,2.0,1106 sqft,,Apartment/Condominium,2.0,"$1,354",1988.0,R2785547,Residential,Yes,$379,24/06/2023,"$440,000",05/06/2023,"$419,900"
+277,"408 - 2575 Ware St, Abbotsford, BC",2.0,2.0,1281 sqft,,Apartment/Condominium,1.0,"$1,568",1994.0,R2783648,Residential,Yes,$389,24/06/2023,"$480,000",29/05/2023,"$499,000"
+278,"35410 Doneagle Pl, Abbotsford, BC",3.0,3.0,5068 sqft,,Single Family Residence,3.0,"$7,936",1997.0,R2789477,Residential,Yes,$522,24/06/2023,"$2,600,000",18/06/2023,"$2,648,000"
+279,"75 - 2838 Livingstone Ave, Abbotsford, BC",3.0,2.0,1661 sqft,,Townhouse,2.0,"$2,932",2020.0,R2788442,Residential,Yes,$517,24/06/2023,"$848,000",13/06/2023,"$859,900"
+280,"2167 Bakerview St, Abbotsford, BC",6.0,2.0,2400 sqft,,Single Family Residence,4.0,"$4,263",1974.0,R2788012,Residential,Yes,$499,,,,
+281,"3262 Jervis Cres, Abbotsford, BC",3.0,2.0,1703 sqft,,Single Family Residence,4.0,"$2,364",1978.0,R2784764,Residential,No,$528,,,,
+282,"241 - 32550 Maclure Rd, Abbotsford, BC",3.0,1.0,1184 sqft,,Townhouse,1.0,"$2,228",1981.0,R2783039,Residential,No,$532,,,,
+283,"302 - 32838 Landeau Pl, Abbotsford, BC",1.0,1.0,667 sqft,,Apartment/Condominium,1.0,"$1,455",2021.0,R2778486,Residential,Yes,$656,,,14/05/2023,"$438,000"
+284,,,,,,Apartment/Condominium,1.0,"$1,566",1993.0,R2790273,Residential,Yes,$401,,,,
+285,"308 - 31930 Old Yale Rd, Abbotsford, BC",2.0,2.0,1125 sqft,,Apartment/Condominium,1.0,"$1,129",1988.0,R2782321,Residential,Yes,$372,23/06/2023,"$380,000",28/05/2023,"$419,000"
+286,"309 - 31930 Old Yale Rd, Abbotsford, BC",2.0,2.0,1128 sqft,,Apartment/Condominium,1.0,"$1,040",1988.0,R2779659,Residential,Yes,$318,22/06/2023,"$320,000",20/05/2023,"$359,000"
+287,"6 - 27640 Lantern Ave, Abbotsford, BC",4.0,2.0,1486 sqft,,Townhouse,2.0,"$2,834",2021.0,R2791306,Residential,Yes,$545,22/06/2023,"$809,900",18/06/2023,"$809,900"
+288,"2696 Stewart Cres, Abbotsford, BC",5.0,2.0,3250 sqft,,Single Family Residence,4.0,"$4,887",1973.0,R2785599,Residential,No,$353,22/06/2023,"$1,120,000",07/06/2023,"$1,149,900"
+289,"56 - 3800 Golf Course Dr, Abbotsford, BC",5.0,3.0,3388 sqft,,Single Family Residence,4.0,"$4,429",2007.0,R2789907,Residential,Yes,$382,,,,
+290,"109 - 2435 Center St, Abbotsford, BC",2.0,2.0,1009 sqft,,Apartment/Condominium,1.0,"$1,373",1996.0,R2789642,Residential,Yes,$460,22/06/2023,"$473,000",19/06/2023,"$465,000"
+291,"2926 Crossley Dr, Abbotsford, BC",3.0,2.0,1502 sqft,,Single Family Residence,4.0,"$4,105",1989.0,R2779232,Residential,Yes,$705,22/06/2023,"$1,020,000",18/05/2023,"$1,059,800"
+292,"2555 Ware St, Abbotsford, BC",2.0,2.0,1059 sqft,,Apartment/Condominium,1.0,"$2,054",2018.0,R2782534,Residential,Yes,$603,22/06/2023,"$615,000",28/05/2023,"$639,000"
+293,"35093 Cassiar Ave, Abbotsford, BC",4.0,1.0,1871 sqft,,Single Family Residence,3.0,"$4,054",1979.0,R2786338,Residential,No,$507,22/06/2023,"$899,999",06/06/2023,"$949,000"
+294,"49 - 1973 Winfield Dr, Abbotsford, BC",2.0,2.0,1150 sqft,,Townhouse,2.0,"$2,125",1993.0,R2785820,Residential,Yes,$495,22/06/2023,"$576,000",06/06/2023,"$569,900"
+295,"103 - 3080 Gladwin Rd, Abbotsford, BC",2.0,1.0,600 sqft,,Apartment/Condominium,1.0,"$1,239",2017.0,R2788452,Residential,Yes,$749,22/06/2023,"$435,000",18/06/2023,"$449,900"
+296,"34917 Harris Rd, Abbotsford, BC",3.0,2.0,2450 sqft,,Single Family Residence,10.0,"$6,115",1911.0,R2775233,Residential,Yes,$713,21/06/2023,"$1,475,000",07/05/2023,"$1,749,000"
+297,"194 - 32550 Maclure Rd, Abbotsford, BC",3.0,1.0,1185 sqft,,Townhouse,1.0,"$2,228",1981.0,R2789139,Residential,No,$506,,,,
+298,"108 - 32055 Old Yale Rd, Abbotsford, BC",1.0,1.0,819 sqft,,Apartment/Condominium,1.0,$742,1980.0,R2788712,Residential,Yes,$335,,,,
+299,,,,,,,,,,,,,,,,,
+300,"26 - 35287 Old Yale Rd, Abbotsford, BC",3.0,3.0,1666 sqft,,Townhouse,3.0,"$2,508",1999.0,R2785307,Residential,Yes,$435,,,,
+301,"3555 Latimer St, Abbotsford, BC",5.0,4.0,1924 sqft,,Single Family Residence,0.0,"$4,207",1979.0,R2781588,Residential,No,$571,,,,
+302,"36285 Country Pl, Abbotsford, BC",5.0,3.0,3734 sqft,,Single Family Residence,6.0,"$4,809",1994.0,R2785290,Residential,Yes,$355,,,,
+303,"3857 Lindsay St, Abbotsford, BC",4.0,2.0,1600 sqft,,Single Family Residence,0.0,"$3,618",1980.0,R2788915,Residential,Yes,$562,,,,
+304,"32076 Austin Ave, Abbotsford, BC",5.0,3.0,2078 sqft,,Single Family Residence,0.0,"$3,797",1980.0,R2781991,Residential,No,$528,,,,
+305,"34632 Mierau St, Abbotsford, BC",4.0,1.0,1921 sqft,,Single Family Residence,6.0,"$4,224",1975.0,R2787272,Residential,Yes,$572,,,,
+306,,,,,,Townhouse,0.0,"$2,173",1971.0,R2787564,Residential,No,$346,,,,
+307,,,,,,,,,,,,,,,,,
+308,"301 - 33540 Mayfair Ave, Abbotsford, BC",2.0,2.0,1067 sqft,,Apartment/Condominium,2.0,"$2,095",2018.0,R2791342,Residential,Yes,$548,,,,
+309,,,,,,,,,,,,,,,,,
+310,,,,,,,,,,,,,,,,,
+311,"35427 Lethbridge Dr, Abbotsford, BC",6.0,3.0,2708 sqft,,Single Family Residence,6.0,"$4,697",1991.0,R2788241,Residential,Yes,$440,,,,
+312,,,,,,,,,,,,,,,,,
+313,,,,,,,,,,,,,,,,,
+314,,,,,,,,"$1,661",2006.0,R2788376,Residential,Yes,$569,,,,
+315,,,,,,,,,,,,,,,,,
+316,,,,,,,,,,,,,,,,,
+317,,,,,,,,,,,,,,,,,
+318,,,,,,,,,,,,,,,,,
+319,,,,,,,,,,,,,,,,,
+320,,,,,,,,,,,,,,,,,
+321,,,,,,,,,,,,,,,,,
+322,"31520 Southern Dr, Abbotsford, BC",4.0,3.0,3052 sqft,,Single Family Residence,6.0,"$4,795",1994.0,R2787030,Residential,Yes,$393,,,,
+323,"2112 Wildwood St, Abbotsford, BC",5.0,2.0,2348 sqft,,Single Family Residence,4.0,"$4,709",1972.0,R2786695,Residential,Yes,$565,,,,
+324,"504 - 32838 Ventura Ave, Abbotsford, BC",2.0,2.0,998 sqft,,Apartment/Condominium,2.0,"$1,926",2021.0,R2769662,Residential,Yes,$600,,,18/04/2023,"$599,000"
+325,,,,,,,,,,,,,,,,,
+326,"45 - 2938 Trafalgar St, Abbotsford, BC",2.0,2.0,1277 sqft,,Townhouse,2.0,"$1,266",1988.0,R2784558,Residential,No,$293,,,,
+327,"406 - 2267 Mckenzie Rd, Abbotsford, BC",3.0,2.0,1329 sqft,,Townhouse,3.0,,2022.0,R2786623,Residential,Yes,$556,,,,
+328,,,,,,,,,,,,,,,,,
+329,,,,,,,,,,,,,,,,,
+330,,,,,,,,,,,,,,,,,
+331,,,,,,,,,,,,,,,,,
+332,"32036 Dormick Ave, Abbotsford, BC",4.0,1.0,1863 sqft,,Single Family Residence,1.0,"$4,476",1971.0,R2786621,Residential,Yes,$584,,,,
+333,"104 - 33369 Old Yale Rd, Abbotsford, BC",2.0,1.0,971 sqft,,Apartment/Condominium,1.0,,1982.0,R2766455,Residential,Yes,$348,18/06/2023,"$325,000",05/04/2023,"$338,000"
+334,"314 - 2943 Nelson Pl, Abbotsford, BC",1.0,1.0,693 sqft,,Apartment/Condominium,1.0,"$1,294",2009.0,R2785939,Residential,Yes,$600,,,,
+335,,,,,,,,,,,,,,,,,
+336,,,,,,,,,,,,,,,,,
+337,,,,,,,,,,,,,,,,,
+338,,,,,,,,,,,,,,,,,
+339,"39 - 34250 Hazelwood Ave, Abbotsford, BC",4.0,3.0,2933 sqft,,Townhouse,4.0,"$2,447",1995.0,R2766303,Residential,Yes,$301,,,,
+340,"411 - 33478 Roberts Ave, Abbotsford, BC",2.0,2.0,1169 sqft,,Apartment/Condominium,2.0,"$1,643",1995.0,R2787977,Residential,Yes,$419,,,,
+341,,,,,,,,,,,,,,,,,
+342,,,,2754 sqft,,Single Family Residence,4.0,"$5,583",2002.0,R2778085,Residential,Yes,$580,,,,
+343,,,,,,,,,,,,,,,,,
+344,,,,,,,,,,,,,,,,,
+345,,,,,,,,,,,,,,,,,
+346,,,,,,,,,,,,,,,,,
+347,,,,,,,,,,,,,,,,,
+348,,,,,,,,,,,,,,,,,
+349,,,,,,,,,,,,,,,,,
+350,,,,,,,,,,,,,,,,,
+351,,,,,,,,,,,,,,,,,
+352,,,,,,,,,,,,,,,,,
+353,,,,,,,,,,,,,,,,,
+354,,,,,,,,,,,,,,,,,
+355,,,,,,,,,,,,,,,,,
+356,,,,,,,,,,,,,,,,,
+357,,,,,,,,,,,,,,,,,
+358,,,,,,,,,,,,,,,,,
+359,,,,,,,,,,,,,,,,,
+360,,,,,,,,,,,,,,,,,
+361,,,,,,,,,,,,,,,,,
+362,,,,,,,,,,,,,,,,,
+363,,,,,,,,,,,,,,,,,
+364,"128 - 33175 Old Yale Rd, Abbotsford, BC",2.0,2.0,1247 sqft,,Apartment/Condominium,1.0,"$1,676",1992.0,R2785236,Residential,Yes,$360,06/06/2023,"$450,000",04/06/2023,"$450,000"
+365,"3012 Cassiar Pl, Abbotsford, BC",4.0,3.0,2411 sqft,,Single Family Residence,0.0,"$4,308",1989.0,R2781904,Residential,Yes,$497,06/06/2023,"$1,100,000",25/05/2023,"$1,199,000"
+366,"116 - 31406 Upper Maclure Rd, Abbotsford, BC",3.0,2.0,1879 sqft,,Townhouse,2.0,"$2,393",1998.0,R2781483,Residential,Yes,$398,06/06/2023,"$725,000",17/05/2023,"$749,000"
+367,"3283 Cheam Dr, Abbotsford, BC",6.0,4.0,2895 sqft,,Single Family Residence,6.0,"$4,584",1981.0,R2783548,Residential,Yes,$431,,,,
+368,"15 - 32633 Simon Ave, Abbotsford, BC",2.0,2.0,1215 sqft,,Townhouse,1.0,"$2,213",2016.0,R2785484,Residential,Yes,$523,06/06/2023,"$650,000",05/06/2023,"$635,900"
+369,"52 - 34248 King Rd, Abbotsford, BC",3.0,2.0,1315 sqft,,Townhouse,4.0,"$2,307",2010.0,R2781477,Residential,Yes,$528,05/06/2023,"$715,087",23/05/2023,"$694,900"
+370,"208 - 33886 Pine St, Abbotsford, BC",1.0,1.0,547 sqft,,Apartment/Condominium,1.0,,2025.0,R2785302,Residential,Yes,$731,,,,
+371,"12 - 34825 Delair Rd, Abbotsford, BC",4.0,3.0,1989 sqft,,Townhouse,2.0,"$2,607",2018.0,R2776279,Residential,Yes,$426,05/06/2023,"$830,000",15/05/2023,"$849,000"
+372,"502 - 32828 Landeau Pl, Abbotsford, BC",1.0,1.0,672 sqft,,Apartment/Condominium,2.0,,2021.0,R2726409,Residential,Yes,$691,05/06/2023,"$459,000",25/09/2022,"$465,000"
+373,"107 - 33530 Mayfair Ave, Abbotsford, BC",3.0,2.0,1223 sqft,,Apartment/Condominium,2.0,"$2,374",2018.0,R2751796,Residential,Yes,$515,05/06/2023,"$600,000",22/02/2023,"$629,888"
+374,"516 - 34909 Old Yale Rd, Abbotsford, BC",2.0,1.0,915 sqft,,Townhouse,2.0,"$1,420",1980.0,R2759634,Residential,No,$490,05/06/2023,"$445,000",20/03/2023,"$449,000"
+375,"105 - 2425 Church St, Abbotsford, BC",2.0,2.0,1299 sqft,,Apartment/Condominium,1.0,"$1,182",1987.0,R2783154,Residential,Yes,$288,05/06/2023,"$360,000",29/05/2023,"$374,900"
+376,"3106 Goldfinch St, Abbotsford, BC",5.0,3.0,3503 sqft,,Single Family Residence,5.0,"$4,997",1996.0,R2784634,Residential,Yes,$367,05/06/2023,"$1,288,000",04/06/2023,"$1,289,000"
+377,"16 - 31098 Westridge Pl, Abbotsford, BC",2.0,2.0,1214 sqft,,Townhouse,2.0,"$2,290",2012.0,R2776786,Residential,Yes,$551,05/06/2023,"$680,000",09/05/2023,"$669,900"
+378,"113 - 32833 Landeau Pl, Abbotsford, BC",2.0,2.0,1128 sqft,,Apartment/Condominium,1.0,"$1,061",1987.0,R2782491,Residential,Yes,$292,05/06/2023,"$328,000",28/05/2023,"$329,900"
+379,"4 - 31406 Upper Maclure Rd, Abbotsford, BC",3.0,2.0,1879 sqft,,Townhouse,2.0,"$2,388",1992.0,R2781250,Residential,Yes,$339,05/06/2023,"$710,000",16/05/2023,"$638,800"
+380,"210 - 2211 Clearbrook Rd, Abbotsford, BC",1.0,1.0,629 sqft,,Apartment/Condominium,1.0,$729,1974.0,R2783261,Residential,Yes,$444,05/06/2023,"$295,000",31/05/2023,"$279,900"
+381,"221 - 2964 Trethewey St, Abbotsford, BC",2.0,2.0,921 sqft,,Apartment/Condominium,1.0,"$1,306",1993.0,R2782341,Residential,Yes,$445,05/06/2023,"$409,900",28/05/2023,"$409,900"
+382,"34871 Terrace Crt, Abbotsford, BC",3.0,1.0,1193 sqft,,Single Family Residence,3.0,"$3,963",1976.0,R2783305,Residential,No,$795,05/06/2023,"$1,060,000",31/05/2023,"$949,000"
+383,"3423 Okanagan Dr, Abbotsford, BC",5.0,4.0,2938 sqft,,Single Family Residence,8.0,"$4,922",1988.0,R2779977,Residential,Yes,$442,04/06/2023,"$1,321,000",22/05/2023,"$1,299,900"
+384,"215 - 2581 Langdon St, Abbotsford, BC",2.0,2.0,1043 sqft,,Apartment/Condominium,1.0,"$1,808",2005.0,R2781455,Residential,Yes,$503,04/06/2023,"$501,000",24/05/2023,"$525,000"
+385,"201 - 3190 Gladwin Rd, Abbotsford, BC",2.0,2.0,1143 sqft,,Apartment/Condominium,1.0,"$1,610",1993.0,R2784413,Residential,Yes,$378,04/06/2023,"$460,000",01/06/2023,"$432,900"
+386,"5 - 34825 Delair Rd, Abbotsford, BC",3.0,2.0,1771 sqft,,Townhouse,1.0,"$2,304",2018.0,R2779637,Residential,Yes,$451,,,,
+387,"105 - 32040 Peardonville Rd, Abbotsford, BC",2.0,1.0,1093 sqft,,Apartment/Condominium,1.0,"$1,100",1977.0,R2784324,Residential,Yes,$260,04/06/2023,"$288,000",01/06/2023,"$284,900"
+388,"62 - 3054 Trafalgar St, Abbotsford, BC",3.0,3.0,1945 sqft,,Townhouse,2.0,"$2,338",1987.0,R2782813,Residential,Yes,$308,04/06/2023,"$590,000",29/05/2023,"$599,900"
+389,"41 - 3087 Immel St, Abbotsford, BC",3.0,2.0,1641 sqft,,Townhouse,3.0,"$2,294",1990.0,R2781931,Residential,Yes,$401,04/06/2023,"$665,000",28/05/2023,"$659,500"
+390,"2753 Carriage Crt, Abbotsford, BC",5.0,4.0,2707 sqft,,Single Family Residence,0.0,"$5,386",2009.0,R2767159,Residential,Yes,$530,04/06/2023,"$1,390,000",12/04/2023,"$1,435,000"
+391,"601 - 1514 Mccallum Rd, Abbotsford, BC",2.0,2.0,874 sqft,,Apartment/Condominium,2.0,$971,2022.0,R2772255,Residential,Yes,$674,04/06/2023,"$569,500",26/04/2023,"$589,900"
+392,,1.0,1.0,815 sqft,,Apartment/Condominium,1.0,"$1,234",1994.0,R2782090,Residential,Yes,$452,,,,
+393,"10 - 33860 Marshall Rd, Abbotsford, BC",3.0,3.0,1751 sqft,,Townhouse,4.0,"$2,884",2014.0,R2779605,Residential,Yes,$471,,,,
+394,"201 - 2120 Gladwin Rd, Abbotsford, BC",1.0,1.0,673 sqft,,Apartment/Condominium,1.0,"$1,592",2021.0,R2783402,Residential,Yes,$646,03/06/2023,"$430,000",30/05/2023,"$434,900"
+395,"408 - 33530 Mayfair Ave, Abbotsford, BC",2.0,2.0,1050 sqft,,Apartment/Condominium,2.0,"$2,125",2018.0,R2783184,Residential,Yes,$595,03/06/2023,"$635,000",29/05/2023,"$625,000"
+396,"111 - 33030 George Ferguson Way, Abbotsford, BC",2.0,2.0,1171 sqft,,Apartment/Condominium,1.0,"$1,155",1989.0,R2777760,Residential,Yes,$289,03/06/2023,"$339,000",14/05/2023,"$339,000"
+397,"34285 Larch St, Abbotsford, BC",5.0,1.0,3170 sqft,,Single Family Residence,0.0,"$5,179",1970.0,R2784024,Residential,Yes,$433,03/06/2023,"$1,420,000",31/05/2023,"$1,375,000"
+398,"25 - 36060 Old Yale Rd, Abbotsford, BC",3.0,2.0,1431 sqft,,Townhouse,2.0,"$2,384",1990.0,R2781331,Residential,Yes,$524,03/06/2023,"$745,000",28/05/2023,"$749,900"
+399,"34657 Dunsmuir Crt, Abbotsford, BC",4.0,3.0,2951 sqft,,Single Family Residence,8.0,"$4,732",1983.0,R2782011,Residential,Yes,$508,,,,
+400,"2 - 2850 Mccallum Rd, Abbotsford, BC",3.0,3.0,1899 sqft,,Townhouse,2.0,"$2,958",2015.0,R2782593,Residential,Yes,$442,31/05/2023,"$830,000",29/05/2023,"$839,900"
+401,"1859 Shore Cres, Abbotsford, BC",3.0,1.0,1135 sqft,,Manufactured On Land,8.0,"$2,460",1980.0,R2780145,Residential,No,$572,31/05/2023,"$657,500",22/05/2023,"$649,900"
+402,"34590 Kent Ave, Abbotsford, BC",4.0,1.0,1650 sqft,,Single Family Residence,6.0,"$4,378",1972.0,R2772991,Residential,Yes,$712,30/05/2023,"$1,040,000",30/04/2023,"$1,175,000"
+403,"2749 Lucern Cres, Abbotsford, BC",4.0,3.0,4015 sqft,,Single Family Residence,0.0,"$5,611",1990.0,R2782158,Residential,Yes,$286,30/05/2023,"$1,150,000",22/05/2023,"$1,149,000"
+404,"28 - 33293 Bourquin Cres E, Abbotsford, BC",3.0,2.0,1855 sqft,,Townhouse,1.0,"$2,029",1974.0,R2780535,Residential,Yes,$269,30/05/2023,"$588,000",22/05/2023,"$499,999"
+405,"309 - 32025 Tims Ave, Abbotsford, BC",2.0,1.0,990 sqft,,Apartment/Condominium,1.0,$871,1979.0,R2777669,Residential,Yes,$353,30/05/2023,"$335,000",14/05/2023,"$349,900"
+406,"32558 Ridgeway St, Abbotsford, BC",5.0,3.0,2605 sqft,,Single Family Residence,4.0,"$3,962",2021.0,R2778198,Residential,Yes,$551,,,,
+407,,,,,,,,,,,,,,,,,
+408,"2631 Zurich Dr, Abbotsford, BC",4.0,4.0,4736 sqft,,Single Family Residence,4.0,"$4,929",1989.0,R2778396,Residential,Yes,$292,,,,
+409,,,,,,,,,,,,,,,,,
+410,"2470 Jonquil Crt, Abbotsford, BC",7.0,3.0,4490 sqft,,Single Family Residence,4.0,"$6,538",2006.0,R2782508,Residential,Yes,$444,,,,
+411,,,,,,,,"$2,626",2017.0,R2776007,Residential,Yes,$501,,,,
+412,"4399 Emily Carr Pl, Abbotsford, BC",6.0,4.0,4342 sqft,,Single Family Residence,5.0,"$6,570",2019.0,R2780135,Residential,Yes,$414,,,,
+413,,,1.0,609 sqft,,Single Family Residence,2.0,"$3,772",1950.0,R2779403,Residential,Yes,"$1,311",,,,
+414,,,,,,Townhouse,2.0,"$2,632",2018.0,R2778665,Residential,Yes,$544,,,,
+415,,,,,,Single Family Residence,6.0,"$4,776",2005.0,R2779086,Residential,Yes,$430,,,,
+416,"108 - 33728 King Rd, Abbotsford, BC",2.0,2.0,947 sqft,,Apartment/Condominium,2.0,"$1,382",1996.0,R2782735,Residential,Yes,$463,,,,
+417,"36 - 30530 Cardinal Ave, Abbotsford, BC",3.0,2.0,1317 sqft,,Townhouse,2.0,,2024.0,R2769212,Residential,Yes,$580,,,,
+418,"213 - 2493 Montrose Ave, Abbotsford, BC",2.0,2.0,871 sqft,,Apartment/Condominium,1.0,"$1,838",2020.0,R2781965,Residential,Yes,$608,,,,
+419,"27675 Quinton Ave, Abbotsford, BC",4.0,2.0,2925 sqft,,Single Family Residence,2.0,"$3,380",1968.0,R2779220,Residential,Yes,$817,29/05/2023,"$2,250,000",18/05/2023,"$2,390,000"
+420,"4351 Meighen Pl, Abbotsford, BC",4.0,3.0,2919 sqft,,Single Family Residence,4.0,"$4,935",2006.0,R2780180,Residential,Yes,$410,29/05/2023,"$1,290,000",22/05/2023,"$1,199,700"
+421,"201 - 2233 Mckenzie Rd, Abbotsford, BC",2.0,2.0,938 sqft,,Apartment/Condominium,2.0,"$1,628",2009.0,R2781040,Residential,Yes,$490,29/05/2023,"$470,000",28/05/2023,"$459,900"
+422,"105 - 32124 Tims Ave, Abbotsford, BC",2.0,2.0,918 sqft,,Apartment/Condominium,1.0,"$1,261",1982.0,R2778047,Residential,Yes,$489,29/05/2023,"$438,000",14/05/2023,"$449,000"
+423,"34430 Donlyn Ave, Abbotsford, BC",6.0,2.0,2750 sqft,,Single Family Residence,2.0,"$4,164",1973.0,R2779473,Residential,No,$363,29/05/2023,"$1,175,000",23/05/2023,"$999,900"
+424,"33803 Mayfair Ave, Abbotsford, BC",3.0,2.0,1378 sqft,,Single Family Residence,8.0,"$3,815",1948.0,R2780778,Residential,No,$725,29/05/2023,"$970,000",18/05/2023,"$999,999"
+425,"2014 Merlot Blvd, Abbotsford, BC",6.0,4.0,4632 sqft,,Single Family Residence,5.0,"$6,059",2010.0,R2780480,Residential,Yes,$399,29/05/2023,"$1,750,000",23/05/2023,"$1,850,000"
+426,"89 - 32691 Garibaldi Dr, Abbotsford, BC",1.0,1.0,1151 sqft,,Apartment/Condominium,1.0,"$1,386",1988.0,R2779608,Residential,No,$338,22/05/2023,"$386,000",22/05/2023,"$389,900"
+427,"4340 Meighen Pl, Abbotsford, BC",5.0,3.0,3320 sqft,,Single Family Residence,5.0,"$5,626",2007.0,R2777876,Residential,Yes,$421,22/05/2023,"$1,400,000",16/05/2023,"$1,399,900"
+428,"206 - 2350 Westerly St, Abbotsford, BC",2.0,2.0,935 sqft,,Apartment/Condominium,1.0,"$1,371",1999.0,R2768264,Residential,Yes,$449,22/05/2023,"$420,000",10/04/2023,"$420,000"
+429,"165 - 32633 Simon Ave, Abbotsford, BC",2.0,2.0,1206 sqft,,Townhouse,1.0,"$2,246",2018.0,R2776246,Residential,Yes,$538,22/05/2023,"$650,000",07/05/2023,"$649,999"
+430,"316 - 31930 Old Yale Rd, Abbotsford, BC",2.0,2.0,1125 sqft,,Apartment/Condominium,1.0,"$1,129",1988.0,R2778428,Residential,Yes,$280,21/05/2023,"$320,000",14/05/2023,"$315,000"
+431,"35676 Regal Pky, Abbotsford, BC",4.0,3.0,3034 sqft,,Single Family Residence,8.0,"$5,279",1998.0,R2771889,Residential,Yes,$426,21/05/2023,"$1,262,500",25/04/2023,"$1,295,000"
+432,"209 - 33318 Bourquin Cres E, Abbotsford, BC",2.0,2.0,986 sqft,,Apartment/Condominium,2.0,"$1,623",2006.0,R2779005,Residential,Yes,$501,21/05/2023,"$505,000",17/05/2023,"$494,900"
+433,"26 - 4217 Old Clayburn Rd, Abbotsford, BC",6.0,5.0,3625 sqft,,Single Family Residence,4.0,"$2,682",2022.0,R2763553,Residential,Yes,$379,21/05/2023,"$1,275,000",28/03/2023,"$1,374,700"
+434,"2859 Woodland St, Abbotsford, BC",3.0,2.0,2985 sqft,,Single Family Residence,6.0,"$4,420",1958.0,R2768412,Residential,No,$401,18/05/2023,"$1,190,000",16/04/2023,"$1,199,000"
+435,"108 - 30530 Cardinal Ave, Abbotsford, BC",4.0,3.0,1751 sqft,,Townhouse,2.0,,2024.0,R2777794,Residential,Yes,$505,07/06/2024,"$699,900",20/05/2024,"$699,900"
+436,"34602 7 Th Ave, Abbotsford, BC",2.0,2.0,1456 sqft,,Single Family Residence,0.0,"$2,342",2023.0,R2746537,Residential,No,$533,,,,
+437,"33224 Farrant Cres, Abbotsford, BC",5.0,2.0,2472 sqft,,Single Family Residence,0.0,"$4,000",1967.0,R2776431,Residential,No,$546,17/05/2023,"$1,325,000",10/05/2023,"$1,349,900"
+438,"35369 Mckee Rd, Abbotsford, BC",4.0,2.0,3140 sqft,,Single Family Residence,9.0,"$5,387",1975.0,R2748293,Residential,Yes,$437,17/05/2023,"$1,325,000",24/01/2023,"$1,374,700"
+439,"307 - 32055 Old Yale Rd, Abbotsford, BC",2.0,1.0,1010 sqft,,Apartment/Condominium,1.0,$907,1980.0,R2762458,Residential,Yes,$326,17/05/2023,"$327,000",27/03/2023,"$329,900"
+440,"503 - 33065 Mill Lake Rd, Abbotsford, BC",2.0,2.0,1285 sqft,,Apartment/Condominium,1.0,"$2,027",1996.0,R2776870,Residential,Yes,$412,17/05/2023,"$530,000",15/05/2023,"$530,000"
+441,"33253 Alta Ave, Abbotsford, BC",5.0,3.0,2792 sqft,,Single Family Residence,6.0,"$4,492",1969.0,R2772559,Residential,Yes,$447,17/05/2023,"$1,275,000",30/04/2023,"$1,249,000"
+442,"404 - 33338 Mayfair Ave, Abbotsford, BC",2.0,2.0,1005 sqft,,Apartment/Condominium,2.0,"$1,704",2007.0,R2777384,Residential,Yes,$530,17/05/2023,"$530,000",11/05/2023,"$532,900"
+443,"108 - 32633 Simon Ave, Abbotsford, BC",2.0,2.0,1153 sqft,,Townhouse,1.0,"$2,260",2018.0,R2779326,Residential,Yes,$493,17/05/2023,"$635,000",15/05/2023,"$569,000"
+444,"29 - 33922 King Rd, Abbotsford, BC",4.0,3.0,3193 sqft,,Townhouse,2.0,"$2,782",1989.0,R2772399,Residential,Yes,$248,,,,
+445,"72 - 2774 Montrose Ave, Abbotsford, BC",3.0,2.0,1473 sqft,,Townhouse,2.0,"$2,500",2023.0,R2776749,Residential,Yes,$543,16/05/2023,"$799,900",09/05/2023,"$799,900"
+446,"24 - 35810 Mckee Rd, Abbotsford, BC",4.0,2.0,1943 sqft,,Townhouse,2.0,,2023.0,R2768801,Residential,Yes,$483,16/05/2023,"$939,000",16/04/2023,"$939,000"
+447,"1624 - 34909 Old Yale Rd, Abbotsford, BC",2.0,1.0,928 sqft,,Townhouse,2.0,"$1,416",1980.0,R2769119,Residential,No,$484,16/05/2023,"$440,000",17/04/2023,"$449,900"
+448,"165 - 32550 Maclure Rd, Abbotsford, BC",3.0,1.0,1180 sqft,,Townhouse,2.0,"$2,027",1981.0,R2775289,Residential,No,$549,16/05/2023,"$648,000",09/05/2023,"$648,000"
+449,"309 - 2414 Church St, Abbotsford, BC",2.0,1.0,990 sqft,,Apartment/Condominium,1.0,$878,1984.0,R2776113,Residential,Yes,$281,14/05/2023,"$279,000",08/05/2023,"$279,000"
+450,"201 - 32823 Landeau Pl, Abbotsford, BC",2.0,1.0,1076 sqft,,Apartment/Condominium,1.0,"$1,022",1986.0,R2776693,Residential,Yes,$301,09/05/2023,"$310,000",09/05/2023,"$324,900"
+451,"104 - 32175 Old Yale Rd, Abbotsford, BC",1.0,1.0,650 sqft,,Apartment/Condominium,1.0,$734,1973.0,R2755397,Residential,Yes,$407,09/05/2023,"$250,000",26/02/2023,"$265,000"
+452,"34631 Sandon Dr, Abbotsford, BC",4.0,3.0,2184 sqft,,Single Family Residence,5.0,"$4,542",1991.0,R2773785,Residential,Yes,$412,,,,
+453,"27871 Ledunne Ave, Abbotsford, BC",10.0,6.0,4186 sqft,,Single Family Residence,4.0,"$6,045",2011.0,R2770518,Residential,No,$405,09/05/2023,"$1,702,000",23/04/2023,"$1,699,000"
+454,"11 - 3351 Horn St, Abbotsford, BC",3.0,3.0,2692 sqft,,Townhouse,0.0,"$2,456",1988.0,R2774420,Residential,No,$259,07/05/2023,"$699,900",03/05/2023,"$699,900"
+455,"35480 Strathcona Crt, Abbotsford, BC",5.0,3.0,2759 sqft,,Single Family Residence,5.0,"$4,946",2001.0,R2773160,Residential,Yes,$431,07/05/2023,"$1,220,000",30/04/2023,"$1,190,000"
+456,"136 - 3160 Townline Rd, Abbotsford, BC",5.0,3.0,1916 sqft,,Townhouse,2.0,"$2,676",1993.0,R2772530,Residential,Yes,$390,03/05/2023,"$751,000",01/05/2023,"$749,000"
+457,"402 - 33718 King Rd, Abbotsford, BC",2.0,2.0,947 sqft,,Apartment/Condominium,2.0,"$1,394",1995.0,R2773830,Residential,Yes,$477,03/05/2023,"$450,000",02/05/2023,"$452,400"
+458,"18 - 32310 Mouat Dr, Abbotsford, BC",3.0,1.0,1224 sqft,,Townhouse,0.0,"$1,919",1978.0,R2771932,Residential,No,$510,,,,
+459,"8 - 30930 Westridge Pl, Abbotsford, BC",3.0,2.0,1263 sqft,,Townhouse,2.0,"$2,533",2018.0,R2767126,Residential,Yes,$553,30/04/2023,"$736,000",09/04/2023,"$699,000"
+460,"33234 Marshall Rd, Abbotsford, BC",5.0,2.0,2393 sqft,,Single Family Residence,3.0,"$3,463",1972.0,R2760555,Residential,Yes,$480,28/04/2023,"$1,135,000",21/03/2023,"$1,150,000"
+461,"104 - 2425 Church St, Abbotsford, BC",2.0,1.0,985 sqft,,Apartment/Condominium,1.0,$852,1987.0,R2768362,Residential,Yes,$299,25/04/2023,"$293,000",12/04/2023,"$295,000"
+462,"46 - 34248 King Rd, Abbotsford, BC",2.0,2.0,1277 sqft,,Townhouse,3.0,"$2,406",2010.0,R2768261,Residential,Yes,$485,23/04/2023,"$630,000",13/04/2023,"$619,900"
+463,"7 - 2950 Lefeuvre Rd, Abbotsford, BC",4.0,2.0,1904 sqft,,Townhouse,1.0,"$2,628",2013.0,R2755706,Residential,Yes,$394,17/04/2023,"$723,000",26/02/2023,"$752,000"
+464,"310 - 32044 Old Yale Rd, Abbotsford, BC",2.0,2.0,1125 sqft,,Apartment/Condominium,1.0,"$1,476",1993.0,R2767557,Residential,Yes,$386,15/04/2023,"$453,000",11/04/2023,"$435,000"
+465,"34697 4th Ave, Abbotsford, BC",3.0,1.0,1284 sqft,,Single Family Residence,0.0,"$4,343",1997.0,R2767013,Residential,No,$634,11/04/2023,"$785,000",09/04/2023,"$814,900"
+466,"223 - 32445 Simon Ave, Abbotsford, BC",1.0,1.0,741 sqft,,Apartment/Condominium,2.0,"$1,586",2017.0,R2764521,Residential,Yes,$654,07/04/2023,"$483,000",03/04/2023,"$484,900"
+467,"34348 Laburnum Ave, Abbotsford, BC",3.0,2.0,1458 sqft,,Single Family Residence,20.0,"$4,530",1973.0,R2764193,Residential,Yes,$788,04/04/2023,"$1,075,000",30/03/2023,"$1,150,000"
+468,"34837 1st Ave, Abbotsford, BC",6.0,3.0,2749 sqft,,Single Family Residence,4.0,"$5,326",2007.0,R2761699,Residential,Yes,$463,01/04/2023,"$1,279,000",21/03/2023,"$1,274,900"
+469,"101 - 33530 Mayfair Ave, Abbotsford, BC",2.0,2.0,1052 sqft,,Apartment/Condominium,2.0,"$2,077",2018.0,R2739433,Residential,Yes,$454,29/03/2023,"$545,000",17/11/2022,"$478,000"
+470,"35 - 2774 Montrose Ave, Abbotsford, BC",3.0,2.0,1305 sqft,,Townhouse,2.0,"$2,500",2024.0,R2763328,Residential,Yes,$555,26/03/2023,"$728,900",25/03/2023,"$724,900"
+471,"26 - 30530 Cardinal Ave, Abbotsford, BC",3.0,2.0,1429 sqft,,Townhouse,2.0,,2024.0,R2756766,Residential,Yes,$559,22/03/2023,"$799,900",01/03/2023,"$799,900"
+472,"1850 Reeves Pl, Abbotsford, BC",3.0,2.0,1506 sqft,,Single Family Residence,2.0,"$3,368",1980.0,R2740664,Residential,No,$494,20/03/2023,"$740,000",26/11/2022,"$745,000"
+473,"36301 Westminster Dr, Abbotsford, BC",4.0,2.0,2349 sqft,,Single Family Residence,5.0,"$4,877",2004.0,R2760290,Residential,Yes,$500,18/03/2023,"$1,185,000",15/03/2023,"$1,175,000"
+474,"3146 Babich St, Abbotsford, BC",4.0,2.0,1988 sqft,,Single Family Residence,0.0,"$4,263",1980.0,R2758162,Residential,Yes,$477,14/03/2023,"$965,000",07/03/2023,"$949,000"
+475,"31796 Glenwood Ave, Abbotsford, BC",5.0,3.0,3053 sqft,,Single Family Residence,9.0,"$4,307",1978.0,R2743595,Residential,Yes,$393,11/03/2023,"$1,108,000",01/01/2023,"$1,199,900"
+476,"205 - 32729 Garibaldi Dr, Abbotsford, BC",2.0,2.0,1286 sqft,,Apartment/Condominium,2.0,"$1,916",2007.0,R2753065,Residential,Yes,$434,07/03/2023,"$549,000",13/02/2023,"$559,000"
+477,"2790 Silvertree Crt, Abbotsford, BC",3.0,2.0,1668 sqft,,Single Family Residence,3.0,"$3,626",1982.0,R2755537,Residential,No,$491,04/03/2023,"$808,000",23/02/2023,"$819,500"
+478,"110 - 2990 Boulder St, Abbotsford, BC",2.0,2.0,937 sqft,,Apartment/Condominium,1.0,"$1,845",2007.0,R2819215,Residential,Yes,$544,21/10/2023,"$485,000",26/09/2023,"$509,900"
+479,"3911 Paradise Pl, Abbotsford, BC",5.0,3.0,3101 sqft,,Single Family Residence,6.0,"$5,704",1998.0,R2752510,Residential,Yes,$411,22/02/2023,"$1,240,000",12/02/2023,"$1,275,000"
+480,"31916 Coral Ave, Abbotsford, BC",5.0,2.0,2502 sqft,,Single Family Residence,3.0,"$4,676",1971.0,R2799412,Residential,Yes,$399,16/08/2023,"$999,000",17/07/2023,"$999,000"
+481,"113 - 33538 Marshall Rd, Abbotsford, BC",2.0,2.0,921 sqft,,Apartment/Condominium,1.0,"$1,642",2009.0,R2797152,Residential,Yes,$542,15/08/2023,"$498,500",09/07/2023,"$499,999"
+482,"207 - 33490 Cottage Lane, Abbotsford, BC",1.0,1.0,884 sqft,,Apartment/Condominium,1.0,$858,1980.0,R2789926,Residential,Yes,$304,15/08/2023,"$250,000",21/06/2023,"$269,000"
+483,"510 - 2493 Montrose Ave, Abbotsford, BC",2.0,2.0,874 sqft,,Apartment/Condominium,1.0,"$2,168",2020.0,R2804269,Residential,Yes,$628,15/08/2023,"$545,000",07/08/2023,"$549,700"
+484,"212 - 33545 Rainbow Ave, Abbotsford, BC",2.0,2.0,924 sqft,,Apartment/Condominium,1.0,"$1,581",2007.0,R2805119,Residential,Yes,$535,,,,
+485,"34095 Woodbine St, Abbotsford, BC",4.0,3.0,3262 sqft,,Single Family Residence,8.0,"$5,533",1968.0,R2779627,Residential,No,$520,15/08/2023,"$1,600,000",23/05/2023,"$1,699,000"
+486,"35200 Mccorkell Dr, Abbotsford, BC",4.0,2.0,3074 sqft,,Single Family Residence,6.0,"$4,065",1985.0,R2790100,Residential,Yes,$357,,,,
+487,"514 - 3080 Gladwin Rd, Abbotsford, BC",2.0,2.0,806 sqft,,Apartment/Condominium,1.0,"$2,044",2017.0,R2796372,Residential,Yes,$743,14/08/2023,"$582,500",09/07/2023,"$599,000"
+488,"34232 Old Yale Rd, Abbotsford, BC",4.0,3.0,3208 sqft,,Single Family Residence,7.0,"$4,465",1982.0,R2796972,Residential,Yes,$420,,,,
+489,"115 - 2233 Mckenzie Rd, Abbotsford, BC",1.0,1.0,702 sqft,,Apartment/Condominium,1.0,"$1,261",2009.0,R2802235,Residential,Yes,$569,,,,
+490,,,,,,,,,,,,,,,,,
+491,"33 - 3087 Immel St, Abbotsford, BC",3.0,2.0,1626 sqft,,Townhouse,0.0,"$2,254",1990.0,R2783807,Residential,Yes,$408,,,,
+492,"9 - 31313 Livingstone Ave, Abbotsford, BC",2.0,1.0,681 sqft,,Manufactured Home,3.0,$320,1975.0,R2804247,Residential,No,$286,14/08/2023,"$187,000",08/08/2023,"$195,000"
+493,"406 - 2962 Trethewey St, Abbotsford, BC",2.0,2.0,916 sqft,,Apartment/Condominium,1.0,"$1,598",1994.0,R2798814,Residential,Yes,$436,,,,
+494,,,,,,,,,,,,,,,,,
+495,"2855 Mountview St, Abbotsford, BC",7.0,3.0,3673 sqft,,Single Family Residence,8.0,"$5,336",1986.0,R2783708,Residential,Yes,$399,,,,
+496,,,,,,,,,,,,,,,,,
+497,"2431 Aladdin Cres, Abbotsford, BC",4.0,2.0,1786 sqft,,Single Family Residence,3.0,"$4,123",1976.0,R2804696,Residential,Yes,$557,,"$988,000",07/08/2023,"$995,000"
+498,,,,3675 sqft,,Single Family Residence,4.0,"$4,228",2023.0,R2799542,Residential,Yes,$360,,,,
+499,"407 - 2955 Diamond Cres, Abbotsford, BC",2.0,2.0,938 sqft,,Apartment/Condominium,2.0,"$1,626",2006.0,R2792154,Residential,Yes,$549,11/08/2023,"$490,000",04/07/2023,"$515,000"
+500,"34866 Clayburn Rd, Abbotsford, BC",3.0,2.0,1465 sqft,,Single Family Residence,6.0,"$3,312",2004.0,R2802999,Residential,Yes,$747,-,Not Sold Yet,18/04/2024,"$1,149,000"
+501,"444 - 2750 Fairlane St, Abbotsford, BC",2.0,2.0,1075 sqft,,Apartment/Condominium,1.0,"$1,527",1994.0,R2802628,Residential,Yes,$445,,,,
+502,"301 - 32733 Broadway E, Abbotsford, BC",1.0,1.0,618 sqft,,Apartment/Condominium,1.0,"$1,077",1993.0,R2804671,Residential,Yes,$501,,,,
+503,,,,,,,,,,,,,,,,,
+504,"34597 Calder Pl, Abbotsford, BC",5.0,2.0,3060 sqft,,Single Family Residence,6.0,"$5,027",1992.0,R2803819,Residential,Yes,$424,10/08/2023,"$1,275,000",31/07/2023,"$1,299,000"
+505,"5 - 3632 Bulkley St, Abbotsford, BC",2.0,2.0,1663 sqft,,Townhouse,3.0,"$2,364",1985.0,R2805004,Residential,Yes,$360,,,,
+506,"35494 Edson Pl, Abbotsford, BC",4.0,3.0,2828 sqft,,Single Family Residence,6.0,"$4,652",1991.0,R2789438,Residential,Yes,$385,,,,
+507,,,,,,,,,,,,,,,,,
+508,"108 - 2958 Trethewey St, Abbotsford, BC",2.0,2.0,951 sqft,,Apartment/Condominium,0.0,"$1,348",1994.0,R2806215,Residential,Yes,$441,09/08/2023,"$411,000",07/08/2023,"$419,999"
+509,"1 - 3293 Firhill Dr, Abbotsford, BC",2.0,2.0,1579 sqft,,Townhouse,4.0,"$2,292",1991.0,R2805280,Residential,Yes,$395,09/08/2023,"$625,000",07/08/2023,"$625,000"
+510,"110 - 32823 Landeau Pl, Abbotsford, BC",2.0,2.0,1140 sqft,,Apartment/Condominium,1.0,"$1,047",1986.0,R2803407,Residential,Yes,$350,09/08/2023,"$399,000",31/07/2023,"$399,000"
+511,"37 - 3110 Trafalgar St, Abbotsford, BC",2.0,2.0,1537 sqft,,Townhouse,1.0,"$1,792",1992.0,R2805073,Residential,No,$308,09/08/2023,"$500,000",07/08/2023,"$474,700"
+512,"402 - 32838 Landeau Pl, Abbotsford, BC",1.0,1.0,664 sqft,,Apartment/Condominium,1.0,"$1,542",2021.0,R2802499,Residential,Yes,$647,09/08/2023,"$415,000",27/07/2023,"$429,900"
+513,"36745 Dianne Brook Ave, Abbotsford, BC",5.0,3.0,2781 sqft,,Single Family Residence,4.0,"$4,355",2021.0,R2796912,Residential,Yes,$422,08/08/2023,"$1,130,000",10/07/2023,"$1,175,000"
+514,"410 - 33708 King Rd, Abbotsford, BC",2.0,2.0,915 sqft,,Apartment/Condominium,2.0,"$1,656",1994.0,R2803894,Residential,Yes,$436,08/08/2023,"$465,000",01/08/2023,"$399,000"
+515,"1780 Salton Rd, Abbotsford, BC",2.0,2.0,1674 sqft,,Manufactured On Land,0.0,"$2,802",1980.0,R2804134,Residential,No,$447,08/08/2023,"$715,000",02/08/2023,"$749,900"
+516,"1883 Viewgrove Pl, Abbotsford, BC",4.0,2.0,2252 sqft,,Single Family Residence,6.0,"$4,839",1980.0,R2802184,Residential,Yes,$566,08/08/2023,"$1,150,000",25/07/2023,"$1,275,000"
+517,"36082 Southridge Pl, Abbotsford, BC",5.0,3.0,3335 sqft,,Single Family Residence,4.0,"$4,855",1985.0,R2759420,Residential,Yes,$382,08/08/2023,"$1,275,000",12/03/2023,"$1,275,000"
+518,"37721 Dawson Rd, Abbotsford, BC",4.0,3.0,2288 sqft,,Single Family Residence,10.0,"$5,386",1987.0,R2801061,Residential,Yes,$738,07/08/2023,"$1,690,000",24/07/2023,"$1,690,000"
+519,"206 - 33338 Mayfair Ave, Abbotsford, BC",2.0,2.0,1058 sqft,,Apartment/Condominium,2.0,"$1,985",2007.0,R2802916,Residential,Yes,$491,07/08/2023,"$510,000",31/07/2023,"$519,800"
+520,"302 - 32669 George Ferguson Way, Abbotsford, BC",2.0,2.0,1238 sqft,,Apartment/Condominium,2.0,"$1,496",1986.0,R2803694,Residential,Yes,$266,07/08/2023,"$380,000",01/08/2023,"$329,900"
+521,"105 - 33568 George Ferguson Way, Abbotsford, BC",2.0,2.0,780 sqft,,Apartment/Condominium,1.0,"$1,819",2021.0,R2798993,Residential,Yes,$640,07/08/2023,"$485,000",16/07/2023,"$499,700"
+522,"1 - 3070 Townline Rd, Abbotsford, BC",4.0,3.0,1980 sqft,,Townhouse,2.0,"$2,705",1993.0,R2802093,Residential,Yes,$378,07/08/2023,"$770,000",25/07/2023,"$749,900"
+523,"34643 2nd Ave, Abbotsford, BC",2.0,1.0,900 sqft,,Single Family Residence,2.0,"$3,701",9999.0,R2789672,Residential,No,$694,07/08/2023,"$550,000",19/06/2023,"$625,000"
+524,"203 - 1750 Mckenzie Rd, Abbotsford, BC",2.0,1.0,951 sqft,,Townhouse,2.0,"$1,612",1990.0,R2802222,Residential,No,$419,07/08/2023,"$398,000",25/07/2023,"$399,000"
+525,"32993 Malahat Pl, Abbotsford, BC",5.0,3.0,2142 sqft,,Single Family Residence,4.0,"$4,759",1987.0,R2802959,Residential,Yes,$560,06/08/2023,"$1,131,031",30/07/2023,"$1,199,700"
+526,"20 - 2838 Livingstone Ave, Abbotsford, BC",2.0,2.0,1307 sqft,,Townhouse,4.0,"$2,698",2019.0,R2804100,Residential,Yes,$512,06/08/2023,"$700,000",02/08/2023,"$669,800"
+527,"205 - 2649 James St, Abbotsford, BC",3.0,2.0,1097 sqft,,Apartment/Condominium,2.0,"$2,253",2021.0,R2803842,Residential,Yes,$569,06/08/2023,"$615,000",01/08/2023,"$624,900"
+528,"319 - 2700 Mccallum Rd, Abbotsford, BC",2.0,1.0,907 sqft,,Apartment/Condominium,1.0,"$1,584",1989.0,R2803630,Residential,Yes,$429,06/08/2023,"$389,900",02/08/2023,"$389,900"
+529,"205 - 32120 Mount Waddington Ave, Abbotsford, BC",2.0,2.0,1233 sqft,,Apartment/Condominium,1.0,"$1,713",1995.0,R2802889,Residential,Yes,$385,06/08/2023,"$478,000",30/07/2023,"$475,000"
+530,"404 - 3176 Gladwin Rd, Abbotsford, BC",2.0,2.0,1083 sqft,,Apartment/Condominium,1.0,"$1,692",1997.0,R2803640,Residential,Yes,$447,05/08/2023,"$485,000",02/08/2023,"$484,900"
+531,"30524 Robin Dr, Abbotsford, BC",6.0,4.0,2745 sqft,,Single Family Residence,5.0,"$5,083",1994.0,R2787571,Residential,Yes,$480,05/08/2023,"$1,270,000",10/06/2023,"$1,318,000"
+532,"416 - 31158 Westridge Pl, Abbotsford, BC",1.0,1.0,662 sqft,,Apartment/Condominium,2.0,"$1,905",2021.0,R2793504,Residential,Yes,$708,05/08/2023,"$457,500",28/06/2023,"$469,000"
+533,"194 - 30930 Westridge Pl, Abbotsford, BC",3.0,2.0,2218 sqft,,Townhouse,2.0,"$3,430",2020.0,R2794378,Residential,Yes,$405,,,,
+534,"608 - 1750 Mckenzie Rd, Abbotsford, BC",2.0,1.0,961 sqft,,Townhouse,1.0,"$1,567",1990.0,R2802840,Residential,No,$431,04/08/2023,"$407,500",29/07/2023,"$415,000"
+535,"35672 Hawksview Pl, Abbotsford, BC",3.0,3.0,2608 sqft,,Single Family Residence,4.0,"$4,793",2001.0,R2797413,Residential,Yes,$465,04/08/2023,"$1,200,000",11/07/2023,"$1,214,900"
+536,"101 - 3182 Gladwin Rd, Abbotsford, BC",1.0,1.0,616 sqft,,Apartment/Condominium,1.0,"$1,980",2022.0,R2803995,Residential,Yes,$649,04/08/2023,"$410,000",02/08/2023,"$399,900"
+537,"2720 Maple St, Abbotsford, BC",5.0,1.0,2478 sqft,,Single Family Residence,8.0,"$4,518",1956.0,R2793815,Residential,Yes,$484,03/08/2023,"$1,150,000",29/06/2023,"$1,199,900"
+538,"413 - 2632 Pauline St, Abbotsford, BC",3.0,2.0,1088 sqft,,Apartment/Condominium,2.0,"$1,915",2008.0,R2793974,Residential,Yes,$565,03/08/2023,"$600,000",29/06/2023,"$615,000"
+539,"9 - 3070 Townline Rd, Abbotsford, BC",4.0,3.0,1915 sqft,,Townhouse,2.0,"$2,417",1993.0,R2793881,Residential,No,$365,03/08/2023,"$683,000",04/07/2023,"$699,900"
+540,"98 - 1973 Winfield Dr, Abbotsford, BC",3.0,3.0,2333 sqft,,Townhouse,0.0,"$2,256",1993.0,R2799260,Residential,Yes,$321,02/08/2023,"$729,000",23/07/2023,"$749,900"
+541,"67 - 34959 Old Clayburn Rd, Abbotsford, BC",2.0,2.0,1575 sqft,,Townhouse,1.0,"$2,461",1988.0,R2802452,Residential,No,$363,02/08/2023,"$570,000",31/07/2023,"$572,000"
+542,"204 - 3150 Gladwin Rd, Abbotsford, BC",2.0,2.0,1145 sqft,,Apartment/Condominium,1.0,"$1,890",1990.0,R2799265,Residential,Yes,$414,02/08/2023,"$472,500",13/07/2023,"$475,000"
+543,"105 - 32120 Mount Waddington Ave, Abbotsford, BC",2.0,2.0,1233 sqft,,Apartment/Condominium,1.0,"$1,668",1995.0,R2799750,Residential,Yes,$405,02/08/2023,"$488,500",18/07/2023,"$499,900"
+544,"14 - 2989 Trafalgar St, Abbotsford, BC",3.0,3.0,2321 sqft,,Townhouse,2.0,"$2,240",1985.0,R2803645,Residential,No,$305,02/08/2023,"$708,300",30/07/2023,"$708,800"
+545,,,,,,,3.0,"$2,165",1980.0,R2802944,Residential,Yes,$461,,,,
+546,"118 - 2964 Trethewey St, Abbotsford, BC",2.0,2.0,921 sqft,,Apartment/Condominium,1.0,"$1,541",1993.0,R2803496,Residential,Yes,$461,01/08/2023,"$418,000",31/07/2023,"$424,900"
+547,"112 - 33490 Cottage Lane, Abbotsford, BC",2.0,1.0,1013 sqft,,Apartment/Condominium,1.0,"$1,018",1981.0,R2790478,Residential,Yes,$330,01/08/2023,"$325,000",19/06/2023,"$334,500"
+548,"316 - 2964 Trethewey St, Abbotsford, BC",1.0,1.0,815 sqft,,Apartment/Condominium,1.0,"$1,444",1993.0,R2801800,Residential,Yes,$465,01/08/2023,"$373,000",25/07/2023,"$379,000"
+549,"31391 Marshall Rd, Abbotsford, BC",5.0,3.0,2592 sqft,,Single Family Residence,7.0,"$5,441",1997.0,R2800783,Residential,Yes,$470,01/08/2023,"$1,190,000",24/07/2023,"$1,219,999"
+550,"2818 Westside Pl, Abbotsford, BC",3.0,3.0,2287 sqft,,Single Family Residence,6.0,"$4,711",1990.0,R2802802,Residential,Yes,$469,01/08/2023,"$1,050,000",27/07/2023,"$1,074,700"
+551,"2006 - 2180 Gladwin Rd, Abbotsford, BC",2.0,2.0,1035 sqft,,Apartment/Condominium,1.0,"$3,051",2018.0,R2784599,Residential,Yes,$806,,,,
+552,"302 - 31771 Peardonville Rd, Abbotsford, BC",2.0,2.0,900 sqft,,Apartment/Condominium,1.0,"$1,704",1994.0,R2803350,Residential,Yes,$499,31/07/2023,"$455,000",31/07/2023,"$449,900"
+553,"106 - 4001 Old Clayburn Rd, Abbotsford, BC",3.0,2.0,2746 sqft,,Townhouse,2.0,"$3,412",1993.0,R2799712,Residential,Yes,$327,31/07/2023,"$850,000",18/07/2023,"$899,000"
+554,,,,,,,,,,,,,,,,,
+555,"33931 Farmer Rd, Abbotsford, BC",4.0,1.0,2598 sqft,,Single Family Residence,20.0,"$5,479",1967.0,R2800043,Residential,Yes,$730,,,,
+556,,,,,,,,,,,,,,,,,
+557,"31833 Jervis Crt, Abbotsford, BC",5.0,2.0,2154 sqft,,Single Family Residence,0.0,"$4,814",1988.0,R2800361,Residential,Yes,$487,,"$1,015,000",19/07/2023,"$1,050,000"
+558,"35298 Munroe Ave, Abbotsford, BC",4.0,3.0,2224 sqft,,Single Family Residence,4.0,"$4,225",1988.0,R2802366,Residential,Yes,$449,31/07/2023,"$1,045,000",26/07/2023,"$999,900"
+559,"2455 Aladdin Cres, Abbotsford, BC",3.0,1.0,1495 sqft,,Single Family Residence,2.0,"$4,174",1976.0,R2795336,Residential,No,$601,31/07/2023,"$870,000",04/07/2023,"$899,900"
+560,"2235 Broadway St, Abbotsford, BC",4.0,2.0,2138 sqft,,Single Family Residence,5.0,"$4,933",1970.0,R2799267,Residential,No,$549,31/07/2023,"$1,150,000",18/07/2023,"$1,175,000"
+561,"35823 Timberlane Dr, Abbotsford, BC",3.0,3.0,2576 sqft,,Single Family Residence,8.0,"$5,204",1990.0,R2791914,Residential,Yes,$543,31/07/2023,"$1,270,000",26/06/2023,"$1,398,800"
+562,"101 - 32033 Old Yale Rd, Abbotsford, BC",2.0,1.0,1080 sqft,,Apartment/Condominium,1.0,"$1,076",1979.0,R2799765,Residential,Yes,$277,,,,
+563,"206 - 32733 Broadway St East, Abbotsford, BC",1.0,1.0,665 sqft,,Apartment/Condominium,1.0,$908,1982.0,R2791604,Residential,Yes,$450,30/07/2023,"$295,500",22/06/2023,"$299,750"
+564,"113 - 32870 George Ferguson Way, Abbotsford, BC",2.0,1.0,915 sqft,,Apartment/Condominium,1.0,"$1,177",1976.0,R2777148,Residential,Yes,$349,30/07/2023,"$303,000",09/05/2023,"$320,000"
+565,"121 - 2120 Gladwin Rd, Abbotsford, BC",1.0,1.0,662 sqft,,Apartment/Condominium,1.0,"$1,802",2021.0,R2799083,Residential,Yes,$702,30/07/2023,"$455,000",19/07/2023,"$464,900"
+566,"28 - 33123 George Ferguson Way, Abbotsford, BC",2.0,2.0,1432 sqft,,Townhouse,2.0,"$1,665",1990.0,R2798616,Residential,No,$279,29/07/2023,"$395,000",16/07/2023,"$399,800"
+567,"60 - 27735 Roundhouse Dr, Abbotsford, BC",3.0,2.0,1276 sqft,,Townhouse,3.0,"$2,778",2019.0,R2802109,Residential,No,$611,29/07/2023,"$779,900",26/07/2023,"$779,900"
+568,"5 - 2962 Nelson Pl, Abbotsford, BC",2.0,2.0,2034 sqft,,Townhouse,1.0,"$1,649",1984.0,R2791262,Residential,No,$245,28/07/2023,"$485,000",20/06/2023,"$499,900"
+569,"43 - 2068 Winfield Dr, Abbotsford, BC",3.0,2.0,1687 sqft,,Townhouse,2.0,"$2,747",1998.0,R2802406,Residential,Yes,$432,28/07/2023,"$745,000",27/07/2023,"$729,900"
+570,"303 - 3063 Immel St, Abbotsford, BC",2.0,2.0,885 sqft,,Apartment/Condominium,1.0,"$1,415",1993.0,R2797972,Residential,Yes,$480,28/07/2023,"$415,000",11/07/2023,"$425,000"
+571,"308 - 32725 George Ferguson Way, Abbotsford, BC",2.0,2.0,900 sqft,,Apartment/Condominium,1.0,"$1,414",1992.0,R2793186,Residential,Yes,$499,27/07/2023,"$425,000",28/06/2023,"$449,900"
+572,,,,,,,,,,,,,,,,,
+573,"131 - 3300 Horn St, Abbotsford, BC",3.0,1.0,956 sqft,,Manufactured Home,3.0,$404,1979.0,R2798803,Residential,No,$292,27/07/2023,"$270,000",16/07/2023,"$279,900"
+574,"316 - 2962 Trethewey St, Abbotsford, BC",2.0,2.0,927 sqft,,Apartment/Condominium,1.0,"$1,579",1993.0,R2800898,Residential,Yes,$452,27/07/2023,"$412,500",24/07/2023,"$419,700"
+575,"210 - 33280 Bourquin Cres E, Abbotsford, BC",2.0,2.0,1003 sqft,,Apartment/Condominium,1.0,"$1,579",1993.0,R2799139,Residential,Yes,$478,,,,
+576,"302 - 1750 Mckenzie Rd, Abbotsford, BC",2.0,1.0,984 sqft,,Townhouse,1.0,"$1,612",1992.0,R2801707,Residential,No,$426,,,,
+577,"7 - 34121 George Ferguson Way, Abbotsford, BC",4.0,3.0,1742 sqft,,Single Family Residence,2.0,"$3,264",2020.0,R2789895,Residential,Yes,$530,,,,
+578,"107 - 33400 Bourquin Pl, Abbotsford, BC",2.0,1.0,947 sqft,,Apartment/Condominium,2.0,"$1,552",1976.0,R2801329,Residential,Yes,$422,,,,
+579,"405 - 33328 Bourquin Cres E, Abbotsford, BC",1.0,1.0,664 sqft,,Apartment/Condominium,1.0,"$1,523",2006.0,R2800457,Residential,Yes,$557,,,,
+580,"30926 Brookdale Crt, Abbotsford, BC",6.0,4.0,2969 sqft,,Single Family Residence,4.0,"$4,917",1996.0,R2801125,Residential,Yes,$420,,,,
+581,"303 - 32445 Simon Ave, Abbotsford, BC",2.0,2.0,1663 sqft,,Apartment/Condominium,2.0,"$2,561",2018.0,R2780825,Residential,Yes,$450,,,,
+582,,,,,,,,,,,,,,,,,
+583,,,,,,,,,,,,,,,,,
+584,,,,,,,,,,,,,,,,,
+585,"106 - 33375 Mayfair Ave, Abbotsford, BC",2.0,2.0,1285 sqft,,Apartment/Condominium,1.0,"$1,453",1990.0,R2797806,Residential,Yes,$369,,,13/03/2024,"$535,000"
+586,,,,,,Townhouse,0.0,"$2,384",1991.0,R2794631,Residential,Yes,$506,,,,
+587,,,,,,,,,,,,,,,,,
+588,"2436 Adelaide St, Abbotsford, BC",4.0,2.0,2300 sqft,,Single Family Residence,5.0,"$5,217",1969.0,R2797521,Residential,Yes,$434,,,,
+589,"36031 Emily Carr Green, Abbotsford, BC",5.0,3.0,3069 sqft,,Single Family Residence,4.0,"$4,595",2017.0,R2794678,Residential,Yes,$377,,,,
+590,"415 - 31955 Old Yale Rd, Abbotsford, BC",2.0,2.0,1240 sqft,,Apartment/Condominium,2.0,"$1,332",1981.0,R2800872,Residential,Yes,$353,24/07/2023,"$438,900",23/07/2023,"$438,900"
+591,"3493 Picton St, Abbotsford, BC",4.0,3.0,2700 sqft,,Single Family Residence,5.0,"$4,293",1979.0,R2792739,Residential,No,$425,,,,
+592,"109 - 33280 Bourquin Cres E, Abbotsford, BC",2.0,2.0,1128 sqft,,Apartment/Condominium,1.0,"$1,644",1993.0,R2798649,Residential,Yes,$425,23/07/2023,"$480,000",19/07/2023,"$479,900"
+593,"34620 Devon Cres, Abbotsford, BC",3.0,3.0,2009 sqft,,Single Family Residence,6.0,"$4,094",1983.0,R2798124,Residential,Yes,$497,,,,
+594,"2271 Mountain Dr, Abbotsford, BC",5.0,3.0,3211 sqft,,Single Family Residence,6.0,"$4,989",1994.0,R2799713,Residential,Yes,$434,,,,
+595,"37405 Atkinson Rd, Abbotsford, BC",4.0,1.0,2530 sqft,,Single Family Residence,9.0,"$4,543",9999.0,R2799743,Residential,No,$395,23/07/2023,"$1,150,000",18/07/2023,"$999,700"
+596,,,,,,,,,,,,,,,,,
+597,,,,,,,,,,,,,,,,,
+598,,,,,,,,,,,,,,,,,
+599,"113 - 2955 Diamond Cres, Abbotsford, BC",2.0,2.0,931 sqft,,Apartment/Condominium,1.0,"$1,567",2006.0,R2793559,Residential,Yes,$569,22/07/2023,"$517,500",04/07/2023,"$529,900"
+600,"306 - 1909 Salton Rd, Abbotsford, BC",2.0,1.0,933 sqft,,Apartment/Condominium,2.0,"$1,092",1977.0,R2797772,Residential,Yes,$385,,,,
+601,,,,,,,,,,,,,,,,,
+602,,,,,,,,,,,,,,,,,
+603,"2157 Broadway St, Abbotsford, BC",5.0,3.0,2172 sqft,,Single Family Residence,4.0,"$4,676",1975.0,R2782953,Residential,Yes,$529,,,,
+604,,,,,,,,"$2,763",1940.0,R2748858,Residential,No,$592,,,,
+605,,,,,,,,,,,,,,,,,
+606,,,,,,,,,,,,,,,,,
+607,,,,,,,,,,,,,,,,,
+608,"10 - 1968 N Parallel Rd, Abbotsford, BC",3.0,2.0,1306 sqft,,Townhouse,4.0,"$2,650",2016.0,R2781896,Residential,Yes,$616,,,,"$804,900"
+609,"307 - 32733 Broadway E, Abbotsford, BC",1.0,1.0,575 sqft,,Apartment/Condominium,1.0,$855,1982.0,R2793336,Residential,Yes,$538,,,,
+610,,,,,,,,,,,,,,,,,
+611,"6 - 36060 Old Yale Rd, Abbotsford, BC",3.0,2.0,1431 sqft,,Townhouse,2.0,"$2,270",1991.0,R2799660,Residential,Yes,$471,,,,
+612,"34747 Skyline Dr, Abbotsford, BC",3.0,3.0,3532 sqft,,Single Family Residence,9.0,"$7,749",1984.0,R2784647,Residential,Yes,$565,,,,
+613,"115 - 32044 Old Yale Rd, Abbotsford, BC",2.0,2.0,1090 sqft,,Apartment/Condominium,1.0,"$1,274",1993.0,R2794134,Residential,Yes,$435,,,,
+614,"161 - 32633 Simon Ave, Abbotsford, BC",3.0,2.0,1188 sqft,,Townhouse,1.0,"$2,224",2019.0,R2790963,Residential,Yes,$559,19/07/2023,"$650,000",18/06/2023,"$665,000"
+615,"3390 Sechelt Terr, Abbotsford, BC",5.0,2.0,2010 sqft,,Single Family Residence,4.0,"$4,652",1983.0,R2799861,Residential,Yes,$497,16/07/2023,"$985,000",16/07/2023,"$999,900"
+616,"105 - 2772 Clearbrook Rd, Abbotsford, BC",2.0,2.0,1050 sqft,,Apartment/Condominium,1.0,"$1,197",1996.0,R2797863,Residential,Yes,$412,16/07/2023,"$437,000",12/07/2023,"$432,900"
+617,"30 - 35287 Old Yale Rd, Abbotsford, BC",3.0,3.0,1804 sqft,,Townhouse,2.0,"$2,531",1999.0,R2796291,Residential,Yes,$376,16/07/2023,"$675,000",09/07/2023,"$680,000"
+618,"301 - 32838 Ventura Ave, Abbotsford, BC",2.0,2.0,883 sqft,,Apartment/Condominium,1.0,"$1,886",2021.0,R2796898,Residential,Yes,$619,16/07/2023,"$540,000",09/07/2023,"$547,000"
+619,"32595 Rossland Pl, Abbotsford, BC",5.0,2.0,2351 sqft,,Single Family Residence,6.0,"$4,301",1974.0,R2798065,Residential,Yes,$495,15/07/2023,"$1,132,000",11/07/2023,"$1,164,000"
+620,"36 - 31517 Spur Ave, Abbotsford, BC",4.0,3.0,2812 sqft,,Townhouse,2.0,"$2,856",2004.0,R2789515,Residential,Yes,$316,15/07/2023,"$875,000",14/06/2023,"$889,900"
+621,"301 - 33318 Bourquin Cres E, Abbotsford, BC",1.0,1.0,663 sqft,,Apartment/Condominium,1.0,"$1,263",2006.0,R2797820,Residential,Yes,$580,15/07/2023,"$391,000",13/07/2023,"$384,999"
+622,"415 - 2943 Nelson Pl, Abbotsford, BC",2.0,2.0,979 sqft,,Apartment/Condominium,2.0,"$1,696",2009.0,R2798149,Residential,Yes,$525,15/07/2023,"$514,900",13/07/2023,"$514,900"
+623,"112 - 3090 Gladwin Rd, Abbotsford, BC",2.0,2.0,802 sqft,,Apartment/Condominium,1.0,"$1,660",2015.0,R2792557,Residential,Yes,$660,,,,
+624,"327 - 31158 Westridge Pl, Abbotsford, BC",2.0,2.0,861 sqft,,Apartment/Condominium,2.0,"$1,889",2021.0,R2781721,Residential,Yes,$615,15/07/2023,"$525,000",25/05/2023,"$529,888"
+625,"7 - 2962 Nelson Pl, Abbotsford, BC",3.0,2.0,2062 sqft,,Townhouse,1.0,"$1,691",1984.0,R2775051,Residential,No,$242,14/07/2023,"$498,000",07/05/2023,"$499,900"
+626,"29533 Marsh Mccormick Rd, Abbotsford, BC",4.0,3.0,2692 sqft,,Single Family Residence,8.0,"$6,040",1976.0,R2787211,Residential,No,$693,14/07/2023,"$1,850,000",10/06/2023,"$1,867,000"
+627,"2307 Olympia Pl, Abbotsford, BC",3.0,3.0,2716 sqft,,Single Family Residence,6.0,"$4,509",1988.0,R2795345,Residential,Yes,$460,14/07/2023,"$1,260,000",09/07/2023,"$1,250,000"
+628,"2901 Mccallum Rd, Abbotsford, BC",4.0,2.0,2287 sqft,,Single Family Residence,12.0,"$4,746",1944.0,R2787805,Residential,Yes,$480,14/07/2023,"$1,155,000",12/06/2023,"$1,099,000"
+629,"38 - 36060 Old Yale Rd, Abbotsford, BC",3.0,2.0,1417 sqft,,Townhouse,2.0,"$2,270",1992.0,R2791874,Residential,Yes,$493,14/07/2023,"$690,000",25/06/2023,"$699,700"
+630,"9 - 32917 Amicus Pl, Abbotsford, BC",4.0,3.0,2121 sqft,,Townhouse,2.0,"$2,190",1983.0,R2796061,Residential,No,$282,14/07/2023,"$665,000",09/07/2023,"$600,000"
+631,"86 - 34959 Old Clayburn Rd, Abbotsford, BC",2.0,3.0,1372 sqft,,Townhouse,1.0,"$1,733",1988.0,R2796704,Residential,No,$429,13/07/2023,"$577,000",09/07/2023,"$589,900"
+632,"4 - 33900 Mayfair Ave, Abbotsford, BC",1.0,1.0,575 sqft,,Townhouse,1.0,"$1,113",1971.0,R2792178,Residential,No,$600,12/07/2023,"$340,000",25/06/2023,"$345,000"
+633,"3525 Cariboo Crt, Abbotsford, BC",3.0,2.0,1498 sqft,,Single Family Residence,4.0,"$4,196",1977.0,R2794550,Residential,Yes,$667,12/07/2023,"$970,000",03/07/2023,"$999,900"
+634,"34602 Semlin Pl, Abbotsford, BC",6.0,3.0,3302 sqft,,Single Family Residence,0.0,"$4,904",1984.0,R2790213,Residential,Yes,$302,,,,
+635,"21 - 30703 Blueridge Dr, Abbotsford, BC",3.0,3.0,3299 sqft,,Townhouse,2.0,"$2,932",1996.0,R2796748,Residential,Yes,$271,,,,
+636,"33273 Terry Fox Ave, Abbotsford, BC",3.0,2.0,1477 sqft,,Single Family Residence,4.0,"$4,136",1986.0,R2795005,Residential,Yes,$643,,,,
+637,"206 - 33728 King Rd, Abbotsford, BC",2.0,2.0,947 sqft,,Apartment/Condominium,2.0,"$1,394",1996.0,R2794976,Residential,Yes,$491,12/07/2023,"$465,000",04/07/2023,"$465,000"
+638,"32084 Debreen Cres, Abbotsford, BC",2.0,1.0,1132 sqft,,Single Family Residence,6.0,"$4,058",1969.0,R2793424,Residential,Yes,$794,12/07/2023,"$955,000",28/06/2023,"$899,900"
+639,"10 - 3380 Gladwin Rd, Abbotsford, BC",2.0,1.0,1312 sqft,,Townhouse,2.0,"$1,628",1992.0,R2796405,Residential,No,$285,12/07/2023,"$370,000",09/07/2023,"$375,000"
+640,"1 - 3270 Blue Jay St, Abbotsford, BC",4.0,3.0,2113 sqft,,Townhouse,2.0,"$2,892",1998.0,R2790902,Residential,Yes,$425,12/07/2023,"$885,000",21/06/2023,"$899,900"
+641,"104 - 2750 Fairlane St, Abbotsford, BC",2.0,2.0,1017 sqft,,Apartment/Condominium,1.0,"$1,443",1993.0,R2797710,Residential,Yes,$392,12/07/2023,"$400,000",11/07/2023,"$399,000"
+642,"35481 Eagle Summit Dr, Abbotsford, BC",5.0,3.0,3748 sqft,,Single Family Residence,4.0,"$6,868",2016.0,R2794828,Residential,Yes,$453,12/07/2023,"$1,680,000",03/07/2023,"$1,699,995"
+643,"27725 Quinton Ave, Abbotsford, BC",1.0,1.0,1500 sqft,,Single Family Residence,0.0,"$3,918",1995.0,R2794903,Residential,No,"$1,526",,,,
+644,"508 - 3182 Gladwin Rd, Abbotsford, BC",2.0,2.0,890 sqft,,Apartment/Condominium,2.0,,2022.0,R2779919,Residential,Yes,$729,-,-,23/01/2024,"$699,980"
+645,"321 - 32445 Simon Ave, Abbotsford, BC",3.0,2.0,1080 sqft,,Apartment/Condominium,2.0,"$2,179",2018.0,R2783720,Residential,Yes,$634,11/07/2023,"$670,000",05/06/2023,"$685,000"
+646,"202 - 2038 Sandalwood Cres, Abbotsford, BC",2.0,2.0,1055 sqft,,Apartment/Condominium,2.0,"$1,783",2009.0,R2795282,Residential,Yes,$521,11/07/2023,"$541,000",05/07/2023,"$549,900"
+647,"2732 Sandon Dr, Abbotsford, BC",3.0,1.0,1480 sqft,,Multi Family,6.0,"$3,262",1976.0,R2783576,Residential,No,$539,11/07/2023,"$800,000",28/05/2023,"$799,000"
+648,"2119 Lonsdale Cres, Abbotsford, BC",5.0,2.0,2364 sqft,,Single Family Residence,6.0,"$4,944",1974.0,R2782103,Residential,Yes,$535,11/07/2023,"$1,217,250",30/05/2023,"$1,267,000"
+649,"502 - 3190 Gladwin Rd, Abbotsford, BC",2.0,2.0,1080 sqft,,Apartment/Condominium,1.0,"$1,664",1993.0,R2793474,Residential,Yes,$439,11/07/2023,"$474,800",27/06/2023,"$474,800"
+650,"335 - 2451 Gladwin Rd, Abbotsford, BC",2.0,2.0,1449 sqft,,Apartment/Condominium,1.0,"$1,618",1991.0,R2793853,Residential,Yes,$331,11/07/2023,"$485,000",04/07/2023,"$479,900"
+651,"39840 Old Yale Rd, Abbotsford, BC",3.0,3.0,1803 sqft,,Single Family Residence,0.0,"$4,889",2016.0,R2788121,Residential,Yes,$887,11/07/2023,"$1,450,000",13/06/2023,"$1,600,000"
+652,"12 - 3348 Mount Lehman Rd, Abbotsford, BC",2.0,2.0,1600 sqft,,Townhouse,4.0,"$2,758",2008.0,R2791032,Residential,Yes,$555,11/07/2023,"$865,000",20/06/2023,"$889,000"
+653,"38 - 34332 Maclure Rd, Abbotsford, BC",4.0,3.0,2197 sqft,,Townhouse,2.0,"$2,443",1994.0,R2785704,Residential,Yes,$357,10/07/2023,"$745,000",07/06/2023,"$784,900"
+654,"40 - 2989 Trafalgar St, Abbotsford, BC",3.0,1.0,1722 sqft,,Townhouse,3.0,"$1,847",1985.0,R2793806,Residential,Yes,$364,10/07/2023,"$627,700",29/06/2023,"$627,700"
+655,"23 - 2088 Winfield Dr, Abbotsford, BC",4.0,3.0,2603 sqft,,Townhouse,0.0,"$3,227",2003.0,R2782350,Residential,Yes,$320,10/07/2023,"$830,000",24/05/2023,"$835,000"
+656,"25 - 35810 Mckee Rd, Abbotsford, BC",4.0,2.0,1934 sqft,,Townhouse,2.0,,2023.0,R2795455,Residential,Yes,$485,10/07/2023,"$925,000",04/07/2023,"$939,000"
+657,"103 - 2990 Boulder St, Abbotsford, BC",1.0,1.0,810 sqft,,Apartment/Condominium,2.0,"$1,411",2006.0,R2789315,Residential,Yes,$555,-,Not Sold Yet,04/06/2024,"$399,999"
+658,"3742 Davie St, Abbotsford, BC",4.0,3.0,2292 sqft,,Single Family Residence,5.0,"$4,008",1988.0,R2796758,Residential,Yes,$470,10/07/2023,"$1,065,000",09/07/2023,"$1,079,000"
+659,"33971 Car Lin Lane, Abbotsford, BC",4.0,3.0,2082 sqft,,Single Family Residence,4.0,"$3,151",2009.0,R2792749,Residential,Yes,$470,10/07/2023,"$970,000",26/06/2023,"$979,900"
+660,"406 - 2960 Trethewey St, Abbotsford, BC",2.0,2.0,909 sqft,,Apartment/Condominium,1.0,"$1,328",1994.0,R2787282,Residential,Yes,$467,10/07/2023,"$405,000",11/06/2023,"$425,000"
+661,"1 - 2830 Bourquin Cres W, Abbotsford, BC",4.0,2.0,1766 sqft,,Townhouse,2.0,"$2,030",1979.0,R2791916,Residential,No,$372,09/07/2023,"$622,000",21/06/2023,"$658,000"
+662,"121 - 2515 Park Dr, Abbotsford, BC",2.0,2.0,805 sqft,,Apartment/Condominium,2.0,"$1,468",2007.0,R2795508,Residential,Yes,$539,-,-,12/09/2023,"$479,000"
+663,"404 - 33280 Bourquin Cres E, Abbotsford, BC",2.0,2.0,1386 sqft,,Apartment/Condominium,1.0,"$1,687",1993.0,R2795580,Residential,Yes,$389,09/07/2023,"$539,900",05/07/2023,"$539,900"
+664,,,,,,,,,,,,,,,,,
+665,"106 - 2958 Trethewey St, Abbotsford, BC",2.0,2.0,928 sqft,,Apartment/Condominium,1.0,"$1,286",1994.0,R2794237,Residential,Yes,$449,09/07/2023,"$410,000",03/07/2023,"$416,700"
+666,"3367 Hedley St, Abbotsford, BC",4.0,2.0,2559 sqft,,Single Family Residence,5.0,"$4,826",1985.0,R2794184,Residential,Yes,$351,-,Not Sold Yet,06/05/2024,"$1,199,900"
+667,"103 - 33280 Bourquin Cres E, Abbotsford, BC",2.0,2.0,1115 sqft,,Apartment/Condominium,1.0,"$1,370",1993.0,R2794709,Residential,Yes,$430,09/07/2023,"$500,000",02/07/2023,"$479,900"
+668,"5449 Glenmore Rd, Abbotsford, BC",5.0,2.0,2660 sqft,,Single Family Residence,10.0,"$2,282",1986.0,R2757377,Residential,Yes,$936,09/07/2023,"$2,200,000",02/03/2023,"$2,490,000"
+669,"3 - 32691 Garibaldi Dr, Abbotsford, BC",2.0,1.0,1166 sqft,,Townhouse,1.0,"$1,382",1989.0,R2783199,Residential,No,$364,09/07/2023,"$405,000",29/05/2023,"$425,000"
+670,"438 - 32830 George Ferguson Way, Abbotsford, BC",2.0,2.0,1265 sqft,,Apartment/Condominium,2.0,"$1,495",1993.0,R2793132,Residential,Yes,$346,09/07/2023,"$460,000",03/07/2023,"$437,800"
+671,"2170 Holly St, Abbotsford, BC",5.0,3.0,2356 sqft,,Single Family Residence,7.0,"$4,643",1977.0,R2779480,Residential,No,$462,08/07/2023,"$1,085,000",23/05/2023,"$1,089,000"
+672,"50 - 4001 Old Clayburn Rd, Abbotsford, BC",2.0,2.0,1707 sqft,,Townhouse,2.0,"$2,459",1993.0,R2793481,Residential,Yes,$468,08/07/2023,"$740,500",28/06/2023,"$799,900"
+673,"201 - 3150 Gladwin Rd, Abbotsford, BC",2.0,2.0,1160 sqft,,Apartment/Condominium,1.0,"$1,547",1990.0,R2794557,Residential,Yes,$443,07/07/2023,"$507,500",06/07/2023,"$514,900"
+674,"304 - 2565 Ware St, Abbotsford, BC",2.0,2.0,1164 sqft,,Apartment/Condominium,2.0,"$2,135",2019.0,R2791525,Residential,Yes,$575,07/07/2023,"$660,000",21/06/2023,"$669,900"
+675,"413 - 2990 Boulder St, Abbotsford, BC",2.0,2.0,950 sqft,,Apartment/Condominium,2.0,"$1,626",2007.0,R2795867,Residential,Yes,$526,07/07/2023,"$498,000",06/07/2023,"$499,800"
+676,"2648 Eagle Mountain Dr, Abbotsford, BC",5.0,4.0,4688 sqft,,Single Family Residence,4.0,"$6,847",2015.0,R2795179,Residential,Yes,$383,07/07/2023,"$1,830,000",04/07/2023,"$1,799,800"
+677,"103 - 32055 Old Yale Rd, Abbotsford, BC",2.0,1.0,1160 sqft,,Apartment/Condominium,1.0,$920,1979.0,R2781764,Residential,Yes,$245,06/07/2023,"$280,000",19/05/2023,"$284,900"
+678,"34250 Fraser St, Abbotsford, BC",5.0,5.0,5512 sqft,,Single Family Residence,15.0,"$4,474",1992.0,R2777136,Residential,Yes,$217,06/07/2023,"$1,025,000",11/05/2023,"$1,199,000"
+679,"204 - 2678 Mccallum Rd, Abbotsford, BC",2.0,2.0,1251 sqft,,Apartment/Condominium,2.0,"$1,245",1987.0,R2792807,Residential,Yes,$345,,,,
+680,"32636 Pandora Ave, Abbotsford, BC",5.0,2.0,1760 sqft,,Single Family Residence,0.0,"$4,423",1977.0,R2780566,Residential,No,$601,,,,
+681,"21 - 32615 Murray Ave, Abbotsford, BC",3.0,3.0,2416 sqft,,Townhouse,2.0,"$2,746",1988.0,R2791435,Residential,Yes,$326,,,,
+682,"32995 Brundige Ave, Abbotsford, BC",4.0,2.0,2750 sqft,,Single Family Residence,5.0,"$5,411",1938.0,R2792717,Residential,No,$363,,,,
+683,"301 - 30525 Cardinal Ave, Abbotsford, BC",1.0,1.0,550 sqft,,Apartment/Condominium,1.0,"$1,078",2009.0,R2795850,Residential,Yes,$618,06/07/2023,"$341,400",05/07/2023,"$339,900"
+684,"417 - 33478 Roberts Ave, Abbotsford, BC",2.0,2.0,958 sqft,,Apartment/Condominium,1.0,"$1,459",1995.0,R2795578,Residential,Yes,$490,06/07/2023,"$470,000",04/07/2023,"$470,000"
+685,"304 - 2678 Mccallum Rd, Abbotsford, BC",2.0,2.0,1233 sqft,,Apartment/Condominium,2.0,"$1,252",1988.0,R2796069,Residential,Yes,$308,06/07/2023,"$460,000",06/07/2023,"$380,000"
+686,"2461 Aladdin Cres, Abbotsford, BC",4.0,2.0,1798 sqft,,Single Family Residence,5.0,"$4,221",1975.0,R2794387,Residential,Yes,$528,,,,
+687,"207 - 32838 Landeau Pl, Abbotsford, BC",2.0,2.0,882 sqft,,Apartment/Condominium,1.0,"$1,996",2021.0,R2773891,Residential,Yes,$622,06/07/2023,"$545,000",02/05/2023,"$549,000"
+688,"41 - 2830 Bourquin Cres W, Abbotsford, BC",3.0,1.0,1256 sqft,,Townhouse,1.0,"$1,935",1977.0,R2793000,Residential,No,$477,05/07/2023,"$599,900",26/06/2023,"$599,900"
+689,"28285 Myrtle Ave, Abbotsford, BC",3.0,1.0,2872 sqft,,Single Family Residence,2.0,"$1,505",1977.0,R2791569,Residential,Yes,$731,05/07/2023,"$1,980,000",21/06/2023,"$2,100,000"
+690,"106 - 32055 Old Yale Rd, Abbotsford, BC",2.0,1.0,1026 sqft,,Apartment/Condominium,1.0,$891,1980.0,R2789815,Residential,Yes,$282,05/07/2023,"$280,000",19/06/2023,"$290,000"
+691,"301 - 2943 Nelson Pl, Abbotsford, BC",2.0,2.0,982 sqft,,Apartment/Condominium,2.0,"$1,632",2009.0,R2785360,Residential,Yes,$509,05/07/2023,"$495,000",05/06/2023,"$499,900"
+692,"35 - 1419 Mccallum Rd, Abbotsford, BC",2.0,2.0,694 sqft,,Apartment/Condominium,1.0,,2023.0,R2786254,Residential,Yes,$720,05/07/2023,"$499,999",07/06/2023,"$499,900"
+693,"5751 Bradner Rd, Abbotsford, BC",4.0,3.0,2762 sqft,,Single Family Residence,9.0,"$4,080",1988.0,R2780585,Residential,Yes,$977,05/07/2023,"$2,650,000",22/05/2023,"$2,699,000"
+694,"17 - 33293 Bourquin Cres E, Abbotsford, BC",3.0,2.0,1780 sqft,,Townhouse,1.0,"$2,116",1976.0,R2792251,Residential,Yes,$336,04/07/2023,"$594,000",22/06/2023,"$599,000"
+695,"22 - 32691 Garibaldi Dr, Abbotsford, BC",3.0,2.0,1495 sqft,,Townhouse,1.0,"$1,703",1988.0,R2764273,Residential,No,$380,04/07/2023,"$565,200",02/04/2023,"$569,565"
+696,"56 - 1973 Winfield Dr, Abbotsford, BC",3.0,3.0,2144 sqft,,Townhouse,2.0,"$2,256",1993.0,R2793447,Residential,Yes,$345,04/07/2023,"$739,900",27/06/2023,"$739,900"
+697,"30 - 1450 Mccallum Rd, Abbotsford, BC",2.0,2.0,1951 sqft,,Townhouse,1.0,"$2,340",1989.0,R2788913,Residential,Yes,$358,04/07/2023,"$689,900",11/06/2023,"$699,900"
+698,"615 - 31955 Old Yale Rd, Abbotsford, BC",2.0,2.0,1322 sqft,,Apartment/Condominium,0.0,"$1,166",1981.0,R2791235,Residential,Yes,$264,,,,
+699,"2680 Marble Hill Dr, Abbotsford, BC",4.0,2.0,2804 sqft,,Single Family Residence,6.0,"$3,960",1980.0,R2791299,Residential,Yes,$356,,,,
+700,"304 - 1514 Mccallum Rd, Abbotsford, BC",1.0,1.0,450 sqft,,Apartment/Condominium,1.0,$598,2022.0,R2780807,Residential,Yes,$822,03/07/2023,"$357,000",16/05/2023,"$370,000"
+701,"11 - 35287 Old Yale Rd, Abbotsford, BC",3.0,3.0,1881 sqft,,Townhouse,2.0,"$2,387",1999.0,R2792438,Residential,Yes,$393,03/07/2023,"$715,000",26/06/2023,"$739,999"
+702,"13 - 32917 Amicus Pl, Abbotsford, BC",3.0,3.0,2223 sqft,,Townhouse,2.0,"$2,127",1983.0,R2792127,Residential,No,$269,03/07/2023,"$635,000",25/06/2023,"$599,900"
+703,"3690 Cobblestone Dr, Abbotsford, BC",6.0,3.0,3894 sqft,,Single Family Residence,4.0,"$5,847",1993.0,R2791382,Residential,Yes,$392,03/07/2023,"$1,479,000",22/06/2023,"$1,529,900"
+704,"47 - 3115 Trafalgar St, Abbotsford, BC",2.0,2.0,1598 sqft,,Townhouse,1.0,"$1,774",1987.0,R2781932,Residential,Yes,$343,03/07/2023,"$525,000",28/05/2023,"$549,000"
+705,"45 - 31406 Upper Maclure Rd, Abbotsford, BC",3.0,3.0,3021 sqft,,Townhouse,2.0,"$2,733",1999.0,R2794278,Residential,Yes,$236,03/07/2023,"$715,000",03/07/2023,"$714,999"
+706,"1703 - 3190 Gladwin Rd, Abbotsford, BC",2.0,2.0,1551 sqft,,Apartment/Condominium,2.0,"$2,736",1992.0,R2794529,Residential,Yes,$502,03/07/2023,"$780,000",03/07/2023,"$780,000"
+707,"3421 Juniper Cres, Abbotsford, BC",4.0,2.0,1876 sqft,,Single Family Residence,6.0,"$3,889",1979.0,R2779720,Residential,Yes,$479,-,-,15/10/2023,"$1,159,000"
+708,"13 - 31517 Spur Ave, Abbotsford, BC",2.0,2.0,1540 sqft,,Townhouse,2.0,"$2,022",2001.0,R2792705,Residential,Yes,$505,02/07/2023,"$779,000",25/06/2023,"$779,000"
+709,"36218 Cassandra Dr, Abbotsford, BC",5.0,3.0,2900 sqft,,Single Family Residence,6.0,"$5,211",1996.0,R2792733,Residential,Yes,$344,02/07/2023,"$1,255,000",25/06/2023,"$1,000,000"
+710,"34780 Anora Dr, Abbotsford, BC",3.0,2.0,1750 sqft,,Single Family Residence,6.0,"$4,101",1981.0,R2793520,Residential,Yes,$485,02/07/2023,"$850,000",25/06/2023,"$850,000"
+711,"519 - 2860 Trethewey St, Abbotsford, BC",2.0,2.0,1069 sqft,,Apartment/Condominium,2.0,"$2,160",2017.0,R2791339,Residential,Yes,$587,02/07/2023,"$628,000",21/06/2023,"$627,900"
+712,"31121 Deertrail Dr N, Abbotsford, BC",8.0,6.0,5002 sqft,,Single Family Residence,4.0,"$5,496",2021.0,R2795409,Residential,Yes,$419,02/07/2023,"$2,072,000",01/07/2023,"$2,099,000"
+713,"53 - 3030 Trethewey St, Abbotsford, BC",3.0,1.0,1160 sqft,,Townhouse,1.0,"$1,973",1981.0,R2793129,Residential,No,$542,02/07/2023,"$629,000",27/06/2023,"$629,000"
+714,"32656 Haida Dr, Abbotsford, BC",3.0,2.0,2135 sqft,,Single Family Residence,5.0,"$3,894",1988.0,R2788365,Residential,Yes,$515,02/07/2023,"$990,000",15/06/2023,"$1,100,000"
+715,"217 - 3172 Gladwin Rd, Abbotsford, BC",2.0,2.0,1350 sqft,,Apartment/Condominium,1.0,"$1,640",1995.0,R2790509,Residential,Yes,$362,01/07/2023,"$485,000",21/06/2023,"$489,000"
+716,"3705 Dunsmuir Way, Abbotsford, BC",4.0,3.0,2228 sqft,,Single Family Residence,6.0,"$4,057",1983.0,R2792783,Residential,Yes,$511,30/06/2023,"$1,131,000",27/06/2023,"$1,138,800"
+717,"7 - 31548 Upper Maclure Rd, Abbotsford, BC",4.0,3.0,1820 sqft,,Townhouse,2.0,"$2,909",2019.0,R2786110,Residential,Yes,$453,,,,
+718,"404 - 33546 Holland Ave, Abbotsford, BC",2.0,2.0,1153 sqft,,Apartment/Condominium,1.0,"$1,925",2008.0,R2791417,Residential,Yes,$501,29/06/2023,"$565,000",20/06/2023,"$578,000"
+719,"128 - 1909 Salton Rd, Abbotsford, BC",1.0,1.0,620 sqft,,Apartment/Condominium,1.0,,1975.0,R2790995,Residential,No,$417,29/06/2023,"$258,000",25/06/2023,"$259,000"
+720,"303 - 2410 Emerson St, Abbotsford, BC",2.0,2.0,1235 sqft,,Apartment/Condominium,1.0,"$1,207",1992.0,R2781237,Residential,Yes,$364,29/06/2023,"$448,000",23/05/2023,"$449,800"
+721,"33146 Westbury Ave, Abbotsford, BC",5.0,1.0,2025 sqft,,Single Family Residence,6.0,"$3,582",1974.0,R2786435,Residential,Yes,$493,29/06/2023,"$850,000",07/06/2023,"$999,000"
+722,"1424 - 34909 Old Yale Rd, Abbotsford, BC",1.0,1.0,660 sqft,,Apartment/Condominium,1.0,"$1,148",1980.0,R2790139,Residential,No,$530,28/06/2023,"$330,000",14/06/2023,"$349,900"
+723,"206 - 2678 Mccallum Rd, Abbotsford, BC",2.0,2.0,1360 sqft,,Apartment/Condominium,2.0,"$1,338",1988.0,R2792694,Residential,Yes,$344,28/06/2023,"$460,000",26/06/2023,"$469,000"
+724,"302 - 33464 George Ferguson Way, Abbotsford, BC",2.0,1.0,953 sqft,,Apartment/Condominium,1.0,"$1,045",1976.0,R2790909,Residential,Yes,$292,28/06/2023,"$276,000",19/06/2023,"$279,000"
+725,"95 - 34248 King Rd, Abbotsford, BC",3.0,2.0,1737 sqft,,Townhouse,2.0,"$2,641",2009.0,R2790535,Residential,Yes,$413,28/06/2023,"$712,000",20/06/2023,"$719,000"
+726,"107 - 32124 Tims Ave, Abbotsford, BC",2.0,2.0,970 sqft,,Apartment/Condominium,1.0,"$1,301",1982.0,R2783626,Residential,Yes,$468,28/06/2023,"$445,000",04/06/2023,"$454,000"
+727,"417 - 3172 Gladwin Rd, Abbotsford, BC",2.0,2.0,1349 sqft,,Apartment/Condominium,1.0,"$1,676",1994.0,R2792516,Residential,Yes,$421,28/06/2023,"$559,900",27/06/2023,"$569,000"
+728,"321 - 30525 Cardinal Ave, Abbotsford, BC",1.0,1.0,686 sqft,,Apartment/Condominium,1.0,"$1,266",2009.0,R2782898,Residential,Yes,$546,27/06/2023,"$368,000",06/06/2023,"$374,900"
+729,"71 - 30930 Westridge Pl, Abbotsford, BC",2.0,2.0,1258 sqft,,Townhouse,4.0,"$2,640",2018.0,R2790203,Residential,Yes,$556,27/06/2023,"$715,000",18/06/2023,"$699,900"
+730,"111 - 32725 George Ferguson Way, Abbotsford, BC",2.0,2.0,883 sqft,,Apartment/Condominium,1.0,"$1,352",1992.0,R2791895,Residential,Yes,$447,27/06/2023,"$410,000",26/06/2023,"$395,000"
+731,"424 - 31158 Westridge Pl, Abbotsford, BC",2.0,2.0,1148 sqft,,Apartment/Condominium,2.0,"$2,352",2021.0,R2788572,Residential,Yes,$582,27/06/2023,"$655,000",14/06/2023,"$669,000"
+732,"116 - 3182 Gladwin Rd, Abbotsford, BC",2.0,2.0,955 sqft,,Apartment/Condominium,1.0,"$2,583",2022.0,R2792854,Residential,Yes,$523,20/09/2023,"$525,000",19/09/2023,"$499,700"
+733,"420 - 2565 Campbell Ave, Abbotsford, BC",3.0,2.0,1093 sqft,,Apartment/Condominium,2.0,"$2,039",2015.0,R2769420,Residential,Yes,$526,27/06/2023,"$562,500",20/04/2023,"$575,000"
+734,"29497 Sunvalley Cres, Abbotsford, BC",3.0,2.0,2200 sqft,,Single Family Residence,3.0,"$4,404",1971.0,R2765189,Residential,No,$561,-,Not Sold Yet,26/06/2024,"$1,399,999"
+735,,,,,,,,,,,,,,,,,
+736,,,,,,,,,,,,,,,,,
+737,,,,,,,,,,,,,,,,,
+738,,,,,,,,,,,,,,,,,
+739,,,,,,,,,,,,,,,,,
+740,,,,,,,,,,,,,,,,,
+741,"2569 Magnolia Cres, Abbotsford, BC",3.0,2.0,1692 sqft,,Single Family Residence,0.0,"$4,196",1969.0,R2781758,Residential,Yes,$635,,,,
+742,"2412 Parkview St, Abbotsford, BC",6.0,2.0,1229 sqft,,Single Family Residence,4.0,"$3,744",1965.0,R2783970,Residential,No,$813,,,,
+743,"35802 Eaglecrest Dr, Abbotsford, BC",4.0,3.0,2685 sqft,,Single Family Residence,0.0,"$4,740",1984.0,R2746185,Residential,Yes,$483,,,,
+744,,,,,,,,,,R2792071,Residential,Yes,$606,,,,
+745,,,,,,,,,,,,,,,,,
+746,,,,,,,,,,,,,,,,,
+747,,,2.0,954 sqft,,Apartment/Condominium,1.0,"$1,784",2006.0,R2786706,Residential,Yes,$502,,,,
+748,,,,,,,,,,,,,,,,,
+749,,,,,,,,,,,,,,,,,
+750,"27 - 31445 Ridgeview Dr, Abbotsford, BC",3.0,2.0,2799 sqft,,Townhouse,4.0,"$2,838",1993.0,R2785557,Residential,Yes,$278,25/06/2023,"$780,000",05/06/2023,"$779,900"
+751,"35148 Kootenay Dr, Abbotsford, BC",6.0,3.0,2500 sqft,,Single Family Residence,6.0,"$4,403",1997.0,R2791478,Residential,Yes,$439,25/06/2023,"$1,115,000",20/06/2023,"$1,099,000"
+752,"103 - 32124 Tims Ave, Abbotsford, BC",2.0,2.0,950 sqft,,Apartment/Condominium,1.0,"$1,260",1982.0,R2789669,Residential,Yes,$477,25/06/2023,"$467,000",18/06/2023,"$454,000"
+753,"54 - 32718 Garibaldi Dr, Abbotsford, BC",1.0,1.0,1127 sqft,,Townhouse,1.0,"$1,295",1985.0,R2754216,Residential,No,$323,25/06/2023,"$355,000",19/02/2023,"$364,900"
+754,"110 - 2451 Gladwin Rd, Abbotsford, BC",2.0,2.0,1486 sqft,,Apartment/Condominium,1.0,"$1,881",1989.0,R2789197,Residential,Yes,$353,25/06/2023,"$485,000",14/06/2023,"$525,000"
+755,"3010 Cassiar Ave, Abbotsford, BC",5.0,3.0,2193 sqft,,Single Family Residence,4.0,"$4,375",1989.0,R2785992,Residential,Yes,$523,24/06/2023,"$1,118,000",06/06/2023,"$1,149,000"
+756,"207 - 2678 Mccallum Rd, Abbotsford, BC",2.0,2.0,1106 sqft,,Apartment/Condominium,2.0,"$1,354",1988.0,R2785547,Residential,Yes,$379,24/06/2023,"$440,000",05/06/2023,"$419,900"
+757,"408 - 2575 Ware St, Abbotsford, BC",2.0,2.0,1281 sqft,,Apartment/Condominium,1.0,"$1,568",1994.0,R2783648,Residential,Yes,$389,24/06/2023,"$480,000",29/05/2023,"$499,000"
+758,"35410 Doneagle Pl, Abbotsford, BC",3.0,3.0,5068 sqft,,Single Family Residence,3.0,"$7,936",1997.0,R2789477,Residential,Yes,$522,24/06/2023,"$2,600,000",18/06/2023,"$2,648,000"
+759,"75 - 2838 Livingstone Ave, Abbotsford, BC",3.0,2.0,1661 sqft,,Townhouse,2.0,"$2,932",2020.0,R2788442,Residential,Yes,$517,24/06/2023,"$848,000",13/06/2023,"$859,900"
+760,"2167 Bakerview St, Abbotsford, BC",6.0,2.0,2400 sqft,,Single Family Residence,4.0,"$4,263",1974.0,R2788012,Residential,Yes,$499,,,,
+761,"3262 Jervis Cres, Abbotsford, BC",3.0,2.0,1703 sqft,,Single Family Residence,4.0,"$2,364",1978.0,R2784764,Residential,No,$528,,,,
+762,"241 - 32550 Maclure Rd, Abbotsford, BC",3.0,1.0,1184 sqft,,Townhouse,1.0,"$2,228",1981.0,R2783039,Residential,No,$532,,,,
+763,"302 - 32838 Landeau Pl, Abbotsford, BC",1.0,1.0,667 sqft,,Apartment/Condominium,1.0,"$1,455",2021.0,R2778486,Residential,Yes,$656,,,14/05/2023,"$438,000"
+764,,,,,,Apartment/Condominium,1.0,"$1,566",1993.0,R2790273,Residential,Yes,$401,,,,
+765,"308 - 31930 Old Yale Rd, Abbotsford, BC",2.0,2.0,1125 sqft,,Apartment/Condominium,1.0,"$1,129",1988.0,R2782321,Residential,Yes,$372,23/06/2023,"$380,000",28/05/2023,"$419,000"
+766,"309 - 31930 Old Yale Rd, Abbotsford, BC",2.0,2.0,1128 sqft,,Apartment/Condominium,1.0,"$1,040",1988.0,R2779659,Residential,Yes,$318,22/06/2023,"$320,000",20/05/2023,"$359,000"
+767,"6 - 27640 Lantern Ave, Abbotsford, BC",4.0,2.0,1486 sqft,,Townhouse,2.0,"$2,834",2021.0,R2791306,Residential,Yes,$545,22/06/2023,"$809,900",18/06/2023,"$809,900"
+768,"2696 Stewart Cres, Abbotsford, BC",5.0,2.0,3250 sqft,,Single Family Residence,4.0,"$4,887",1973.0,R2785599,Residential,No,$353,22/06/2023,"$1,120,000",07/06/2023,"$1,149,900"
+769,"56 - 3800 Golf Course Dr, Abbotsford, BC",5.0,3.0,3388 sqft,,Single Family Residence,4.0,"$4,429",2007.0,R2789907,Residential,Yes,$382,,,,
+770,"109 - 2435 Center St, Abbotsford, BC",2.0,2.0,1009 sqft,,Apartment/Condominium,1.0,"$1,373",1996.0,R2789642,Residential,Yes,$460,22/06/2023,"$473,000",19/06/2023,"$465,000"
+771,"2926 Crossley Dr, Abbotsford, BC",3.0,2.0,1502 sqft,,Single Family Residence,4.0,"$4,105",1989.0,R2779232,Residential,Yes,$705,22/06/2023,"$1,020,000",18/05/2023,"$1,059,800"
+772,"2555 Ware St, Abbotsford, BC",2.0,2.0,1059 sqft,,Apartment/Condominium,1.0,"$2,054",2018.0,R2782534,Residential,Yes,$603,22/06/2023,"$615,000",28/05/2023,"$639,000"
+773,"35093 Cassiar Ave, Abbotsford, BC",4.0,1.0,1871 sqft,,Single Family Residence,3.0,"$4,054",1979.0,R2786338,Residential,No,$507,22/06/2023,"$899,999",06/06/2023,"$949,000"
+774,"49 - 1973 Winfield Dr, Abbotsford, BC",2.0,2.0,1150 sqft,,Townhouse,2.0,"$2,125",1993.0,R2785820,Residential,Yes,$495,22/06/2023,"$576,000",06/06/2023,"$569,900"
+775,"103 - 3080 Gladwin Rd, Abbotsford, BC",2.0,1.0,600 sqft,,Apartment/Condominium,1.0,"$1,239",2017.0,R2788452,Residential,Yes,$749,22/06/2023,"$435,000",18/06/2023,"$449,900"
+776,"34917 Harris Rd, Abbotsford, BC",3.0,2.0,2450 sqft,,Single Family Residence,10.0,"$6,115",1911.0,R2775233,Residential,Yes,$713,21/06/2023,"$1,475,000",07/05/2023,"$1,749,000"
+777,"194 - 32550 Maclure Rd, Abbotsford, BC",3.0,1.0,1185 sqft,,Townhouse,1.0,"$2,228",1981.0,R2789139,Residential,No,$506,,,,
+778,"108 - 32055 Old Yale Rd, Abbotsford, BC",1.0,1.0,819 sqft,,Apartment/Condominium,1.0,$742,1980.0,R2788712,Residential,Yes,$335,,,,
+779,,,,,,,,,,,,,,,,,
+780,"26 - 35287 Old Yale Rd, Abbotsford, BC",3.0,3.0,1666 sqft,,Townhouse,3.0,"$2,508",1999.0,R2785307,Residential,Yes,$435,,,,
+781,"3555 Latimer St, Abbotsford, BC",5.0,4.0,1924 sqft,,Single Family Residence,0.0,"$4,207",1979.0,R2781588,Residential,No,$571,,,,
+782,"36285 Country Pl, Abbotsford, BC",5.0,3.0,3734 sqft,,Single Family Residence,6.0,"$4,809",1994.0,R2785290,Residential,Yes,$355,,,,
+783,"3857 Lindsay St, Abbotsford, BC",4.0,2.0,1600 sqft,,Single Family Residence,0.0,"$3,618",1980.0,R2788915,Residential,Yes,$562,,,,
+784,"32076 Austin Ave, Abbotsford, BC",5.0,3.0,2078 sqft,,Single Family Residence,0.0,"$3,797",1980.0,R2781991,Residential,No,$528,,,,
+785,"34632 Mierau St, Abbotsford, BC",4.0,1.0,1921 sqft,,Single Family Residence,6.0,"$4,224",1975.0,R2787272,Residential,Yes,$572,,,,
+786,,,,,,Townhouse,0.0,"$2,173",1971.0,R2787564,Residential,No,$346,,,,
+787,,,,,,,,,,,,,,,,,
+788,"301 - 33540 Mayfair Ave, Abbotsford, BC",2.0,2.0,1067 sqft,,Apartment/Condominium,2.0,"$2,095",2018.0,R2791342,Residential,Yes,$548,,,,
+789,,,,,,,,,,,,,,,,,
+790,,,,,,,,,,,,,,,,,
+791,"35427 Lethbridge Dr, Abbotsford, BC",6.0,3.0,2708 sqft,,Single Family Residence,6.0,"$4,697",1991.0,R2788241,Residential,Yes,$440,,,,
+792,,,,,,,,,,,,,,,,,
+793,,,,,,,,,,,,,,,,,
+794,,,,,,,,"$1,661",2006.0,R2788376,Residential,Yes,$569,,,,
+795,,,,,,,,,,,,,,,,,
+796,,,,,,,,,,,,,,,,,
+797,,,,,,,,,,,,,,,,,
+798,,,,,,,,,,,,,,,,,
+799,,,,,,,,,,,,,,,,,
+800,,,,,,,,,,,,,,,,,
+801,,,,,,,,,,,,,,,,,
+802,"31520 Southern Dr, Abbotsford, BC",4.0,3.0,3052 sqft,,Single Family Residence,6.0,"$4,795",1994.0,R2787030,Residential,Yes,$393,,,,
+803,"2112 Wildwood St, Abbotsford, BC",5.0,2.0,2348 sqft,,Single Family Residence,4.0,"$4,709",1972.0,R2786695,Residential,Yes,$565,,,,
+804,"504 - 32838 Ventura Ave, Abbotsford, BC",2.0,2.0,998 sqft,,Apartment/Condominium,2.0,"$1,926",2021.0,R2769662,Residential,Yes,$600,,,18/04/2023,"$599,000"
+805,,,,,,,,,,,,,,,,,
+806,"45 - 2938 Trafalgar St, Abbotsford, BC",2.0,2.0,1277 sqft,,Townhouse,2.0,"$1,266",1988.0,R2784558,Residential,No,$293,,,,
+807,"406 - 2267 Mckenzie Rd, Abbotsford, BC",3.0,2.0,1329 sqft,,Townhouse,3.0,,2022.0,R2786623,Residential,Yes,$556,,,,
+808,,,,,,,,,,,,,,,,,
+809,,,,,,,,,,,,,,,,,
+810,,,,,,,,,,,,,,,,,
+811,,,,,,,,,,,,,,,,,
+812,"32036 Dormick Ave, Abbotsford, BC",4.0,1.0,1863 sqft,,Single Family Residence,1.0,"$4,476",1971.0,R2786621,Residential,Yes,$584,,,,
+813,"104 - 33369 Old Yale Rd, Abbotsford, BC",2.0,1.0,971 sqft,,Apartment/Condominium,1.0,,1982.0,R2766455,Residential,Yes,$348,18/06/2023,"$325,000",05/04/2023,"$338,000"
+814,"314 - 2943 Nelson Pl, Abbotsford, BC",1.0,1.0,693 sqft,,Apartment/Condominium,1.0,"$1,294",2009.0,R2785939,Residential,Yes,$600,,,,
+815,,,,,,,,,,,,,,,,,
+816,,,,,,,,,,,,,,,,,
+817,,,,,,,,,,,,,,,,,
+818,,,,,,,,,,,,,,,,,
+819,"39 - 34250 Hazelwood Ave, Abbotsford, BC",4.0,3.0,2933 sqft,,Townhouse,4.0,"$2,447",1995.0,R2766303,Residential,Yes,$301,,,,
+820,"411 - 33478 Roberts Ave, Abbotsford, BC",2.0,2.0,1169 sqft,,Apartment/Condominium,2.0,"$1,643",1995.0,R2787977,Residential,Yes,$419,,,,
+821,,,,,,,,,,,,,,,,,
+822,,,,2754 sqft,,Single Family Residence,4.0,"$5,583",2002.0,R2778085,Residential,Yes,$580,,,,
+823,,,,,,,,,,,,,,,,,
+824,,,,,,,,,,,,,,,,,
+825,,,,,,,,,,,,,,,,,
+826,,,,,,,,,,,,,,,,,
+827,,,,,,,,,,,,,,,,,
+828,,,,,,,,,,,,,,,,,
+829,,,,,,,,,,,,,,,,,
+830,,,,,,,,,,,,,,,,,
+831,,,,,,,,,,,,,,,,,
+832,,,,,,,,,,,,,,,,,
+833,,,,,,,,,,,,,,,,,
+834,,,,,,,,,,,,,,,,,
+835,,,,,,,,,,,,,,,,,
+836,,,,,,,,,,,,,,,,,
+837,,,,,,,,,,,,,,,,,
+838,,,,,,,,,,,,,,,,,
+839,,,,,,,,,,,,,,,,,
+840,,,,,,,,,,,,,,,,,
+841,,,,,,,,,,,,,,,,,
+842,,,,,,,,,,,,,,,,,
+843,,,,,,,,,,,,,,,,,
+844,"128 - 33175 Old Yale Rd, Abbotsford, BC",2.0,2.0,1247 sqft,,Apartment/Condominium,1.0,"$1,676",1992.0,R2785236,Residential,Yes,$360,06/06/2023,"$450,000",04/06/2023,"$450,000"
+845,"3012 Cassiar Pl, Abbotsford, BC",4.0,3.0,2411 sqft,,Single Family Residence,0.0,"$4,308",1989.0,R2781904,Residential,Yes,$497,06/06/2023,"$1,100,000",25/05/2023,"$1,199,000"
+846,"116 - 31406 Upper Maclure Rd, Abbotsford, BC",3.0,2.0,1879 sqft,,Townhouse,2.0,"$2,393",1998.0,R2781483,Residential,Yes,$398,06/06/2023,"$725,000",17/05/2023,"$749,000"
+847,"3283 Cheam Dr, Abbotsford, BC",6.0,4.0,2895 sqft,,Single Family Residence,6.0,"$4,584",1981.0,R2783548,Residential,Yes,$431,,,,
+848,"15 - 32633 Simon Ave, Abbotsford, BC",2.0,2.0,1215 sqft,,Townhouse,1.0,"$2,213",2016.0,R2785484,Residential,Yes,$523,06/06/2023,"$650,000",05/06/2023,"$635,900"
+849,"52 - 34248 King Rd, Abbotsford, BC",3.0,2.0,1315 sqft,,Townhouse,4.0,"$2,307",2010.0,R2781477,Residential,Yes,$528,05/06/2023,"$715,087",23/05/2023,"$694,900"
+850,"208 - 33886 Pine St, Abbotsford, BC",1.0,1.0,547 sqft,,Apartment/Condominium,1.0,,2025.0,R2785302,Residential,Yes,$731,,,,
+851,"12 - 34825 Delair Rd, Abbotsford, BC",4.0,3.0,1989 sqft,,Townhouse,2.0,"$2,607",2018.0,R2776279,Residential,Yes,$426,05/06/2023,"$830,000",15/05/2023,"$849,000"
+852,"502 - 32828 Landeau Pl, Abbotsford, BC",1.0,1.0,672 sqft,,Apartment/Condominium,2.0,,2021.0,R2726409,Residential,Yes,$691,05/06/2023,"$459,000",25/09/2022,"$465,000"
+853,"107 - 33530 Mayfair Ave, Abbotsford, BC",3.0,2.0,1223 sqft,,Apartment/Condominium,2.0,"$2,374",2018.0,R2751796,Residential,Yes,$515,05/06/2023,"$600,000",22/02/2023,"$629,888"
+854,"516 - 34909 Old Yale Rd, Abbotsford, BC",2.0,1.0,915 sqft,,Townhouse,2.0,"$1,420",1980.0,R2759634,Residential,No,$490,05/06/2023,"$445,000",20/03/2023,"$449,000"
+855,"105 - 2425 Church St, Abbotsford, BC",2.0,2.0,1299 sqft,,Apartment/Condominium,1.0,"$1,182",1987.0,R2783154,Residential,Yes,$288,05/06/2023,"$360,000",29/05/2023,"$374,900"
+856,"3106 Goldfinch St, Abbotsford, BC",5.0,3.0,3503 sqft,,Single Family Residence,5.0,"$4,997",1996.0,R2784634,Residential,Yes,$367,05/06/2023,"$1,288,000",04/06/2023,"$1,289,000"
+857,"16 - 31098 Westridge Pl, Abbotsford, BC",2.0,2.0,1214 sqft,,Townhouse,2.0,"$2,290",2012.0,R2776786,Residential,Yes,$551,05/06/2023,"$680,000",09/05/2023,"$669,900"
+858,"113 - 32833 Landeau Pl, Abbotsford, BC",2.0,2.0,1128 sqft,,Apartment/Condominium,1.0,"$1,061",1987.0,R2782491,Residential,Yes,$292,05/06/2023,"$328,000",28/05/2023,"$329,900"
+859,"4 - 31406 Upper Maclure Rd, Abbotsford, BC",3.0,2.0,1879 sqft,,Townhouse,2.0,"$2,388",1992.0,R2781250,Residential,Yes,$339,05/06/2023,"$710,000",16/05/2023,"$638,800"
+860,"210 - 2211 Clearbrook Rd, Abbotsford, BC",1.0,1.0,629 sqft,,Apartment/Condominium,1.0,$729,1974.0,R2783261,Residential,Yes,$444,05/06/2023,"$295,000",31/05/2023,"$279,900"
+861,"221 - 2964 Trethewey St, Abbotsford, BC",2.0,2.0,921 sqft,,Apartment/Condominium,1.0,"$1,306",1993.0,R2782341,Residential,Yes,$445,05/06/2023,"$409,900",28/05/2023,"$409,900"
+862,"34871 Terrace Crt, Abbotsford, BC",3.0,1.0,1193 sqft,,Single Family Residence,3.0,"$3,963",1976.0,R2783305,Residential,No,$795,05/06/2023,"$1,060,000",31/05/2023,"$949,000"
+863,"3423 Okanagan Dr, Abbotsford, BC",5.0,4.0,2938 sqft,,Single Family Residence,8.0,"$4,922",1988.0,R2779977,Residential,Yes,$442,04/06/2023,"$1,321,000",22/05/2023,"$1,299,900"
+864,"215 - 2581 Langdon St, Abbotsford, BC",2.0,2.0,1043 sqft,,Apartment/Condominium,1.0,"$1,808",2005.0,R2781455,Residential,Yes,$503,04/06/2023,"$501,000",24/05/2023,"$525,000"
+865,"201 - 3190 Gladwin Rd, Abbotsford, BC",2.0,2.0,1143 sqft,,Apartment/Condominium,1.0,"$1,610",1993.0,R2784413,Residential,Yes,$378,04/06/2023,"$460,000",01/06/2023,"$432,900"
+866,"5 - 34825 Delair Rd, Abbotsford, BC",3.0,2.0,1771 sqft,,Townhouse,1.0,"$2,304",2018.0,R2779637,Residential,Yes,$451,,,,
+867,"105 - 32040 Peardonville Rd, Abbotsford, BC",2.0,1.0,1093 sqft,,Apartment/Condominium,1.0,"$1,100",1977.0,R2784324,Residential,Yes,$260,04/06/2023,"$288,000",01/06/2023,"$284,900"
+868,"62 - 3054 Trafalgar St, Abbotsford, BC",3.0,3.0,1945 sqft,,Townhouse,2.0,"$2,338",1987.0,R2782813,Residential,Yes,$308,04/06/2023,"$590,000",29/05/2023,"$599,900"
+869,"41 - 3087 Immel St, Abbotsford, BC",3.0,2.0,1641 sqft,,Townhouse,3.0,"$2,294",1990.0,R2781931,Residential,Yes,$401,04/06/2023,"$665,000",28/05/2023,"$659,500"
+870,"2753 Carriage Crt, Abbotsford, BC",5.0,4.0,2707 sqft,,Single Family Residence,0.0,"$5,386",2009.0,R2767159,Residential,Yes,$530,04/06/2023,"$1,390,000",12/04/2023,"$1,435,000"
+871,"601 - 1514 Mccallum Rd, Abbotsford, BC",2.0,2.0,874 sqft,,Apartment/Condominium,2.0,$971,2022.0,R2772255,Residential,Yes,$674,04/06/2023,"$569,500",26/04/2023,"$589,900"
+872,,1.0,1.0,815 sqft,,Apartment/Condominium,1.0,"$1,234",1994.0,R2782090,Residential,Yes,$452,,,,
+873,"10 - 33860 Marshall Rd, Abbotsford, BC",3.0,3.0,1751 sqft,,Townhouse,4.0,"$2,884",2014.0,R2779605,Residential,Yes,$471,,,,
+874,"201 - 2120 Gladwin Rd, Abbotsford, BC",1.0,1.0,673 sqft,,Apartment/Condominium,1.0,"$1,592",2021.0,R2783402,Residential,Yes,$646,03/06/2023,"$430,000",30/05/2023,"$434,900"
+875,"408 - 33530 Mayfair Ave, Abbotsford, BC",2.0,2.0,1050 sqft,,Apartment/Condominium,2.0,"$2,125",2018.0,R2783184,Residential,Yes,$595,03/06/2023,"$635,000",29/05/2023,"$625,000"
+876,"111 - 33030 George Ferguson Way, Abbotsford, BC",2.0,2.0,1171 sqft,,Apartment/Condominium,1.0,"$1,155",1989.0,R2777760,Residential,Yes,$289,03/06/2023,"$339,000",14/05/2023,"$339,000"
+877,"34285 Larch St, Abbotsford, BC",5.0,1.0,3170 sqft,,Single Family Residence,0.0,"$5,179",1970.0,R2784024,Residential,Yes,$433,03/06/2023,"$1,420,000",31/05/2023,"$1,375,000"
+878,"25 - 36060 Old Yale Rd, Abbotsford, BC",3.0,2.0,1431 sqft,,Townhouse,2.0,"$2,384",1990.0,R2781331,Residential,Yes,$524,03/06/2023,"$745,000",28/05/2023,"$749,900"
+879,"34657 Dunsmuir Crt, Abbotsford, BC",4.0,3.0,2951 sqft,,Single Family Residence,8.0,"$4,732",1983.0,R2782011,Residential,Yes,$508,,,,
+880,"2 - 2850 Mccallum Rd, Abbotsford, BC",3.0,3.0,1899 sqft,,Townhouse,2.0,"$2,958",2015.0,R2782593,Residential,Yes,$442,31/05/2023,"$830,000",29/05/2023,"$839,900"
+881,"1859 Shore Cres, Abbotsford, BC",3.0,1.0,1135 sqft,,Manufactured On Land,8.0,"$2,460",1980.0,R2780145,Residential,No,$572,31/05/2023,"$657,500",22/05/2023,"$649,900"
+882,"34590 Kent Ave, Abbotsford, BC",4.0,1.0,1650 sqft,,Single Family Residence,6.0,"$4,378",1972.0,R2772991,Residential,Yes,$712,30/05/2023,"$1,040,000",30/04/2023,"$1,175,000"
+883,"2749 Lucern Cres, Abbotsford, BC",4.0,3.0,4015 sqft,,Single Family Residence,0.0,"$5,611",1990.0,R2782158,Residential,Yes,$286,30/05/2023,"$1,150,000",22/05/2023,"$1,149,000"
+884,"28 - 33293 Bourquin Cres E, Abbotsford, BC",3.0,2.0,1855 sqft,,Townhouse,1.0,"$2,029",1974.0,R2780535,Residential,Yes,$269,30/05/2023,"$588,000",22/05/2023,"$499,999"
+885,"309 - 32025 Tims Ave, Abbotsford, BC",2.0,1.0,990 sqft,,Apartment/Condominium,1.0,$871,1979.0,R2777669,Residential,Yes,$353,30/05/2023,"$335,000",14/05/2023,"$349,900"
+886,"32558 Ridgeway St, Abbotsford, BC",5.0,3.0,2605 sqft,,Single Family Residence,4.0,"$3,962",2021.0,R2778198,Residential,Yes,$551,,,,
+887,,,,,,,,,,,,,,,,,
+888,"2631 Zurich Dr, Abbotsford, BC",4.0,4.0,4736 sqft,,Single Family Residence,4.0,"$4,929",1989.0,R2778396,Residential,Yes,$292,,,,
+889,,,,,,,,,,,,,,,,,
+890,"2470 Jonquil Crt, Abbotsford, BC",7.0,3.0,4490 sqft,,Single Family Residence,4.0,"$6,538",2006.0,R2782508,Residential,Yes,$444,,,,
+891,,,,,,,,"$2,626",2017.0,R2776007,Residential,Yes,$501,,,,
+892,"4399 Emily Carr Pl, Abbotsford, BC",6.0,4.0,4342 sqft,,Single Family Residence,5.0,"$6,570",2019.0,R2780135,Residential,Yes,$414,,,,
+893,,,1.0,609 sqft,,Single Family Residence,2.0,"$3,772",1950.0,R2779403,Residential,Yes,"$1,311",,,,
+894,,,,,,Townhouse,2.0,"$2,632",2018.0,R2778665,Residential,Yes,$544,,,,
+895,,,,,,Single Family Residence,6.0,"$4,776",2005.0,R2779086,Residential,Yes,$430,,,,
+896,"108 - 33728 King Rd, Abbotsford, BC",2.0,2.0,947 sqft,,Apartment/Condominium,2.0,"$1,382",1996.0,R2782735,Residential,Yes,$463,,,,
+897,"36 - 30530 Cardinal Ave, Abbotsford, BC",3.0,2.0,1317 sqft,,Townhouse,2.0,,2024.0,R2769212,Residential,Yes,$580,,,,
+898,"213 - 2493 Montrose Ave, Abbotsford, BC",2.0,2.0,871 sqft,,Apartment/Condominium,1.0,"$1,838",2020.0,R2781965,Residential,Yes,$608,,,,
+899,"27675 Quinton Ave, Abbotsford, BC",4.0,2.0,2925 sqft,,Single Family Residence,2.0,"$3,380",1968.0,R2779220,Residential,Yes,$817,29/05/2023,"$2,250,000",18/05/2023,"$2,390,000"
+900,"4351 Meighen Pl, Abbotsford, BC",4.0,3.0,2919 sqft,,Single Family Residence,4.0,"$4,935",2006.0,R2780180,Residential,Yes,$410,29/05/2023,"$1,290,000",22/05/2023,"$1,199,700"
+901,"201 - 2233 Mckenzie Rd, Abbotsford, BC",2.0,2.0,938 sqft,,Apartment/Condominium,2.0,"$1,628",2009.0,R2781040,Residential,Yes,$490,29/05/2023,"$470,000",28/05/2023,"$459,900"
+902,"105 - 32124 Tims Ave, Abbotsford, BC",2.0,2.0,918 sqft,,Apartment/Condominium,1.0,"$1,261",1982.0,R2778047,Residential,Yes,$489,29/05/2023,"$438,000",14/05/2023,"$449,000"
+903,"34430 Donlyn Ave, Abbotsford, BC",6.0,2.0,2750 sqft,,Single Family Residence,2.0,"$4,164",1973.0,R2779473,Residential,No,$363,29/05/2023,"$1,175,000",23/05/2023,"$999,900"
+904,"33803 Mayfair Ave, Abbotsford, BC",3.0,2.0,1378 sqft,,Single Family Residence,8.0,"$3,815",1948.0,R2780778,Residential,No,$725,29/05/2023,"$970,000",18/05/2023,"$999,999"
+905,"2014 Merlot Blvd, Abbotsford, BC",6.0,4.0,4632 sqft,,Single Family Residence,5.0,"$6,059",2010.0,R2780480,Residential,Yes,$399,29/05/2023,"$1,750,000",23/05/2023,"$1,850,000"
+906,"89 - 32691 Garibaldi Dr, Abbotsford, BC",1.0,1.0,1151 sqft,,Apartment/Condominium,1.0,"$1,386",1988.0,R2779608,Residential,No,$338,22/05/2023,"$386,000",22/05/2023,"$389,900"
+907,"4340 Meighen Pl, Abbotsford, BC",5.0,3.0,3320 sqft,,Single Family Residence,5.0,"$5,626",2007.0,R2777876,Residential,Yes,$421,22/05/2023,"$1,400,000",16/05/2023,"$1,399,900"
+908,"206 - 2350 Westerly St, Abbotsford, BC",2.0,2.0,935 sqft,,Apartment/Condominium,1.0,"$1,371",1999.0,R2768264,Residential,Yes,$449,22/05/2023,"$420,000",10/04/2023,"$420,000"
+909,"165 - 32633 Simon Ave, Abbotsford, BC",2.0,2.0,1206 sqft,,Townhouse,1.0,"$2,246",2018.0,R2776246,Residential,Yes,$538,22/05/2023,"$650,000",07/05/2023,"$649,999"
+910,"316 - 31930 Old Yale Rd, Abbotsford, BC",2.0,2.0,1125 sqft,,Apartment/Condominium,1.0,"$1,129",1988.0,R2778428,Residential,Yes,$280,21/05/2023,"$320,000",14/05/2023,"$315,000"
+911,"35676 Regal Pky, Abbotsford, BC",4.0,3.0,3034 sqft,,Single Family Residence,8.0,"$5,279",1998.0,R2771889,Residential,Yes,$426,21/05/2023,"$1,262,500",25/04/2023,"$1,295,000"
+912,"209 - 33318 Bourquin Cres E, Abbotsford, BC",2.0,2.0,986 sqft,,Apartment/Condominium,2.0,"$1,623",2006.0,R2779005,Residential,Yes,$501,21/05/2023,"$505,000",17/05/2023,"$494,900"
+913,"26 - 4217 Old Clayburn Rd, Abbotsford, BC",6.0,5.0,3625 sqft,,Single Family Residence,4.0,"$2,682",2022.0,R2763553,Residential,Yes,$379,21/05/2023,"$1,275,000",28/03/2023,"$1,374,700"
+914,"2859 Woodland St, Abbotsford, BC",3.0,2.0,2985 sqft,,Single Family Residence,6.0,"$4,420",1958.0,R2768412,Residential,No,$401,18/05/2023,"$1,190,000",16/04/2023,"$1,199,000"
+915,"108 - 30530 Cardinal Ave, Abbotsford, BC",4.0,3.0,1751 sqft,,Townhouse,2.0,,2024.0,R2777794,Residential,Yes,$505,07/06/2024,"$699,900",20/05/2024,"$699,900"
+916,"34602 7 Th Ave, Abbotsford, BC",2.0,2.0,1456 sqft,,Single Family Residence,0.0,"$2,342",2023.0,R2746537,Residential,No,$533,,,,
+917,"33224 Farrant Cres, Abbotsford, BC",5.0,2.0,2472 sqft,,Single Family Residence,0.0,"$4,000",1967.0,R2776431,Residential,No,$546,17/05/2023,"$1,325,000",10/05/2023,"$1,349,900"
+918,"35369 Mckee Rd, Abbotsford, BC",4.0,2.0,3140 sqft,,Single Family Residence,9.0,"$5,387",1975.0,R2748293,Residential,Yes,$437,17/05/2023,"$1,325,000",24/01/2023,"$1,374,700"
+919,"307 - 32055 Old Yale Rd, Abbotsford, BC",2.0,1.0,1010 sqft,,Apartment/Condominium,1.0,$907,1980.0,R2762458,Residential,Yes,$326,17/05/2023,"$327,000",27/03/2023,"$329,900"
+920,"503 - 33065 Mill Lake Rd, Abbotsford, BC",2.0,2.0,1285 sqft,,Apartment/Condominium,1.0,"$2,027",1996.0,R2776870,Residential,Yes,$412,17/05/2023,"$530,000",15/05/2023,"$530,000"
+921,"33253 Alta Ave, Abbotsford, BC",5.0,3.0,2792 sqft,,Single Family Residence,6.0,"$4,492",1969.0,R2772559,Residential,Yes,$447,17/05/2023,"$1,275,000",30/04/2023,"$1,249,000"
+922,"404 - 33338 Mayfair Ave, Abbotsford, BC",2.0,2.0,1005 sqft,,Apartment/Condominium,2.0,"$1,704",2007.0,R2777384,Residential,Yes,$530,17/05/2023,"$530,000",11/05/2023,"$532,900"
+923,"108 - 32633 Simon Ave, Abbotsford, BC",2.0,2.0,1153 sqft,,Townhouse,1.0,"$2,260",2018.0,R2779326,Residential,Yes,$493,17/05/2023,"$635,000",15/05/2023,"$569,000"
+924,"29 - 33922 King Rd, Abbotsford, BC",4.0,3.0,3193 sqft,,Townhouse,2.0,"$2,782",1989.0,R2772399,Residential,Yes,$248,,,,
+925,"72 - 2774 Montrose Ave, Abbotsford, BC",3.0,2.0,1473 sqft,,Townhouse,2.0,"$2,500",2023.0,R2776749,Residential,Yes,$543,16/05/2023,"$799,900",09/05/2023,"$799,900"
+926,"24 - 35810 Mckee Rd, Abbotsford, BC",4.0,2.0,1943 sqft,,Townhouse,2.0,,2023.0,R2768801,Residential,Yes,$483,16/05/2023,"$939,000",16/04/2023,"$939,000"
+927,"1624 - 34909 Old Yale Rd, Abbotsford, BC",2.0,1.0,928 sqft,,Townhouse,2.0,"$1,416",1980.0,R2769119,Residential,No,$484,16/05/2023,"$440,000",17/04/2023,"$449,900"
+928,"165 - 32550 Maclure Rd, Abbotsford, BC",3.0,1.0,1180 sqft,,Townhouse,2.0,"$2,027",1981.0,R2775289,Residential,No,$549,16/05/2023,"$648,000",09/05/2023,"$648,000"
+929,"309 - 2414 Church St, Abbotsford, BC",2.0,1.0,990 sqft,,Apartment/Condominium,1.0,$878,1984.0,R2776113,Residential,Yes,$281,14/05/2023,"$279,000",08/05/2023,"$279,000"
+930,"201 - 32823 Landeau Pl, Abbotsford, BC",2.0,1.0,1076 sqft,,Apartment/Condominium,1.0,"$1,022",1986.0,R2776693,Residential,Yes,$301,09/05/2023,"$310,000",09/05/2023,"$324,900"
+931,"104 - 32175 Old Yale Rd, Abbotsford, BC",1.0,1.0,650 sqft,,Apartment/Condominium,1.0,$734,1973.0,R2755397,Residential,Yes,$407,09/05/2023,"$250,000",26/02/2023,"$265,000"
+932,"34631 Sandon Dr, Abbotsford, BC",4.0,3.0,2184 sqft,,Single Family Residence,5.0,"$4,542",1991.0,R2773785,Residential,Yes,$412,,,,
+933,"27871 Ledunne Ave, Abbotsford, BC",10.0,6.0,4186 sqft,,Single Family Residence,4.0,"$6,045",2011.0,R2770518,Residential,No,$405,09/05/2023,"$1,702,000",23/04/2023,"$1,699,000"
+934,"11 - 3351 Horn St, Abbotsford, BC",3.0,3.0,2692 sqft,,Townhouse,0.0,"$2,456",1988.0,R2774420,Residential,No,$259,07/05/2023,"$699,900",03/05/2023,"$699,900"
+935,"35480 Strathcona Crt, Abbotsford, BC",5.0,3.0,2759 sqft,,Single Family Residence,5.0,"$4,946",2001.0,R2773160,Residential,Yes,$431,07/05/2023,"$1,220,000",30/04/2023,"$1,190,000"
+936,"136 - 3160 Townline Rd, Abbotsford, BC",5.0,3.0,1916 sqft,,Townhouse,2.0,"$2,676",1993.0,R2772530,Residential,Yes,$390,03/05/2023,"$751,000",01/05/2023,"$749,000"
+937,"402 - 33718 King Rd, Abbotsford, BC",2.0,2.0,947 sqft,,Apartment/Condominium,2.0,"$1,394",1995.0,R2773830,Residential,Yes,$477,03/05/2023,"$450,000",02/05/2023,"$452,400"
+938,"18 - 32310 Mouat Dr, Abbotsford, BC",3.0,1.0,1224 sqft,,Townhouse,0.0,"$1,919",1978.0,R2771932,Residential,No,$510,,,,
+939,"8 - 30930 Westridge Pl, Abbotsford, BC",3.0,2.0,1263 sqft,,Townhouse,2.0,"$2,533",2018.0,R2767126,Residential,Yes,$553,30/04/2023,"$736,000",09/04/2023,"$699,000"
+940,"33234 Marshall Rd, Abbotsford, BC",5.0,2.0,2393 sqft,,Single Family Residence,3.0,"$3,463",1972.0,R2760555,Residential,Yes,$480,28/04/2023,"$1,135,000",21/03/2023,"$1,150,000"
+941,"104 - 2425 Church St, Abbotsford, BC",2.0,1.0,985 sqft,,Apartment/Condominium,1.0,$852,1987.0,R2768362,Residential,Yes,$299,25/04/2023,"$293,000",12/04/2023,"$295,000"
+942,"46 - 34248 King Rd, Abbotsford, BC",2.0,2.0,1277 sqft,,Townhouse,3.0,"$2,406",2010.0,R2768261,Residential,Yes,$485,23/04/2023,"$630,000",13/04/2023,"$619,900"
+943,"7 - 2950 Lefeuvre Rd, Abbotsford, BC",4.0,2.0,1904 sqft,,Townhouse,1.0,"$2,628",2013.0,R2755706,Residential,Yes,$394,17/04/2023,"$723,000",26/02/2023,"$752,000"
+944,"310 - 32044 Old Yale Rd, Abbotsford, BC",2.0,2.0,1125 sqft,,Apartment/Condominium,1.0,"$1,476",1993.0,R2767557,Residential,Yes,$386,15/04/2023,"$453,000",11/04/2023,"$435,000"
+945,"34697 4th Ave, Abbotsford, BC",3.0,1.0,1284 sqft,,Single Family Residence,0.0,"$4,343",1997.0,R2767013,Residential,No,$634,11/04/2023,"$785,000",09/04/2023,"$814,900"
+946,"223 - 32445 Simon Ave, Abbotsford, BC",1.0,1.0,741 sqft,,Apartment/Condominium,2.0,"$1,586",2017.0,R2764521,Residential,Yes,$654,07/04/2023,"$483,000",03/04/2023,"$484,900"
+947,"34348 Laburnum Ave, Abbotsford, BC",3.0,2.0,1458 sqft,,Single Family Residence,20.0,"$4,530",1973.0,R2764193,Residential,Yes,$788,04/04/2023,"$1,075,000",30/03/2023,"$1,150,000"
+948,"34837 1st Ave, Abbotsford, BC",6.0,3.0,2749 sqft,,Single Family Residence,4.0,"$5,326",2007.0,R2761699,Residential,Yes,$463,01/04/2023,"$1,279,000",21/03/2023,"$1,274,900"
+949,"101 - 33530 Mayfair Ave, Abbotsford, BC",2.0,2.0,1052 sqft,,Apartment/Condominium,2.0,"$2,077",2018.0,R2739433,Residential,Yes,$454,29/03/2023,"$545,000",17/11/2022,"$478,000"
+950,"35 - 2774 Montrose Ave, Abbotsford, BC",3.0,2.0,1305 sqft,,Townhouse,2.0,"$2,500",2024.0,R2763328,Residential,Yes,$555,26/03/2023,"$728,900",25/03/2023,"$724,900"
+951,"26 - 30530 Cardinal Ave, Abbotsford, BC",3.0,2.0,1429 sqft,,Townhouse,2.0,,2024.0,R2756766,Residential,Yes,$559,22/03/2023,"$799,900",01/03/2023,"$799,900"
+952,"1850 Reeves Pl, Abbotsford, BC",3.0,2.0,1506 sqft,,Single Family Residence,2.0,"$3,368",1980.0,R2740664,Residential,No,$494,20/03/2023,"$740,000",26/11/2022,"$745,000"
+953,"36301 Westminster Dr, Abbotsford, BC",4.0,2.0,2349 sqft,,Single Family Residence,5.0,"$4,877",2004.0,R2760290,Residential,Yes,$500,18/03/2023,"$1,185,000",15/03/2023,"$1,175,000"
+954,"3146 Babich St, Abbotsford, BC",4.0,2.0,1988 sqft,,Single Family Residence,0.0,"$4,263",1980.0,R2758162,Residential,Yes,$477,14/03/2023,"$965,000",07/03/2023,"$949,000"
+955,"31796 Glenwood Ave, Abbotsford, BC",5.0,3.0,3053 sqft,,Single Family Residence,9.0,"$4,307",1978.0,R2743595,Residential,Yes,$393,11/03/2023,"$1,108,000",01/01/2023,"$1,199,900"
+956,"205 - 32729 Garibaldi Dr, Abbotsford, BC",2.0,2.0,1286 sqft,,Apartment/Condominium,2.0,"$1,916",2007.0,R2753065,Residential,Yes,$434,07/03/2023,"$549,000",13/02/2023,"$559,000"
+957,"2790 Silvertree Crt, Abbotsford, BC",3.0,2.0,1668 sqft,,Single Family Residence,3.0,"$3,626",1982.0,R2755537,Residential,No,$491,04/03/2023,"$808,000",23/02/2023,"$819,500"
+958,"110 - 2990 Boulder St, Abbotsford, BC",2.0,2.0,937 sqft,,Apartment/Condominium,1.0,"$1,845",2007.0,R2819215,Residential,Yes,$544,21/10/2023,"$485,000",26/09/2023,"$509,900"
+959,"3911 Paradise Pl, Abbotsford, BC",5.0,3.0,3101 sqft,,Single Family Residence,6.0,"$5,704",1998.0,R2752510,Residential,Yes,$411,22/02/2023,"$1,240,000",12/02/2023,"$1,275,000"

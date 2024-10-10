@@ -1,0 +1,315 @@
+,address,beds,bath,area,maintenance,parking,taxes,built,mlsNumber,levels,garage,lotSize,pricePerSqFt,soldDate,soldPrice,listingDate,listingPrice,type
+0,"80 - 19451 Sutton Ave, Pitt Meadows, BC",3,2,1377 sqft,,2,,2023,R2898618,Residential,Yes,,$653,26/06/2024,"$910,000",23/06/2024,"$899,900",Townhouse
+1,"215 - 12565 190a St, Pitt Meadows, BC",2,2,940 sqft,,2,"$3,052",2013,R2888286,Residential,Yes,,$732,25/06/2024,"$680,000",28/05/2024,"$688,888",Apartment/Condominium
+2,"213 - 12464 191b St, Pitt Meadows, BC",2,2,1044 sqft,,1,"$2,753",1994,R2885471,Residential,Yes,,$598,23/06/2024,"$617,000",20/05/2024,"$625,000",Apartment/Condominium
+3,"204 - 12409 Harris Rd, Pitt Meadows, BC",2,2,765 sqft,,1,"$2,845",2015,R2894362,Residential,Yes,,$744,18/06/2024,"$565,000",11/06/2024,"$569,900",Apartment/Condominium
+4,"110 - 11950 Harris Rd, Pitt Meadows, BC",2,2,943 sqft,,2,"$2,731",2008,R2885854,Residential,Yes,,$662,13/06/2024,"$600,000",21/05/2024,"$624,900",Apartment/Condominium
+5,"11781 Wildwood Cres N, Pitt Meadows, BC",3,1,1540 sqft,,5,"$4,525",1980,R2874386,Residential,No,,$714,12/06/2024,"$1,060,000",22/04/2024,"$1,099,900",Single Family Residence
+6,"19662 Somerset Dr, Pitt Meadows, BC",3,2,1710 sqft,,6,"$5,066",1988,R2880288,Residential,Yes,,$760,12/06/2024,"$1,240,000",06/05/2024,"$1,299,900",Single Family Residence
+7,"203 - 12069 Harris Rd, Pitt Meadows, BC",2,2,1012 sqft,,1,"$3,116",2010,R2868297,Residential,Yes,,$690,11/06/2024,"$685,000",07/04/2024,"$699,000",Apartment/Condominium
+8,"18819 124a Ave, Pitt Meadows, BC",6,3,3356 sqft,,5,"$6,034",2015,R2892454,Residential,Yes,,$506,10/06/2024,"$1,800,000",09/06/2024,"$1,699,900",Single Family Residence
+9,"19668 117a Ave, Pitt Meadows, BC",4,4,3969 sqft,,11,"$6,364",1976,R2888497,Residential,Yes,,$579,10/06/2024,"$2,290,000",28/05/2024,"$2,299,900",Single Family Residence
+10,"47 - 12268 189a St, Pitt Meadows, BC",3,2,1648 sqft,,2,"$4,044",1993,R2879724,Residential,Yes,,$564,06/06/2024,"$920,000",05/05/2024,"$930,000",Townhouse
+11,"318 - 12350 Harris Rd, Pitt Meadows, BC",2,2,1181 sqft,,2,"$3,116",2007,R2882407,Residential,Yes,,$591,06/06/2024,"$699,000",12/05/2024,"$699,000",Apartment/Condominium
+12,"46 - 11067 Barnston View Rd, Pitt Meadows, BC",3,2,1630 sqft,,2,"$4,880",2005,R2889497,Residential,Yes,,$536,04/06/2024,"$865,000",02/06/2024,"$875,000",Townhouse
+13,"313 - 19673 Meadow Gardens Way, Pitt Meadows, BC",2,2,1154 sqft,,2,"$3,093",2007,R2885113,Residential,Yes,,$605,04/06/2024,"$680,000",20/05/2024,"$699,000",Apartment/Condominium
+14,"303 - 11950 Harris Rd, Pitt Meadows, BC",1,1,661 sqft,,1,"$2,345",2008,R2888793,Residential,Yes,,$739,01/06/2024,"$489,000",28/05/2024,"$489,000",Apartment/Condominium
+15,"56 - 11067 Barnston View Rd, Pitt Meadows, BC",3,2,1439 sqft,,2,"$3,748",2005,R2888969,Residential,No,,$589,30/05/2024,"$849,000",29/05/2024,"$849,000",Townhouse
+16,"11220 Bonson Rd, Pitt Meadows, BC",3,2,3053 sqft,,6,"$5,671",2004,R2888098,Residential,Yes,,$491,30/05/2024,"$1,499,900",27/05/2024,"$1,499,900",Single Family Residence
+17,"11835 189b St, Pitt Meadows, BC",4,3,2178 sqft,,4,"$5,167",1989,R2872326,Residential,Yes,,$573,29/05/2024,"$1,225,000",17/04/2024,"$1,249,999",Single Family Residence
+18,"23 - 19451 Sutton Ave, Pitt Meadows, BC",3,2,1355 sqft,,2,"$4,172",2019,R2876247,Residential,Yes,,$664,28/05/2024,"$885,000",28/04/2024,"$899,800",Townhouse
+19,"12326 Bonson Rd, Pitt Meadows, BC",5,3,2215 sqft,,6,"$5,162",1986,R2885386,Residential,Yes,,$616,28/05/2024,"$1,324,000",20/05/2024,"$1,365,000",Single Family Residence
+20,"12228 Cypress Crt, Pitt Meadows, BC",3,2,1586 sqft,,6,"$4,974",1987,R2880493,Residential,Yes,,$725,27/05/2024,"$1,140,000",06/05/2024,"$1,149,900",Single Family Residence
+21,"20 - 19452 Fraser Way, Pitt Meadows, BC",3,2,1768 sqft,,4,"$5,687",2006,R2887755,Residential,Yes,,$729,27/05/2024,"$1,285,000",27/05/2024,"$1,289,900",Townhouse
+22,"311 - 19236 Ford Rd, Pitt Meadows, BC",2,2,1249 sqft,,3,"$2,837",1990,R2885846,Residential,Yes,,$464,26/05/2024,"$575,000",21/05/2024,"$579,900",Apartment/Condominium
+23,"101 - 12464 191b St, Pitt Meadows, BC",2,2,1075 sqft,,1,"$2,700",1994,R2885148,Residential,Yes,,$558,25/05/2024,"$615,000",20/05/2024,"$599,900",Apartment/Condominium
+24,"208 - 12409 Harris Rd, Pitt Meadows, BC",1,1,565 sqft,,1,"$2,820",2015,R2878532,Residential,Yes,,$831,25/05/2024,"$460,000",02/05/2024,"$469,999",Apartment/Condominium
+25,"1007 - 12069 Harris Rd, Pitt Meadows, BC",3,2,1295 sqft,,1,"$3,780",2010,R2847989,Residential,Yes,,$656,24/05/2024,"$850,000",06/02/2024,"$850,000",Apartment/Condominium
+26,"406 - 12155 191b St, Pitt Meadows, BC",1,1,929 sqft,,2,"$2,442",1995,R2885000,Residential,Yes,,$608,24/05/2024,"$560,000",20/05/2024,"$565,000",Apartment/Condominium
+27,"19559 120b Ave, Pitt Meadows, BC",4,2,1406 sqft,,2,"$4,443",1976,R2883218,Residential,No,,$807,23/05/2024,"$1,097,000",14/05/2024,"$1,134,900",Single Family Residence
+28,"19863 Silverthorne Pl, Pitt Meadows, BC",5,2,2921 sqft,,6,"$5,947",2006,R2885282,Residential,Yes,,$547,23/05/2024,"$1,599,900",20/05/2024,"$1,599,900",Single Family Residence
+29,"19497 115a Ave, Pitt Meadows, BC",4,2,2008 sqft,,3,"$4,649",1982,R2883022,Residential,No,,$684,21/05/2024,"$1,367,500",13/05/2024,"$1,374,888",Single Family Residence
+30,"11264 Southgate Rd, Pitt Meadows, BC",4,3,2985 sqft,,2,"$5,914",2005,R2881478,Residential,Yes,,$485,18/05/2024,"$1,420,000",09/05/2024,"$1,449,000",Single Family Residence
+31,"6 - 19572 Fraser Way, Pitt Meadows, BC",2,2,1372 sqft,,3,"$3,808",2007,R2882366,Residential,Yes,,$594,15/05/2024,"$815,000",12/05/2024,"$815,000",Townhouse
+32,"18822 Old Dewdney Trunk Rd, Pitt Meadows, BC",3,2,2121 sqft,,8,"$2,719",1973,R2844841,Residential,No,,"$1,532",14/05/2024,"$2,780,000",28/01/2024,"$3,250,000",Single Family Residence
+33,"53 - 19034 Mcmyn Rd, Pitt Meadows, BC",2,2,1062 sqft,,2,"$3,011",1994,R2876053,Residential,Yes,,$560,14/05/2024,"$595,000",28/04/2024,"$595,000",Townhouse
+34,"423 - 19673 Meadow Gardens Way, Pitt Meadows, BC",2,2,1355 sqft,,2,"$3,850",2007,R2872863,Residential,Yes,,$590,13/05/2024,"$785,000",18/04/2024,"$799,700",Apartment/Condominium
+35,"19322 116a Ave, Pitt Meadows, BC",4,3,2366 sqft,,0,"$5,039",1973,R2877807,Residential,Yes,,$633,12/05/2024,"$1,500,000",30/04/2024,"$1,499,000",Single Family Residence
+36,"24 - 11067 Barnston View Rd, Pitt Meadows, BC",2,2,1395 sqft,,2,"$4,219",2005,R2879115,Residential,No,,$573,08/05/2024,"$810,000",05/05/2024,"$799,900",Townhouse
+37,"304 - 19128 Ford Rd, Pitt Meadows, BC",2,2,1208 sqft,,2,"$2,780",1995,R2877469,Residential,Yes,,$455,06/05/2024,"$545,000",30/04/2024,"$549,900",Apartment/Condominium
+38,"45 - 19452 Fraser Way, Pitt Meadows, BC",3,2,1797 sqft,,4,"$5,539",2006,R2875490,Residential,Yes,,$715,06/05/2024,"$1,270,000",24/04/2024,"$1,285,000",Townhouse
+39,"116 - 19121 Ford Rd, Pitt Meadows, BC",2,2,1130 sqft,,2,"$2,698",1992,R2865631,Residential,Yes,,$584,05/05/2024,"$636,150",02/04/2024,"$659,999",Apartment/Condominium
+40,"48 - 19060 Ford Rd, Pitt Meadows, BC",3,2,1496 sqft,,2,"$3,218",1992,R2861221,Residential,No,,$500,05/05/2024,"$730,000",18/03/2024,"$749,000",Townhouse
+41,"19775 Wildcrest Ave, Pitt Meadows, BC",4,1,2287 sqft,,6,,1979,R2862858,Residential,No,,$594,04/05/2024,"$1,325,000",24/03/2024,"$1,360,000",Single Family Residence
+42,"18 - 19060 Ford Rd, Pitt Meadows, BC",3,2,1514 sqft,,2,"$3,042",1992,R2876451,Residential,No,,$494,30/04/2024,"$745,000",28/04/2024,"$749,000",Townhouse
+43,"208 - 19236 Ford Rd, Pitt Meadows, BC",2,2,1262 sqft,,1,"$2,912",1990,R2858496,Residential,Yes,,$487,29/04/2024,"$600,000",11/03/2024,"$614,900",Apartment/Condominium
+44,"18939 119b Ave, Pitt Meadows, BC",4,3,2523 sqft,,0,"$4,878",1976,R2868268,Residential,Yes,,$625,28/04/2024,"$1,500,000",08/04/2024,"$1,577,000",Single Family Residence
+45,"7 - 19034 Mcmyn Rd, Pitt Meadows, BC",3,2,1408 sqft,,2,"$3,440",1994,R2859007,Residential,No,,$518,28/04/2024,"$710,000",12/03/2024,"$729,500",Townhouse
+46,"19573 Fraser Way, Pitt Meadows, BC",3,2,2058 sqft,,2,"$5,043",2005,R2865192,Residential,Yes,,$655,26/04/2024,"$1,305,000",01/04/2024,"$1,349,000",Single Family Residence
+47,"113 - 19673 Meadow Gardens Way, Pitt Meadows, BC",2,2,1128 sqft,,2,"$2,965",2007,R2875319,Residential,Yes,,$557,26/04/2024,"$650,000",24/04/2024,"$628,900",Apartment/Condominium
+48,"12370 188a St, Pitt Meadows, BC",5,3,2246 sqft,,4,"$5,176",1989,R2865245,Residential,Yes,,$658,22/04/2024,"$1,440,000",31/03/2024,"$1,480,000",Single Family Residence
+49,"95 - 19649 Planetree Lane, Pitt Meadows, BC",2,1,672 sqft,,1,$500,1975,R2842082,Residential,Yes,,$446,22/04/2024,"$290,000",14/01/2024,"$299,900",Manufactured Home
+50,"38 - 19452 Fraser Way, Pitt Meadows, BC",3,2,1829 sqft,,4,"$5,554",2006,R2874156,Residential,Yes,,$645,22/04/2024,"$1,150,000",22/04/2024,"$1,180,000",Townhouse
+51,"11640 Harris Rd, Pitt Meadows, BC",6,4,3303 sqft,,5,"$5,699",1999,R2870716,Residential,Yes,,$481,21/04/2024,"$1,576,000",14/04/2024,"$1,588,888",Single Family Residence
+52,"19488 116b Ave, Pitt Meadows, BC",4,2,2012 sqft,,8,"$6,409",1987,R2869054,Residential,Yes,,$621,20/04/2024,"$1,240,000",09/04/2024,"$1,250,000",Single Family Residence
+53,"33 - 19060 Ford Rd, Pitt Meadows, BC",2,2,1342 sqft,,2,"$3,178",1992,R2857383,Residential,Yes,,$483,20/04/2024,"$680,000",10/03/2024,"$649,000",Townhouse
+54,"62 - 11901 Pinyon Dr, Pitt Meadows, BC",2,1,802 sqft,,2,,1977,R2871561,Residential,No,,$497,18/04/2024,"$399,000",15/04/2024,"$399,000",Manufactured Home
+55,"47 - 19060 Ford Rd, Pitt Meadows, BC",2,2,1345 sqft,,3,"$3,223",1992,R2872404,Residential,No,,$504,18/04/2024,"$675,000",17/04/2024,"$678,800",Townhouse
+56,"42 - 19696 Hammond Rd, Pitt Meadows, BC",3,2,1101 sqft,,2,"$3,300",2020,R2867975,Residential,Yes,,$771,17/04/2024,"$835,000",07/04/2024,"$849,900",Townhouse
+57,"15 - 19252 119 Ave, Pitt Meadows, BC",3,2,1915 sqft,,2,"$3,259",1990,R2867108,Residential,Yes,,$463,15/04/2024,"$910,000",04/04/2024,"$888,000",Townhouse
+58,"204 - 12079 Harris Rd, Pitt Meadows, BC",1,1,768 sqft,,1,"$2,598",2010,R2868726,Residential,Yes,,$701,14/04/2024,"$525,000",08/04/2024,"$539,000",Apartment/Condominium
+59,"18850 122b Ave, Pitt Meadows, BC",5,3,2633 sqft,,6,"$5,685",1991,R2866825,Residential,Yes,,$592,14/04/2024,"$1,549,000",04/04/2024,"$1,560,000",Single Family Residence
+60,"19226 Streamstone Walk, Pitt Meadows, BC",3,2,2568 sqft,,4,"$5,663",2008,R2868663,Residential,Yes,,$525,13/04/2024,"$1,337,500",08/04/2024,"$1,349,000",Single Family Residence
+61,"11789 Harris Rd, Pitt Meadows, BC",10,4,4672 sqft,,6,"$8,170",1972,R2860482,Residential Income,No,,$449,11/04/2024,"$2,099,000",17/03/2024,"$2,099,000",Duplex
+62,"19780 Wildwood Cres S, Pitt Meadows, BC",3,2,1923 sqft,,4,"$6,281",1976,R2858995,Residential,No,,$699,11/04/2024,"$1,342,800",11/03/2024,"$1,344,900",Single Family Residence
+63,"13 - 19060 Ford Rd, Pitt Meadows, BC",2,2,1381 sqft,,3,"$3,223",1992,R2868113,Residential,Yes,,$506,10/04/2024,"$680,000",04/04/2024,"$699,900",Townhouse
+64,"19380 Cusick Cres, Pitt Meadows, BC",5,3,2155 sqft,,0,"$4,993",1993,R2857760,Residential,No,,$556,07/04/2024,"$1,130,000",10/03/2024,"$1,199,999",Single Family Residence
+65,"50 - 19034 Mcmyn Rd, Pitt Meadows, BC",3,2,1421 sqft,,2,"$3,491",1995,R2864659,Residential,Yes,,$562,07/04/2024,"$818,000",01/04/2024,"$799,500",Townhouse
+66,"211 - 12565 190a St, Pitt Meadows, BC",1,1,642 sqft,,1,"$2,487",2013,R2866288,Residential,Yes,,$854,06/04/2024,"$545,000",02/04/2024,"$548,900",Apartment/Condominium
+67,"18875 121b Ave, Pitt Meadows, BC",4,3,2216 sqft,,6,"$5,227",1989,R2861752,Residential,Yes,,$627,06/04/2024,"$1,361,200",20/03/2024,"$1,389,900",Single Family Residence
+68,,,,,,,,,,,,,,,,,,
+69,"19584 Sutton Ave, Pitt Meadows, BC",3,2,2480 sqft,,4,"$5,548",2009,R2850323,Residential,Yes,,$604,04/04/2024,"$1,468,000",14/02/2024,"$1,499,000",Single Family Residence
+70,"164 - 19639 Meadow Gardens Way, Pitt Meadows, BC",2,2,1940 sqft,,4,"$5,465",2000,R2860195,Residential,Yes,,$772,03/04/2024,"$1,480,000",17/03/2024,"$1,499,000",Single Family Residence
+71,"419 - 19673 Meadow Gardens Way, Pitt Meadows, BC",2,1,1199 sqft,,2,"$2,767",2009,R2860694,Residential,Yes,,$521,01/04/2024,"$620,000",17/03/2024,"$625,000",Apartment/Condominium
+72,"102 - 12565 190 A St, Pitt Meadows, BC",3,2,1293 sqft,,2,"$3,579",2013,R2863654,Residential,Yes,,$579,31/03/2024,"$760,000",26/03/2024,"$749,900",Apartment/Condominium
+73,"2 - 10974 Barnston View Rd, Pitt Meadows, BC",2,2,1320 sqft,,2,"$3,399",2013,R2859940,Residential,No,,$597,30/03/2024,"$785,000",14/03/2024,"$789,000",Townhouse
+74,"8 - 19034 Mcmyn Rd, Pitt Meadows, BC",3,2,1407 sqft,,2,"$3,683",1994,R2860603,Residential,No,,$496,25/03/2024,"$730,000",17/03/2024,"$699,000",Townhouse
+75,"12097 Blakely Rd, Pitt Meadows, BC",7,4,2378 sqft,,6,"$1,760",1972,R2860064,Residential,No,,$546,24/03/2024,"$1,390,000",14/03/2024,"$1,299,000",Single Family Residence
+76,"12315 Bonson Rd, Pitt Meadows, BC",4,3,3023 sqft,,4,"$5,025",2016,R2858618,Residential,Yes,,$462,18/03/2024,"$1,389,500",11/03/2024,"$1,399,000",Multi Family
+77,"12352 192a St, Pitt Meadows, BC",5,2,2405 sqft,,4,"$5,383",1998,R2845277,Residential,Yes,,$614,18/03/2024,"$1,430,000",28/01/2024,"$1,479,000",Single Family Residence
+78,"19851 Butternut Lane, Pitt Meadows, BC",4,2,3025 sqft,,4,"$4,699",1998,R2856495,Residential,Yes,,$406,17/03/2024,"$1,225,000",04/03/2024,"$1,229,000",Single Family Residence
+79,"22 - 19451 Sutton Ave, Pitt Meadows, BC",3,2,1413 sqft,,2,"$4,323",2019,R2859168,Residential,Yes,,$690,16/03/2024,"$962,000",11/03/2024,"$975,000",Townhouse
+80,"18832 Charnley Crt, Pitt Meadows, BC",5,3,3268 sqft,,6,"$5,548",1990,R2858610,Residential,Yes,,$514,14/03/2024,"$1,655,000",11/03/2024,"$1,680,000",Single Family Residence
+81,"106 - 12155 191b St, Pitt Meadows, BC",1,1,926 sqft,,2,"$2,346",1997,R2850204,Residential,Yes,,$593,12/03/2024,"$552,000",14/02/2024,"$550,000",Apartment/Condominium
+82,"204 - 19122 122 Ave, Pitt Meadows, BC",2,2,1166 sqft,,2,"$2,760",1993,R2854573,Residential,Yes,,$599,10/03/2024,"$690,000",03/03/2024,"$699,000",Apartment/Condominium
+83,"19762 Wildwood Cres N, Pitt Meadows, BC",3,2,2270 sqft,,4,"$5,850",1976,R2856132,Residential,Yes,,$610,10/03/2024,"$1,360,000",04/03/2024,"$1,385,000",Single Family Residence
+84,"19227 Fieldstone Walk, Pitt Meadows, BC",3,2,2602 sqft,,4,"$5,658",2004,R2847824,Residential,Yes,,$549,10/03/2024,"$1,400,000",06/02/2024,"$1,429,999",Single Family Residence
+85,"11820 191a St, Pitt Meadows, BC",3,2,2267 sqft,,3,"$4,910",2006,R2854504,Residential,Yes,,$594,09/03/2024,"$1,250,000",28/02/2024,"$1,348,000",Single Family Residence
+86,"19694 Blaney Dr, Pitt Meadows, BC",3,2,2679 sqft,,4,"$5,796",2004,R2843322,Residential,Yes,,$597,08/03/2024,"$1,590,000",21/01/2024,"$1,599,800",Single Family Residence
+87,"12431 188a St, Pitt Meadows, BC",5,3,2453 sqft,,4,"$5,172",1989,R2854297,Residential,Yes,,$513,08/03/2024,"$1,285,000",28/02/2024,"$1,259,900",Single Family Residence
+88,"123 - 11959 Ponderosa Blvd, Pitt Meadows, BC",2,1,1020 sqft,,3,$625,1968,R2857052,Residential,No,,$367,08/03/2024,"$384,950",06/03/2024,"$374,950",Manufactured Home
+89,"11685 193 St, Pitt Meadows, BC",5,2,2920 sqft,,4,"$5,341",1973,R2853986,Residential,Yes,,$513,07/03/2024,"$1,378,000",27/02/2024,"$1,499,000",Single Family Residence
+90,"209 - 19142 122 Ave, Pitt Meadows, BC",2,1,1125 sqft,,2,"$3,193",1994,R2856683,Residential,Yes,,$620,06/03/2024,"$685,000",05/03/2024,"$698,000",Apartment/Condominium
+91,"63 - 19572 Fraser Way, Pitt Meadows, BC",3,2,1361 sqft,,0,"$3,863",2008,R2853176,Residential,Yes,,$587,05/03/2024,"$799,999",25/02/2024,"$799,999",Townhouse
+92,"12179 Mcmyn Ave, Pitt Meadows, BC",3,2,1701 sqft,,6,"$5,126",1997,R2840933,Residential,Yes,,$734,05/03/2024,"$1,200,000",09/01/2024,"$1,249,800",Single Family Residence
+93,"30 - 19452 Fraser Way, Pitt Meadows, BC",3,2,1924 sqft,,2,"$5,292",2006,R2853286,Residential,Yes,,$725,04/03/2024,"$1,360,000",25/02/2024,"$1,395,000",Apartment/Condominium
+94,"405 - 12460 191 St, Pitt Meadows, BC",2,2,867 sqft,,1,"$2,905",2019,R2853546,Residential,Yes,,$725,03/03/2024,"$629,800",26/02/2024,"$629,000",Apartment/Condominium
+95,"508 - 12069 Harris Rd, Pitt Meadows, BC",1,1,793 sqft,,1,"$2,763",2010,R2854468,Residential,Yes,,$680,02/03/2024,"$537,000",28/02/2024,"$539,900",Apartment/Condominium
+96,"111 - 12350 Harris Rd, Pitt Meadows, BC",2,2,970 sqft,,2,"$2,876",2007,R2854144,Residential,Yes,,$644,29/02/2024,"$635,000",27/02/2024,"$625,000",Townhouse
+97,"35 - 19160 119 Ave, Pitt Meadows, BC",2,2,1552 sqft,,2,"$3,679",1991,R2850833,Residential,Yes,,$515,25/02/2024,"$795,000",19/02/2024,"$799,900",Townhouse
+98,"49 - 12268 189a St, Pitt Meadows, BC",3,2,1595 sqft,,2,"$3,741",1992,R2849528,Residential,Yes,,$569,21/02/2024,"$900,000",12/02/2024,"$909,000",Townhouse
+99,"11972 194 B St, Pitt Meadows, BC",3,2,1990 sqft,,0,"$4,768",1978,R2845288,Residential,No,,$642,21/02/2024,"$1,200,000",29/01/2024,"$1,279,000",Single Family Residence
+100,"25 - 19538 Bishops Reach, Pitt Meadows, BC",3,3,1881 sqft,,4,"$5,381",2009,R2849814,Residential,Yes,,$690,18/02/2024,"$1,295,000",13/02/2024,"$1,299,000",Townhouse
+101,"16 - 12449 191 St, Pitt Meadows, BC",2,1,1076 sqft,,1,"$3,235",1995,R2848641,Residential,Yes,,$580,18/02/2024,"$609,000",08/02/2024,"$625,000",Townhouse
+102,"71 - 19572 Fraser Way, Pitt Meadows, BC",3,2,1680 sqft,,2,"$3,996",2007,R2846247,Residential,Yes,,$499,17/02/2024,"$832,000",31/01/2024,"$839,000",Townhouse
+103,"19788 Honeydew Dr, Pitt Meadows, BC",3,2,2938 sqft,,4,"$5,760",2000,R2848064,Residential,Yes,,$425,06/02/2024,"$1,230,000",06/02/2024,"$1,250,000",Single Family Residence
+104,"11728 193a St, Pitt Meadows, BC",4,3,2662 sqft,,3,"$5,310",2019,R2845027,Residential,Yes,,$506,04/02/2024,"$1,390,000",28/01/2024,"$1,349,000",Multi Family
+105,"203 - 19128 Ford Rd, Pitt Meadows, BC",2,2,1265 sqft,,2,"$2,756",1994,R2845814,Residential,Yes,,$446,03/02/2024,"$565,000",30/01/2024,"$565,000",Apartment/Condominium
+106,"19573 Somerset Dr, Pitt Meadows, BC",3,2,1735 sqft,,4,"$5,007",1988,R2845782,Residential,Yes,,$749,03/02/2024,"$1,285,000",29/01/2024,"$1,299,900",Single Family Residence
+107,"208 - 19091 Mcmyn Rd, Pitt Meadows, BC",2,2,1092 sqft,,1,"$3,091",1998,R2844023,Residential,Yes,,$535,27/01/2024,"$600,000",22/01/2024,"$585,000",Apartment/Condominium
+108,"9 - 18960 Advent Rd, Pitt Meadows, BC",2,2,960 sqft,,2,"$3,108",1988,R2838513,Residential,Yes,,$623,26/01/2024,"$580,000",28/12/2023,"$598,900",Townhouse
+109,"215 - 19122 122 Ave, Pitt Meadows, BC",2,2,1180 sqft,,2,"$2,749",1994,R2843389,Residential,Yes,,$529,26/01/2024,"$619,500",21/01/2024,"$625,000",Apartment/Condominium
+110,"204 - 12069 Harris Rd, Pitt Meadows, BC",1,1,777 sqft,,1,"$2,593",2010,R2840402,Residential,Yes,,$681,25/01/2024,"$520,000",08/01/2024,"$529,900",Apartment/Condominium
+111,"310 - 19091 Mcmyn Rd, Pitt Meadows, BC",2,2,1008 sqft,,2,"$2,657",1998,R2839932,Residential,Yes,,$595,25/01/2024,"$595,000",07/01/2024,"$599,999",Apartment/Condominium
+112,"19510 Hoffmann Way, Pitt Meadows, BC",3,2,2518 sqft,,4,"$5,415",2006,R2812050,Residential,Yes,,$573,24/01/2024,"$1,410,000",04/09/2023,"$1,445,000",Single Family Residence
+113,"114 - 12565 190a St, Pitt Meadows, BC",2,2,939 sqft,,2,"$3,117",2013,R2835425,Residential,Yes,,$712,23/01/2024,"$649,500",27/11/2023,"$669,000",Apartment/Condominium
+114,"128 - 19451 Sutton Ave, Pitt Meadows, BC",4,3,1916 sqft,,2,,2023,R2842768,Residential,Yes,,$574,21/01/2024,"$1,099,900",17/01/2024,"$1,099,900",Townhouse
+115,"103 - 19091 Mcmyn Rd, Pitt Meadows, BC",2,2,964 sqft,,2,"$2,607",1998,R2836581,Residential,Yes,,$622,21/01/2024,"$595,000",05/12/2023,"$600,000",Apartment/Condominium
+116,"11241 Tully Cres, Pitt Meadows, BC",4,2,2798 sqft,,4,"$5,846",2004,R2842074,Residential,Yes,,$535,18/01/2024,"$1,489,000",15/01/2024,"$1,499,000",Single Family Residence
+117,"209 - 12460 191 St, Pitt Meadows, BC",1,1,755 sqft,,1,"$2,634",2019,R2840484,Residential,Yes,,$713,17/01/2024,"$521,500",08/01/2024,"$539,000",Apartment/Condominium
+118,"308 - 19236 Ford Rd, Pitt Meadows, BC",2,2,1233 sqft,,1,"$2,793",1990,R2842138,Residential,Yes,,$449,16/01/2024,"$543,900",14/01/2024,"$553,900",Apartment/Condominium
+119,"413 - 11950 Harris Rd, Pitt Meadows, BC",1,1,744 sqft,,1,"$2,533",2008,R2834494,Residential,Yes,,$660,14/01/2024,"$490,800",22/11/2023,"$491,500",Apartment/Condominium
+120,"33 - 19696 Hammond Rd, Pitt Meadows, BC",3,3,1230 sqft,,2,"$3,488",2021,R2829444,Residential,Yes,,$689,11/01/2024,"$842,000",31/10/2023,"$848,000",Townhouse
+121,"11247 Southgate Rd, Pitt Meadows, BC",5,2,2933 sqft,,4,"$5,796",2005,R2832407,Residential,Yes,,$487,11/01/2024,"$1,375,000",13/11/2023,"$1,429,900",Single Family Residence
+122,"11977 189b St, Pitt Meadows, BC",3,1,1838 sqft,,6,"$4,896",1975,R2833890,Residential,Yes,,$678,09/01/2024,"$1,245,000",20/11/2023,"$1,248,000",Single Family Residence
+123,"18913 119b Ave, Pitt Meadows, BC",3,2,2014 sqft,,5,"$4,906",1976,R2839027,Residential,Yes,,$645,09/01/2024,"$1,270,000",02/01/2024,"$1,299,900",Single Family Residence
+124,"214 - 12460 191 St, Pitt Meadows, BC",3,2,1308 sqft,,2,"$3,616",2019,R2837031,Residential,Yes,,$611,08/01/2024,"$790,000",04/12/2023,"$799,900",Apartment/Condominium
+125,"12065 Blakely Rd, Pitt Meadows, BC",4,3,2684 sqft,,3,,2023,R2760416,Residential,Yes,,$502,08/01/2024,"$1,349,000",14/03/2023,"$1,349,000",Multi Family
+126,"12322 193 St, Pitt Meadows, BC",3,3,2362 sqft,,7,"$5,396",1990,R2834209,Residential,Yes,,$613,08/01/2024,"$1,440,000",21/11/2023,"$1,449,900",Single Family Residence
+127,"5 - 19060 119 Ave, Pitt Meadows, BC",4,1,1516 sqft,,2,"$4,117",1988,R2838713,Residential,Yes,,$513,07/01/2024,"$783,585",01/01/2024,"$778,500",Townhouse
+128,"26 - 19452 Fraser Way, Pitt Meadows, BC",3,2,1879 sqft,,1,"$5,289",2006,R2838406,Residential,Yes,,$691,01/01/2024,"$1,299,900",26/12/2023,"$1,299,900",Townhouse
+129,"12532 190a St, Pitt Meadows, BC",3,2,2151 sqft,,3,"$5,774",2003,R2829259,Residential,Yes,,$555,30/12/2023,"$1,170,000",30/10/2023,"$1,195,000",Single Family Residence
+130,"19547 Thorburn Way, Pitt Meadows, BC",3,2,2451 sqft,,4,"$5,621",2008,R2836520,Residential,Yes,,$591,27/12/2023,"$1,380,000",05/12/2023,"$1,450,000",Single Family Residence
+131,"402 - 12079 Harris Rd, Pitt Meadows, BC",1,1,561 sqft,,1,"$2,313",2010,R2777004,Residential,Yes,,$903,26/12/2023,"$500,000",09/05/2023,"$507,000",Apartment/Condominium
+132,"413 - 19677 Meadow Gardens Way, Pitt Meadows, BC",2,2,1144 sqft,,1,"$3,189",2007,R2836906,Residential,Yes,,$533,22/12/2023,"$600,000",07/12/2023,"$609,900",Apartment/Condominium
+133,"12295 193 St, Pitt Meadows, BC",3,2,1261 sqft,,4,"$4,873",1989,R2821647,Residential,Yes,,$831,05/12/2023,"$1,025,000",03/10/2023,"$1,049,000",Single Family Residence
+134,"111 - 19241 Ford Rd, Pitt Meadows, BC",2,2,1179 sqft,,1,"$2,666",1992,R2819896,Residential,Yes,,$470,04/12/2023,"$515,000",26/09/2023,"$555,000",Apartment/Condominium
+135,"19653 117a Ave, Pitt Meadows, BC",4,2,2800 sqft,,4,"$5,117",1978,R2835480,Residential,Yes,,$491,03/12/2023,"$1,370,000",27/11/2023,"$1,374,800",Single Family Residence
+136,"3 - 19044 118b Ave, Pitt Meadows, BC",2,2,1398 sqft,,2,"$3,506",1995,R2835355,Residential,Yes,,$500,01/12/2023,"$699,000",27/11/2023,"$699,000",Townhouse
+137,"222 - 12350 Harris Rd, Pitt Meadows, BC",2,2,1163 sqft,,0,"$3,061",2007,R2835674,Residential,Yes,,$472,30/11/2023,"$548,800",29/11/2023,"$549,900",Apartment/Condominium
+138,"12404 188 St, Pitt Meadows, BC",5,3,2584 sqft,,4,"$5,286",1989,R2827175,Residential,Yes,,$445,-,-,26/11/2023,"$1,125,000",Single Family Residence
+139,"18853 121b Ave, Pitt Meadows, BC",4,3,2159 sqft,,4,"$5,167",1989,R2810808,Residential,Yes,,$537,24/11/2023,"$1,125,000",29/08/2023,"$1,159,900",Single Family Residence
+140,"216 - 19122 122 Ave, Pitt Meadows, BC",2,2,1136 sqft,,2,"$3,066",1993,R2831121,Residential,Yes,,$528,23/11/2023,"$592,500",05/11/2023,"$599,900",Apartment/Condominium
+141,"54 - 19696 Hammond Rd, Pitt Meadows, BC",3,3,1339 sqft,,2,"$3,630",2020,R2826353,Residential,Yes,,$649,23/11/2023,"$858,000",18/10/2023,"$870,000",Townhouse
+142,"5 - 19044 118b Ave, Pitt Meadows, BC",2,2,1241 sqft,,2,"$3,726",1995,R2820378,Residential,Yes,,$588,21/11/2023,"$715,000",27/09/2023,"$729,900",Townhouse
+143,"214 - 12350 Harris Rd, Pitt Meadows, BC",2,2,1030 sqft,,2,"$2,836",2008,R2830438,Residential,Yes,,$679,19/11/2023,"$672,000",05/11/2023,"$699,900",Apartment/Condominium
+144,"19359 121a Ave, Pitt Meadows, BC",4,2,1897 sqft,,4,"$4,776",1977,R2823791,Residential,Yes,,$631,18/11/2023,"$1,175,000",10/10/2023,"$1,198,000",Single Family Residence
+145,"31 - 19572 Fraser Way, Pitt Meadows, BC",3,2,1541 sqft,,2,"$3,812",2007,R2826988,Residential,Yes,,$548,16/11/2023,"$838,000",22/10/2023,"$844,900",Townhouse
+146,"5 - 19141 124 Ave, Pitt Meadows, BC",3,2,1533 sqft,,1,"$3,693",2003,R2828683,Residential,Yes,,$505,16/11/2023,"$765,000",29/10/2023,"$774,900",Townhouse
+147,"19482 Mcneil Rd, Pitt Meadows, BC",4,2,1828 sqft,,2,"$1,594",1969,R2832417,Residential,No,,"$1,301",15/11/2023,"$2,325,000",13/11/2023,"$2,379,000",Single Family Residence
+148,"17 - 19452 Fraser Way, Pitt Meadows, BC",3,2,1855 sqft,,4,"$4,711",2005,R2831143,Residential,Yes,,$619,14/11/2023,"$1,150,000",07/11/2023,"$1,149,900",Townhouse
+149,"23 - 12276 189a St, Pitt Meadows, BC",2,2,973 sqft,,2,"$3,072",1988,R2811745,Residential,Yes,,$601,14/11/2023,"$580,000",04/09/2023,"$584,900",Townhouse
+150,"11283 Southgate Rd, Pitt Meadows, BC",4,2,2777 sqft,,4,"$6,581",2006,R2812581,Residential,Yes,,$486,14/11/2023,"$1,350,000",05/09/2023,"$1,349,900",Single Family Residence
+151,"19530 Hammond Rd, Pitt Meadows, BC",5,4,4024 sqft,,4,"$7,822",2016,R2808445,Residential,Yes,,$447,13/11/2023,"$1,775,000",20/08/2023,"$1,800,000",Single Family Residence
+152,"212 - 12460 191 St, Pitt Meadows, BC",3,2,1309 sqft,,2,"$3,755",2019,R2814349,Residential,Yes,,$641,12/11/2023,"$800,000",10/09/2023,"$840,000",Apartment/Condominium
+153,"18976 Advent Rd, Pitt Meadows, BC",3,2,2026 sqft,,4,"$4,906",2014,R2818616,Residential,Yes,,$542,07/11/2023,"$1,100,000",21/09/2023,"$1,099,900",Multi Family
+154,"19774 Wildwood Pl, Pitt Meadows, BC",5,2,2219 sqft,,4,"$4,768",1977,R2826696,Residential,No,,$576,04/11/2023,"$1,280,000",22/10/2023,"$1,279,000",Single Family Residence
+155,"151 - 19451 Sutton Ave, Pitt Meadows, BC",3,2,1368 sqft,,2,"$4,600",2022,R2827340,Residential,Yes,,$650,02/11/2023,"$890,000",23/10/2023,"$890,000",Townhouse
+156,"128 - 19673 Meadow Gardens Way, Pitt Meadows, BC",2,2,1175 sqft,,2,"$3,387",2007,R2826730,Residential,Yes,,$637,01/11/2023,"$725,000",22/10/2023,"$749,000",Apartment/Condominium
+157,"413 - 12635 190 A St, Pitt Meadows, BC",2,2,921 sqft,,2,"$3,143",2014,R2810690,Residential,Yes,,$704,01/11/2023,"$640,000",04/09/2023,"$649,000",Apartment/Condominium
+158,"112 - 19236 Ford Rd, Pitt Meadows, BC",2,1,1223 sqft,,1,"$2,679",1990,R2827966,Residential,Yes,,$449,30/10/2023,"$550,000",24/10/2023,"$549,999",Apartment/Condominium
+159,"11233 Tully Cres, Pitt Meadows, BC",4,3,2954 sqft,,5,"$6,117",2004,R2825856,Residential,Yes,,$538,29/10/2023,"$1,540,000",17/10/2023,"$1,589,900",Single Family Residence
+160,"12451 188a St, Pitt Meadows, BC",3,2,1265 sqft,,4,"$5,195",1989,R2827550,Residential,Yes,,$770,26/10/2023,"$990,000",24/10/2023,"$974,900",Single Family Residence
+161,"19535 Sawyers Rd, Pitt Meadows, BC",4,2,2580 sqft,,4,"$5,516",2005,R2825672,Residential,Yes,,$541,22/10/2023,"$1,425,000",16/10/2023,"$1,398,000",Single Family Residence
+162,"19271 123 Ave, Pitt Meadows, BC",5,2,2005 sqft,,7,"$5,520",1990,R2826481,Residential,Yes,,$748,22/10/2023,"$1,451,900",18/10/2023,"$1,499,900",Single Family Residence
+163,"39 - 12268 189a St, Pitt Meadows, BC",3,2,1550 sqft,,2,"$3,755",1993,R2821204,Residential,Yes,,$612,22/10/2023,"$945,000",02/10/2023,"$949,900",Townhouse
+164,"12447 189a St, Pitt Meadows, BC",4,3,2440 sqft,,4,"$5,456",1990,R2824411,Residential,Yes,,$512,22/10/2023,"$1,230,000",12/10/2023,"$1,250,000",Single Family Residence
+165,"20006 Richardson Rd, Pitt Meadows, BC",4,3,3567 sqft,,5,"$7,564",1993,R2783278,Residential,Yes,,$644,19/10/2023,"$2,065,000",29/05/2023,"$2,299,800",Single Family Residence
+166,"12431 188a St, Pitt Meadows, BC",4,3,2198 sqft,,6,"$5,172",1989,R2818898,Residential,Yes,,$545,08/03/2024,"$1,285,000",28/02/2024,"$1,259,900",Single Family Residence
+167,"304 - 12155 191b St, Pitt Meadows, BC",2,2,1163 sqft,,2,"$2,818",1996,R2822905,Residential,Yes,,$451,16/10/2023,"$585,000",09/10/2023,"$525,000",Apartment/Condominium
+168,"19497 115a Ave, Pitt Meadows, BC",4,2,1872 sqft,,3,"$4,649",1982,R2824066,Residential,Yes,,$494,21/05/2024,"$1,367,500",13/05/2024,"$1,374,888",Single Family Residence
+169,"5 - 11838 Ponderosa Blvd, Pitt Meadows, BC",2,1,1062 sqft,,3,$877,1974,R2804395,Residential,Yes,,$423,16/10/2023,"$425,000",03/08/2023,"$449,900",Manufactured Home
+170,"19563 Oak Terr, Pitt Meadows, BC",4,3,1992 sqft,,4,"$5,158",1986,R2824171,Residential,Yes,,$627,12/10/2023,"$1,250,000",10/10/2023,"$1,249,900",Single Family Residence
+171,"303 - 19673 Meadow Gardens Way, Pitt Meadows, BC",1,1,748 sqft,,2,"$2,547",2007,R2816107,Residential,Yes,,$754,07/10/2023,"$550,000",14/09/2023,"$564,000",Apartment/Condominium
+172,"17 - 12188 Harris Rd, Pitt Meadows, BC",3,2,1462 sqft,,2,"$3,418",1992,R2819351,Residential,Yes,,$539,05/10/2023,"$770,000",25/09/2023,"$789,000",Townhouse
+173,"12330 188 St, Pitt Meadows, BC",5,2,2603 sqft,,4,"$5,245",1989,R2813236,Residential,Yes,,$451,02/10/2023,"$1,174,900",06/09/2023,"$1,174,900",Single Family Residence
+174,"115 - 19122 122 Ave, Pitt Meadows, BC",2,2,1119 sqft,,2,"$2,708",1993,R2821156,Residential,Yes,,$571,02/10/2023,"$646,000",01/10/2023,"$639,900",Apartment/Condominium
+175,"17781 Ford Road Detour, Pitt Meadows, BC",4,3,1382 sqft,,6,"$4,059",1986,R2817707,Residential,No,,$868,26/09/2023,"$1,200,000",19/09/2023,"$1,200,000",Single Family Residence
+176,"10 - 19095 Mitchell Rd, Pitt Meadows, BC",3,2,1859 sqft,,2,"$4,574",2015,R2818213,Residential,Yes,,$591,26/09/2023,"$1,060,000",20/09/2023,"$1,099,000",Townhouse
+177,"19315 123 Ave, Pitt Meadows, BC",4,2,2817 sqft,,4,"$5,612",1993,R2818004,Residential,Yes,,$567,26/09/2023,"$1,580,000",20/09/2023,"$1,599,000",Single Family Residence
+178,"106 - 19091 Mcmyn Rd, Pitt Meadows, BC",3,3,1405 sqft,,2,"$3,194",1999,R2817244,Residential,Yes,,$505,25/09/2023,"$700,000",15/09/2023,"$709,900",Apartment/Condominium
+179,"12295 Bonson Rd, Pitt Meadows, BC",5,3,3070 sqft,,7,"$5,874",1997,R2816523,Residential,Yes,,$561,24/09/2023,"$1,750,000",17/09/2023,"$1,725,000",Single Family Residence
+180,"111 - 19142 122 Ave, Pitt Meadows, BC",2,2,1127 sqft,,2,"$2,712",1994,R2814743,Residential,Yes,,$558,23/09/2023,"$608,000",10/09/2023,"$629,000",Apartment/Condominium
+181,"114 - 19677 Meadow Gardens Way, Pitt Meadows, BC",2,2,1062 sqft,,2,"$2,859",2007,R2815063,Residential,Yes,,$564,23/09/2023,"$595,000",12/09/2023,"$599,900",Apartment/Condominium
+182,"56 - 19452 Fraser Way, Pitt Meadows, BC",3,2,2167 sqft,,4,"$5,276",2006,R2811221,Residential,Yes,,$553,20/09/2023,"$1,186,000",31/08/2023,"$1,198,649",Townhouse
+183,"216 - 12460 191 St, Pitt Meadows, BC",2,2,870 sqft,,1,"$2,873",2019,R2816018,Residential,Yes,,$665,19/09/2023,"$570,000",14/09/2023,"$579,000",Apartment/Condominium
+184,"303 - 12525 190a St, Pitt Meadows, BC",2,2,926 sqft,,2,"$3,065",2011,R2817889,Residential,Yes,,$658,19/09/2023,"$607,000",19/09/2023,"$609,900",Apartment/Condominium
+185,"11263 Southgate Rd, Pitt Meadows, BC",3,2,2310 sqft,,4,"$5,571",2005,R2816511,Residential,Yes,,$562,18/09/2023,"$1,300,000",17/09/2023,"$1,299,900",Single Family Residence
+186,"111 - 19122 122 Ave, Pitt Meadows, BC",2,2,1302 sqft,,2,"$3,222",1993,R2811907,Residential,Yes,,$506,17/09/2023,"$654,500",04/09/2023,"$659,000",Apartment/Condominium
+187,"29 - 11938 Poplar Dr, Pitt Meadows, BC",2,2,1166 sqft,,4,"$1,019",1990,R2805823,Residential,No,,$454,16/09/2023,"$524,000",09/08/2023,"$529,900",Manufactured Home
+188,"26 - 12268 189a St, Pitt Meadows, BC",3,2,1587 sqft,,2,"$3,943",1993,R2812553,Residential,Yes,,$541,13/09/2023,"$937,000",05/09/2023,"$859,900",Townhouse
+189,"117 - 12635 190 A St, Pitt Meadows, BC",2,2,806 sqft,,1,"$2,790",2015,R2815206,Residential,Yes,,$781,13/09/2023,"$605,000",12/09/2023,"$629,900",Apartment/Condominium
+190,"415 - 12635 190a St, Pitt Meadows, BC",2,2,941 sqft,,2,"$3,166",2014,R2815246,Residential,Yes,,$743,13/09/2023,"$687,500",11/09/2023,"$699,900",Apartment/Condominium
+191,"12236 Mcmyn Ave, Pitt Meadows, BC",6,3,3352 sqft,,8,"$6,928",1995,R2812905,Residential,Yes,,$515,12/09/2023,"$1,740,000",05/09/2023,"$1,729,000",Single Family Residence
+192,"409 - 12460 191 St, Pitt Meadows, BC",1,1,755 sqft,,1,"$2,901",2019,R2807677,Residential,Yes,,$695,10/09/2023,"$522,000",14/08/2023,"$524,900",Apartment/Condominium
+193,"11208 Bonson Rd, Pitt Meadows, BC",3,2,2626 sqft,,5,"$5,552",2004,R2800377,Residential,Yes,,$532,10/09/2023,"$1,398,000",18/07/2023,"$1,398,000",Single Family Residence
+194,"5 - 19490 Fraser Way, Pitt Meadows, BC",3,2,2508 sqft,,2,"$4,666",2008,R2812316,Residential,Yes,,$510,09/09/2023,"$1,262,000",04/09/2023,"$1,280,000",Single Family Residence
+195,"19486 117 Ave, Pitt Meadows, BC",5,2,2357 sqft,,4,"$4,750",1971,R2795060,Residential,No,,$572,07/09/2023,"$1,328,000",04/07/2023,"$1,349,800",Single Family Residence
+196,"311 - 12460 191 St, Pitt Meadows, BC",2,2,1027 sqft,,2,"$3,357",2019,R2812996,Residential,Yes,,$647,07/09/2023,"$662,000",04/09/2023,"$665,000",Apartment/Condominium
+197,"203 - 19131 Ford Rd, Pitt Meadows, BC",2,2,1379 sqft,,2,"$2,983",1995,R2793826,Residential,Yes,,$398,06/09/2023,"$550,000",28/06/2023,"$549,900",Apartment/Condominium
+198,"407 - 12635 190a St, Pitt Meadows, BC",1,1,623 sqft,,1,"$2,556",2014,R2810582,Residential,Yes,,$850,02/09/2023,"$520,000",28/08/2023,"$529,900",Apartment/Condominium
+199,"103 - 12350 Harris Rd, Pitt Meadows, BC",2,2,1508 sqft,,2,"$3,581",2008,R2805513,Residential,Yes,,$510,29/08/2023,"$760,000",08/08/2023,"$769,900",Townhouse
+200,"49 - 19451 Sutton Ave, Pitt Meadows, BC",4,3,1945 sqft,,2,"$5,098",2019,R2807551,Residential,Yes,,$591,28/08/2023,"$1,149,900",15/08/2023,"$1,149,900",Townhouse
+201,"5 - 19095 Mitchell Rd, Pitt Meadows, BC",3,2,1750 sqft,,2,"$4,455",2015,R2808748,Residential,Yes,,$571,28/08/2023,"$1,030,000",20/08/2023,"$999,900",Townhouse
+202,"220 - 12635 190a St, Pitt Meadows, BC",2,2,1299 sqft,,2,"$3,653",2014,R2808941,Residential,Yes,,$592,24/08/2023,"$769,900",22/08/2023,"$769,900",Apartment/Condominium
+203,"6 - 11842 Ponderosa Blvd, Pitt Meadows, BC",2,1,946 sqft,,3,"$1,084",1975,R2783974,Residential,No,,$581,22/08/2023,"$535,000",30/05/2023,"$549,900",Manufactured Home
+204,"19385 120b Ave, Pitt Meadows, BC",3,3,2673 sqft,,3,,2023,R2760412,Residential,Yes,,$521,22/08/2023,"$1,335,000",12/03/2023,"$1,395,000",Multi Family
+205,"302 - 19677 Meadow Gardens Way, Pitt Meadows, BC",2,2,1067 sqft,,1,"$3,299",2007,R2775758,Residential,Yes,,$670,19/08/2023,"$705,000",07/05/2023,"$715,000",Apartment/Condominium
+206,"306 - 11960 Harris Rd, Pitt Meadows, BC",2,2,1113 sqft,,2,"$2,885",1994,R2807128,Residential,Yes,,$512,18/08/2023,"$565,000",13/08/2023,"$569,900",Apartment/Condominium
+207,"304 - 19122 122 Ave, Pitt Meadows, BC",2,2,1164 sqft,,2,"$3,131",1993,R2801818,Residential,Yes,,$565,15/08/2023,"$650,000",24/07/2023,"$658,800",Apartment/Condominium
+208,"424 - 19673 Meadow Gardens Way, Pitt Meadows, BC",3,2,1156 sqft,,2,"$3,506",2007,R2804973,Residential,Yes,,$691,15/08/2023,"$798,400",07/08/2023,"$799,900",Apartment/Condominium
+209,"19544 Oak Terr, Pitt Meadows, BC",4,2,2123 sqft,,8,"$5,057",1986,R2805728,Residential,Yes,,$658,14/08/2023,"$1,360,000",08/08/2023,"$1,399,000",Single Family Residence
+210,"19 - 19249 Hammond Rd, Pitt Meadows, BC",2,1,1118 sqft,,1,"$2,656",1987,R2804769,Residential,No,,$534,14/08/2023,"$590,000",07/08/2023,"$598,000",Townhouse
+211,"110 - 12460 191 St, Pitt Meadows, BC",2,2,866 sqft,,1,"$2,786",2018,R2794658,Residential,Yes,,$691,14/08/2023,"$590,000",03/07/2023,"$598,800",Apartment/Condominium
+212,"11761 194a St, Pitt Meadows, BC",3,2,2735 sqft,,4,"$7,058",2003,R2786676,Residential,Yes,,$530,14/08/2023,"$1,430,000",07/06/2023,"$1,449,900",Single Family Residence
+213,"17 - 19063 Mcmyn Rd, Pitt Meadows, BC",3,2,1712 sqft,,3,"$3,991",2005,R2805132,Residential,Yes,,$489,13/08/2023,"$810,000",07/08/2023,"$838,000",Townhouse
+214,"3 - 19252 119 Ave, Pitt Meadows, BC",3,2,1486 sqft,,3,"$3,291",1991,R2804982,Residential,Yes,,$538,12/08/2023,"$799,500",08/08/2023,"$799,999",Townhouse
+215,"55 - 19034 Mcmyn Rd, Pitt Meadows, BC",2,2,1061 sqft,,2,"$3,130",1994,R2803840,Residential,Yes,,$565,08/08/2023,"$615,000",30/07/2023,"$599,900",Townhouse
+216,"3 - 19270 122a Ave, Pitt Meadows, BC",4,2,2078 sqft,,3,"$4,248",1994,R2803787,Residential,Yes,,$408,07/08/2023,"$900,000",01/08/2023,"$849,900",Townhouse
+217,"12335 189a St, Pitt Meadows, BC",4,2,2631 sqft,,5,"$5,773",2004,R2800207,Residential,Yes,,$528,07/08/2023,"$1,365,000",18/07/2023,"$1,390,000",Single Family Residence
+218,"104 - 19142 122 Ave, Pitt Meadows, BC",2,2,1124 sqft,,2,"$2,712",1994,R2795805,Residential,Yes,,$556,06/08/2023,"$618,000",05/07/2023,"$625,000",Apartment/Condominium
+219,"112 - 19673 Meadow Gardens Way, Pitt Meadows, BC",2,2,1187 sqft,,1,"$3,217",2007,R2803366,Residential,Yes,,$588,06/08/2023,"$699,000",31/07/2023,"$699,000",Apartment/Condominium
+220,"14021 Rippington Rd, Pitt Meadows, BC",3,2,3829 sqft,,2,"$36,948",1984,R2768645,Residential,Yes,,"$1,358",05/08/2023,"$4,500,000",04/04/2023,"$5,200,000",Single Family Residence
+221,"206 - 12409 Harris Rd, Pitt Meadows, BC",2,2,836 sqft,,2,"$3,038",2015,R2794608,Residential,Yes,,$728,02/08/2023,"$586,000",02/07/2023,"$609,000",Apartment/Condominium
+222,"13 - 19451 Sutton Ave, Pitt Meadows, BC",4,3,1920 sqft,,2,"$5,084",2019,R2794190,Residential,Yes,,$572,01/08/2023,"$1,090,000",05/07/2023,"$1,099,000",Townhouse
+223,"19361 119b Ave, Pitt Meadows, BC",3,1,1534 sqft,,5,"$4,761",1971,R2784215,Residential,No,,$814,30/07/2023,"$1,235,000",01/06/2023,"$1,249,800",Single Family Residence
+224,"19352 119b Ave, Pitt Meadows, BC",4,2,2020 sqft,,4,"$5,011",1970,R2794139,Residential,Yes,,$742,30/07/2023,"$1,450,000",02/07/2023,"$1,499,000",Single Family Residence
+225,"19213 Streamstone Walk, Pitt Meadows, BC",4,3,2741 sqft,,4,"$5,695",2010,R2794375,Residential,Yes,,$501,26/07/2023,"$1,370,000",03/07/2023,"$1,375,000",Single Family Residence
+226,"210 - 19236 Ford Rd, Pitt Meadows, BC",2,2,1230 sqft,,0,"$2,744",1991,R2801503,Residential,Yes,,$454,26/07/2023,"$559,000",24/07/2023,"$559,000",Apartment/Condominium
+227,"217 - 19451 Sutton Ave, Pitt Meadows, BC",3,2,1377 sqft,,2,"$4,103",2020,R2800250,Residential,Yes,,$653,26/07/2023,"$909,000",19/07/2023,"$899,900",Townhouse
+228,"605 - 12069 Harris Rd, Pitt Meadows, BC",2,2,977 sqft,,1,"$3,208",2010,R2797061,Residential,Yes,,$715,25/07/2023,"$680,000",09/07/2023,"$699,000",Apartment/Condominium
+229,"114 - 12460 191 St, Pitt Meadows, BC",3,2,1356 sqft,,2,"$3,552",2018,R2799177,Residential,Yes,,$589,21/07/2023,"$799,900",17/07/2023,"$799,900",Apartment/Condominium
+230,"11737 Harris Rd, Pitt Meadows, BC",7,3,3816 sqft,,9,"$6,412",2006,R2790463,Residential,Yes,,$445,21/07/2023,"$1,660,000",19/06/2023,"$1,698,800",Single Family Residence
+231,"19633 Wildwood Cres S, Pitt Meadows, BC",4,2,2378 sqft,,4,"$5,144",1981,R2798516,Residential,No,,$545,21/07/2023,"$1,285,000",16/07/2023,"$1,298,000",Single Family Residence
+232,"11635 Cobblestone Lane, Pitt Meadows, BC",5,3,3604 sqft,,4,"$6,098",2008,R2768752,Residential,Yes,,$416,18/07/2023,"$1,475,000",12/04/2023,"$1,500,000",Single Family Residence
+233,"19363 121b Ave, Pitt Meadows, BC",3,1,1931 sqft,,3,"$5,771",1979,R2791682,Residential,Yes,,$642,17/07/2023,"$1,200,000",20/06/2023,"$1,239,900",Single Family Residence
+234,"19 - 18951 Ford Rd, Pitt Meadows, BC",3,2,1617 sqft,,2,"$3,595",1989,R2797635,Residential,Yes,,$432,16/07/2023,"$770,000",11/07/2023,"$699,900",Townhouse
+235,"213 - 12655 190a St, Pitt Meadows, BC",2,2,945 sqft,,2,"$3,070",2014,R2797046,Residential,Yes,,$698,12/07/2023,"$650,000",10/07/2023,"$659,800",Apartment/Condominium
+236,"11282 Blaney Cres, Pitt Meadows, BC",3,2,2650 sqft,,5,"$5,809",2006,R2794824,Residential,Yes,,$622,11/07/2023,"$1,600,000",03/07/2023,"$1,649,800",Single Family Residence
+237,"407 - 12655 190a St, Pitt Meadows, BC",1,1,618 sqft,,1,"$2,547",2014,R2793454,Residential,Yes,,$857,11/07/2023,"$525,000",27/06/2023,"$529,900",Apartment/Condominium
+238,"37 - 11067 Barnston View Rd, Pitt Meadows, BC",2,2,1339 sqft,,2,"$4,266",2005,R2794814,Residential,Yes,,$597,10/07/2023,"$856,000",03/07/2023,"$799,900",Townhouse
+239,"19591 Park Rd, Pitt Meadows, BC",4,3,2088 sqft,,4,"$5,084",1986,R2793368,Residential,Yes,,$670,09/07/2023,"$1,380,000",26/06/2023,"$1,399,000",Single Family Residence
+240,"201 - 12525 190a St, Pitt Meadows, BC",1,1,622 sqft,,1,"$2,465",2012,R2795696,Residential,Yes,,$803,08/07/2023,"$499,999",05/07/2023,"$499,999",Apartment/Condominium
+241,"19435 Park Rd, Pitt Meadows, BC",3,1,1028 sqft,,4,"$4,836",1969,R2741939,Residential,Yes,,"$1,196",04/07/2023,"$1,082,500",06/12/2022,"$1,230,000",Single Family Residence
+242,"18865 123a Ave, Pitt Meadows, BC",5,3,2465 sqft,,8,"$5,323",1990,R2787275,Residential,Yes,,$557,04/07/2023,"$1,290,000",11/06/2023,"$1,375,000",Single Family Residence
+243,"11536 197b St, Pitt Meadows, BC",4,3,2133 sqft,,6,"$5,877",1974,R2792762,Residential,Yes,,$621,03/07/2023,"$1,335,000",26/06/2023,"$1,325,000",Single Family Residence
+244,"19649 Poplar Dr, Pitt Meadows, BC",2,2,939 sqft,,3,"$1,602",2006,R2768724,Residential,No,,$606,03/07/2023,"$555,000",16/04/2023,"$569,900",Manufactured Home
+245,"201 - 19241 Ford Rd, Pitt Meadows, BC",2,2,1165 sqft,,1,"$2,746",1992,R2790406,Residential,Yes,,$496,30/06/2023,"$565,000",19/06/2023,"$579,000",Apartment/Condominium
+246,"310 - 12464 191b St, Pitt Meadows, BC",2,2,1067 sqft,,1,"$2,762",1994,R2779756,Residential,Yes,,$534,28/06/2023,"$565,000",22/05/2023,"$570,000",Apartment/Condominium
+247,"77 - 19696 Hammond Rd, Pitt Meadows, BC",3,2,1101 sqft,,2,"$3,404",2021,R2791412,Residential,Yes,,$740,27/06/2023,"$800,000",21/06/2023,"$814,900",Townhouse
+248,"403 - 19091 Mcmyn Rd, Pitt Meadows, BC",2,2,1071 sqft,,2,"$2,868",1998,R2789293,Residential,Yes,,$606,27/06/2023,"$645,000",18/06/2023,"$649,999",Apartment/Condominium
+249,"19769 Wildcrest Ave, Pitt Meadows, BC",3,1,1864 sqft,,4,"$4,832",1980,R2789865,Residential,No,,$536,25/06/2023,"$1,102,000",18/06/2023,"$999,999",Single Family Residence
+250,"410 - 12464 191b St, Pitt Meadows, BC",2,2,1067 sqft,,1,"$2,815",1994,R2789811,Residential,Yes,,$561,24/06/2023,"$590,000",18/06/2023,"$599,000",Apartment/Condominium
+251,"308 - 12460 191 St, Pitt Meadows, BC",2,2,908 sqft,,1,"$2,978",2019,R2782971,Residential,Yes,,$704,23/06/2023,"$640,000",28/05/2023,"$640,000",Apartment/Condominium
+252,"212 - 19451 Sutton Ave, Pitt Meadows, BC",3,2,1373 sqft,,2,"$4,185",2020,R2788948,Residential,Yes,,$728,22/06/2023,"$915,000",13/06/2023,"$999,999",Townhouse
+253,"17590 Kennedy Rd, Pitt Meadows, BC",4,4,5300 sqft,,2,"$7,114",1999,R2778150,Residential,Yes,,$411,20/06/2023,"$2,000,000",14/05/2023,"$2,180,000",Single Family Residence
+254,"108 - 19236 Ford Rd, Pitt Meadows, BC",2,2,1230 sqft,,1,"$2,715",1991,R2790652,Residential,Yes,,$446,19/06/2023,"$549,000",18/06/2023,"$549,000",Apartment/Condominium
+255,"19143 118b Ave, Pitt Meadows, BC",3,3,2219 sqft,,2,"$4,809",2006,R2787314,Residential,Yes,,$540,17/06/2023,"$1,200,000",11/06/2023,"$1,199,900",Single Family Residence
+256,"415 - 12565 190a St, Pitt Meadows, BC",2,2,940 sqft,,2,"$3,248",2013,R2788431,Residential,Yes,,$702,17/06/2023,"$670,000",13/06/2023,"$660,000",Apartment/Condominium
+257,"110 - 19122 122 Ave, Pitt Meadows, BC",2,2,1126 sqft,,2,"$3,087",1993,R2786887,Residential,Yes,,$576,16/06/2023,"$660,000",08/06/2023,"$648,800",Apartment/Condominium
+258,"19285 Streamstone Walk, Pitt Meadows, BC",4,3,3610 sqft,,4,"$5,759",2008,R2776906,Residential,Yes,,$429,14/06/2023,"$1,549,900",10/05/2023,"$1,549,900",Single Family Residence
+259,"407 - 19091 Mcmyn Rd, Pitt Meadows, BC",2,2,949 sqft,,2,"$2,694",1998,R2787219,Residential,Yes,,$648,13/06/2023,"$595,000",11/06/2023,"$615,000",Apartment/Condominium
+260,"120 - 11958 Pinyon Dr, Pitt Meadows, BC",2,1,896 sqft,,1,$776,1981,R2785573,Residential,No,,$545,13/06/2023,"$465,000",05/06/2023,"$489,000",Manufactured Home
+261,"19327 119 Ave, Pitt Meadows, BC",5,3,3176 sqft,,4,"$5,617",1993,R2784710,Residential,Yes,,$503,13/06/2023,"$1,569,000",04/06/2023,"$1,599,900",Single Family Residence
+262,"19205 Streamstone Walk, Pitt Meadows, BC",3,2,2252 sqft,,4,"$5,695",2010,R2785137,Residential,Yes,,$575,12/06/2023,"$1,360,000",04/06/2023,"$1,295,000",Single Family Residence
+263,"22 - 18951 Ford Rd, Pitt Meadows, BC",3,2,1567 sqft,,2,"$3,595",1989,R2786405,Residential,Yes,,$494,12/06/2023,"$785,000",06/06/2023,"$775,000",Townhouse
+264,"19755 Wildcrest Ave, Pitt Meadows, BC",3,2,1870 sqft,,3,"$4,410",1979,R2783897,Residential,No,,$534,11/06/2023,"$1,100,000",04/06/2023,"$999,888",Single Family Residence
+265,"317 - 12565 190a St, Pitt Meadows, BC",2,2,989 sqft,,2,"$3,026",2013,R2771121,Residential,Yes,,$646,09/06/2023,"$633,000",24/04/2023,"$639,000",Apartment/Condominium
+266,"45 - 19034 Mcmyn Rd, Pitt Meadows, BC",3,2,1418 sqft,,2,"$3,445",1994,R2733549,Residential,No,,$564,06/06/2023,"$799,900",23/10/2022,"$799,900",Townhouse
+267,"12 Hodgins Harbour, Pitt Meadows, BC",3,1,854 sqft,,0,$902,1986,R2781249,Residential,No,,"$1,402",05/06/2023,"$1,224,000",24/05/2023,"$1,198,000",Single Family Residence
+268,"48 - 19141 124 Ave, Pitt Meadows, BC",3,2,1774 sqft,,2,"$3,991",2004,R2783777,Residential,Yes,,$450,04/06/2023,"$901,500",30/05/2023,"$799,000",Townhouse
+269,"216 - 12350 Harris Rd, Pitt Meadows, BC",1,1,793 sqft,,2,"$2,414",2007,R2766930,Residential,Yes,,$624,04/06/2023,"$515,000",10/04/2023,"$495,000",Apartment/Condominium
+270,"19795 Sunset Lane, Pitt Meadows, BC",3,2,2791 sqft,,4,"$4,644",1999,R2780400,Residential,Yes,,$465,03/06/2023,"$1,260,000",23/05/2023,"$1,299,900",Single Family Residence
+271,"214 - 12655 190a St, Pitt Meadows, BC",2,2,943 sqft,,2,"$3,070",2014,R2782750,Residential,Yes,,$699,03/06/2023,"$655,000",29/05/2023,"$659,800",Apartment/Condominium
+272,"19646 Joyner Pl, Pitt Meadows, BC",5,2,3454 sqft,,4,"$5,805",2001,R2779763,Residential,No,,$488,-,Not Sold Yet,05/06/2024,"$1,639,900",Single Family Residence
+273,"212 - 12464 191b St, Pitt Meadows, BC",2,2,1068 sqft,,1,"$2,737",1995,R2780388,Residential,Yes,,$505,01/06/2023,"$540,000",22/05/2023,"$540,000",Apartment/Condominium
+274,"14811 Patrick Rd, Pitt Meadows, BC",6,4,3280 sqft,,20,"$1,807",9999,R2758135,Residential,Yes,,$971,01/06/2023,"$2,850,000",06/03/2023,"$3,188,000",Single Family Residence
+275,"19854 Wildwood Cres S, Pitt Meadows, BC",3,1,2065 sqft,,6,"$5,231",1976,R2780923,Residential,Yes,,$629,30/05/2023,"$1,330,000",23/05/2023,"$1,299,900",Single Family Residence
+276,"18892 Ford Rd, Pitt Meadows, BC",6,4,2355 sqft,,1,"$4,784",1973,R2782489,Residential,No,,$530,29/05/2023,"$1,400,000",28/05/2023,"$1,249,000",Single Family Residence
+277,"19639 Cedar Lane, Pitt Meadows, BC",5,2,3159 sqft,,4,"$5,585",1991,R2779354,Residential,Yes,,$474,29/05/2023,"$1,557,200",22/05/2023,"$1,499,900",Single Family Residence
+278,"38 - 19696 Hammond Rd, Pitt Meadows, BC",3,3,1339 sqft,,2,"$3,511",2020,R2780432,Residential,Yes,,$633,29/05/2023,"$890,000",22/05/2023,"$848,888",Townhouse
+279,"18858 122 Ave, Pitt Meadows, BC",6,3,3177 sqft,,6,"$5,364",1991,R2779812,Residential,Yes,,$440,28/05/2023,"$1,447,000",22/05/2023,"$1,399,000",Single Family Residence
+280,"104 - 19673 Meadow Gardens Way, Pitt Meadows, BC",1,1,742 sqft,,1,"$2,497",2007,R2779127,Residential,Yes,,$673,26/05/2023,"$550,000",16/05/2023,"$499,900",Apartment/Condominium
+281,"207 - 12525 190a St, Pitt Meadows, BC",2,2,920 sqft,,1,"$3,038",2011,R2765302,Residential,Yes,,$652,25/05/2023,"$595,000",03/04/2023,"$599,900",Apartment/Condominium
+282,"19459 Richardson Rd, Pitt Meadows, BC",5,6,4109 sqft,,4,"$12,737",1993,R2756607,Residential,Yes,,$997,25/05/2023,"$3,450,000",28/02/2023,"$4,100,000",Single Family Residence
+283,"12332 Bonson Rd, Pitt Meadows, BC",5,3,2570 sqft,,6,"$5,227",1987,R2777673,Residential,Yes,,$427,22/05/2023,"$1,170,000",14/05/2023,"$1,099,000",Single Family Residence
+284,"416 - 12565 190a St, Pitt Meadows, BC",2,2,941 sqft,,2,"$3,034",2013,R2771515,Residential,Yes,,$709,22/05/2023,"$650,000",24/04/2023,"$668,000",Apartment/Condominium
+285,"19738 Alouette Blvd, Pitt Meadows, BC",5,2,2925 sqft,,4,"$5,864",2006,R2759184,Residential,Yes,,$524,18/05/2023,"$1,480,000",12/03/2023,"$1,535,000",Single Family Residence
+286,"3 - 19249 Hammond Rd, Pitt Meadows, BC",2,1,1111 sqft,,1,"$2,656",1988,R2774457,Residential,No,,$512,18/05/2023,"$569,900",03/05/2023,"$569,900",Townhouse
+287,"421 - 12635 190a St, Pitt Meadows, BC",2,2,1313 sqft,,2,"$3,767",2015,R2776560,Residential,Yes,,$590,17/05/2023,"$825,000",09/05/2023,"$774,900",Apartment/Condominium
+288,"110 - 19091 Mcmyn Rd, Pitt Meadows, BC",1,1,855 sqft,,2,"$2,428",1998,R2767913,Residential,Yes,,$613,11/05/2023,"$520,000",12/04/2023,"$524,900",Apartment/Condominium
+289,"19053 Advent Rd, Pitt Meadows, BC",5,3,2962 sqft,,4,"$5,341",1993,R2771638,Residential,Yes,,$504,09/05/2023,"$1,460,000",23/04/2023,"$1,495,000",Single Family Residence
+290,"10 - 19696 Hammond Rd, Pitt Meadows, BC",3,3,1339 sqft,,2,"$3,828",2020,R2771491,Residential,Yes,,$597,07/05/2023,"$896,000",24/04/2023,"$799,800",Townhouse
+291,"19467 116b Ave, Pitt Meadows, BC",4,2,1807 sqft,,4,"$4,584",1995,R2768054,Residential,Yes,,$594,16/04/2023,"$1,080,000",12/04/2023,"$1,075,000",Multi Family
+292,"14982 Harris Rd, Pitt Meadows, BC",3,3,3926 sqft,,25,"$2,662",1993,R2762118,Residential,Yes,,$534,22/03/2023,"$2,100,000",21/03/2023,"$2,100,000",Single Family Residence
+293,"202 - 19677 Meadow Gardens Way, Pitt Meadows, BC",2,2,1053 sqft,,1,"$3,254",2007,R2745187,Residential,Yes,,$607,19/02/2023,"$625,000",09/01/2023,"$639,900",Apartment/Condominium
+294,"19858 Wildwood Cres N, Pitt Meadows, BC",4,2,1867 sqft,,8,"$5,337",1977,R2738732,Residential,Yes,,$581,19/12/2022,"$1,035,000",15/11/2022,"$1,085,000",Single Family Residence
+295,"19137 117a Ave, Pitt Meadows, BC",3,2,2410 sqft,,8,"$5,828",2006,R2726427,Residential,Yes,,$530,08/11/2022,"$1,192,000",22/09/2022,"$1,277,900",Single Family Residence
+296,"114 - 12635 190a St, Pitt Meadows, BC",2,2,947 sqft,,2,"$3,047",2012,R2726259,Residential,Yes,,$665,03/10/2022,"$632,000",25/09/2022,"$629,990",Apartment/Condominium
+297,"74 - 19572 Fraser Way, Pitt Meadows, BC",2,2,1387 sqft,,2,"$3,794",2007,R2719604,Residential,Yes,,$620,01/09/2022,"$850,000",29/08/2022,"$860,000",Townhouse
+298,"907 - 12079 Harris Rd, Pitt Meadows, BC",3,2,1328 sqft,,2,"$3,877",2010,R2706079,Residential,Yes,,$602,08/07/2022,"$790,000",03/07/2022,"$799,900",Apartment/Condominium
+299,"73 - 19572 Fraser Way, Pitt Meadows, BC",3,2,1567 sqft,,2,"$3,799",2007,R2698200,Residential,Yes,,$532,09/06/2022,"$833,000",08/06/2022,"$835,000",Townhouse
+300,"319 - 12460 191 St, Pitt Meadows, BC",3,2,1315 sqft,,2,"$3,611",2019,R2682786,Residential,Yes,,$630,08/05/2022,"$820,000",28/04/2022,"$829,000",Apartment/Condominium
+301,"309 - 12525 190a St, Pitt Meadows, BC",2,2,942 sqft,,1,"$3,065",2012,R2671346,Residential,Yes,,$679,09/04/2022,"$639,900",30/03/2022,"$639,900",Apartment/Condominium
+302,"12318 194a St, Pitt Meadows, BC",4,2,2085 sqft,,6,"$5,552",1989,R2665477,Residential,Yes,,$671,23/03/2022,"$1,360,000",15/03/2022,"$1,400,000",Single Family Residence
+303,"37 - 19677 Poplar Dr, Pitt Meadows, BC",2,2,833 sqft,,2,"$1,290",2005,R2658936,Residential,No,,$540,08/03/2022,"$461,500",27/02/2022,"$449,900",Manufactured Home
+304,"29 - 12180 189a St, Pitt Meadows, BC",3,2,1561 sqft,,1,"$3,671",1982,R2652793,Residential,No,,$383,21/02/2022,"$785,000",13/02/2022,"$599,000",Townhouse
+305,"501 - 12069 Harris Rd, Pitt Meadows, BC",2,2,1059 sqft,,1,"$3,318",2010,R2645098,Residential,Yes,,$565,31/01/2022,"$650,000",23/01/2022,"$599,000",Apartment/Condominium
+306,"11722 193b St, Pitt Meadows, BC",5,2,2548 sqft,,0,"$4,933",1974,R2889568,Residential,No,,$545,-,Not Sold Yet,02/06/2024,"$1,388,880",Single Family Residence
+307,"12138 Mcmyn Ave, Pitt Meadows, BC",3,2,2009 sqft,,4,"$5,296",2005,R2635972,Residential,Yes,,$547,06/12/2021,"$1,421,000",25/11/2021,"$1,099,000",Single Family Residence
+308,"310 - 19677 Meadow Gardens Way, Pitt Meadows, BC",1,1,750 sqft,,1,"$2,483",2008,R2628409,Residential,Yes,,$612,04/11/2021,"$450,000",24/10/2021,"$459,000",Apartment/Condominium
+309,"201 - 19241 Ford Rd, Pitt Meadows, BC",2,2,1165 sqft,,1,"$2,746",1992,R2790406,Residential,Yes,,$496,30/06/2023,"$565,000",19/06/2023,"$579,000",Apartment/Condominium
+310,"17456 Kennedy Rd, Pitt Meadows, BC",4,3,2902 sqft,,10,"$1,163",1978,R2638952,Residential,Yes,,$758,09/01/2022,"$2,250,000",13/12/2021,"$2,199,800",Single Family Residence
+311,"19512 120 Ave, Pitt Meadows, BC",5,3,2920 sqft,,5,"$4,951",1976,R2611017,Residential,Yes,,$475,29/08/2021,"$1,405,000",18/08/2021,"$1,389,000",Single Family Residence
+312,"19634 Alouette Blvd, Pitt Meadows, BC",3,2,2789 sqft,,4,"$5,920",2004,R2603747,Residential,Yes,,$501,26/07/2021,"$1,537,500",20/07/2021,"$1,399,000",Single Family Residence
+313,"11255 Tully Cres, Pitt Meadows, BC",4,2,2813 sqft,,0,"$5,479",2004,R2594232,Residential,Yes,,$497,24/06/2021,"$1,470,000",17/06/2021,"$1,399,000",Single Family Residence

@@ -1,0 +1,493 @@
+,address,beds,bath,area,maintenance,parking,taxes,built,mlsNumber,levels,garage,lotSize,pricePerSqFt,soldDate,soldPrice,listingDate,listingPrice,type
+0,"106 - 15265 Roper Ave, White Rock, BC",1,1,693 sqft,,1,"$1,608",1974,R2899057,Residential,Yes,,$611,26/06/2024,"$480,000",25/06/2024,"$424,000",Apartment/Condominium
+1,"308 - 1501 Vidal St, White Rock, BC",2,2,1288 sqft,,2,"$5,488",2017,R2898776,Residential,Yes,,"$1,303",25/06/2024,"$1,700,000",24/06/2024,"$1,679,000",Apartment/Condominium
+2,"104 - 1488 Merklin St, White Rock, BC",1,1,1041 sqft,,1,"$2,051",1991,R2881426,Residential,Yes,,$509,24/06/2024,"$517,500",08/05/2024,"$529,900",Apartment/Condominium
+3,"201 - 1467 Best St, White Rock, BC",2,2,970 sqft,,1,"$2,059",1990,R2897027,Residential,Yes,,$555,22/06/2024,"$525,000",18/06/2024,"$538,900",Apartment/Condominium
+4,"302 - 1330 Martin St, White Rock, BC",2,1,828 sqft,,1,"$1,892",1974,R2894154,Residential,Yes,,$573,22/06/2024,"$477,000",18/06/2024,"$474,800",Apartment/Condominium
+5,"601 - 15165 Thrift Ave, White Rock, BC",2,2,985 sqft,,1,"$3,485",2020,R2889259,Residential,Yes,,"$1,014",20/06/2024,"$970,000",02/06/2024,"$999,000",Apartment/Condominium
+6,"206 - 1531 Merklin St, White Rock, BC",2,2,1066 sqft,,1,"$2,041",1981,R2895114,Residential,Yes,,$552,19/06/2024,"$589,000",13/06/2024,"$589,000",Apartment/Condominium
+7,"401 - 15991 Thrift Ave, White Rock, BC",2,1,881 sqft,,1,"$2,567",1990,R2887197,Residential,Yes,,$702,19/06/2024,"$588,000",26/05/2024,"$619,000",Apartment/Condominium
+8,"200 - 1459 Blackwood St, White Rock, BC",2,2,1040 sqft,,1,"$2,011",1987,R2894439,Residential,Yes,,$489,19/06/2024,"$500,000",12/06/2024,"$509,000",Apartment/Condominium
+9,"503 - 1501 Foster St, White Rock, BC",1,1,687 sqft,,0,"$2,842",2021,R2892564,Residential,Yes,,"$1,048",18/06/2024,"$688,800",09/06/2024,"$720,000",Apartment/Condominium
+10,"501 - 15445 Vine Ave, White Rock, BC",2,2,1382 sqft,,2,"$4,465",2005,R2886597,Residential,Yes,,$795,18/06/2024,"$1,085,000",23/05/2024,"$1,099,000",Apartment/Condominium
+11,"15571 Goggs Ave, White Rock, BC",6,4,2978 sqft,,3,"$8,098",2016,R2886766,Residential,Yes,,$664,17/06/2024,"$1,925,000",23/05/2024,"$1,979,999",Single Family Residence
+12,"205 - 1333 Winter St, White Rock, BC",2,2,987 sqft,,1,"$3,226",2013,R2891453,Residential,Yes,,$910,17/06/2024,"$880,000",05/06/2024,"$899,000",Apartment/Condominium
+13,"306 - 1561 Vidal St, White Rock, BC",2,1,1091 sqft,,1,"$2,139",1974,R2888978,Residential,Yes,,$484,15/06/2024,"$520,000",29/05/2024,"$529,000",Apartment/Condominium
+14,"107 - 1360 Martin St, White Rock, BC",2,2,946 sqft,,0,"$1,898",1973,R2872003,Residential,Yes,,$528,14/06/2024,"$475,000",17/04/2024,"$499,900",Apartment/Condominium
+15,"312 - 1119 Vidal St, White Rock, BC",2,2,1045 sqft,,1,"$2,495",1997,R2880512,Residential,Yes,,$622,13/06/2024,"$630,500",06/05/2024,"$650,000",Apartment/Condominium
+16,"7 - 14985 Victoria Ave, White Rock, BC",3,2,1821 sqft,,2,"$3,931",1982,R2883712,Residential,No,,$707,12/06/2024,"$1,200,000",19/05/2024,"$1,288,000",Townhouse
+17,"302 - 15367 Buena Vista Ave, White Rock, BC",2,2,1362 sqft,,1,"$2,977",1990,R2860628,Residential,Yes,,$586,12/06/2024,"$775,000",14/03/2024,"$799,000",Apartment/Condominium
+18,"603 - 1551 Foster St, White Rock, BC",2,2,1274 sqft,,1,"$3,238",2005,R2883872,Residential,Yes,,$667,11/06/2024,"$845,000",14/05/2024,"$849,900",Apartment/Condominium
+19,"1108 - 1441 Johnston Rd, White Rock, BC",2,2,973 sqft,,1,"$4,020",2020,R2887718,Residential,Yes,,"$1,305",07/06/2024,"$1,232,000",27/05/2024,"$1,270,000",Apartment/Condominium
+20,"105 - 15265 Roper Ave, White Rock, BC",2,1,932 sqft,,1,"$1,998",1974,R2888696,Residential,Yes,,$563,06/06/2024,"$551,000",27/05/2024,"$524,800",Apartment/Condominium
+21,"507 - 14855 Thrift Ave, White Rock, BC",2,2,1054 sqft,,2,"$3,826",2015,R2886321,Residential,Yes,,$928,06/06/2024,"$967,500",23/05/2024,"$979,000",Apartment/Condominium
+22,"1227 Finlay St, White Rock, BC",3,2,1594 sqft,,6,"$5,475",1985,R2884071,Residential,Yes,,$940,05/06/2024,"$1,465,000",15/05/2024,"$1,499,900",Single Family Residence
+23,"13615 Marine Dr, White Rock, BC",0,0,2110 sqft,,6,"$6,928",1978,R2887451,Residential,Yes,,$710,05/06/2024,"$1,595,000",26/05/2024,"$1,499,000",Single Family Residence
+24,"104 - 14855 Thrift Ave, White Rock, BC",1,1,950 sqft,,1,"$2,804",2014,R2859737,Residential,Yes,,$806,04/06/2024,"$750,000",13/03/2024,"$765,900",Apartment/Condominium
+25,"15586 Columbia Ave, White Rock, BC",2,1,1314 sqft,,2,"$4,638",1930,R2886687,Residential,No,,$866,01/06/2024,"$1,118,000",21/05/2024,"$1,138,000",Single Family Residence
+26,"13901 Malabar Ave, White Rock, BC",5,3,2649 sqft,,6,"$7,058",1969,R2886659,Residential,Yes,,$585,01/06/2024,"$1,550,000",20/05/2024,"$1,550,000",Single Family Residence
+27,"206 - 1355 Fir St, White Rock, BC",1,1,829 sqft,,1,"$1,617",1970,R2846874,Residential,Yes,,$542,01/06/2024,"$440,000",04/02/2024,"$449,900",Apartment/Condominium
+28,"303 - 1526 George St, White Rock, BC",2,1,898 sqft,,1,"$2,059",1979,R2869979,Residential,Yes,,$578,30/05/2024,"$515,000",09/04/2024,"$519,900",Apartment/Condominium
+29,"15651 Thrift Ave, White Rock, BC",2,1,1070 sqft,,4,"$5,591",1958,R2876569,Residential,Yes,,$933,28/05/2024,"$1,100,000",29/04/2024,"$999,000",Single Family Residence
+30,"212 - 14022 N Bluff Rd, White Rock, BC",2,2,866 sqft,,2,"$3,375",2019,R2848658,Residential,Yes,,$922,27/05/2024,"$755,000",12/02/2024,"$799,000",Apartment/Condominium
+31,"8 - 14820 Buena Vista Ave, White Rock, BC",1,1,506 sqft,,1,"$2,055",2017,R2877998,Residential,Yes,,$986,26/05/2024,"$490,000",30/04/2024,"$499,000",Apartment/Condominium
+32,"111 - 1355 Winter St, White Rock, BC",2,2,978 sqft,,1,"$1,939",1981,R2884445,Residential,Yes,,$429,25/05/2024,"$419,900",21/05/2024,"$419,900",Apartment/Condominium
+33,"101 - 1447 Best St, White Rock, BC",2,2,1050 sqft,,1,"$2,143",1989,R2867502,Residential,Yes,,$523,25/05/2024,"$533,000",08/04/2024,"$549,900",Apartment/Condominium
+34,"222 - 1588 Best St, White Rock, BC",2,1,911 sqft,,2,"$2,182",1996,R2853143,Residential,Yes,,$592,24/05/2024,"$530,000",28/02/2024,"$540,000",Apartment/Condominium
+35,"703 - 1501 Foster St, White Rock, BC",3,3,2060 sqft,,3,"$6,295",2022,R2862091,Residential,Yes,,"$1,043",21/05/2024,"$2,091,000",26/03/2024,"$2,149,000",Apartment/Condominium
+36,"504 - 1526 Finlay St, White Rock, BC",2,2,976 sqft,,1,,2022,R2824151,Residential,Yes,,$922,20/05/2024,"$934,900",09/10/2023,"$899,900",Apartment/Condominium
+37,"103 - 15165 Marine Dr, White Rock, BC",2,2,1159 sqft,,1,"$3,082",1989,R2883126,Residential,Yes,,$836,19/05/2024,"$969,000",13/05/2024,"$969,000",Apartment/Condominium
+38,"204 - 1378 George St, White Rock, BC",2,2,1091 sqft,,1,"$2,216",1993,R2878507,Residential,Yes,,$577,19/05/2024,"$629,999",08/05/2024,"$629,999",Apartment/Condominium
+39,"PH6 - 15389 Roper Ave, White Rock, BC",2,2,1020 sqft,,1,"$3,418",2011,R2873838,Residential,Yes,,$783,19/05/2024,"$780,000",21/04/2024,"$799,000",Apartment/Condominium
+40,"1338 Stevens St, White Rock, BC",3,2,2052 sqft,,3,"$6,081",1972,R2883036,Residential,No,,$677,19/05/2024,"$1,313,000",14/05/2024,"$1,389,785",Single Family Residence
+41,"305 - 15210 Pacific Ave, White Rock, BC",2,2,780 sqft,,1,"$2,128",1998,R2878262,Residential,Yes,,$717,19/05/2024,"$545,000",30/04/2024,"$560,000",Apartment/Condominium
+42,"107 - 1153 Vidal St, White Rock, BC",2,2,1237 sqft,,1,"$2,876",1996,R2878879,Residential,Yes,,$621,17/05/2024,"$737,000",02/05/2024,"$769,000",Apartment/Condominium
+43,"14732 Upper Roper Ave, White Rock, BC",4,3,4170 sqft,,3,"$13,000",1998,R2872369,Residential,Yes,,$812,17/05/2024,"$3,085,000",17/04/2024,"$3,388,000",Single Family Residence
+44,"15999 Columbia Ave, White Rock, BC",4,5,4052 sqft,,6,"$10,272",2018,R2846245,Residential,Yes,,$663,17/05/2024,"$2,420,000",31/01/2024,"$2,688,000",Single Family Residence
+45,"905 - 15152 Russell Ave, White Rock, BC",0,1,502 sqft,,1,"$1,761",2007,R2877084,Residential,Yes,,$994,16/05/2024,"$450,000",27/04/2024,"$499,000",Apartment/Condominium
+46,"104 - 1341 George St, White Rock, BC",2,1,920 sqft,,1,"$1,895",1981,R2882846,Residential,Yes,,$531,15/05/2024,"$475,000",13/05/2024,"$489,000",Apartment/Condominium
+47,"810 - 1526 Finlay St, White Rock, BC",2,2,1121 sqft,,1,"$3,878",2022,R2858065,Residential,Yes,,$891,15/05/2024,"$999,900",07/03/2024,"$999,900",Apartment/Condominium
+48,"308 - 14965 Marine Dr, White Rock, BC",2,2,1235 sqft,,1,"$2,428",1994,R2880801,Residential,Yes,,$468,13/05/2024,"$560,000",07/05/2024,"$578,800",Apartment/Condominium
+49,"312 - 1561 Vidal St, White Rock, BC",1,1,723 sqft,,1,"$1,699",1974,R2864402,Residential,Yes,,$564,12/05/2024,"$404,000",31/03/2024,"$408,000",Apartment/Condominium
+50,"103 - 1575 Best St, White Rock, BC",2,2,1076 sqft,,1,"$2,415",1993,R2879335,Residential,Yes,,$566,12/05/2024,"$600,000",05/05/2024,"$609,900",Apartment/Condominium
+51,"201 - 15213 Pacific Ave, White Rock, BC",3,2,1397 sqft,,1,"$2,811",1993,R2871565,Residential,Yes,,$608,12/05/2024,"$830,000",16/04/2024,"$850,000",Apartment/Condominium
+52,"104 - 1450 Merklin St, White Rock, BC",2,2,1375 sqft,,2,"$2,499",1991,R2880227,Residential,Yes,,$507,12/05/2024,"$711,000",06/05/2024,"$698,000",Apartment/Condominium
+53,"1906 - 15152 Russell Ave, White Rock, BC",2,2,953 sqft,,1,"$3,246",2008,R2880775,Residential,Yes,,$880,11/05/2024,"$836,800",07/05/2024,"$838,800",Apartment/Condominium
+54,"TH2 - 1439 George St, White Rock, BC",2,2,1380 sqft,,2,"$3,881",2021,R2844036,Residential,Yes,,$978,10/05/2024,"$1,335,000",22/01/2024,"$1,350,000",Apartment/Condominium
+55,"405 - 1526 Finlay St, White Rock, BC",2,2,1091 sqft,,2,"$3,774",2022,R2861404,Residential,Yes,,$916,10/05/2024,"$999,900",17/03/2024,"$999,900",Apartment/Condominium
+56,"14684 W Beach Ave, White Rock, BC",4,3,3056 sqft,,3,"$9,345",1990,R2878114,Residential,Yes,,$555,07/05/2024,"$1,700,000",30/04/2024,"$1,699,000",Single Family Residence
+57,"201 - 15747 Marine Dr, White Rock, BC",2,2,1205 sqft,,1,,2013,R2869238,Residential,Yes,,$912,07/05/2024,"$1,078,500",08/04/2024,"$1,099,000",Apartment/Condominium
+58,"1906 - 1501 Foster St, White Rock, BC",1,1,806 sqft,,1,"$3,180",2022,R2864134,Residential,Yes,,"$1,103",07/05/2024,"$835,000",27/03/2024,"$889,800",Apartment/Condominium
+59,"504 - 15466 N Bluff Rd, White Rock, BC",2,2,1710 sqft,,2,"$3,006",1996,R2872257,Residential,Yes,,$461,07/05/2024,"$775,000",16/04/2024,"$790,000",Apartment/Condominium
+60,"403 - 15152 Russell Ave, White Rock, BC",1,1,787 sqft,,1,"$2,638",2008,R2873617,Residential,No,,$824,06/05/2024,"$629,500",20/04/2024,"$649,000",Apartment/Condominium
+61,"1103 - 1441 Johnston Rd, White Rock, BC",2,2,930 sqft,,1,"$3,447",2020,R2879664,Residential,Yes,,$935,06/05/2024,"$869,900",05/05/2024,"$869,900",Apartment/Condominium
+62,"212 - 15210 Pacific Ave, White Rock, BC",2,2,1335 sqft,,2,"$2,061",1999,R2877117,Residential,Yes,,$673,05/05/2024,"$899,649",29/04/2024,"$899,649",Apartment/Condominium
+63,"207 - 1437 Foster St, White Rock, BC",2,1,1092 sqft,,1,"$2,143",1975,R2854662,Residential,Yes,,$502,05/05/2024,"$525,000",29/02/2024,"$549,000",Apartment/Condominium
+64,"701 - 1526 Finlay St, White Rock, BC",2,2,1094 sqft,,2,"$3,788",2022,R2847691,Residential,Yes,,$942,05/05/2024,"$1,030,900",04/02/2024,"$1,030,900",Apartment/Condominium
+65,"806 - 15111 Russell Ave, White Rock, BC",2,2,1152 sqft,,1,"$2,018",1988,R2850688,Residential,Yes,,$494,05/05/2024,"$525,000",17/02/2024,"$569,900",Apartment/Condominium
+66,"309 - 15357 Roper Ave, White Rock, BC",1,1,620 sqft,,1,"$2,085",2011,R2877256,Residential,Yes,,$851,05/05/2024,"$528,000",05/05/2024,"$528,000",Apartment/Condominium
+67,"206 - 15367 Buena Vista Ave, White Rock, BC",2,2,1551 sqft,,1,"$3,202",1990,R2861305,Residential,Yes,,$580,05/05/2024,"$895,000",19/03/2024,"$899,900",Apartment/Condominium
+68,"14479 Marine Dr, White Rock, BC",4,4,5127 sqft,,4,"$15,502",2017,R2876493,Residential,Yes,,$975,05/05/2024,"$5,150,000",28/04/2024,"$4,999,900",Single Family Residence
+69,"306 - 15611 Marine Dr, White Rock, BC",0,2,931 sqft,,0,"$2,116",2003,R2866635,Residential,Yes,,"$1,262",04/05/2024,"$1,125,000",03/04/2024,"$1,175,000",Apartment/Condominium
+70,"201 - 15152 Russell Ave, White Rock, BC",2,0,1293 sqft,,2,"$4,074",2008,R2874547,Residential,Yes,,"$1,043",04/05/2024,"$1,300,000",22/04/2024,"$1,349,000",Apartment/Condominium
+71,"15917 Goggs Ave, White Rock, BC",4,2,2500 sqft,,5,"$5,322",1972,R2850658,Residential,Yes,,$599,04/05/2024,"$1,440,000",18/02/2024,"$1,498,000",Single Family Residence
+72,"15840 Russell Ave, White Rock, BC",4,1,2049 sqft,,3,"$5,803",1971,R2876192,Residential,Yes,,$682,04/05/2024,"$1,353,000",29/04/2024,"$1,398,000",Single Family Residence
+73,"105 - 1280 Merklin St, White Rock, BC",2,2,896 sqft,,1,"$2,392",2001,R2875955,Residential,Yes,,$646,03/05/2024,"$562,500",25/04/2024,"$579,000",Apartment/Condominium
+74,"13879 Coldicutt Ave, White Rock, BC",4,1,2341 sqft,,4,"$6,878",1969,R2846491,Residential,No,,$681,01/05/2024,"$1,510,000",04/02/2024,"$1,595,000",Single Family Residence
+75,"1708 - 1455 George St, White Rock, BC",2,2,987 sqft,,2,"$3,764",2013,R2855008,Residential,Yes,,$910,01/05/2024,"$832,000",04/03/2024,"$899,000",Apartment/Condominium
+76,"806 - 1501 Foster St, White Rock, BC",2,1,806 sqft,,1,"$3,084",2022,R2870824,Residential,Yes,,$991,01/05/2024,"$784,900",14/04/2024,"$798,800",Apartment/Condominium
+77,"13873 Blackburn Ave, White Rock, BC",4,3,2444 sqft,,6,"$6,805",1967,R2871692,Residential,Yes,,$654,30/04/2024,"$1,620,000",14/04/2024,"$1,599,000",Single Family Residence
+78,"302 - 1322 Martin St, White Rock, BC",2,1,1111 sqft,,1,"$2,041",1973,R2857981,Residential,Yes,,$602,28/04/2024,"$667,000",17/03/2024,"$669,800",Apartment/Condominium
+79,"204 - 1354 Winter St, White Rock, BC",2,1,1009 sqft,,1,"$2,024",1983,R2849388,Residential,Yes,,$495,28/04/2024,"$485,000",25/02/2024,"$499,998",Apartment/Condominium
+80,"103 - 1378 Fir St, White Rock, BC",2,2,1324 sqft,,1,"$2,667",1986,R2874620,Residential,Yes,,$509,26/04/2024,"$676,500",23/04/2024,"$674,900",Apartment/Condominium
+81,"310 - 1441 Johnston Rd, White Rock, BC",2,2,900 sqft,,1,"$3,771",2020,R2864042,Residential,Yes,,$954,25/04/2024,"$855,000",27/03/2024,"$859,000",Apartment/Condominium
+82,"1107 - 15165 Thrift Ave, White Rock, BC",2,2,1163 sqft,,2,"$5,500",2020,R2872258,Residential,Yes,,"$1,461",25/04/2024,"$1,695,000",17/04/2024,"$1,700,000",Apartment/Condominium
+83,"506 - 1441 Johnston Rd, White Rock, BC",1,1,648 sqft,,1,"$2,656",2020,R2852720,Residential,Yes,,"$1,001",22/04/2024,"$640,000",27/02/2024,"$649,000",Apartment/Condominium
+84,"PH6 - 1588 Best St, White Rock, BC",1,1,712 sqft,,1,"$1,981",1995,R2856568,Residential,Yes,,$742,21/04/2024,"$520,000",03/03/2024,"$529,000",Apartment/Condominium
+85,"209 - 1459 Blackwood St, White Rock, BC",2,1,971 sqft,,1,"$1,964",1985,R2865017,Residential,Yes,,$540,-,Not Sold Yet,07/07/2024,"$540,000",Apartment/Condominium
+86,"1201 - 15152 Russell Ave, White Rock, BC",2,2,1282 sqft,,2,"$4,371",2009,R2866380,Residential,Yes,,"$1,033",20/04/2024,"$1,200,000",03/04/2024,"$1,325,000",Apartment/Condominium
+87,"414 - 1526 Finlay St, White Rock, BC",3,2,1367 sqft,,2,"$4,347",2022,R2868428,Residential,Yes,,$904,19/04/2024,"$1,235,900",08/04/2024,"$1,235,900",Apartment/Condominium
+88,"2E - 1400 George St, White Rock, BC",2,2,1294 sqft,,1,"$2,380",1990,R2834559,Residential,Yes,,$459,18/04/2024,"$580,000",23/11/2023,"$595,000",Apartment/Condominium
+89,"402 - 15015 Victoria Ave, White Rock, BC",1,1,1058 sqft,,1,"$3,502",1987,R2864868,Residential,Yes,,$754,18/04/2024,"$780,000",01/04/2024,"$798,000",Apartment/Condominium
+90,"307 - 1341 George St, White Rock, BC",2,1,775 sqft,,1,"$1,775",1981,R2861907,Residential,Yes,,$592,17/04/2024,"$450,000",20/03/2024,"$459,000",Apartment/Condominium
+91,"1202 - 1526 Finlay St, White Rock, BC",3,3,2358 sqft,,3,"$6,709",2022,R2824109,Residential,Yes,,"$1,225",15/04/2024,"$2,700,000",09/10/2023,"$2,889,000",Apartment/Condominium
+92,"2204 - 1475 Foster St, White Rock, BC",3,3,1964 sqft,,2,,2026,R2872188,Residential,Yes,,"$1,980",15/04/2024,"$3,890,000",14/04/2024,"$3,890,000",Apartment/Condominium
+93,"403 - 15445 Vine Ave, White Rock, BC",2,2,1367 sqft,,2,"$3,712",2005,R2821978,Residential,Yes,,$789,14/04/2024,"$1,050,000",04/10/2023,"$1,079,900",Apartment/Condominium
+94,"102 - 1473 Blackwood St, White Rock, BC",2,2,1016 sqft,,1,"$2,105",1984,R2868786,Residential,Yes,,$590,13/04/2024,"$580,000",08/04/2024,"$599,900",Apartment/Condominium
+95,"6 - 14985 Victoria Ave, White Rock, BC",3,2,1842 sqft,,2,"$3,957",1981,R2857524,Residential,No,,$732,13/04/2024,"$1,300,000",10/03/2024,"$1,350,000",Townhouse
+96,"101 - 15941 Marine Dr, White Rock, BC",2,2,1205 sqft,,1,"$2,925",1993,R2864065,Residential,Yes,,$653,11/04/2024,"$780,000",31/03/2024,"$788,000",Apartment/Condominium
+97,"404 - 14855 Thrift Ave, White Rock, BC",2,2,1149 sqft,,3,"$5,172",2014,R2863338,Residential,Yes,,"$1,087",10/04/2024,"$1,200,000",26/03/2024,"$1,249,000",Apartment/Condominium
+98,"1506 - 1473 Johnston Rd, White Rock, BC",2,2,954 sqft,,1,"$3,177",2009,R2851000,Residential,Yes,,$900,08/04/2024,"$847,000",19/02/2024,"$859,000",Apartment/Condominium
+99,"202 - 15466 N Bluff Rd, White Rock, BC",2,1,1175 sqft,,2,"$2,201",1996,R2865696,Residential,Yes,,$536,08/04/2024,"$615,000",04/04/2024,"$629,900",Apartment/Condominium
+100,"605 - 1441 Johnston Rd, White Rock, BC",1,1,635 sqft,,1,"$2,601",2020,R2864475,Residential,Yes,,"$1,021",07/04/2024,"$640,000",01/04/2024,"$648,800",Apartment/Condominium
+101,"205 - 15367 Buena Vista Ave, White Rock, BC",2,2,1336 sqft,,1,"$2,967",1990,R2866801,Residential,Yes,,$598,07/04/2024,"$825,000",07/04/2024,"$799,800",Apartment/Condominium
+102,"15963 Marine Dr, White Rock, BC",2,1,1010 sqft,,0,"$5,600",1947,R2846708,Residential,No,,"$1,276",07/04/2024,"$1,216,000",04/02/2024,"$1,289,500",Single Family Residence
+103,"502 - 15025 Victoria Ave, White Rock, BC",2,1,1302 sqft,,1,"$4,264",1986,R2852958,Residential,Yes,,"$1,036",05/04/2024,"$1,300,000",22/02/2024,"$1,350,000",Apartment/Condominium
+104,"401 - 1439 George St, White Rock, BC",2,2,1184 sqft,,2,"$4,924",2021,R2845982,Residential,Yes,,"$1,097",04/04/2024,"$1,295,000",31/01/2024,"$1,299,900",Apartment/Condominium
+105,"15858 Goggs Ave, White Rock, BC",5,2,2141 sqft,,4,"$6,391",1971,R2855433,Residential,Yes,,$709,02/04/2024,"$1,500,000",04/03/2024,"$1,519,785",Single Family Residence
+106,"210 - 14022 N Bluff Rd, White Rock, BC",1,1,672 sqft,,2,"$2,360",2020,R2852695,Residential,Yes,,$877,31/03/2024,"$580,000",26/02/2024,"$589,999",Apartment/Condominium
+107,"1352 Oxford St, White Rock, BC",2,3,2352 sqft,,4,"$9,380",1935,R2857430,Residential,Yes,,$931,31/03/2024,"$1,910,000",07/03/2024,"$2,190,000",Single Family Residence
+108,"202 - 15041 Prospect Ave, White Rock, BC",2,2,1174 sqft,,1,"$2,421",1974,R2863125,Residential,Yes,,$493,31/03/2024,"$578,000",25/03/2024,"$579,000",Apartment/Condominium
+109,"212 - 1355 Winter St, White Rock, BC",2,2,877 sqft,,1,"$1,911",1981,R2845046,Residential,Yes,,$512,30/03/2024,"$430,000",28/01/2024,"$449,900",Apartment/Condominium
+110,"2004 - 1500 Martin St, White Rock, BC",1,1,806 sqft,,1,"$3,184",2022,R2865258,Residential,Yes,,"$1,066",29/03/2024,"$860,000",27/03/2024,"$860,000",Apartment/Condominium
+111,"1303 - 15165 Thrift Ave, White Rock, BC",1,1,607 sqft,,2,"$2,383",2020,R2845989,Residential,Yes,,"$1,102",26/03/2024,"$663,500",31/01/2024,"$669,000",Apartment/Condominium
+112,"401 - 1350 Vidal St, White Rock, BC",2,2,1316 sqft,,0,"$3,442",1984,R2858677,Residential,Yes,,$588,24/03/2024,"$785,000",11/03/2024,"$774,000",Apartment/Condominium
+113,"307 - 1450 Merklin St, White Rock, BC",2,2,1327 sqft,,2,"$2,430",1991,R2856058,Residential,Yes,,$512,21/03/2024,"$670,000",03/03/2024,"$679,999",Apartment/Condominium
+114,"1101 - 1475 Foster St, White Rock, BC",2,2,1195 sqft,,2,,2026,R2862348,Residential,Yes,,"$1,062",20/03/2024,"$1,269,800",19/03/2024,"$1,269,800",Apartment/Condominium
+115,"607 - 1441 Johnston Rd, White Rock, BC",2,2,1148 sqft,,2,"$4,683",2020,R2861140,Residential,Yes,,"$1,104",18/03/2024,"$1,240,000",17/03/2024,"$1,268,000",Apartment/Condominium
+116,"2003 - 1455 George St, White Rock, BC",3,2,2159 sqft,,4,"$8,594",2013,R2850314,Residential,Yes,,"$1,146",18/03/2024,"$2,337,500",12/02/2024,"$2,475,000",Apartment/Condominium
+117,"3 - 1552 Everall St, White Rock, BC",2,2,1767 sqft,,1,"$3,261",1988,R2834417,Residential,Yes,,$419,16/03/2024,"$710,000",27/11/2023,"$742,000",Townhouse
+118,"612 - 1526 Finlay St, White Rock, BC",3,2,1368 sqft,,2,,2022,R2815419,Residential,Yes,,$910,15/03/2024,"$1,244,900",10/09/2023,"$1,244,900",Apartment/Condominium
+119,"201 - 1467 Martin St, White Rock, BC",2,2,1065 sqft,,1,"$2,197",1986,R2845154,Residential,Yes,,$533,14/03/2024,"$556,000",29/01/2024,"$568,000",Apartment/Condominium
+120,"1003 - 14824 N Bluff Rd, White Rock, BC",2,2,1474 sqft,,2,"$5,183",2007,R2854999,Residential,Yes,,$949,13/03/2024,"$1,350,000",03/03/2024,"$1,399,000",Apartment/Condominium
+121,"102 - 1555 Fir St, White Rock, BC",2,1,950 sqft,,1,"$1,906",1973,R2850228,Residential,Yes,,$526,-,Not Sold Yet,16/06/2024,"$565,000",Apartment/Condominium
+122,"104 - 1327 Best St, White Rock, BC",2,2,1435 sqft,,1,"$2,576",1989,R2853423,Residential,Yes,,$480,11/03/2024,"$675,000",27/02/2024,"$689,000",Apartment/Condominium
+123,"104 - 1551 Foster St, White Rock, BC",2,2,1250 sqft,,1,"$2,875",2005,R2824862,Residential,Yes,,$674,11/03/2024,"$822,500",24/10/2023,"$843,000",Apartment/Condominium
+124,"7 - 15971 Marine Dr, White Rock, BC",2,1,980 sqft,,1,"$2,289",1981,R2828083,Residential,No,,$641,10/03/2024,"$620,000",25/10/2023,"$629,000",Townhouse
+125,"5 - 15118 Thrift Ave, White Rock, BC",3,2,1461 sqft,,2,"$4,002",2013,R2847583,Residential,Yes,,$816,06/03/2024,"$1,135,000",06/02/2024,"$1,193,000",Townhouse
+126,"308 - 14950 Thrift Ave, White Rock, BC",2,2,1324 sqft,,1,"$2,554",1986,R2854049,Residential,Yes,,$641,05/03/2024,"$825,000",27/02/2024,"$849,000",Apartment/Condominium
+127,"807 - 1501 Vidal St, White Rock, BC",2,2,1294 sqft,,2,"$5,139",2017,R2854303,Residential,Yes,,"$1,158",03/03/2024,"$1,498,800",03/03/2024,"$1,498,800",Apartment/Condominium
+128,"102 - 15941 Marine Dr, White Rock, BC",2,2,1189 sqft,,1,"$2,894",1992,R2852735,Residential,Yes,,$672,02/03/2024,"$800,000",25/02/2024,"$799,980",Apartment/Condominium
+129,"402 - 1551 Foster St, White Rock, BC",2,2,1539 sqft,,1,"$3,410",2005,R2854280,Residential,Yes,,$629,29/02/2024,"$970,000",29/02/2024,"$968,800",Apartment/Condominium
+130,"210 - 1360 Martin St, White Rock, BC",1,1,751 sqft,,1,"$1,651",1973,R2852884,Residential,Yes,,$532,29/02/2024,"$390,000",25/02/2024,"$399,900",Apartment/Condominium
+131,"15622 Thrift Ave, White Rock, BC",5,2,2882 sqft,,5,"$6,985",1967,R2807527,Residential,No,,$586,28/02/2024,"$1,650,000",13/08/2023,"$1,690,000",Single Family Residence
+132,"123 - 1588 Best St, White Rock, BC",2,2,1160 sqft,,2,"$2,413",1996,R2852855,Residential,Yes,,$525,27/02/2024,"$614,000",20/02/2024,"$609,000",Apartment/Condominium
+133,"102 - 1280 Merklin St, White Rock, BC",2,2,831 sqft,,1,"$2,126",2001,R2851777,Residential,Yes,,$637,26/02/2024,"$529,900",22/02/2024,"$529,900",Apartment/Condominium
+134,"201 - 1255 Best St, White Rock, BC",2,2,1310 sqft,,1,"$2,244",1989,R2850807,Residential,Yes,,$555,23/02/2024,"$708,000",19/02/2024,"$728,000",Apartment/Condominium
+135,"304 - 14022 N Bluff Rd, White Rock, BC",1,1,740 sqft,,1,"$2,418",2020,R2842126,Residential,Yes,,$768,23/02/2024,"$568,000",28/01/2024,"$569,000",Apartment/Condominium
+136,"1401 - 1475 Foster St, White Rock, BC",2,2,1195 sqft,,2,,2026,R2853177,Residential,Yes,,"$1,133",23/02/2024,"$1,354,800",23/02/2024,"$1,354,800",Apartment/Condominium
+137,"616 - 1442 Foster St, White Rock, BC",2,2,1558 sqft,,2,"$3,510",1986,R2838475,Residential,Yes,,$532,21/02/2024,"$800,000",05/01/2024,"$829,000",Apartment/Condominium
+138,"1405 - 1500 Martin St, White Rock, BC",1,1,810 sqft,,1,"$3,132",2021,R2815065,Residential,Yes,,"$1,049",21/02/2024,"$835,000",12/09/2023,"$849,900",Apartment/Condominium
+139,"1304 - 1473 Johnston Rd, White Rock, BC",2,2,1175 sqft,,2,"$3,957",2008,R2844880,Residential,Yes,,$884,20/02/2024,"$1,041,000",25/01/2024,"$1,039,000",Apartment/Condominium
+140,"207 - 1378 George St, White Rock, BC",2,2,1192 sqft,,1,"$2,334",1993,R2849990,Residential,Yes,,$502,20/02/2024,"$600,000",12/02/2024,"$599,000",Apartment/Condominium
+141,"402 - 1500 Martin St, White Rock, BC",1,1,807 sqft,,1,"$3,097",2022,R2845934,Residential,Yes,,$990,19/02/2024,"$785,000",31/01/2024,"$799,000",Apartment/Condominium
+142,"101 - 1480 Foster St, White Rock, BC",2,1,1339 sqft,,1,"$2,719",1978,R2848771,Residential,Yes,,$470,18/02/2024,"$600,000",11/02/2024,"$629,900",Apartment/Condominium
+143,"601 - 1475 Foster St, White Rock, BC",1,2,1195 sqft,,2,,2026,R2851376,Residential,Yes,,$924,18/02/2024,"$1,104,800",16/02/2024,"$1,104,800",Apartment/Condominium
+144,"103 - 1550 Martin St, White Rock, BC",2,2,1232 sqft,,10,"$2,748",2005,R2822838,Residential,Yes,,$689,17/02/2024,"$825,000",05/10/2023,"$849,000",Apartment/Condominium
+145,"107 - 1444 Martin St, White Rock, BC",1,1,680 sqft,,1,"$1,392",1973,R2848926,Residential,Yes,,$586,17/02/2024,"$418,000",13/02/2024,"$398,500",Apartment/Condominium
+146,"206 - 15164 Prospect Ave, White Rock, BC",2,2,1322 sqft,,1,"$3,806",2007,R2845997,Residential,Yes,,$680,17/02/2024,"$850,000",31/01/2024,"$899,000",Apartment/Condominium
+147,"709 - 1588 Johnston Rd, White Rock, BC",1,1,679 sqft,,1,,2024,R2837227,Residential,Yes,,$927,15/02/2024,"$625,000",10/12/2023,"$629,900",Apartment/Condominium
+148,"311 - 1153 Vidal St, White Rock, BC",2,2,1122 sqft,,1,"$2,759",1996,R2834283,Residential,Yes,,$622,14/02/2024,"$700,000",21/11/2023,"$698,000",Apartment/Condominium
+149,"1573 Lee St, White Rock, BC",3,2,1347 sqft,,0,"$5,958",1961,R2847826,Residential,No,,"$1,112",13/02/2024,"$1,470,000",06/02/2024,"$1,499,000",Single Family Residence
+150,"205 - 15131 Buena Vista Ave, White Rock, BC",2,2,1111 sqft,,1,"$3,284",1987,R2847080,Residential,Yes,,$801,12/02/2024,"$895,000",02/02/2024,"$890,000",Apartment/Condominium
+151,"13842 Coldicutt Ave, White Rock, BC",3,2,2340 sqft,,6,"$7,085",1966,R2848331,Residential,Yes,,$726,09/02/2024,"$1,640,000",07/02/2024,"$1,699,900",Single Family Residence
+152,"204 - 1255 Best St, White Rock, BC",2,2,1195 sqft,,1,"$2,119",1989,R2847673,Residential,Yes,,$493,07/02/2024,"$600,000",05/02/2024,"$589,900",Apartment/Condominium
+153,"13831 Malabar Ave, White Rock, BC",4,2,2231 sqft,,5,"$6,797",1969,R2844531,Residential,No,,$627,04/02/2024,"$1,595,000",28/01/2024,"$1,399,000",Single Family Residence
+154,"205 - 1444 Martin St, White Rock, BC",1,1,670 sqft,,1,"$1,402",1973,R2845358,Residential,Yes,,$537,03/02/2024,"$365,000",30/01/2024,"$359,900",Apartment/Condominium
+155,"209 - 15875 Marine Dr, White Rock, BC",2,2,1120 sqft,,1,"$2,679",1990,R2844291,Residential,Yes,,$525,02/02/2024,"$580,000",23/01/2024,"$588,000",Apartment/Condominium
+156,"104 - 1319 Martin St, White Rock, BC",1,1,824 sqft,,1,"$1,782",1974,R2830879,Residential,Yes,,$515,01/02/2024,"$424,000",07/11/2023,"$424,800",Apartment/Condominium
+157,"206 - 15130 Roper Ave, White Rock, BC",2,2,1056 sqft,,1,"$1,944",1986,R2843926,Residential,No,,$484,31/01/2024,"$490,000",23/01/2024,"$512,000",Apartment/Condominium
+158,"8 - 15989 Marine Dr, White Rock, BC",3,1,1215 sqft,,1,"$3,016",1983,R2845480,Residential,Yes,,$698,31/01/2024,"$830,000",29/01/2024,"$849,000",Townhouse
+159,"102 - 14824 N Bluff Rd, White Rock, BC",2,2,1404 sqft,,2,"$3,854",2007,R2839707,Residential,Yes,,$640,30/01/2024,"$889,900",08/01/2024,"$899,900",Apartment/Condominium
+160,"14907 Buena Vista Ave, White Rock, BC",4,2,2437 sqft,,2,"$6,640",9999,R2813695,Residential,No,,$696,29/01/2024,"$1,575,000",07/09/2023,"$1,698,000",Single Family Residence
+161,"1001 - 1588 Johnston Rd, White Rock, BC",1,1,639 sqft,,1,,2024,R2840594,Residential,Yes,,$891,28/01/2024,"$550,000",08/01/2024,"$569,900",Apartment/Condominium
+162,"2101 - 1501 Foster St, White Rock, BC",2,2,1122 sqft,,2,"$4,109",2022,R2821832,Residential,Yes,,"$1,005",26/01/2024,"$1,125,000",04/10/2023,"$1,128,000",Apartment/Condominium
+163,"15525 Vista Dr, White Rock, BC",3,2,2879 sqft,,4,"$7,133",1988,R2844209,Residential,Yes,,$642,-,Not Sold Yet,20/06/2024,"$1,899,000",Single Family Residence
+164,"307 - 1330 Martin St, White Rock, BC",2,1,964 sqft,,1,"$2,020",1974,R2835640,Residential,Yes,,$517,24/01/2024,"$490,000",30/11/2023,"$499,000",Apartment/Condominium
+165,"103 - 820 Habgood St, White Rock, BC",2,2,1196 sqft,,1,"$2,490",1992,R2812707,Residential,Yes,,$547,24/01/2024,"$599,900",04/09/2023,"$655,000",Apartment/Condominium
+166,"14420 Magdalen Ave, White Rock, BC",5,4,4590 sqft,,2,"$13,059",2005,R2842528,Residential,Yes,,$740,22/01/2024,"$3,250,000",16/01/2024,"$3,399,000",Single Family Residence
+167,"15290 Pacific Ave, White Rock, BC",2,1,1711 sqft,,2,"$7,024",9999,R2839702,Residential,Yes,,"$1,022",15/01/2024,"$1,675,000",11/01/2024,"$1,749,000",Single Family Residence
+168,"407 - 14022 N Bluff Rd, White Rock, BC",3,2,1701 sqft,,2,"$3,761",2020,R2813544,Residential,Yes,,$763,14/01/2024,"$1,245,000",10/09/2023,"$1,299,000",Apartment/Condominium
+169,"403 - 15010 Roper Ave, White Rock, BC",1,1,706 sqft,,1,"$1,805",1974,R2835931,Residential,Yes,,$742,14/01/2024,"$500,000",03/12/2023,"$523,900",Apartment/Condominium
+170,"613 - 1526 Finlay St, White Rock, BC",2,2,1199 sqft,,2,,2022,R2815440,Residential,Yes,,$850,11/01/2024,"$1,019,900",10/09/2023,"$1,019,900",Apartment/Condominium
+171,"508 - 14855 Thrift Ave, White Rock, BC",2,2,1298 sqft,,2,"$4,734",2015,R2840410,Residential,Yes,,$885,11/01/2024,"$1,100,000",08/01/2024,"$1,150,000",Apartment/Condominium
+172,"1101 - 1588 Johnston Rd, White Rock, BC",1,1,639 sqft,,2,,2024,R2839025,Residential,Yes,,$923,10/01/2024,"$580,000",01/01/2024,"$589,900",Apartment/Condominium
+173,"15870 Prospect Cres, White Rock, BC",3,1,1171 sqft,,4,"$6,062",1971,R2840939,Residential,Yes,,"$1,109",10/01/2024,"$1,284,000",09/01/2024,"$1,299,000",Single Family Residence
+174,"707 - 15165 Thrift Ave, White Rock, BC",2,2,1097 sqft,,2,"$4,762",2020,R2832777,Residential,Yes,,"$1,184",08/01/2024,"$1,299,000",14/11/2023,"$1,299,000",Apartment/Condominium
+175,"1225 Parker St, White Rock, BC",4,2,2649 sqft,,4,"$7,335",1969,R2836969,Residential,Yes,,$717,08/01/2024,"$1,825,000",10/12/2023,"$1,899,988",Single Family Residence
+176,"907 - 1473 Johnston Rd, White Rock, BC",1,1,663 sqft,,1,"$2,379",2009,R2816640,Residential,Yes,,$903,04/01/2024,"$590,000",18/09/2023,"$599,000",Apartment/Condominium
+177,"503 - 15445 Vine Ave, White Rock, BC",2,2,1372 sqft,,1,"$4,472",2005,R2825319,Residential,Yes,,$787,03/01/2024,"$1,038,000",16/10/2023,"$1,080,800",Apartment/Condominium
+178,"309 - 1280 Merklin St, White Rock, BC",2,2,996 sqft,,1,"$2,709",2001,R2805268,Residential,Yes,,$651,03/01/2024,"$635,000",08/08/2023,"$649,000",Apartment/Condominium
+179,"15475 Victoria Ave, White Rock, BC",2,1,830 sqft,,2,"$4,711",9999,R2828547,Residential,No,,"$1,144",27/12/2023,"$922,500",29/10/2023,"$949,900",Single Family Residence
+180,"105 - 15717 Marine Dr, White Rock, BC",2,2,1008 sqft,,1,"$2,614",1990,R2829311,Residential,Yes,,$610,26/12/2023,"$582,000",31/10/2023,"$615,000",Apartment/Condominium
+181,"1708 - 1455 George St, White Rock, BC",2,2,987 sqft,,2,"$3,764",2013,R2823950,Residential,Yes,,$910,01/05/2024,"$832,000",04/03/2024,"$899,000",Apartment/Condominium
+182,"209 - 15777 Marine Dr, White Rock, BC",1,1,710 sqft,,1,"$2,665",2007,R2833580,Residential,Yes,,$816,22/12/2023,"$562,000",19/11/2023,"$579,900",Apartment/Condominium
+183,"315 - 15165 Thrift Ave, White Rock, BC",2,2,953 sqft,,2,"$3,472",2020,R2828025,Residential,Yes,,$984,19/12/2023,"$925,000",25/10/2023,"$938,000",Apartment/Condominium
+184,"1558 Kerfoot Rd, White Rock, BC",2,1,1092 sqft,,6,"$7,089",1967,R2807331,Residential,Yes,,"$1,555",14/12/2023,"$1,650,000",15/08/2023,"$1,699,000",Single Family Residence
+185,"206 - 1320 Fir St, White Rock, BC",2,1,936 sqft,,1,"$1,830",1975,R2835247,Residential,Yes,,$491,13/12/2023,"$455,000",27/11/2023,"$459,900",Apartment/Condominium
+186,"1216 Kent St, White Rock, BC",6,2,2119 sqft,,3,"$5,570",1971,R2828190,Residential,Yes,,$683,13/12/2023,"$1,385,000",25/10/2023,"$1,449,000",Single Family Residence
+187,"104 - 15717 Marine Dr, White Rock, BC",2,2,1130 sqft,,1,"$2,810",1989,R2831933,Residential,Yes,,$486,-,Not Sold Yet,05/06/2024,"$719,000",Apartment/Condominium
+188,"411 - 1526 Finlay St, White Rock, BC",2,2,1104 sqft,,2,,2022,R2815293,Residential,Yes,,$856,08/12/2023,"$945,900",10/09/2023,"$945,900",Apartment/Condominium
+189,"14357 Sunset Dr, White Rock, BC",5,4,4347 sqft,,4,"$10,219",1989,R2819733,Residential,No,,$730,06/12/2023,"$2,825,000",24/09/2023,"$3,175,000",Single Family Residence
+190,"1293 Parker St, White Rock, BC",4,2,2256 sqft,,5,"$6,955",1968,R2830896,Residential,No,,$753,06/12/2023,"$1,635,000",05/11/2023,"$1,699,900",Single Family Residence
+191,"15953 Buena Vista Ave, White Rock, BC",6,3,4826 sqft,,6,"$9,479",2004,R2820397,Residential,Yes,,$546,05/12/2023,"$2,438,000",26/09/2023,"$2,638,000",Single Family Residence
+192,"306 - 1378 George St, White Rock, BC",2,2,1154 sqft,,1,"$2,303",1993,R2813630,Residential,Yes,,$545,03/12/2023,"$605,000",07/09/2023,"$629,000",Apartment/Condominium
+193,"15453 Victoria Ave, White Rock, BC",4,3,3314 sqft,,7,"$7,772",1992,R2824311,Residential,Yes,,$814,03/12/2023,"$2,570,777",12/10/2023,"$2,699,777",Single Family Residence
+194,"406 - 15466 N Bluff Rd, White Rock, BC",2,2,1486 sqft,,2,"$2,498",1995,R2829804,Residential,Yes,,$430,29/11/2023,"$656,000",05/11/2023,"$639,999",Apartment/Condominium
+195,"404 - 1280 Fir St, White Rock, BC",2,2,1283 sqft,,1,"$2,546",1987,R2782865,Residential,Yes,,$706,28/11/2023,"$880,000",29/05/2023,"$906,000",Apartment/Condominium
+196,"213 - 1442 Blackwood St, White Rock, BC",2,1,959 sqft,,0,"$2,013",9999,R2833299,Residential,Yes,,$501,27/11/2023,"$475,000",16/11/2023,"$481,000",Apartment/Condominium
+197,"906 - 1588 Johnston Rd, White Rock, BC",2,2,853 sqft,,2,,2024,R2831130,Residential,Yes,,$937,23/11/2023,"$817,195",07/11/2023,"$799,900",Apartment/Condominium
+198,"3F - 1400 George St, White Rock, BC",2,2,1360 sqft,,2,"$2,480",1990,R2830832,Residential,Yes,,$477,23/11/2023,"$629,000",06/11/2023,"$648,888",Apartment/Condominium
+199,"104 - 1255 Best St, White Rock, BC",2,2,1142 sqft,,1,"$2,123",1989,R2830705,Residential,Yes,,$497,19/11/2023,"$560,000",05/11/2023,"$568,000",Apartment/Condominium
+200,"203 - 1488 Merklin St, White Rock, BC",2,2,1293 sqft,,1,"$2,200",1990,R2827537,Residential,Yes,,$525,19/11/2023,"$663,000",23/10/2023,"$680,000",Apartment/Condominium
+201,"14272 Vine Ave, White Rock, BC",4,2,1885 sqft,,5,"$6,004",1969,R2814132,Residential,Yes,,$795,19/11/2023,"$1,455,000",10/09/2023,"$1,499,999",Single Family Residence
+202,"514 - 1350 Vidal St, White Rock, BC",2,2,1033 sqft,,1,"$2,178",1984,R2831997,Residential,Yes,,$484,19/11/2023,"$525,000",12/11/2023,"$499,999",Apartment/Condominium
+203,"103 - 15176 Buena Vista Ave, White Rock, BC",1,1,915 sqft,,1,"$2,793",1990,R2828967,Residential,Yes,,$654,18/11/2023,"$579,000",30/10/2023,"$599,000",Apartment/Condominium
+204,"804 - 1439 George St, White Rock, BC",2,2,1301 sqft,,2,"$5,269",2021,R2825433,Residential,Yes,,"$1,152",17/11/2023,"$1,499,900",17/10/2023,"$1,499,900",Apartment/Condominium
+205,"1602 - 1473 Johnston Rd, White Rock, BC",2,2,1888 sqft,,2,"$8,069",2009,R2824046,Residential,Yes,,"$1,270",16/11/2023,"$2,165,000",11/10/2023,"$2,398,000",Apartment/Condominium
+206,"1522 Best St, White Rock, BC",3,2,1704 sqft,,3,"$3,713",1993,R2828553,Residential,Yes,,$568,16/11/2023,"$950,000",29/10/2023,"$969,000",Townhouse
+207,"14034 Marine Dr, White Rock, BC",4,3,3894 sqft,,12,"$15,505",2009,R2806274,Residential,Yes,,$872,15/11/2023,"$3,225,000",10/08/2023,"$3,399,000",Single Family Residence
+208,"15859 Vine Ave, White Rock, BC",2,1,1034 sqft,,3,"$5,529",1971,R2831218,Residential,No,,"$1,257",09/11/2023,"$1,230,000",06/11/2023,"$1,300,000",Single Family Residence
+209,"15511 Goggs Ave, White Rock, BC",4,3,2648 sqft,,3,"$7,506",2014,R2823694,Residential,Yes,,$679,05/11/2023,"$1,738,000",15/10/2023,"$1,799,000",Single Family Residence
+210,"15239 Victoria Ave, White Rock, BC",5,7,4924 sqft,,8,"$12,712",2012,R2804846,Residential,Yes,,$832,05/11/2023,"$3,900,000",07/08/2023,"$4,098,000",Single Family Residence
+211,"602 - 1500 Martin St, White Rock, BC",1,1,806 sqft,,1,"$3,063",2022,R2830627,Residential,Yes,,"$1,027",04/11/2023,"$750,476",02/11/2023,"$828,000",Apartment/Condominium
+212,"709 - 15111 Russell Ave, White Rock, BC",2,2,1110 sqft,,1,"$1,998",1989,R2829948,Residential,Yes,,$468,04/11/2023,"$519,999",31/10/2023,"$519,999",Apartment/Condominium
+213,"309 - 1450 Merklin St, White Rock, BC",2,2,1151 sqft,,1,"$2,299",1992,R2829488,Residential,Yes,,$542,04/11/2023,"$600,000",30/10/2023,"$624,900",Apartment/Condominium
+214,"403 - 1437 Foster St, White Rock, BC",2,1,1180 sqft,,1,"$2,312",1975,R2829326,Residential,Yes,,$504,03/11/2023,"$596,000",31/10/2023,"$595,000",Apartment/Condominium
+215,"1481 Best St, White Rock, BC",4,3,1770 sqft,,2,"$3,334",1994,R2827020,Residential,Yes,,$508,30/10/2023,"$950,000",22/10/2023,"$899,800",Townhouse
+216,"307 - 1354 Winter St, White Rock, BC",2,1,1050 sqft,,1,"$2,446",1982,R2827017,Residential,Yes,,$523,27/10/2023,"$545,000",22/10/2023,"$549,900",Apartment/Condominium
+217,"304 - 1150 Oxford St, White Rock, BC",2,2,1889 sqft,,3,"$5,895",2016,R2806825,Residential,Yes,,"$1,190",24/10/2023,"$2,090,000",14/08/2023,"$2,249,000",Apartment/Condominium
+218,"221 - 1588 Best St, White Rock, BC",1,1,693 sqft,,1,"$1,868",1995,R2826765,Residential,Yes,,$691,23/10/2023,"$475,000",22/10/2023,"$479,000",Apartment/Condominium
+219,"204 - 1378 Fir St, White Rock, BC",2,2,1429 sqft,,1,"$2,812",1986,R2818630,Residential,Yes,,$475,22/10/2023,"$641,000",26/09/2023,"$679,000",Apartment/Condominium
+220,"201 - 1554 George St, White Rock, BC",1,1,758 sqft,,1,"$1,577",1974,R2825063,Residential,Yes,,$580,22/10/2023,"$432,000",16/10/2023,"$439,900",Apartment/Condominium
+221,"214 - 1576 Merklin St, White Rock, BC",2,2,1027 sqft,,1,"$2,373",1995,R2804090,Residential,Yes,,$583,21/10/2023,"$585,000",17/08/2023,"$599,500",Apartment/Condominium
+222,"13842 N Bluff Rd, White Rock, BC",3,2,2170 sqft,,2,"$5,641",1967,R2818255,Residential,Yes,,$681,21/10/2023,"$1,459,000",20/09/2023,"$1,479,000",Single Family Residence
+223,"1901 - 1501 Foster St, White Rock, BC",2,2,1196 sqft,,2,"$4,085",2021,R2816030,Residential,Yes,,"$1,040",-,-,03/11/2023,"$1,198,900",Apartment/Condominium
+224,"204 - 14855 Thrift Ave, White Rock, BC",2,1,1051 sqft,,2,"$3,487",2015,R2821166,Residential,Yes,,$854,15/10/2023,"$875,000",03/10/2023,"$898,000",Apartment/Condominium
+225,"202 - 1450 Merklin St, White Rock, BC",2,2,1333 sqft,,2,"$2,465",1991,R2812099,Residential,Yes,,$554,12/10/2023,"$700,000",04/09/2023,"$739,000",Apartment/Condominium
+226,"1454 Maple St, White Rock, BC",5,4,2842 sqft,,1,"$5,922",1970,R2818090,Residential,No,,$583,12/10/2023,"$1,570,000",20/09/2023,"$1,658,800",Single Family Residence
+227,"204 - 1501 Vidal St, White Rock, BC",2,2,1566 sqft,,2,"$5,775",2017,R2814599,Residential,Yes,,"$1,148",09/10/2023,"$1,762,500",10/09/2023,"$1,799,000",Apartment/Condominium
+228,"205 - 1390 Martin St, White Rock, BC",2,2,1117 sqft,,1,"$2,052",1976,R2820919,Residential,Yes,,$492,08/10/2023,"$538,000",01/10/2023,"$550,000",Apartment/Condominium
+229,"1903 - 1475 Foster St, White Rock, BC",1,1,753 sqft,,1,,2025,R2824140,Residential,No,,"$1,169",08/10/2023,"$880,800",07/10/2023,"$880,800",Apartment/Condominium
+230,"1580 Bishop Rd, White Rock, BC",3,2,1691 sqft,,3,"$6,059",1965,R2821024,Residential,No,,$827,07/10/2023,"$1,330,000",02/10/2023,"$1,399,000",Single Family Residence
+231,"2304 - 1475 Foster St, White Rock, BC",3,3,1927 sqft,,2,,2025,R2822906,Residential,Yes,,"$2,049",07/10/2023,"$3,950,000",06/10/2023,"$3,950,000",Apartment/Condominium
+232,"307 - 1280 Merklin St, White Rock, BC",2,2,851 sqft,,1,"$2,243",2001,R2818089,Residential,Yes,,$611,07/10/2023,"$505,000",20/09/2023,"$519,999",Apartment/Condominium
+233,"204 - 1368 Foster St, White Rock, BC",1,1,689 sqft,,1,"$1,440",1978,R2821548,Residential,Yes,,$579,07/10/2023,"$399,000",02/10/2023,"$399,000",Apartment/Condominium
+234,"305 - 1350 Vidal St, White Rock, BC",2,2,1235 sqft,,1,"$2,320",1984,R2821719,Residential,Yes,,$445,06/10/2023,"$550,000",01/10/2023,"$549,900",Apartment/Condominium
+235,"3A - 1400 George St, White Rock, BC",2,2,1182 sqft,,1,"$1,936",1990,R2813082,Residential,Yes,,$557,05/10/2023,"$620,000",07/09/2023,"$659,000",Apartment/Condominium
+236,"305 - 15233 Pacific Ave, White Rock, BC",2,2,933 sqft,,1,"$2,193",1993,R2820776,Residential,Yes,,$599,05/10/2023,"$530,000",03/10/2023,"$559,000",Apartment/Condominium
+237,"401 - 15010 Roper Ave, White Rock, BC",2,1,888 sqft,,1,"$2,275",1974,R2819556,Residential,Yes,,$561,02/10/2023,"$550,000",25/09/2023,"$499,000",Apartment/Condominium
+238,"4 - 15118 Thrift Ave, White Rock, BC",3,2,1406 sqft,,2,"$4,058",2013,R2799966,Residential,No,,$781,01/10/2023,"$1,090,000",18/07/2023,"$1,099,000",Townhouse
+239,"14736 Oxenham Ave, White Rock, BC",2,2,2001 sqft,,4,"$6,689",1974,R2811035,Residential,Yes,,$987,30/09/2023,"$1,850,000",29/08/2023,"$1,975,000",Single Family Residence
+240,"1 - 15875 Marine Dr, White Rock, BC",3,2,1800 sqft,,2,"$3,915",1990,R2811720,Residential,Yes,,$638,29/09/2023,"$1,149,000",05/09/2023,"$1,149,000",Townhouse
+241,"13698 Blackburn Ave, White Rock, BC",5,6,5537 sqft,,4,"$11,732",2016,R2817234,Residential,Yes,,$539,28/09/2023,"$2,880,000",18/09/2023,"$2,988,000",Single Family Residence
+242,"14259 Park Ave, White Rock, BC",3,3,1992 sqft,,3,"$6,669",1971,R2810870,Residential,No,,$793,28/09/2023,"$1,525,000",29/08/2023,"$1,580,000",Single Family Residence
+243,"1533 Brearley St, White Rock, BC",6,5,4268 sqft,,6,"$9,851",2006,R2815930,Residential,Yes,,$608,26/09/2023,"$2,498,000",19/09/2023,"$2,598,000",Single Family Residence
+244,"1561 Chestnut St, White Rock, BC",2,1,1092 sqft,,6,"$6,517",9999,R2817452,Residential,No,,"$1,372",25/09/2023,"$1,485,000",18/09/2023,"$1,499,000",Single Family Residence
+245,"949 Parker St, White Rock, BC",2,2,2425 sqft,,5,"$5,494",1976,R2793833,Residential,No,,$639,25/09/2023,"$1,540,000",03/07/2023,"$1,549,700",Single Family Residence
+246,"117 - 1561 Vidal St, White Rock, BC",2,1,993 sqft,,1,"$2,017",1973,R2813472,Residential,Yes,,$523,24/09/2023,"$510,000",06/09/2023,"$520,000",Apartment/Condominium
+247,"201 - 1455 George St, White Rock, BC",2,2,967 sqft,,2,"$2,607",2013,R2815175,Residential,Yes,,$722,24/09/2023,"$648,000",12/09/2023,"$699,000",Apartment/Condominium
+248,"828 Stevens St, White Rock, BC",5,4,4126 sqft,,6,"$8,829",2021,R2819148,Residential,Yes,,$727,23/09/2023,"$2,950,000",23/09/2023,"$3,000,000",Single Family Residence
+249,"106 - 1521 Blackwood St, White Rock, BC",2,2,1015 sqft,,1,"$1,901",1981,R2810963,Residential,Yes,,$512,20/09/2023,"$510,000",04/09/2023,"$519,999",Apartment/Condominium
+250,"9 - 1338 Foster St, White Rock, BC",3,2,1447 sqft,,3,"$4,600",2014,R2816947,Residential,Yes,,$682,20/09/2023,"$1,000,000",19/09/2023,"$988,000",Townhouse
+251,"102 - 15445 Vine Ave, White Rock, BC",2,2,1222 sqft,,1,"$3,079",2005,R2807679,Residential,Yes,,$735,19/09/2023,"$879,000",15/08/2023,"$899,000",Apartment/Condominium
+252,"1007 - 15152 Russell Ave, White Rock, BC",1,1,657 sqft,,1,"$2,215",2008,R2799316,Residential,Yes,,$925,17/09/2023,"$602,000",18/07/2023,"$608,000",Apartment/Condominium
+253,"216 - 1588 Best St, White Rock, BC",2,2,873 sqft,,2,"$2,106",1997,R2814946,Residential,Yes,,$601,17/09/2023,"$522,400",11/09/2023,"$524,900",Apartment/Condominium
+254,"305 - 1410 Blackwood St, White Rock, BC",1,1,890 sqft,,1,"$2,010",1978,R2815305,Residential,Yes,,$561,16/09/2023,"$495,000",12/09/2023,"$499,900",Apartment/Condominium
+255,"313 - 1526 Finlay St, White Rock, BC",3,2,1354 sqft,,2,,2022,R2809295,Residential,Yes,,$922,15/09/2023,"$1,248,900",21/08/2023,"$1,248,900",Apartment/Condominium
+256,"205 - 1273 Merklin St, White Rock, BC",2,2,1059 sqft,,1,"$2,173",1989,R2812902,Residential,Yes,,$583,14/09/2023,"$615,000",06/09/2023,"$618,000",Apartment/Condominium
+257,"301 - 1331 Fir St, White Rock, BC",2,1,793 sqft,,1,"$1,604",1973,R2813459,Residential,Yes,,$605,13/09/2023,"$480,000",07/09/2023,"$479,999",Apartment/Condominium
+258,"301 - 15131 Buena Vista Ave, White Rock, BC",2,2,1094 sqft,,1,"$3,298",1987,R2801327,Residential,Yes,,$731,13/09/2023,"$790,500",23/07/2023,"$799,900",Apartment/Condominium
+259,"301 - 1473 Johnston Rd, White Rock, BC",2,2,1279 sqft,,2,"$4,002",2008,R2804633,Residential,Yes,,$702,11/09/2023,"$855,000",07/08/2023,"$898,900",Apartment/Condominium
+260,"983 Stevens St, White Rock, BC",6,3,3848 sqft,,4,"$8,786",2005,R2813540,Residential,Yes,,$545,11/09/2023,"$2,000,000",07/09/2023,"$2,099,000",Single Family Residence
+261,"216 - 1442 Foster St, White Rock, BC",2,2,1724 sqft,,1,"$2,912",1987,R2810168,Residential,Yes,,$463,11/09/2023,"$807,000",28/08/2023,"$799,000",Apartment/Condominium
+262,"211 - 1350 Johnston Rd, White Rock, BC",2,3,1610 sqft,,2,,2024,R2802704,Residential,Yes,,$915,10/09/2023,"$1,473,900",27/07/2023,"$1,473,900",Apartment/Condominium
+263,"14786 Thrift Ave, White Rock, BC",5,5,4095 sqft,,5,"$6,905",2023,R2797934,Residential,No,,$830,10/09/2023,"$2,857,142",11/07/2023,"$3,399,999",Single Family Residence
+264,"219 - 1561 Vidal St, White Rock, BC",1,1,717 sqft,,1,"$1,508",1974,R2811874,Residential,Yes,,$585,07/09/2023,"$412,400",05/09/2023,"$419,900",Apartment/Condominium
+265,"305 - 1331 Fir St, White Rock, BC",2,1,817 sqft,,1,"$1,687",1975,R2809803,Residential,Yes,,$575,07/09/2023,"$465,000",28/08/2023,"$469,999",Apartment/Condominium
+266,"202 - 1355 Winter St, White Rock, BC",2,2,876 sqft,,1,"$1,880",1980,R2811490,Residential,Yes,,$569,06/09/2023,"$497,000",04/09/2023,"$499,000",Apartment/Condominium
+267,"1533 Parker Pl, White Rock, BC",2,2,1801 sqft,,7,"$5,471",1972,R2773042,Residential,No,,$824,06/09/2023,"$1,445,000",30/04/2023,"$1,485,000",Single Family Residence
+268,"301 - 15165 Thrift Ave, White Rock, BC",2,2,1002 sqft,,2,"$3,605",2020,R2811279,Residential,Yes,,"$1,031",05/09/2023,"$1,034,000",31/08/2023,"$1,034,000",Apartment/Condominium
+269,"204 - 1320 Fir St, White Rock, BC",2,1,766 sqft,,1,,1973,R2809270,Residential,Yes,,$626,03/09/2023,"$480,000",27/08/2023,"$479,900",Apartment/Condominium
+270,"203 - 14881 Marine Dr, White Rock, BC",1,1,631 sqft,,1,"$1,744",1976,R2806066,Residential,No,,$711,03/09/2023,"$435,000",08/08/2023,"$448,999",Apartment/Condominium
+271,"3 - 15989 Marine Dr, White Rock, BC",1,1,780 sqft,,1,"$2,426",1983,R2803956,Residential,Yes,,$767,01/09/2023,"$599,000",02/08/2023,"$599,000",Townhouse
+272,"1008 - 1441 Johnston Rd, White Rock, BC",2,2,963 sqft,,1,"$3,653",2020,R2803592,Residential,Yes,,"$1,100",30/08/2023,"$1,020,000",01/08/2023,"$1,059,900",Apartment/Condominium
+273,"1904 - 1500 Martin St, White Rock, BC",1,1,806 sqft,,1,"$1,769",2022,R2778475,Residential,Yes,,"$1,027",28/08/2023,"$788,571",15/05/2023,"$828,000",Apartment/Condominium
+274,"306 - 15290 Thrift Ave, White Rock, BC",2,1,876 sqft,,1,"$2,000",1984,R2807322,Residential,Yes,,$547,27/08/2023,"$500,000",17/08/2023,"$479,888",Apartment/Condominium
+275,"302 - 1500 Martin St, White Rock, BC",1,1,806 sqft,,1,,2022,R2788648,Residential,Yes,,$949,24/08/2023,"$735,000",14/06/2023,"$765,000",Apartment/Condominium
+276,"101 - 1368 Foster St, White Rock, BC",2,1,996 sqft,,1,"$1,703",1978,R2806991,Residential,Yes,,$501,24/08/2023,"$486,000",13/08/2023,"$499,990",Apartment/Condominium
+277,"906 - 1526 Finlay St, White Rock, BC",2,2,1120 sqft,,2,"$4,110",2022,R2784394,Residential,Yes,,$920,23/08/2023,"$1,030,900",31/05/2023,"$1,030,900",Apartment/Condominium
+278,"1131 Elm St, White Rock, BC",1,1,789 sqft,,1,"$2,219",1985,R2804596,Residential,Yes,,$683,22/08/2023,"$539,000",06/08/2023,"$539,000",Townhouse
+279,"319 - 14855 Thrift Ave, White Rock, BC",3,2,2327 sqft,,2,"$8,863",2015,R2794527,Residential,Yes,,$858,22/08/2023,"$1,850,000",03/07/2023,"$1,998,000",Apartment/Condominium
+280,"705 - 1501 Foster St, White Rock, BC",1,1,806 sqft,,1,,2022,R2807764,Residential,Yes,,$892,-,Not Sold Yet,11/06/2024,"$789,000",Apartment/Condominium
+281,"203 - 1360 Martin St, White Rock, BC",1,1,675 sqft,,1,"$1,355",1974,R2777188,Residential,Yes,,$651,16/08/2023,"$410,000",10/05/2023,"$439,900",Apartment/Condominium
+282,"1549 Kerfoot Rd, White Rock, BC",2,1,1288 sqft,,2,"$5,991",1969,R2796952,Residential,No,,"$1,241",14/08/2023,"$1,515,000",10/07/2023,"$1,599,000",Single Family Residence
+283,"105 - 1333 Winter St, White Rock, BC",2,2,983 sqft,,1,"$3,268",2013,R2805933,Residential,Yes,,$793,14/08/2023,"$870,000",09/08/2023,"$779,900",Apartment/Condominium
+284,"15736 Buena Vista Ave, White Rock, BC",4,3,4156 sqft,,4,"$8,564",1994,R2801549,Residential,Yes,,$505,14/08/2023,"$2,079,900",23/07/2023,"$2,100,000",Single Family Residence
+285,"604 - 1588 Johnston Rd, White Rock, BC",2,2,934 sqft,,1,,2023,R2797785,Residential,Yes,,$855,14/08/2023,"$775,000",09/07/2023,"$799,000",Apartment/Condominium
+286,"205 - 1442 Foster St, White Rock, BC",2,2,1218 sqft,,1,"$2,256",1982,R2805159,Residential,Yes,,$595,13/08/2023,"$730,000",07/08/2023,"$725,000",Apartment/Condominium
+287,"312 - 15621 Marine Dr, White Rock, BC",1,1,710 sqft,,1,"$2,135",2004,R2806079,Residential,Yes,,$771,11/08/2023,"$550,000",09/08/2023,"$548,000",Apartment/Condominium
+288,"1101 - 1473 Johnston Rd, White Rock, BC",2,2,1291 sqft,,2,"$4,316",2008,R2802743,Residential,Yes,,$890,09/08/2023,"$1,150,000",31/07/2023,"$1,150,000",Apartment/Condominium
+289,"1 - 15989 Marine Dr, White Rock, BC",2,1,965 sqft,,2,"$2,667",1983,R2800576,Residential,Yes,,$817,08/08/2023,"$765,000",20/07/2023,"$788,888",Apartment/Condominium
+290,"202 - 1459 Blackwood St, White Rock, BC",2,2,1172 sqft,,1,"$1,955",1987,R2794081,Residential,Yes,,$516,08/08/2023,"$595,000",03/07/2023,"$605,888",Apartment/Condominium
+291,"503 - 1581 Foster St, White Rock, BC",1,1,964 sqft,,1,"$2,523",2003,R2803869,Residential,Yes,,$776,07/08/2023,"$775,000",01/08/2023,"$749,000",Apartment/Condominium
+292,"312 - 1526 Finlay St, White Rock, BC",2,2,1099 sqft,,2,,2022,R2796186,Residential,Yes,,$938,07/08/2023,"$1,030,900",04/07/2023,"$1,030,900",Apartment/Condominium
+293,"976 Kent St, White Rock, BC",6,5,3655 sqft,,6,"$9,077",2015,R2775754,Residential,Yes,,$719,06/08/2023,"$2,470,000",07/05/2023,"$2,628,000",Single Family Residence
+294,"412 - 1220 Fir St, White Rock, BC",2,2,967 sqft,,1,"$2,517",1987,R2804265,Residential,Yes,,$646,04/08/2023,"$620,000",03/08/2023,"$625,000",Apartment/Condominium
+295,"14232 N Bluff Rd, White Rock, BC",3,2,1282 sqft,,3,"$5,315",9999,R2800018,Residential,Yes,,$974,03/08/2023,"$1,175,000",17/07/2023,"$1,249,900",Single Family Residence
+296,"202 - 1580 Martin St, White Rock, BC",2,2,1330 sqft,,1,"$2,597",2004,R2796319,Residential,Yes,,$657,03/08/2023,"$875,000",11/07/2023,"$875,000",Apartment/Condominium
+297,"104 - 15130 Roper Ave, White Rock, BC",2,2,1085 sqft,,1,"$1,976",1987,R2799337,Residential,Yes,,$437,02/08/2023,"$480,000",18/07/2023,"$474,900",Apartment/Condominium
+298,"211 - 15875 Marine Dr, White Rock, BC",2,2,1078 sqft,,1,"$2,431",1989,R2791212,Residential,Yes,,$555,02/08/2023,"$595,000",20/06/2023,"$599,000",Apartment/Condominium
+299,"307 - 14950 Thrift Ave, White Rock, BC",2,2,1279 sqft,,1,"$2,554",1986,R2796128,Residential,Yes,,$663,01/08/2023,"$820,000",10/07/2023,"$849,000",Apartment/Condominium
+300,"503 - 1480 Foster St, White Rock, BC",1,1,833 sqft,,1,,1979,R2799068,Residential,Yes,,$660,01/08/2023,"$520,000",13/07/2023,"$549,900",Apartment/Condominium
+301,"15294 Royal Ave, White Rock, BC",4,3,3783 sqft,,10,"$8,739",1990,R2801288,Residential,Yes,,$732,30/07/2023,"$2,689,000",24/07/2023,"$2,770,000",Single Family Residence
+302,"110 - 15875 Marine Dr, White Rock, BC",2,2,1040 sqft,,1,"$2,462",1989,R2791364,Residential,Yes,,$596,30/07/2023,"$570,000",20/06/2023,"$620,000",Apartment/Condominium
+303,"305 - 15290 Thrift Ave, White Rock, BC",2,1,900 sqft,,1,"$1,787",1984,R2770042,Residential,Yes,,$554,29/07/2023,"$497,000",19/04/2023,"$499,000",Apartment/Condominium
+304,"14776 Mcdonald Ave, White Rock, BC",2,2,1201 sqft,,3,"$5,774",1927,R2758422,Residential,No,,"$1,206",28/07/2023,"$1,477,000",08/03/2023,"$1,449,000",Single Family Residence
+305,"14815 Hardie Ave, White Rock, BC",3,2,3151 sqft,,4,"$9,030",1984,R2796142,Residential,Yes,,$697,-,Not Sold Yet,05/05/2024,"$2,599,999",Single Family Residence
+306,"301 - 15445 Vine Ave, White Rock, BC",2,2,1406 sqft,,2,"$4,030",2005,R2800443,Residential,Yes,,$895,27/07/2023,"$1,240,000",20/07/2023,"$1,259,000",Apartment/Condominium
+307,"301 - 15777 Marine Dr, White Rock, BC",2,2,984 sqft,,1,"$2,680",2006,R2788944,Residential,Yes,,$761,27/07/2023,"$730,000",14/06/2023,"$749,000",Apartment/Condominium
+308,"501 - 1526 Finlay St, White Rock, BC",2,2,1086 sqft,,2,,2022,R2799826,Residential,Yes,,$944,27/07/2023,"$1,025,900",16/07/2023,"$1,025,900",Apartment/Condominium
+309,"103 - 14855 Thrift Ave, White Rock, BC",2,2,1130 sqft,,1,"$3,792",2015,R2790562,Residential,Yes,,$938,26/07/2023,"$1,045,000",20/06/2023,"$1,060,000",Apartment/Condominium
+310,"15569 Thrift Ave, White Rock, BC",3,3,2674 sqft,,0,"$5,992",2008,R2800030,Residential,Yes,,$673,25/07/2023,"$1,800,000",18/07/2023,"$1,799,900",Single Family Residence
+311,"1203 - 1588 Johnston Rd, White Rock, BC",1,1,640 sqft,,1,,2023,R2765404,Residential,Yes,,"$1,007",24/07/2023,"$605,000",04/04/2023,"$645,000",Apartment/Condominium
+312,"302 - 1450 Merklin St, White Rock, BC",2,2,1313 sqft,,2,"$2,458",1990,R2802268,Residential,Yes,,$555,24/07/2023,"$724,000",23/07/2023,"$730,000",Apartment/Condominium
+313,"312 - 15875 Marine Dr, White Rock, BC",2,2,1003 sqft,,2,"$2,463",1989,R2788885,Residential,Yes,,$657,24/07/2023,"$659,000",14/06/2023,"$659,000",Apartment/Condominium
+314,"205 - 1458 Blackwood St, White Rock, BC",2,2,1133 sqft,,1,"$1,774",1982,R2800310,Residential,Yes,,$405,23/07/2023,"$435,000",19/07/2023,"$459,900",Apartment/Condominium
+315,"308 - 1381 Martin St, White Rock, BC",2,1,1187 sqft,,1,"$2,132",1978,R2800383,Residential,Yes,,$492,22/07/2023,"$580,000",19/07/2023,"$585,000",Apartment/Condominium
+316,"15837 Pacific Ave, White Rock, BC",4,3,2799 sqft,,2,"$6,842",1986,R2785899,Residential,Yes,,$624,21/07/2023,"$1,650,000",05/06/2023,"$1,749,000",Single Family Residence
+317,"107 - 1442 Foster St, White Rock, BC",2,2,1231 sqft,,1,"$2,270",1986,R2798880,Residential,Yes,,$510,20/07/2023,"$650,000",17/07/2023,"$629,000",Apartment/Condominium
+318,"304 - 15357 Roper Ave, White Rock, BC",2,2,988 sqft,,2,"$2,534",2010,R2797311,Residential,Yes,,$718,19/07/2023,"$695,000",10/07/2023,"$710,000",Apartment/Condominium
+319,"14273 Vine Ave, White Rock, BC",7,7,5863 sqft,,6,"$4,648",2022,R2781635,Residential,Yes,,$596,19/07/2023,"$3,230,000",25/05/2023,"$3,500,000",Single Family Residence
+320,"101 - 15621 Marine Dr, White Rock, BC",1,1,737 sqft,,1,"$1,992",2003,R2797502,Residential,Yes,,$677,17/07/2023,"$535,000",12/07/2023,"$499,000",Apartment/Condominium
+321,"14015 Marine Dr, White Rock, BC",2,2,2549 sqft,,2,"$3,445",1972,R2796323,Residential,No,,$388,15/07/2023,"$960,000",10/07/2023,"$990,000",Townhouse
+322,"15369 Marine Dr, White Rock, BC",3,2,2351 sqft,,3,"$6,931",2016,R2789505,Residential,Yes,,"$1,002",15/07/2023,"$2,240,000",18/06/2023,"$2,358,000",Single Family Residence
+323,"501 - 1442 Foster St, White Rock, BC",1,1,856 sqft,,1,"$1,846",1986,R2778346,Residential,Yes,,$583,14/07/2023,"$495,000",15/05/2023,"$499,900",Apartment/Condominium
+324,"407 - 1350 Vidal St, White Rock, BC",2,2,1110 sqft,,1,"$1,848",1984,R2788951,Residential,Yes,,$495,-,-,30/10/2023,"$649,900",Apartment/Condominium
+325,"203 - 1225 Merklin St, White Rock, BC",2,2,959 sqft,,1,"$2,385",1989,R2793983,Residential,Yes,,$614,13/07/2023,"$589,000",29/06/2023,"$589,000",Apartment/Condominium
+326,"706 - 15152 Russell Ave, White Rock, BC",2,2,942 sqft,,2,"$2,801",2009,R2794508,Residential,Yes,,$849,13/07/2023,"$795,999",03/07/2023,"$799,999",Apartment/Condominium
+327,"506 - 1501 Foster St, White Rock, BC",1,1,808 sqft,,1,"$2,377",2022,R2775851,Residential,Yes,,$988,13/07/2023,"$795,000",08/05/2023,"$799,000",Apartment/Condominium
+328,"309 - 1153 Vidal St, White Rock, BC",1,1,882 sqft,,1,"$2,337",1996,R2790735,Residential,Yes,,$565,13/07/2023,"$478,000",18/06/2023,"$499,000",Apartment/Condominium
+329,"101 - 1351 Vidal St, White Rock, BC",2,2,1277 sqft,,1,"$2,127",1984,R2785763,Residential,Yes,,$703,12/07/2023,"$850,000",08/06/2023,"$899,000",Apartment/Condominium
+330,"609 - 15111 Russell Ave, White Rock, BC",2,2,1149 sqft,,1,"$1,858",1987,R2795572,Residential,No,,$469,12/07/2023,"$495,000",05/07/2023,"$539,900",Apartment/Condominium
+331,"14093 Blackburn Ave, White Rock, BC",4,2,2519 sqft,,0,"$6,721",1991,R2793499,Residential,Yes,,$674,10/07/2023,"$1,770,000",04/07/2023,"$1,699,900",Single Family Residence
+332,"714 - 1526 Finlay St, White Rock, BC",2,2,1038 sqft,,2,,2022,R2791524,Residential,Yes,,$914,09/07/2023,"$900,000",21/06/2023,"$949,000",Apartment/Condominium
+333,"859 Parker St, White Rock, BC",5,4,3911 sqft,,7,"$8,752",2018,R2796078,Residential,Yes,,$715,09/07/2023,"$2,785,000",06/07/2023,"$2,799,000",Single Family Residence
+334,"502 - 15445 Vine Ave, White Rock, BC",2,2,1242 sqft,,2,"$3,619",2005,R2796087,Residential,Yes,,$805,08/07/2023,"$1,000,000",05/07/2023,"$999,900",Apartment/Condominium
+335,"876 Parker St, White Rock, BC",4,3,3447 sqft,,6,"$7,474",1998,R2794717,Residential,Yes,,$638,08/07/2023,"$2,195,000",04/07/2023,"$2,199,888",Single Family Residence
+336,"202 - 15111 Russell Ave, White Rock, BC",1,1,959 sqft,,1,"$1,641",1988,R2795089,Residential,Yes,,$468,07/07/2023,"$449,000",04/07/2023,"$449,000",Apartment/Condominium
+337,"102 - 1234 Merklin St, White Rock, BC",2,2,1376 sqft,,1,"$2,279",1990,R2795985,Residential,Yes,,$471,07/07/2023,"$655,000",05/07/2023,"$649,000",Apartment/Condominium
+338,"313 - 15020 N Bluff Rd, White Rock, BC",2,1,735 sqft,,1,,1974,R2776842,Residential,Yes,,$557,05/07/2023,"$408,000",10/05/2023,"$409,900",Apartment/Condominium
+339,"505 - 1442 Foster St, White Rock, BC",2,2,1221 sqft,,1,"$2,488",1982,R2791390,Residential,Yes,,$547,05/07/2023,"$655,000",21/06/2023,"$669,000",Apartment/Condominium
+340,"106 - 1355 Winter St, White Rock, BC",2,2,948 sqft,,1,"$1,702",1980,R2794159,Residential,Yes,,$490,04/07/2023,"$465,000",02/07/2023,"$465,000",Apartment/Condominium
+341,"102 - 1354 Winter St, White Rock, BC",2,1,992 sqft,,1,"$1,719",1983,R2779270,Residential,Yes,,$533,04/07/2023,"$525,000",18/05/2023,"$528,999",Apartment/Condominium
+342,"210 - 1350 Johnston Rd, White Rock, BC",3,3,1630 sqft,,2,,2024,R2747014,Residential,Yes,,$916,03/07/2023,"$1,493,900",15/01/2023,"$1,493,900",Apartment/Condominium
+343,"15962 N Bluff Rd, White Rock, BC",4,2,2144 sqft,,4,"$4,928",1958,R2792834,Residential,No,,$629,03/07/2023,"$1,388,000",26/06/2023,"$1,349,000",Single Family Residence
+344,"201 - 15070 Roper Ave, White Rock, BC",2,1,1287 sqft,,1,"$2,352",1978,R2793576,Residential,No,,$372,02/07/2023,"$500,000",28/06/2023,"$479,900",Apartment/Condominium
+345,"101 - 1551 Foster St, White Rock, BC",1,1,1139 sqft,,1,"$2,758",2005,R2790727,Residential,Yes,,$648,-,Not Sold Yet,05/06/2024,"$959,000",Apartment/Condominium
+346,"907 - 15165 Thrift Ave, White Rock, BC",2,2,1073 sqft,,2,"$5,325",2020,R2792759,Residential,Yes,,"$1,200",01/07/2023,"$1,318,000",25/06/2023,"$1,288,000",Apartment/Condominium
+347,"1124 Lee St, White Rock, BC",3,1,1589 sqft,,6,"$7,088",1970,R2792382,Residential,Yes,,"$1,163",29/06/2023,"$1,800,000",27/06/2023,"$1,849,500",Single Family Residence
+348,"307 - 1526 Finlay St, White Rock, BC",2,2,1108 sqft,,2,,2022,R2750290,Residential,Yes,,$993,29/06/2023,"$1,100,900",01/02/2023,"$1,100,900",Apartment/Condominium
+349,"1001 - 1526 Finlay St, White Rock, BC",2,2,1094 sqft,,2,,2022,R2784442,Residential,Yes,,$969,29/06/2023,"$1,060,900",31/05/2023,"$1,060,900",Apartment/Condominium
+350,"1505 - 1500 Martin St, White Rock, BC",2,2,1283 sqft,,2,"$5,136",2022,R2778123,Residential,Yes,,"$1,292",29/06/2023,"$1,580,000",15/05/2023,"$1,658,000",Apartment/Condominium
+351,"203 - 15233 Pacific Ave, White Rock, BC",3,2,1453 sqft,,1,"$2,515",1993,R2789527,Residential,Yes,,$481,28/06/2023,"$683,000",13/06/2023,"$699,000",Apartment/Condominium
+352,"15444 Victoria Ave, White Rock, BC",3,3,2874 sqft,,6,"$8,411",2004,R2792115,Residential,No,,$694,27/06/2023,"$2,000,000",21/06/2023,"$1,997,000",Single Family Residence
+353,"206 - 1501 Vidal St, White Rock, BC",2,2,1294 sqft,,2,"$4,593",2017,R2790719,Residential,Yes,,"$1,004",-,-,19/10/2023,"$1,300,000",Apartment/Condominium
+354,"205 - 1234 Merklin St, White Rock, BC",2,2,1350 sqft,,0,"$2,232",1992,R2757229,Residential,Yes,,$443,27/06/2023,"$625,000",05/03/2023,"$599,000",Apartment/Condominium
+355,"311 - 1526 Finlay St, White Rock, BC",2,2,1104 sqft,,2,,2022,R2792465,Residential,Yes,,$938,26/06/2023,"$1,035,900",21/06/2023,"$1,035,900",Apartment/Condominium
+356,"705 - 14824 N Bluff Rd, White Rock, BC",2,2,1159 sqft,,1,"$2,788",2006,R2791063,Residential,Yes,,$733,25/06/2023,"$850,000",20/06/2023,"$850,000",Apartment/Condominium
+357,"1306 - 1501 Foster St, White Rock, BC",1,1,806 sqft,,0,"$2,412",2022,R2783553,Residential,Yes,,$991,25/06/2023,"$808,800",28/05/2023,"$799,000",Apartment/Condominium
+358,"15596 Semiahmoo Ave, White Rock, BC",7,4,5260 sqft,,6,"$11,534",1998,R2785787,Residential,Yes,,$644,24/06/2023,"$2,875,000",08/06/2023,"$3,388,000",Single Family Residence
+359,"2105 - 1500 Martin St, White Rock, BC",2,2,1245 sqft,,2,"$3,066",2022,R2778485,Residential,Yes,,"$1,465",24/06/2023,"$1,738,095",15/05/2023,"$1,825,000",Apartment/Condominium
+360,"205 - 15717 Marine Dr, White Rock, BC",2,2,979 sqft,,1,,1990,R2791378,Residential,Yes,,$633,24/06/2023,"$620,000",22/06/2023,"$620,000",Apartment/Condominium
+361,"104 - 1480 Foster St, White Rock, BC",1,1,833 sqft,,1,"$1,700",1977,R2781792,Residential,Yes,,$600,22/06/2023,"$480,000",29/05/2023,"$499,900",Apartment/Condominium
+362,"302 - 15809 Marine Dr, White Rock, BC",2,2,1107 sqft,,1,"$2,914",1992,R2785372,Residential,Yes,,$596,21/06/2023,"$650,000",05/06/2023,"$659,999",Apartment/Condominium
+363,"14711 Gordon Ave, White Rock, BC",4,2,2350 sqft,,3,"$6,062",1977,R2783798,Residential,No,,$637,21/06/2023,"$1,440,000",31/05/2023,"$1,499,000",Single Family Residence
+364,"1102 - 1501 Foster St, White Rock, BC",2,2,1114 sqft,,2,"$4,488",2022,R2768129,Residential,Yes,,"$1,076",20/06/2023,"$1,100,000",11/04/2023,"$1,199,000",Apartment/Condominium
+365,"104 - 1389 Winter St, White Rock, BC",2,2,1334 sqft,,1,"$2,254",1976,R2789639,Residential,Yes,,$474,19/06/2023,"$632,800",18/06/2023,"$632,800",Apartment/Condominium
+366,"203 - 15165 Thrift Ave, White Rock, BC",2,2,1104 sqft,,1,"$3,411",2021,R2760812,Residential,Yes,,$815,18/06/2023,"$842,000",19/03/2023,"$899,900",Apartment/Condominium
+367,"602 - 14825 Thrift Ave, White Rock, BC",2,2,1540 sqft,,2,"$6,491",2021,R2786339,Residential,Yes,,"$1,297",18/06/2023,"$2,005,000",08/06/2023,"$1,998,000",Apartment/Condominium
+368,"201 - 1555 Fir St, White Rock, BC",2,1,1040 sqft,,1,"$1,634",1973,R2786168,Residential,Yes,,$478,18/06/2023,"$505,000",06/06/2023,"$498,000",Apartment/Condominium
+369,"403 - 1480 Foster St, White Rock, BC",1,1,833 sqft,,1,"$1,925",1977,R2782068,Residential,Yes,,$659,17/06/2023,"$535,000",29/05/2023,"$549,000",Apartment/Condominium
+370,"102 - 1467 Martin St, White Rock, BC",2,2,1083 sqft,,1,"$1,901",1986,R2777450,Residential,Yes,,$506,17/06/2023,"$525,000",14/05/2023,"$548,000",Apartment/Condominium
+371,"105 - 1351 Martin St, White Rock, BC",0,1,587 sqft,,1,"$1,334",1976,R2779105,Residential,Yes,,$626,17/06/2023,"$352,500",17/05/2023,"$368,000",Apartment/Condominium
+372,"517 - 1526 Finlay St, White Rock, BC",2,2,1207 sqft,,2,,2022,R2750298,Residential,Yes,,$968,16/06/2023,"$1,169,400",01/02/2023,"$1,169,400",Apartment/Condominium
+373,"867 Kent St, White Rock, BC",2,1,1020 sqft,,2,"$5,095",9999,R2789209,Residential,No,,"$1,273",15/06/2023,"$1,290,000",14/06/2023,"$1,298,800",Single Family Residence
+374,"3 - 15123 Marine Dr, White Rock, BC",2,2,1377 sqft,,2,"$4,601",1995,R2788053,Residential,No,,$940,15/06/2023,"$1,270,000",13/06/2023,"$1,295,000",Apartment/Condominium
+375,"308 - 1429 Merklin St, White Rock, BC",2,1,994 sqft,,1,"$1,621",1975,R2784696,Residential,Yes,,$450,15/06/2023,"$443,000",02/06/2023,"$448,000",Apartment/Condominium
+376,"504 - 15165 Thrift Ave, White Rock, BC",2,2,985 sqft,,2,"$3,407",2020,R2772136,Residential,Yes,,$972,14/06/2023,"$936,000",25/04/2023,"$958,000",Apartment/Condominium
+377,"1560 Maple St, White Rock, BC",5,4,4591 sqft,,6,"$9,549",2016,R2785524,Residential,Yes,,$509,14/06/2023,"$2,220,000",05/06/2023,"$2,338,000",Single Family Residence
+378,"1157 Keil Cres, White Rock, BC",6,5,5273 sqft,,6,"$11,905",2016,R2774075,Residential,Yes,,$622,13/06/2023,"$3,130,000",02/05/2023,"$3,280,000",Single Family Residence
+379,"201 - 1355 Fir St, White Rock, BC",2,2,1081 sqft,,1,"$1,754",1970,R2782959,Residential,Yes,,$467,13/06/2023,"$490,000",29/05/2023,"$505,000",Apartment/Condominium
+380,"307 - 1480 Foster St, White Rock, BC",2,1,1247 sqft,,1,"$2,518",1976,R2784436,Residential,Yes,,$624,11/06/2023,"$820,000",04/06/2023,"$779,000",Apartment/Condominium
+381,"5 - 15989 Marine Dr, White Rock, BC",2,1,977 sqft,,1,"$2,732",1983,R2784577,Residential,Yes,,$694,11/06/2023,"$690,000",04/06/2023,"$679,000",Apartment/Condominium
+382,"511 - 1350 Vidal St, White Rock, BC",2,2,1045 sqft,,1,"$1,845",1984,R2773457,Residential,Yes,,$550,11/06/2023,"$525,000",02/05/2023,"$575,000",Apartment/Condominium
+383,"15256 Victoria Ave, White Rock, BC",3,2,2118 sqft,,8,"$7,214",1988,R2779264,Residential,Yes,,"$1,108",11/06/2023,"$2,250,000",23/05/2023,"$2,348,000",Single Family Residence
+384,"14753 Mcdonald Ave, White Rock, BC",5,5,4409 sqft,,5,"$9,572",2019,R2779655,Residential,No,,$680,10/06/2023,"$2,812,500",16/05/2023,"$2,999,900",Single Family Residence
+385,"1803 - 1500 Martin St, White Rock, BC",2,2,1148 sqft,,2,,2022,R2762908,Residential,Yes,,$949,10/06/2023,"$1,100,000",24/03/2023,"$1,089,999",Apartment/Condominium
+386,"206 - 1521 George St, White Rock, BC",1,1,927 sqft,,1,"$1,686",1977,R2780532,Residential,Yes,,$591,10/06/2023,"$530,000",04/06/2023,"$548,000",Apartment/Condominium
+387,"14787 Mcdonald Ave, White Rock, BC",3,2,1768 sqft,,3,"$6,308",1936,R2756456,Residential,No,,$899,09/06/2023,"$1,500,000",28/02/2023,"$1,590,000",Single Family Residence
+388,"1022 Ewson St, White Rock, BC",4,3,3046 sqft,,6,"$6,812",1977,R2756615,Residential,No,,$607,08/06/2023,"$1,735,800",28/02/2023,"$1,849,988",Single Family Residence
+389,"307 - 15367 Buena Vista Ave, White Rock, BC",2,2,1511 sqft,,1,"$3,127",1990,R2776018,Residential,Yes,,$562,08/06/2023,"$812,000",09/05/2023,"$850,000",Apartment/Condominium
+390,"208 - 15466 N Bluff Rd, White Rock, BC",2,1,1235 sqft,,1,"$2,005",1996,R2779747,Residential,Yes,,$495,08/06/2023,"$612,000",22/05/2023,"$612,000",Apartment/Condominium
+391,"13770 Blackburn Ave, White Rock, BC",4,2,2324 sqft,,4,"$6,595",1968,R2784246,Residential,Yes,,$666,07/06/2023,"$1,570,000",04/06/2023,"$1,549,000",Single Family Residence
+392,"304 - 15010 Roper Ave, White Rock, BC",2,1,959 sqft,,1,"$2,145",1974,R2783191,Residential,Yes,,$520,06/06/2023,"$589,000",31/05/2023,"$499,000",Apartment/Condominium
+393,"1403 - 15165 Thrift Ave, White Rock, BC",2,2,1355 sqft,,2,"$5,699",2021,R2759548,Residential,No,,"$1,158",06/06/2023,"$1,545,000",13/03/2023,"$1,569,900",Apartment/Condominium
+394,"301 - 1381 Martin St, White Rock, BC",2,1,1020 sqft,,1,"$1,849",1977,R2776350,Residential,Yes,,$490,05/06/2023,"$545,000",08/05/2023,"$499,999",Apartment/Condominium
+395,"306 - 1554 George St, White Rock, BC",2,1,1039 sqft,,1,"$1,863",1974,R2781771,Residential,Yes,,$481,05/06/2023,"$505,500",30/05/2023,"$499,800",Apartment/Condominium
+396,"15550 Goggs Ave, White Rock, BC",4,3,2745 sqft,,3,"$6,334",2004,R2765241,Residential,Yes,,$582,05/06/2023,"$1,490,000",03/04/2023,"$1,599,000",Single Family Residence
+397,"605 - 1442 Foster St, White Rock, BC",2,2,1221 sqft,,1,"$2,442",1986,R2782358,Residential,Yes,,$593,05/06/2023,"$735,500",28/05/2023,"$725,000",Apartment/Condominium
+398,"116 - 1561 Vidal St, White Rock, BC",2,1,1022 sqft,,1,"$1,839",1974,R2782028,Residential,Yes,,$503,04/06/2023,"$523,500",28/05/2023,"$515,000",Apartment/Condominium
+399,"103 - 1225 Merklin St, White Rock, BC",2,2,1080 sqft,,1,"$2,360",1988,R2779348,Residential,Yes,,$647,04/06/2023,"$725,000",18/05/2023,"$699,000",Townhouse
+400,"403 - 1526 Finlay St, White Rock, BC",2,2,1002 sqft,,2,,2022,R2756073,Residential,Yes,,$896,03/06/2023,"$897,900",23/02/2023,"$897,900",Apartment/Condominium
+401,"309 - 1280 Fir St, White Rock, BC",2,2,1019 sqft,,1,"$1,992",1986,R2782541,Residential,Yes,,$588,03/06/2023,"$600,000",31/05/2023,"$599,900",Apartment/Condominium
+402,"104 - 1378 George St, White Rock, BC",2,2,1055 sqft,,1,"$2,018",1993,R2782250,Residential,Yes,,$559,01/06/2023,"$601,000",28/05/2023,"$590,000",Apartment/Condominium
+403,"1202 - 15152 Russell Ave, White Rock, BC",2,2,1320 sqft,,2,"$4,004",2008,R2782345,Residential,Yes,,"$1,134",31/05/2023,"$1,500,000",29/05/2023,"$1,498,000",Apartment/Condominium
+404,"1041 Ewson St, White Rock, BC",6,4,5016 sqft,,8,"$8,896",1993,R2772395,Residential,Yes,,$655,30/05/2023,"$2,987,500",27/04/2023,"$3,288,000",Single Family Residence
+405,"806 - 1455 George St, White Rock, BC",2,2,915 sqft,,1,"$2,876",2013,R2779963,Residential,Yes,,$874,30/05/2023,"$781,000",17/05/2023,"$799,900",Apartment/Condominium
+406,"102 - 1444 Martin St, White Rock, BC",1,1,675 sqft,,1,"$1,310",1973,R2782257,Residential,Yes,,$488,30/05/2023,"$365,000",29/05/2023,"$329,900",Apartment/Condominium
+407,"303 - 15809 Marine Dr, White Rock, BC",2,2,1193 sqft,,2,"$2,884",1992,R2780810,Residential,Yes,,$611,29/05/2023,"$752,000",24/05/2023,"$729,000",Apartment/Condominium
+408,"4 - 14985 Victoria Ave, White Rock, BC",3,3,1875 sqft,,2,"$3,828",1980,R2781396,Residential,No,,$717,29/05/2023,"$1,401,816",24/05/2023,"$1,344,900",Townhouse
+409,"601 - 1473 Johnston Rd, White Rock, BC",2,2,1290 sqft,,2,"$3,700",2008,R2766446,Residential,Yes,,$852,29/05/2023,"$1,055,000",10/04/2023,"$1,099,800",Apartment/Condominium
+410,"103 - 1378 Fir St, White Rock, BC",2,2,1370 sqft,,1,"$2,214",1986,R2775029,Residential,Yes,,$434,26/04/2024,"$676,500",23/04/2024,"$674,900",Apartment/Condominium
+411,"401 - 15164 Prospect Ave, White Rock, BC",2,2,1098 sqft,,2,"$2,593",2007,R2780917,Residential,Yes,,$783,28/05/2023,"$850,000",18/05/2023,"$859,900",Apartment/Condominium
+412,"14140 Coldicutt Ave, White Rock, BC",3,2,2005 sqft,,6,"$7,158",1994,R2781238,Residential,Yes,,$847,28/05/2023,"$1,750,000",23/05/2023,"$1,699,000",Single Family Residence
+413,"202 - 1381 Martin St, White Rock, BC",2,1,1026 sqft,,1,"$1,899",1977,R2779729,Residential,Yes,,$472,27/05/2023,"$486,500",23/05/2023,"$485,000",Apartment/Condominium
+414,"14559 Marine Dr, White Rock, BC",3,3,3025 sqft,,4,"$10,763",2014,R2777101,Residential,Yes,,$952,27/05/2023,"$2,800,000",14/05/2023,"$2,880,000",Single Family Residence
+415,"306 - 1531 Merklin St, White Rock, BC",2,2,1099 sqft,,1,"$1,793",1981,R2780750,Residential,Yes,,$509,27/05/2023,"$540,000",23/05/2023,"$559,900",Apartment/Condominium
+416,"1457 Merklin St, White Rock, BC",2,1,1410 sqft,,2,"$2,457",1976,R2781410,Residential,No,,$567,-,Not Sold Yet,01/07/2024,"$849,900",Townhouse
+417,"703 - 1526 Finlay St, White Rock, BC",2,2,1004 sqft,,2,,2022,R2750332,Residential,Yes,,$976,26/05/2023,"$980,900",01/02/2023,"$980,900",Apartment/Condominium
+418,"10 - 1338 Foster St, White Rock, BC",3,2,1449 sqft,,3,"$4,018",2014,R2780549,Residential,Yes,,$688,26/05/2023,"$1,118,000",22/05/2023,"$998,000",Townhouse
+419,"861 Parker St, White Rock, BC",5,4,3646 sqft,,10,"$8,945",2007,R2777437,Residential,Yes,,$682,25/05/2023,"$2,375,000",14/05/2023,"$2,488,000",Single Family Residence
+420,"303 - 1234 Merklin St, White Rock, BC",2,2,1335 sqft,,1,"$1,755",1990,R2779667,Residential,Yes,,$448,25/05/2023,"$565,000",21/05/2023,"$599,000",Apartment/Condominium
+421,"508 - 1441 Johnston Rd, White Rock, BC",2,2,1117 sqft,,2,"$4,414",2020,R2765343,Residential,Yes,,"$1,073",24/05/2023,"$1,110,000",03/04/2023,"$1,199,000",Apartment/Condominium
+422,"801 - 1526 Finlay St, White Rock, BC",2,2,1093 sqft,,2,,2022,R2750352,Residential,Yes,,$952,24/05/2023,"$1,040,900",01/02/2023,"$1,040,900",Apartment/Condominium
+423,"106 - 1341 Foster St, White Rock, BC",2,1,1060 sqft,,1,"$1,799",1977,R2779672,Residential,Yes,,$476,23/05/2023,"$515,000",21/05/2023,"$505,000",Apartment/Condominium
+424,"403 - 1521 George St, White Rock, BC",2,1,850 sqft,,1,"$1,740",1976,R2776902,Residential,Yes,,$644,23/05/2023,"$520,000",16/05/2023,"$548,000",Apartment/Condominium
+425,"307 - 1429 Merklin St, White Rock, BC",1,1,642 sqft,,1,"$1,301",1974,R2777297,Residential,Yes,,$576,22/05/2023,"$369,900",11/05/2023,"$369,900",Apartment/Condominium
+426,"1204 - 1473 Johnston Rd, White Rock, BC",2,2,1174 sqft,,1,"$3,618",2009,R2745524,Residential,Yes,,$877,22/05/2023,"$1,017,000",09/01/2023,"$1,030,000",Apartment/Condominium
+427,"15896 Pacific Ave, White Rock, BC",5,3,3451 sqft,,6,"$8,768",2011,R2769872,Residential,Yes,,$691,21/05/2023,"$2,258,000",16/04/2023,"$2,388,000",Single Family Residence
+428,"302 - 15466 N Bluff Rd, White Rock, BC",2,1,1175 sqft,,1,"$1,975",1996,R2779734,Residential,Yes,,$429,21/05/2023,"$505,000",21/05/2023,"$505,000",Apartment/Condominium
+429,"301 - 1322 Martin St, White Rock, BC",2,1,1150 sqft,,1,"$1,977",1973,R2779201,Residential,Yes,,$590,21/05/2023,"$679,000",15/05/2023,"$679,000",Apartment/Condominium
+430,"307 - 15809 Marine Dr, White Rock, BC",2,2,1146 sqft,,1,"$2,652",1994,R2778877,Residential,Yes,,$593,21/05/2023,"$672,500",16/05/2023,"$679,900",Apartment/Condominium
+431,"1501 - 1501 Foster St, White Rock, BC",2,2,1122 sqft,,2,,2022,R2775964,Residential,Yes,,$969,21/05/2023,"$1,088,000",07/05/2023,"$1,088,000",Apartment/Condominium
+432,"107 - 1355 Winter St, White Rock, BC",2,2,940 sqft,,1,"$1,692",1980,R2778546,Residential,Yes,,$457,18/05/2023,"$445,000",15/05/2023,"$429,800",Apartment/Condominium
+433,"1216 Kent St, White Rock, BC",3,2,1969 sqft,,4,"$5,570",1971,R2729311,Residential,No,,$807,13/12/2023,"$1,385,000",25/10/2023,"$1,449,000",Single Family Residence
+434,"1109 - 1588 Johnston Rd, White Rock, BC",1,1,679 sqft,,1,,2023,R2757189,Residential,Yes,,$970,17/05/2023,"$648,000",01/03/2023,"$659,000",Apartment/Condominium
+435,"101 - 1234 Merklin St, White Rock, BC",2,2,1373 sqft,,0,"$2,232",1990,R2773257,Residential,Yes,,$455,17/05/2023,"$625,000",30/04/2023,"$624,900",Apartment/Condominium
+436,"1117 Parker St, White Rock, BC",4,4,4465 sqft,,10,"$13,119",2015,R2776258,Residential,Yes,,$783,16/05/2023,"$3,342,500",07/05/2023,"$3,499,000",Single Family Residence
+437,"308 - 1450 Merklin St, White Rock, BC",2,2,1076 sqft,,1,"$1,996",1991,R2776664,Residential,Yes,,$464,15/05/2023,"$588,000",08/05/2023,"$499,990",Apartment/Condominium
+438,"309 - 1441 Johnston Rd, White Rock, BC",2,2,961 sqft,,2,"$1,771",2020,R2762500,Residential,Yes,,$976,14/05/2023,"$925,000",26/03/2023,"$938,000",Apartment/Condominium
+439,"102 - 15213 Pacific Ave, White Rock, BC",2,2,1415 sqft,,1,"$2,458",1993,R2775421,Residential,Yes,,$472,13/05/2023,"$654,000",07/05/2023,"$668,000",Apartment/Condominium
+440,"14489 Marine Dr, White Rock, BC",5,6,5830 sqft,,6,"$28,386",2020,R2750519,Residential,Yes,,"$1,114",13/05/2023,"$5,800,000",05/02/2023,"$6,500,000",Single Family Residence
+441,"1407 Bishop Rd, White Rock, BC",4,3,2423 sqft,,5,"$7,062",1980,R2776295,Residential,Yes,,$577,11/05/2023,"$1,605,000",09/05/2023,"$1,399,999",Single Family Residence
+442,"304 - 15284 Buena Vista Ave, White Rock, BC",2,2,1110 sqft,,1,"$2,758",1994,R2774518,Residential,Yes,,$719,11/05/2023,"$820,000",04/05/2023,"$799,000",Apartment/Condominium
+443,"105 - 15154 Roper Ave, White Rock, BC",1,1,727 sqft,,1,"$1,837",1998,R2770444,Residential,Yes,,$671,10/05/2023,"$499,000",23/04/2023,"$488,000",Apartment/Condominium
+444,"14017 Marine Dr, White Rock, BC",2,1,1165 sqft,,1,"$2,828",1972,R2773144,Residential,No,,$622,10/05/2023,"$710,000",29/04/2023,"$724,900",Townhouse
+445,"104 - 1225 Merklin St, White Rock, BC",2,3,1530 sqft,,1,"$2,406",1988,R2775422,Residential,Yes,,$482,10/05/2023,"$738,000",04/05/2023,"$738,000",Townhouse
+446,"503 - 1441 Johnston Rd, White Rock, BC",2,2,942 sqft,,1,"$3,143",2020,R2749913,Residential,Yes,,$942,10/05/2023,"$825,000",29/01/2023,"$888,000",Apartment/Condominium
+447,"15648 Cliff Ave, White Rock, BC",5,5,4434 sqft,,6,"$11,664",1965,R2774772,Residential,Yes,,$809,08/05/2023,"$3,610,000",03/05/2023,"$3,588,000",Single Family Residence
+448,"202 - 15466 N Bluff Rd, White Rock, BC",2,1,1175 sqft,,2,"$2,201",1996,R2865696,Residential,Yes,,$536,08/04/2024,"$615,000",04/04/2024,"$629,900",Apartment/Condominium
+449,"201 - 15717 Marine Dr, White Rock, BC",2,2,1264 sqft,,1,"$2,866",1988,R2770258,Residential,Yes,,$648,24/04/2023,"$820,000",20/04/2023,"$820,000",Apartment/Condominium
+450,"1167 Vidal St, White Rock, BC",3,2,1931 sqft,,2,"$3,757",1996,R2759514,Residential,Yes,,$595,14/04/2023,"$1,135,000",12/03/2023,"$1,150,000",Townhouse
+451,"1003 - 1500 Martin St, White Rock, BC",2,2,1152 sqft,,2,,2022,R2754344,Residential,Yes,,$979,30/03/2023,"$1,050,000",19/02/2023,"$1,128,000",Apartment/Condominium
+452,"302 - 1379 Merklin St, White Rock, BC",2,2,1013 sqft,,1,"$2,006",1976,R2759121,Residential,Yes,,$393,19/03/2023,"$420,000",12/03/2023,"$399,000",Apartment/Condominium
+453,"14 - 1338 Foster St, White Rock, BC",3,2,1598 sqft,,3,"$4,239",2015,R2744149,Residential,Yes,,$706,01/03/2023,"$1,100,000",04/01/2023,"$1,129,000",Townhouse
+454,"106 - 1520 Vidal St, White Rock, BC",2,2,1009 sqft,,1,"$1,843",1981,R2742778,Residential,Yes,,$543,09/02/2023,"$530,099",14/12/2022,"$548,000",Apartment/Condominium
+455,"15582 Victoria Ave, White Rock, BC",2,1,1300 sqft,,3,"$6,139",1950,R2744771,Residential,No,,"$1,099",25/01/2023,"$1,300,099",08/01/2023,"$1,429,000",Single Family Residence
+456,"412 - 1526 Finlay St, White Rock, BC",2,2,1100 sqft,,2,,2022,R2726107,Residential,Yes,,$859,22/12/2022,"$945,900",20/09/2022,"$945,900",Apartment/Condominium
+457,"106 - 15265 Roper Ave, White Rock, BC",1,1,693 sqft,,1,"$1,608",1974,R2899057,Residential,Yes,,$611,26/06/2024,"$480,000",25/06/2024,"$424,000",Apartment/Condominium
+458,"106 - 1360 Martin St, White Rock, BC",1,1,656 sqft,,1,"$1,305",1973,R2726053,Residential,Yes,,$576,11/10/2022,"$368,000",22/09/2022,"$378,500",Apartment/Condominium
+459,"310 - 15210 Pacific Ave, White Rock, BC",2,2,845 sqft,,1,"$2,142",1999,R2713383,Residential,Yes,,$814,16/09/2022,"$660,000",01/08/2022,"$688,000",Apartment/Condominium
+460,"205 - 1581 Foster St, White Rock, BC",2,2,1473 sqft,,1,"$2,904",2004,R2717303,Residential,No,,$610,26/08/2022,"$855,000",16/08/2022,"$899,900",Apartment/Condominium
+461,"15427 Pacific Ave, White Rock, BC",6,3,3237 sqft,,6,"$6,515",1957,R2695531,Residential,No,,$617,31/07/2022,"$1,875,000",30/05/2022,"$1,999,999",Single Family Residence
+462,"14421 Saturna Dr, White Rock, BC",6,6,5369 sqft,,5,"$10,246",2017,R2686969,Residential,Yes,,$538,08/07/2022,"$2,770,000",08/05/2022,"$2,890,000",Single Family Residence
+463,"202 - 15111 Russell Ave, White Rock, BC",1,1,959 sqft,,1,"$1,641",1988,R2795089,Residential,Yes,,$468,07/07/2023,"$449,000",04/07/2023,"$449,000",Apartment/Condominium
+464,"202 - 15449 Marine Dr, White Rock, BC",1,2,957 sqft,,1,"$4,208",2013,R2694410,Residential,Yes,,$935,07/06/2022,"$890,000",29/05/2022,"$895,000",Apartment/Condominium
+465,"14013 Marine Dr, White Rock, BC",3,2,1955 sqft,,2,"$3,173",1972,R2690276,Residential,No,,$470,21/05/2022,"$920,000",17/05/2022,"$920,000",Townhouse
+466,"104 - 1501 Vidal St, White Rock, BC",2,2,1535 sqft,,2,"$5,562",2017,R2683081,Residential,Yes,,"$1,165",07/05/2022,"$1,765,000",03/05/2022,"$1,789,000",Apartment/Condominium
+467,"207 - 1119 Vidal St, White Rock, BC",2,2,1432 sqft,,1,"$4,166",1997,R2676883,Residential,Yes,,$698,24/04/2022,"$1,160,000",13/04/2022,"$999,900",Apartment/Condominium
+468,"15872 Thrift Ave, White Rock, BC",2,1,917 sqft,,2,"$3,652",1969,R2672774,Residential,No,,$871,06/04/2022,"$1,000,100",04/04/2022,"$799,000",Multi Family
+469,"1041 Kent St, White Rock, BC",6,2,2821 sqft,,0,"$7,593",1969,R2898066,Residential,No,,$619,-,Not Sold Yet,23/06/2024,"$1,749,000",Single Family Residence
+470,"15170 Columbia Ave, White Rock, BC",3,2,1771 sqft,,4,"$6,521",1978,R2661773,Residential,No,,"$1,015",16/03/2022,"$1,750,000",08/03/2022,"$1,799,000",Single Family Residence
+471,"203 - 1473 Blackwood St, White Rock, BC",2,1,958 sqft,,1,"$1,792",1985,R2657691,Residential,Yes,,$521,07/03/2022,"$560,000",27/02/2022,"$499,900",Apartment/Condominium
+472,"301 - 1550 Martin St, White Rock, BC",2,2,1303 sqft,,1,"$2,805",2005,R2656136,Residential,Yes,,$613,28/02/2022,"$800,000",22/02/2022,"$799,000",Apartment/Condominium
+473,"104 - 15111 Russell Ave, White Rock, BC",2,2,1624 sqft,,1,"$2,919",1988,R2649407,Residential,Yes,,$338,17/02/2022,"$520,000",03/02/2022,"$550,000",Apartment/Condominium
+474,"857 Kent St, White Rock, BC",6,3,2509 sqft,,5,"$5,871",1985,R2755428,Residential,No,,$597,03/04/2023,"$1,455,000",27/02/2023,"$1,499,900",Single Family Residence
+475,"1036 Cypress St, White Rock, BC",6,6,6286 sqft,,6,"$12,775",2012,R2615075,Residential,Yes,,$540,28/01/2022,"$3,200,000",05/09/2021,"$3,398,000",Single Family Residence
+476,"302 - 1581 Foster St, White Rock, BC",2,2,1491 sqft,,1,"$3,306",2004,R2642515,Residential,Yes,,$595,16/01/2022,"$912,000",11/01/2022,"$888,000",Apartment/Condominium
+477,"7 - 14820 Buena Vista Ave, White Rock, BC",2,2,979 sqft,,1,"$2,854",2017,R2639576,Residential,Yes,,$745,28/12/2021,"$729,500",16/12/2021,"$729,500",Apartment/Condominium
+478,"15480 Victoria Ave, White Rock, BC",3,2,3743 sqft,,6,"$9,510",2003,R2637375,Residential,Yes,,$614,08/12/2021,"$2,500,000",05/12/2021,"$2,300,000",Single Family Residence
+479,"109 - 1153 Vidal St, White Rock, BC",2,1,880 sqft,,1,"$1,983",1996,R2634701,Residential,Yes,,$669,23/11/2021,"$589,000",21/11/2021,"$589,000",Apartment/Condominium
+480,"206 - 15010 Roper Ave, White Rock, BC",2,1,990 sqft,,1,"$2,102",1974,R2626364,Residential,Yes,,$494,12/11/2021,"$460,000",17/10/2021,"$489,999",Apartment/Condominium
+481,"15492 Roper Ave, White Rock, BC",3,2,1857 sqft,,4,"$5,332",1982,R2628340,Residential,Yes,,$801,02/11/2021,"$1,570,000",24/10/2021,"$1,489,000",Single Family Residence
+482,"1346 Merklin St, White Rock, BC",4,1,2005 sqft,,6,"$6,911",1965,R2624145,Residential,No,,"$1,191",19/10/2021,"$1,800,000",06/10/2021,"$2,388,000",Single Family Residence
+483,"106 - 1448 Fir St, White Rock, BC",3,2,1125 sqft,,1,"$2,090",1974,R2883165,Residential,Yes,,$600,-,Not Sold Yet,12/05/2024,"$675,000",Apartment/Condominium
+484,"307 - 1360 Martin St, White Rock, BC",2,2,961 sqft,,1,"$1,797",1974,R2618552,Residential,Yes,,$436,02/10/2021,"$415,000",15/09/2021,"$419,000",Apartment/Condominium
+485,"303 - 15169 Buena Vista Ave, White Rock, BC",3,2,2099 sqft,,2,"$5,167",1994,R2697336,Residential,Yes,,$808,20/06/2022,"$1,675,000",05/06/2022,"$1,698,000",Apartment/Condominium
+486,"102 - 1442 Blackwood St, White Rock, BC",1,1,621 sqft,,1,"$1,309",1974,R2609255,Residential,Yes,,$479,08/09/2021,"$296,000",11/08/2021,"$298,000",Apartment/Condominium
+487,"1511 Chestnut St, White Rock, BC",4,1,2624 sqft,,0,"$6,568",1969,R2751516,Residential,No,,$685,-,-,19/02/2023,"$1,799,999",Single Family Residence
+488,"15348 Victoria Ave, White Rock, BC",3,4,3153 sqft,,4,"$8,414",1978,R2886317,Residential,No,,$554,-,Not Sold Yet,22/05/2024,"$1,749,888",Single Family Residence
+489,"404 - 15165 Thrift Ave, White Rock, BC",2,2,983 sqft,,1,,2020,R2577858,Residential,Yes,,$752,27/07/2021,"$725,000",09/05/2021,"$739,900",Apartment/Condominium
+490,"203 - 1389 Winter St, White Rock, BC",2,1,944 sqft,,1,"$1,824",1977,R2647152,Residential,Yes,,$474,06/02/2022,"$518,000",30/01/2022,"$448,000",Apartment/Condominium
+491,"15580 Columbia Ave, White Rock, BC",5,2,2488 sqft,,3,"$5,328",1992,R2599459,Residential,Yes,,$557,08/07/2021,"$1,378,000",04/07/2021,"$1,388,000",Single Family Residence

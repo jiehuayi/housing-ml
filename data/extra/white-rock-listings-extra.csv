@@ -1,0 +1,12 @@
+,type,taxes,area,garage,pricePerSqFt,mlsNumber,lotSize,levels,built,maintenance,address,bath,beds,parking,listingDate,listingPrice,soldDate,soldPrice
+0,Single Family Residence,"$9,359",4473 sqft,Yes,$578,R2567887,,Residential,2016,,"15311 Royal Ave, White Rock, BC",5,6,0,18/04/2021,"$2,588,000",15/05/2021,"$2,490,000"
+1,Single Family Residence,"$5,118",4164 sqft,Yes,$549,R2542934,,Residential,2019,,"939 Maple St, White Rock, BC",5,6,0,23/02/2021,"$2,288,000",22/05/2021,"$2,150,000"
+2,Single Family Residence,"$7,400",3060 sqft,Yes,$588,R2558705,,Residential,1989,,"15452 Victoria Ave, White Rock, BC",3,3,11,30/03/2021,"$1,800,000",06/04/2021,"$1,855,500"
+3,Single Family Residence,"$5,170",1789 sqft,Yes,$838,R2559549,,Residential,1984,,"1475 Oxford St, White Rock, BC",2,3,0,31/03/2021,"$1,499,900",28/05/2021,"$1,414,000"
+4,Apartment/Condominium,,1283 sqft,Yes,"$1,019",R2587725,,Residential,2021,,"1505 - 1501 Foster St, White Rock, BC",2,2,2,26/05/2021,"$1,308,000",27/05/2021,"$1,308,000"
+5,Single Family Residence,"$6,707",3052 sqft,Yes,$507,R2579690,,Residential,1953,,"1066 Cypress St, White Rock, BC",2,3,0,10/05/2021,"$1,550,000",25/05/2021,"$1,584,000"
+6,Single Family Residence,"$6,119",2543 sqft,Yes,$589,R2589027,,Residential,1968,,"13809 Malabar Ave, White Rock, BC",2,5,0,03/06/2021,"$1,498,000",28/06/2021,"$1,455,000"
+7,Single Family Residence,"$5,529",2342 sqft,No,$640,R2583456,,Residential,1968,,"971 Parker St, White Rock, BC",2,3,0,20/05/2021,"$1,499,000",21/06/2021,"$1,480,000"
+8,Single Family Residence,"$10,588",6072 sqft,Yes,$510,R2570508,,Residential,2018,,"1560 Brearley St, White Rock, BC",7,7,0,20/04/2021,"$3,100,000",24/06/2021,"$2,900,000"
+9,Apartment/Condominium,"$5,539",2468 sqft,Yes,$591,R2594446,,Residential,1996,,"301 - 14934 Thrift Ave, White Rock, BC",3,3,2,17/06/2021,"$1,459,900",22/06/2021,"$1,420,000"
+10,Single Family Residence,"$9,232",4029 sqft,Yes,$545,R2579774,,Residential,1996,,"14139 Marine Dr, White Rock, BC",4,5,0,10/05/2021,"$2,199,000",20/06/2021,"$2,199,000"

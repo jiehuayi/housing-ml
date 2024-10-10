@@ -1,0 +1,660 @@
+,district,name,streetAddress,city,postalCode,address,lat,lon
+0,34,Eugene Reimer Middle School,3433 Firhill Dr,Abbotsford,V2T6X6,"3433 Firhill Dr, Abbotsford, BC, Canada",49.0649282,-122.36186931360709
+1,34,Clayburn Middle School,35139 Laburnum Ave,Abbotsford,V2S8N3,"35139 Laburnum Ave, Abbotsford, BC, Canada",49.0716255,-122.2504574
+2,34,Abbotsford School Of Integrated Arts,36232 Lower Sumas Mtn Rd,Abbotsford,V3G2J3,"36232 Lower Sumas Mtn Rd, Abbotsford, BC, Canada",49.050321499999995,-122.21938735767328
+3,34,Auguston Traditional Elementary,36367 Stephen Leacock Dr,Abbotsford,V3G2Z6,"36367 Stephen Leacock Dr, Abbotsford, BC, Canada",49.083669799999996,-122.21940988321239
+4,34,Abbotsford Traditional School,2272 Windsor St,Abbotsford,V2T6M1,"2272 Windsor St, Abbotsford, BC, Canada",49.044178,-122.355229
+5,34,Colleen And Gordie Howe Middle School,3174 Clearbrook Rd,Abbotsford,V2T4N6,"3174 Clearbrook Rd, Abbotsford, BC, Canada",49.059744,-122.3373498
+6,34,Mt Lehman Elementary,6381 Mt Lehman Rd,Abbotsford,V4X2G5,"6381 Mt Lehman Rd, Abbotsford, BC, Canada",49.1182522,-122.38364500206163
+7,34,Bradner Elementary,5291 Bradner Rd,Abbotsford,V4X2P5,"5291 Bradner Rd, Abbotsford, BC, Canada",49.0446039,-122.4265262
+8,34,South Poplar Traditional Elementary,32746 Huntingdon Rd,Abbotsford,V2T5Z1,"32746 Huntingdon Rd, Abbotsford, BC, Canada",49.01617965,-122.31639374508985
+9,34,Clearbrook Elementary,3614 Clearbrook Rd,Abbotsford,V2T6N3,"3614 Clearbrook Rd, Abbotsford, BC, Canada",49.0680696,-122.3365471322326
+10,34,Abbotsford Senior Secondary School,33355 Bevan  Ave,Abbotsford,V2S0E7,"33355 Bevan  Ave, Abbotsford, BC, Canada",49.0443904,-122.298934
+11,34,Alexander Elementary,2250 Lobban Rd,Abbotsford,V2S3W1,"2250 Lobban Rd, Abbotsford, BC, Canada",49.04255675,-122.2876685863933
+12,34,ASIA - North Poplar,32041 Marshall Rd,Abbotsford,V2T1A2,"32041 Marshall Rd, Abbotsford, BC, Canada",49.038606900000005,-122.33588880895834
+13,34,Barrowtown Elementary,5137 Tolmie Rd,Abbotsford,V3G2V4,"5137 Tolmie Rd, Abbotsford, BC, Canada",49.1154816,-122.0952197
+14,34,Abbotsford Middle School,33231 Bevan Ave,Abbotsford,V2S0A9,"33231 Bevan Ave, Abbotsford, BC, Canada",49.0420788,-122.3043045
+15,34,Aberdeen Elementary,2975 Bradner Rd,Abbotsford,V4X1K6,"2975 Bradner Rd, Abbotsford, BC, Canada",49.05587475,-122.42720376143811
+16,34,Godson Elementary,33130 Bevan Ave,Abbotsford,V2S1T6,"33130 Bevan Ave, Abbotsford, BC, Canada",49.0417567,-122.3062162
+17,34,Ross Elementary,2451 Ross Rd,Abbotsford,V4X1J3,"2451 Ross Rd, Abbotsford, BC, Canada",49.0471162,-122.40535878336786
+18,34,Margaret Stenersen Elementary,3060 Old Clayburn Rd,Abbotsford,V2S4H3,"3060 Old Clayburn Rd, Abbotsford, BC, Canada",49.05762035,-122.26928756591192
+19,34,Ten Broeck Elementary,2580 Stanley St,Abbotsford,V2T2R4,"2580 Stanley St, Abbotsford, BC, Canada",49.04961,-122.34521268711927
+20,34,Centennial Park Elementary,2527 Gladwin Rd,Abbotsford,V2T3N8,"2527 Gladwin Rd, Abbotsford, BC, Canada",49.0601117,-122.3160483
+21,34,Yale Secondary,34620 Old Yale Rd,Abbotsford,V2S7S6,"34620 Old Yale Rd, Abbotsford, BC, Canada",49.047829050000004,-122.26460449377316
+22,34,William A. Fraser Middle School,34695 Blatchford Way,Abbotsford,V2S6M6,"34695 Blatchford Way, Abbotsford, BC, Canada",49.0463182,-122.26450575657245
+23,34,Dr Thomas A Swift Elementary,34800 Mierau St,Abbotsford,V2S5Y4,"34800 Mierau St, Abbotsford, BC, Canada",49.066382250000004,-122.25976887347701
+24,34,Terry Fox Elementary,3071 Babich St,Abbotsford,V2S5W5,"3071 Babich St, Abbotsford, BC, Canada",49.0575286,-122.30189238466886
+25,34,Chief Dan George Middle,32877 Old Riverside Rd,Abbotsford,V2S8K2,"32877 Old Riverside Rd, Abbotsford, BC, Canada",49.06674635,-122.31437466000311
+26,34,McMillan Elementary,34830 Oakhill Dr,Abbotsford,V2S7R3,"34830 Oakhill Dr, Abbotsford, BC, Canada",49.0445264,-122.2573839
+27,34,John Maclure Community School,2990 Oriole Cres,Abbotsford,V2T4E1,"2990 Oriole Cres, Abbotsford, BC, Canada",49.0564396,-122.32010481689076
+28,34,Jackson Elementary,33165 King Rd,Abbotsford,V2S7Z9,"33165 King Rd, Abbotsford, BC, Canada",49.0319387,-122.3052831
+29,34,Dormick Park Elementary,32161 Dormick Avenue,Abbotsford,V2T3J6,"32161 Dormick Avenue, Abbotsford, BC, Canada",49.0444129,-122.33259913379726
+30,34,Prince Charles Elementary,35410 Mckee Rd,Abbotsford,V3G3B1,"35410 Mckee Rd, Abbotsford, BC, Canada",49.0642807,-122.2430374437025
+32,34,Pacific Christian School,29623 Downes Rd,Abbotsford,V4X1Z8,"29623 Downes Rd, Abbotsford, BC, Canada",49.0749527,-122.3854032
+33,34,Dasmesh Punjabi School,5930 Riverside St,Abbotsford,V4X1T7,"5930 Riverside St, Abbotsford, BC, Canada",49.1097743,-122.294035
+34,34,St James,2767 Townline Rd,Abbotsford,V2T5E1,"2767 Townline Rd, Abbotsford, BC, Canada",49.0526657,-122.36190351679072
+35,34,Blue Jay Elementary,30995 Southern Dr,Abbotsford,V2T6X5,"30995 Southern Dr, Abbotsford, BC, Canada",49.0580808,-122.36673818590707
+36,34,Sandy Hill Elementary,3836 Old Clayburn Rd,Abbotsford,V3G2Z5,"3836 Old Clayburn Rd, Abbotsford, BC, Canada",49.0616776,-122.254954
+37,34,Harry Sayers Elementary,31321 Blueridge Dr,Abbotsford,V2T6W2,"31321 Blueridge Dr, Abbotsford, BC, Canada",49.0686241,-122.35643491822981
+38,34,Mountain Elementary,2299 Mountain Dr,Abbotsford,V3G1E6,"2299 Mountain Dr, Abbotsford, BC, Canada",49.04294505,-122.23465310643688
+39,34,Robert Bateman Secondary,35045 Exbury Ave,Abbotsford,V2S7L1,"35045 Exbury Ave, Abbotsford, BC, Canada",49.0682264,-122.2551734
+40,34,King Traditional Elementary,28776 King Rd,Abbotsford,V4X2R4,"28776 King Rd, Abbotsford, BC, Canada",49.0312725,-122.2906593
+41,34,Rick Hansen Secondary,31150 Blueridge Dr,Abbotsford,V2T5R2,"31150 Blueridge Dr, Abbotsford, BC, Canada",49.0668931,-122.36168244569865
+42,34,St. John Brebeuf Regional Secondary,2747 Townline Rd,Abbotsford,V2T5E1,"2747 Townline Rd, Abbotsford, BC, Canada",49.05107515,-122.36160296474712
+43,34,Dave Kandal Elementary,3551 Crestview Ave,Abbotsford,V2T6T5,"3551 Crestview Ave, Abbotsford, BC, Canada",49.06712255,-122.37984679407226
+44,34,Semá:th Elementary School,36321 Vye Rd,Abbotsford,V3G1Z5,"36321 Vye Rd, Abbotsford, BC, Canada",49.018754,-122.2183237340711
+45,34,Mathxwí Elementary School,33661 Elizabeth Ave,Abbotsford,V4X1T4,"33661 Elizabeth Ave, Abbotsford, BC, Canada",49.1054668,-122.2925649
+46,34,Irene Kelleher Totí:ltawtxw,2540 Eagle Mountain Drive,Abbotsford,V3G3A1,"2540 Eagle Mountain Drive, Abbotsford, BC, Canada",49.0480801,-122.2437505
+47,34,Dr Roberta Bondar Elementary,32717 Chilcotin Dr,Abbotsford,V2T5S5,"32717 Chilcotin Dr, Abbotsford, BC, Canada",49.071907550000006,-122.31973836495175
+48,34,W J Mouat Secondary,32355 Mouat Dr,Abbotsford,V2T4E9,"32355 Mouat Dr, Abbotsford, BC, Canada",49.0594059,-122.32923292823851
+49,34,Mennonite Educational Institute,4081 Clearbrook Rd,Abbotsford,V4X2M8,"4081 Clearbrook Rd, Abbotsford, BC, Canada",49.075808949999995,-122.34770483478461
+50,34,Abbotsford Christian School,35011 Old Clayburn Rd,Abbotsford,V2S7L7,"35011 Old Clayburn Rd, Abbotsford, BC, Canada",49.06253285,-122.25383261383539
+51,41,Whytecliff Agile Learning Centre-Burnaby,3450 Boundary Rd,Burnaby,V5M4A5,"3450 Boundary Rd, Burnaby, BC, Canada",49.2535675,-123.02318805
+52,41,Byrne Creek Community Secondary,7777 18Th St,Burnaby,V3N5E5,"7777 18Th St, Burnaby, BC, Canada",49.2080059,-122.95144673898682
+53,41,Burnaby Mountain Secondary,8800 Eastlake Dr,Burnaby,V3J7X5,"8800 Eastlake Dr, Burnaby, BC, Canada",49.25481995,-122.91097719757279
+54,41,Taylor Park Elementary,7590 Mission Ave,Burnaby,V3N5C7,"7590 Mission Ave, Burnaby, BC, Canada",49.20751625,-122.95965400626115
+55,41,Burnaby Central Secondary,6011 Deer Lake Parkway,Burnaby,V5G0A9,"6011 Deer Lake Parkway, Burnaby, BC, Canada",49.2435137,-122.97601514535478
+56,41,Burnaby North Secondary,751 Hammarskjold Dr,Burnaby,V5B4A1,"751 Hammarskjold Dr, Burnaby, BC, Canada",49.277609999999996,-122.97199344095216
+57,41,Alpha Secondary,930 Alpha Ave,Burnaby,V5C3E2,"930 Alpha Ave, Burnaby, BC, Canada",49.2762297,-122.99747958430493
+58,41,Edmonds Community Elementary,7651 18Th Ave,Burnaby,V3N1J1,"7651 18Th Ave, Burnaby, BC, Canada",49.222699000000006,-122.94153428146905
+59,41,Moscrop Secondary,4433 Moscrop St,Burnaby,V5G2G3,"4433 Moscrop St, Burnaby, BC, Canada",49.2432694,-123.0048688
+60,41,Armstrong Elementary,8757 Armstrong Ave,Burnaby,V3N2H8,"8757 Armstrong Ave, Burnaby, BC, Canada",49.234186449999996,-122.90871995824756
+61,41,Aubrey Elementary,1075 Stratford Ave,Burnaby,V5B3X9,"1075 Stratford Ave, Burnaby, BC, Canada",49.274071,-122.977906
+62,41,Brantford Elementary,6512 Brantford Ave,Burnaby,V5E2S1,"6512 Brantford Ave, Burnaby, BC, Canada",49.2244478,-122.96664407287611
+63,41,Brentwood Park Elementary,1455 Delta Ave,Burnaby,V5B3G4,"1455 Delta Ave, Burnaby, BC, Canada",49.2710881,-122.99348074423199
+64,41,Buckingham Elementary,6066 Buckingham Ave,Burnaby,V5E2A4,"6066 Buckingham Ave, Burnaby, BC, Canada",49.2329866,-122.956006
+65,41,Cameron Elementary,9540 Erickson Dr,Burnaby,V3J1M9,"9540 Erickson Dr, Burnaby, BC, Canada",49.2517449,-122.9000506
+66,41,Capitol Hill Elementary,350S Holdom Ave,Burnaby,V5B3V1,"350S Holdom Ave, Burnaby, BC, Canada",49.2636354,-122.9812004
+67,41,Cascade Heights Elementary,4343 Smith Ave,Burnaby,V5G2V5,"4343 Smith Ave, Burnaby, BC, Canada",49.245931999999996,-123.02140323326611
+68,41,Chaffey-Burke Elementary,4404 Sardis St,Burnaby,V5H1K7,"4404 Sardis St, Burnaby, BC, Canada",49.2341548,-123.00530090810278
+69,41,Clinton Elementary,5858 Clinton St,Burnaby,V5J2M3,"5858 Clinton St, Burnaby, BC, Canada",49.2123523,-122.9791191858463
+70,41,Douglas Road Elementary,4861 Canada Way,Burnaby,V5G1L7,"4861 Canada Way, Burnaby, BC, Canada",49.2493784,-122.9821254
+71,41,Gilmore Community Elementary,50 S Gilmore Ave,Burnaby,V5C4P5,"50 S Gilmore Ave, Burnaby, BC, Canada",49.262164,-123.0142271
+72,41,Gilpin Elementary,5490 Eglinton St,Burnaby,V5G2B2,"5490 Eglinton St, Burnaby, BC, Canada",49.24319525,-122.98435789909846
+73,41,Kitchener Elementary,1351 Gilmore Ave,Burnaby,V5C4S8,"1351 Gilmore Ave, Burnaby, BC, Canada",49.2735776,-123.014366
+74,41,Lakeview Elementary,7777 Mayfield St,Burnaby,V5E2J5,"7777 Mayfield St, Burnaby, BC, Canada",49.23040225,-122.944828300833
+75,41,Lochdale Community Elementary,6990 Aubrey St,Burnaby,V5B2E5,"6990 Aubrey St, Burnaby, BC, Canada",49.27269015,-122.96095793995183
+76,41,Lyndhurst Elementary,9847 Lyndhurst St,Burnaby,V3J1E9,"9847 Lyndhurst St, Burnaby, BC, Canada",49.259596099999996,-122.89543885168239
+77,41,Morley Elementary,7355 Morley St,Burnaby,V5E2K1,"7355 Morley St, Burnaby, BC, Canada",49.22658285,-122.95822036036711
+78,41,Nelson Elementary,4850 Irmin St,Burnaby,V5J1Y2,"4850 Irmin St, Burnaby, BC, Canada",49.2155217,-122.9951083
+79,41,Parkcrest Elementary,6055 Halifax St,Burnaby,V5B2P4,"6055 Halifax St, Burnaby, BC, Canada",49.2696327,-122.977804
+80,41,Rosser Elementary,4375 Pandora St,Burnaby,V5C2B6,"4375 Pandora St, Burnaby, BC, Canada",49.283462549999996,-123.00681800142524
+81,41,Ecole Seaforth Elementary,7881 Government Rd,Burnaby,V5A2C9,"7881 Government Rd, Burnaby, BC, Canada",49.2519051,-122.93610167596364
+82,41,Second Street Community Elementary,7502 2Nd St,Burnaby,V3N3R5,"7502 2Nd St, Burnaby, BC, Canada",49.2278831,-122.9265864399918
+83,41,Sperling Elementary,2200 Sperling Ave,Burnaby,V5B4K7,"2200 Sperling Ave, Burnaby, BC, Canada",49.26375325,-122.96322675499263
+84,41,Stride Avenue Community Elementary,7014 Stride Ave,Burnaby,V3N1T4,"7014 Stride Ave, Burnaby, BC, Canada",49.2102162,-122.9535351
+85,41,Suncrest Elementary,3883 Rumble St,Burnaby,V5J1Z5,"3883 Rumble St, Burnaby, BC, Canada",49.2153423,-123.01736376535182
+86,41,Twelfth Avenue Elementary,7622 12Th Ave,Burnaby,V3N2K1,"7622 12Th Ave, Burnaby, BC, Canada",49.2166785,-122.93388298653636
+87,41,Westridge Elementary,510 Duncan Ave,Burnaby,V5B4L9,"510 Duncan Ave, Burnaby, BC, Canada",49.27893115,-122.96097786546808
+88,41,Windsor Elementary,6166 Imperial St,Burnaby,V5J1G5,"6166 Imperial St, Burnaby, BC, Canada",49.22163645,-122.9723558655389
+89,41,Montecito Elementary,2176 Duthie Ave,Burnaby,V5A2S2,"2176 Duthie Ave, Burnaby, BC, Canada",49.2644174,-122.95216990575454
+90,41,Stoney Creek Community Elementary,2740 Beaverbrook Cres,Burnaby,V3J7B6,"2740 Beaverbrook Cres, Burnaby, BC, Canada",49.25905565,-122.90320432328937
+91,41,Forest Grove Elementary,8525 Forest Grove Dr,Burnaby,V5A4H5,"8525 Forest Grove Dr, Burnaby, BC, Canada",49.265081300000006,-122.9179960098098
+92,41,École Marlborough Elementary,6060 Marlborough Ave,Burnaby,V5H3L7,"6060 Marlborough Ave, Burnaby, BC, Canada",49.228893049999996,-122.99116151939012
+93,41,St. Michaels,9387 Holmes St,Burnaby,V3N4C3,"9387 Holmes St, Burnaby, BC, Canada",49.23632455,-122.89771387366122
+94,41,Holy Cross Elementary School,1450 Delta Ave,Burnaby,V5B3G2,"1450 Delta Ave, Burnaby, BC, Canada",49.270406,-122.99156229832195
+95,41,Confederation Park Elementary,4715 Pandora St,Burnaby,V5C2C2,"4715 Pandora St, Burnaby, BC, Canada",49.282906,-122.9964572
+96,41,Maywood Community Elementary,4567 Imperial St,Burnaby,V5J1B7,"4567 Imperial St, Burnaby, BC, Canada",49.22274575,-122.99978901169197
+97,41,Our Lady of Mercy,7481 10Th Ave,Burnaby,V3N2S1,"7481 10Th Ave, Burnaby, BC, Canada",49.1990838,-122.9642879
+98,41,St. Thomas More Collegiate,7450 12Th Ave,Burnaby,V3N2K1,"7450 12Th Ave, Burnaby, BC, Canada",49.2150448,-122.9379227491072
+99,41,St. Helen's,3871 Pandora St.,Burnaby,V5C2A6,"3871 Pandora St., Burnaby, BC, Canada",49.2827526,-122.994795
+100,41,Deer Lake SDA School,5550 Gilpin St,Burnaby,V5G2H6,"5550 Gilpin St, Burnaby, BC, Canada",49.24106645,-122.98333935115014
+101,41,St. Francis de Sales,6656 Balmoral St,Burnaby,V5E1J1,"6656 Balmoral St, Burnaby, BC, Canada",49.21979915,-122.96632954847516
+102,41,Fawkes Academy,103-4181 Hastings St,Burnaby,V5C2J3,"103-4181 Hastings St, Burnaby, BC, Canada",49.2803335,-122.9495132
+103,41,South Slope Elementary,4446 Watling St,Burnaby,V5J5H3,"4446 Watling St, Burnaby, BC, Canada",49.21639725,-123.00371557209944
+104,41,Burnaby South Secondary,5455 Rumble St,Burnaby,V5J2B7,"5455 Rumble St, Burnaby, BC, Canada",49.21648185,-122.98473188847976
+105,41,Glenwood Elementary,5787 Marine Dr,Burnaby,V5J3H1,"5787 Marine Dr, Burnaby, BC, Canada",49.20610415,-122.9788783707317
+106,41,Burnaby Montessori School,5489 Kingsway,Burnaby,V5H2G1,"5489 Kingsway, Burnaby, BC, Canada",49.2219768,-122.9793948
+107,41,University Highlands Elementary,9388 Tower Rd,Burnaby,V5A4X6,"9388 Tower Rd, Burnaby, BC, Canada",49.2780675,-122.90795955179695
+108,41,École Inman Elementary,3963 Brandon St,Burnaby,V5G2P6,"3963 Brandon St, Burnaby, BC, Canada",49.239500750000005,-123.0169577245467
+109,41,Cariboo Hill Secondary,8580 16Th Ave,Burnaby,V3N1S6,"8580 16Th Ave, Burnaby, BC, Canada",49.23189035,-122.91386615386057
+110,41,John Knox Christian - Elementary Campus,8260 13Th Ave,Burnaby,V3N2G5,"8260 13Th Ave, Burnaby, BC, Canada",49.22614175,-122.92030272017902
+111,43,Children of Integrity Montessori,2541 Quay Pl,Coquitlam,V3H3S7,"2541 Quay Pl, Coquitlam, BC, Canada",49.2741269,-122.8209684
+115,43,Hampton Park Elementary,1760 Paddock Dr,Coquitlam,V3E3N8,"1760 Paddock Dr, Coquitlam, BC, Canada",49.310907,-122.7874433
+117,43,Alderson Elementary,825 Gauthier Ave,Coquitlam,V3K7C4,"825 Gauthier Ave, Coquitlam, BC, Canada",49.239219649999995,-122.8749646
+119,43,Gleneagle Secondary,1195 Lansdowne Dr,Coquitlam,V3B7Y8,"1195 Lansdowne Dr, Coquitlam, BC, Canada",49.28368935,-122.80680348027157
+120,43,Pinetree Secondary,3000 Pinewood Ave,Coquitlam,V3B7Y7,"3000 Pinewood Ave, Coquitlam, BC, Canada",49.2914299,-122.793302
+122,43,Baker Drive Elementary,885 Baker Dr,Coquitlam,V3J6W9,"885 Baker Dr, Coquitlam, BC, Canada",49.2690708,-122.8242639
+126,43,Cape Horn Elementary,155 Finnigan St,Coquitlam,V3K5J2,"155 Finnigan St, Coquitlam, BC, Canada",49.234698300000005,-122.83547434804899
+127,43,Glen Elementary,3064 Glen Dr,Coquitlam,V3B2P9,"3064 Glen Dr, Coquitlam, BC, Canada",49.2822187,-122.78841745450598
+129,43,Eagle Ridge Elementary,1215 Falcon Dr,Coquitlam,V3E1X9,"1215 Falcon Dr, Coquitlam, BC, Canada",49.284748300000004,-122.81708817500001
+130,43,Harbour View Elementary,960 Lillian St,Coquitlam,V3J5C7,"960 Lillian St, Coquitlam, BC, Canada",49.269132,-122.86162203936892
+134,43,Leigh Elementary,1230 Soball St,Coquitlam,V3B3H7,"1230 Soball St, Coquitlam, BC, Canada",49.2870373,-122.75130114449338
+135,43,Lord Baden-Powell Elementary,450 Joyce St,Coquitlam,V3K4G4,"450 Joyce St, Coquitlam, BC, Canada",49.2475471,-122.87430761926196
+137,43,Meadowbrook Elementary,900 Sharpe St,Coquitlam,V3C3M3,"900 Sharpe St, Coquitlam, BC, Canada",49.2662314,-122.80051845891003
+138,43,Miller Park Community School,800 Egmont Ave,Coquitlam,V3J4J8,"800 Egmont Ave, Coquitlam, BC, Canada",49.266476999999995,-122.8772373590175
+140,43,Mountain View Elementary,740 Smith Ave,Coquitlam,V3J4E7,"740 Smith Ave, Coquitlam, BC, Canada",49.2591302,-122.87912948229855
+142,43,Ecole Nestor Elementary,1266 Nestor St,Coquitlam,V3E2A4,"1266 Nestor St, Coquitlam, BC, Canada",49.29024225,-122.77984070765625
+144,43,Ecole Porter Street Elementary,728 Porter St,Coquitlam,V3J5B4,"728 Porter St, Coquitlam, BC, Canada",49.2621979,-122.864236
+145,43,Ecole Rochester Elementary,411 Schoolhouse St,Coquitlam,V3K4Y7,"411 Schoolhouse St, Coquitlam, BC, Canada",49.24581575,-122.85125456153783
+146,43,Roy Stibbs Elementary,600 Fairview St,Coquitlam,V3J4A7,"600 Fairview St, Coquitlam, BC, Canada",49.2530506,-122.8827351
+148,43,Ranch Park Elementary,2701 Spuraway Ave,Coquitlam,V3C2C4,"2701 Spuraway Ave, Coquitlam, BC, Canada",49.26550295,-122.8128783823581
+149,43,Mundy Road Elementary,2200 Austin Ave,Coquitlam,V3K3S1,"2200 Austin Ave, Coquitlam, BC, Canada",49.247579349999995,-122.83315734593987
+151,43,Parkland Elementary,1563 Regan Ave,Coquitlam,V3J3B7,"1563 Regan Ave, Coquitlam, BC, Canada",49.26219905,-122.8487485298817
+152,43,Walton Elementary,2960 Walton Ave,Coquitlam,V3B6V6,"2960 Walton Ave, Coquitlam, BC, Canada",49.288672500000004,-122.7971756135066
+154,43,Centennial Secondary,570 Poirier St,Coquitlam,V3J6A8,"570 Poirier St, Coquitlam, BC, Canada",49.2525684,-122.84829002212805
+155,43,Como Lake Middle School,1121 King Albert Ave,Coquitlam,V3J1X8,"1121 King Albert Ave, Coquitlam, BC, Canada",49.2531874,-122.86112237503005
+157,43,Ecole Montgomery Middle,1900 Edgewood Ave,Coquitlam,V3K2Y1,"1900 Edgewood Ave, Coquitlam, BC, Canada",49.2438855,-122.8411
+162,43,Ecole Banting Middle,820 Banting St,Coquitlam,V3J4J4,"820 Banting St, Coquitlam, BC, Canada",49.2652321,-122.87716725044679
+163,43,Our Lady of Fatima,315 Walker St,Coquitlam,V3K4C7,"315 Walker St, Coquitlam, BC, Canada",49.2462985,-122.8770619
+164,43,Ecole Maillard Middle,1300 Rochester Ave,Coquitlam,V3K2X5,"1300 Rochester Ave, Coquitlam, BC, Canada",49.2440778,-122.8555321
+165,43,Queen of All Saints Elementary,1405 Como Lake Ave,Coquitlam,V3J3P4,"1405 Como Lake Ave, Coquitlam, BC, Canada",49.2630619,-122.8905293
+167,43,Ecole Panorama Heights Elementary,1455 Johnson St,Coquitlam,V3E2T1,"1455 Johnson St, Coquitlam, BC, Canada",49.2998154,-122.79891942239598
+170,43,Royal Bridge High School,301-1123 Westwood St,Coquitlam,V5H4G5,"301-1123 Westwood St, Coquitlam, BC, Canada",49.2650015,-122.7911143
+173,43,Riverview Park Elementary,700 Clearwater Way,Coquitlam,V3C6A3,"700 Clearwater Way, Coquitlam, BC, Canada",49.2566686,-122.80608779694622
+174,43,Pinetree Way Elementary,1420 Pinetree Way,Coquitlam,V3C6A3,"1420 Pinetree Way, Coquitlam, BC, Canada",49.30061285,-122.78643291138476
+179,43,Bramblewood Elementary,2875 Panorama Dr,Coquitlam,V3E2S7,"2875 Panorama Dr, Coquitlam, BC, Canada",49.2987348,-122.81314284902572
+180,43,Traditional Learning Academy,1189 Rochester Ave,Coquitlam,V3K2X3,"1189 Rochester Ave, Coquitlam, BC, Canada",49.2450549,-122.8501661
+181,43,Scott Creek Middle School,1240 Lansdowne Dr,Coquitlam,V3E3E7,"1240 Lansdowne Dr, Coquitlam, BC, Canada",49.2844507,-122.81329734196628
+182,43,Summit Middle School,1450 Parkway Blvd,Coquitlam,V3E3L2,"1450 Parkway Blvd, Coquitlam, BC, Canada",49.29549525,-122.80660947972899
+184,43,Inquiry Hub,1432 Brunette Ave,Coquitlam,V3K1G5,"1432 Brunette Ave, Coquitlam, BC, Canada",49.2396559,-122.85326788759548
+185,43,Greater Heights Learning Academy,550 Thompson Ave,Coquitlam,V3J3Z8,"550 Thompson Ave, Coquitlam, BC, Canada",49.2677132,-122.8905900130695
+186,43,Coast Salish Elementary,3538 Sheffield Avenue,Coquitlam,V3E3H1,"3538 Sheffield Avenue, Coquitlam, BC, Canada",49.2979454,-122.739693
+187,43,R. C. MacDonald Elementary,2550 Leduc Ave,Coquitlam,V3K5W6,"2550 Leduc Ave, Coquitlam, BC, Canada",49.245380100000006,-122.82185192226362
+188,43,École Dr. Charles Best Secondary,2525 Como Lake Ave,Coquitlam,V3J3R8,"2525 Como Lake Ave, Coquitlam, BC, Canada",49.26390515,-122.82128320100966
+189,43,Smiling Creek Elementary,3456 Princeton Ave,Coquitlam,V3E3H1,"3456 Princeton Ave, Coquitlam, BC, Canada",49.2975627,-122.75042599547768
+190,43,Hillcrest Middle School,2161 Regan Ave,Coquitlam,V3J3C5,"2161 Regan Ave, Coquitlam, BC, Canada",49.26243835,-122.83348948385634
+191,37,Neilson Grove Elementary,5500 Admiral Blvd,Delta,V4K5B7,"5500 Admiral Blvd, Delta, BC, Canada",49.1096795,-123.0724291
+192,37,Southpointe Academy,1900 56 St,Delta,V4L2B1,"1900 56 St, Delta, BC, Canada",49.0967413,-123.0675728
+193,37,Ladner Elementary,5016 44 Ave,Delta,V4K1C1,"5016 44 Ave, Delta, BC, Canada",49.0829019,-123.083513
+194,37,Delta Secondary,4615 51 St,Delta,V4K2V8,"4615 51 St, Delta, BC, Canada",49.088786,-123.0825842
+195,37,Richardson Elementary,11339 83 Ave,Delta,V4C7B9,"11339 83 Ave, Delta, BC, Canada",49.1544166,-122.8985523
+196,37,Heath Elementary,11364 72 Ave,Delta,V4E1Y5,"11364 72 Ave, Delta, BC, Canada",49.1339431,-122.9198927
+197,37,Devon Gardens Elementary,8884 Russell Dr,Delta,V4C4P8,"8884 Russell Dr, Delta, BC, Canada",49.1644823,-122.91387292567349
+198,37,North Delta Secondary,11447 82 Ave,Delta,V4C5J6,"11447 82 Ave, Delta, BC, Canada",49.153139949999996,-122.90450256524781
+199,37,Sunshine Hills Elementary,11285 Bond Blvd,Delta,V4E1N3,"11285 Bond Blvd, Delta, BC, Canada",49.1243825,-122.9067537
+200,37,English Bluff Elementary,402 English Bluff Rd,Delta,V4M2N2,"402 English Bluff Rd, Delta, BC, Canada",49.0033937,-123.0889442
+201,37,Cliff Drive Elementary,5025 12 Ave,Delta,V4M2A7,"5025 12 Ave, Delta, BC, Canada",49.0247068,-123.0853898
+202,37,South Park Elementary,735 Gilchrist Dr,Delta,V4M3L4,"735 Gilchrist Dr, Delta, BC, Canada",49.0160122,-123.0701844
+203,37,Beach Grove Elementary,5955 17A Ave,Delta,V4L1J7,"5955 17A Ave, Delta, BC, Canada",49.0346558,-123.0568877
+204,37,Delview Secondary,9111 116 St,Delta,V4C5W8,"9111 116 St, Delta, BC, Canada",49.1692376,-122.90231320904687
+205,37,Chalmers Elementary,11315 75 Ave,Delta,V4C1H4,"11315 75 Ave, Delta, BC, Canada",49.1403253,-122.90932415707863
+206,37,Hellings Elementary,11655 86 Ave,Delta,V4C2X5,"11655 86 Ave, Delta, BC, Canada",49.1595701,-122.8904521
+207,37,Gray Elementary,10855 80 Ave,Delta,V4C1W4,"10855 80 Ave, Delta, BC, Canada",49.14903975,-122.92050488653592
+208,37,Hawthorne Elementary,5160 Central Ave,Delta,V4K2H2,"5160 Central Ave, Delta, BC, Canada",49.0964204,-123.0736471
+209,37,Gibson Elementary,11451 90 Ave,Delta,V4C3H3,"11451 90 Ave, Delta, BC, Canada",49.1683027,-122.9154197
+210,37,Brooke Elementary,8718 Delwood Dr,Delta,V4C3Z9,"8718 Delwood Dr, Delta, BC, Canada",49.162105,-122.927095
+211,37,Jarvis Traditional Elementary,7670 118 St,Delta,V4C6G8,"7670 118 St, Delta, BC, Canada",49.1691067,-122.8965976
+212,37,Port Guichon Elementary,4381 46A St,Delta,V4K2M2,"4381 46A St, Delta, BC, Canada",49.0661461,-123.0961501
+213,37,Holly Elementary,4625 62 St,Delta,V4K3L8,"4625 62 St, Delta, BC, Canada",49.0875512,-123.0535873
+214,37,South Delta Secondary,750 53 St,Delta,V4M3B7,"750 53 St, Delta, BC, Canada",49.016549749999996,-123.07614221282843
+215,37,Sands Secondary,10840 82 Ave,Delta,V4C2B3,"10840 82 Ave, Delta, BC, Canada",49.1522506,-122.901774
+216,37,Cougar Canyon Elementary,11664 Lyon Rd,Delta,V4E2K4,"11664 Lyon Rd, Delta, BC, Canada",49.1245467,-122.9198613
+217,37,Seaquam Secondary,11584 Lyon Rd,Delta,V4E2K4,"11584 Lyon Rd, Delta, BC, Canada",49.1245467,-122.9198613
+218,37,Pinewood Elementary,11777 Pinewood Dr,Delta,V4E3E9,"11777 Pinewood Dr, Delta, BC, Canada",49.1145179,-122.8959714
+220,37,Pebble Hill Traditional Elementary,246 52A St,Delta,V4M2Z8,"246 52A St, Delta, BC, Canada",49.0848488,-123.0771158
+221,37,Annieville Elementary,9240 112 St,Delta,V4C4X8,"9240 112 St, Delta, BC, Canada",49.1080657,-122.9126018
+222,37,Burnsview Secondary,7658 112 St,Delta,V4C4V8,"7658 112 St, Delta, BC, Canada",49.14031215,-122.91149105124563
+223,37,Immaculate Conception School,8840 119 St,Delta,V4C6M4,"8840 119 St, Delta, BC, Canada",49.1482748,-122.8936693
+224,37,Delta Christian School,4789 53 St,Delta,V4K2Y9,"4789 53 St, Delta, BC, Canada",49.0899102,-123.07674746738749
+225,37,McCloskey Elementary,11531 80 Ave,Delta,V4C1X5,"11531 80 Ave, Delta, BC, Canada",49.1484573,-122.9244508
+226,37,Boundary Bay Montessori House,3800 72 St,Delta,V4K3N2,"3800 72 St, Delta, BC, Canada",49.0714766,-123.02362984999999
+227,35,Lynn Fripps Elementary,21020 83 Ave,Langley,V2Y0K8,"21020 83 Ave, Langley, BC, Canada",49.1521535,-122.6394300635105
+228,35,R C Garnett Demonstration Elementary,7096 201 St,Langley,V2Y3G7,"7096 201 St, Langley, BC, Canada",49.13195715,-122.66365339888485
+229,35,Langley Fundamental Middle/Secondary Sch,21250 42 Ave,Langley,V3A8K6,"21250 42 Ave, Langley, BC, Canada",49.0783558,-122.6411508
+230,35,Richard Bulpitt Elementary,20965 77A Ave,Langley,V2Y2E6,"20965 77A Ave, Langley, BC, Canada",49.143839,-122.641877
+231,35,Topham Elementary,21555 91 Ave,Langley,V1M3Z3,"21555 91 Ave, Langley, BC, Canada",49.1677725,-122.6233325
+232,35,Belmont Elementary,20390 40 Ave,Langley,V3A2X1,"20390 40 Ave, Langley, BC, Canada",49.0747375,-122.6037016
+234,35,Glenwood Elementary,20785 24 Ave,Langley,V2Z2B4,"20785 24 Ave, Langley, BC, Canada",49.04685465,-122.64811322749105
+236,35,Willoughby Elementary,20766 80 Ave,Langley,V2Y1X6,"20766 80 Ave, Langley, BC, Canada",49.1482261,-122.6784866
+238,35,Langley Secondary,21405 56 Ave,Langley,V2Y2N1,"21405 56 Ave, Langley, BC, Canada",49.1047227,-122.6492572
+239,35,Peterson Road Elementary,23422 47 Ave,Langley,V2Z2S3,"23422 47 Ave, Langley, BC, Canada",49.0873842,-122.5738927
+242,35,Blacklock Fine Arts Elementary,5100 206 St,Langley,V3A2E5,"5100 206 St, Langley, BC, Canada",49.0863691,-122.6531064
+243,35,Alice Brown Elementary,20011 44 Ave,Langley,V3A6L8,"20011 44 Ave, Langley, BC, Canada",49.0821715,-122.621786
+244,35,Uplands Elementary,4471 207A St,Langley,V3A5V8,"4471 207A St, Langley, BC, Canada",49.155589,-122.6480134
+246,35,West Langley Elementary,9403 212 St,Langley,V1M1M1,"9403 212 St, Langley, BC, Canada",49.174314499999994,-122.6361582544697
+247,35,Douglas Park Community,5409 206 St,Langley,V3A2C5,"5409 206 St, Langley, BC, Canada",49.0863691,-122.6531064
+248,35,Alex Hope Elementary,21150 85 Ave,Langley,V1M2M4,"21150 85 Ave, Langley, BC, Canada",49.1573097,-122.6371301996139
+250,35,Noel Booth Elementary,20202 35 Ave,Langley,V3A0N1,"20202 35 Ave, Langley, BC, Canada",49.0655031,-122.6657526
+251,35,Brookswood Secondary,20902 37A Ave,Langley,V3A5N2,"20902 37A Ave, Langley, BC, Canada",49.0701156,-122.6111565
+252,35,Langley Meadows Elementary,2244 Willoughby Way,Langley,V2Y1C1,"2244 Willoughby Way, Langley, BC, Canada",49.1203533,-122.6730073
+253,35,Nicomekl Elementary,20050 53 Ave,Langley,V3A3T9,"20050 53 Ave, Langley, BC, Canada",49.100239,-122.6773888
+254,35,Wix-Brown Elementary,23851 24 Ave,Langley,V2Z3A3,"23851 24 Ave, Langley, BC, Canada",49.0456495,-122.6582609
+255,35,Simonds Elementary,20190 48 Ave,Langley,V3A3L4,"20190 48 Ave, Langley, BC, Canada",49.0893348,-122.5151566
+257,35,Langley Christian School,22930 48 Ave,Langley,V2Z2T7,"22930 48 Ave, Langley, BC, Canada",49.0893442,-122.5685483
+258,35,St Catherines School,20244 32 Ave,Langley,V2Z2E1,"20244 32 Ave, Langley, BC, Canada",49.0602282,-122.6300971
+259,35,Credo Christian Schools,21846 52 Ave,Langley,V2Y2M7,"21846 52 Ave, Langley, BC, Canada",49.0967169,-122.5619774
+260,35,Gordon Greenwood Elementary,9175 206 St,Langley,V1M2X2,"9175 206 St, Langley, BC, Canada",49.0863691,-122.6531064
+261,35,Walnut Grove Secondary,8919 Walnut Grove Dr,Langley,V1M2N7,"8919 Walnut Grove Dr, Langley, BC, Canada",49.165835400000006,-122.64121712525198
+262,35,Whytecliff Agile Learning Centre-Langley,20561 Logan Ave,Langley,V3A7R3,"20561 Logan Ave, Langley, BC, Canada",49.1060645,-122.6528907
+263,35,Langley Fundamental Elementary,21789 50 Ave,Langley,V3A3T2,"21789 50 Ave, Langley, BC, Canada",49.0930478,-122.6194149
+264,35,Donna Gabriel Robins Elementary,7844 204B St,Langley,V2Y3N9,"7844 204B St, Langley, BC, Canada",49.174698,-122.6552689
+265,35,Murrayville Academy,21488 Old Yale Road,Langley,V3A4M8,"21488 Old Yale Road, Langley, BC, Canada",49.0845626,-122.6035447
+267,35,Dorothy Peacock Elementary,20292 91A Ave,Langley,V1M2G2,"20292 91A Ave, Langley, BC, Canada",49.1690717,-122.6681377
+268,35,H D Stafford Middle,20441 Grade Cres,Langley,V3A4J8,"20441 Grade Cres, Langley, BC, Canada",49.0890798,-122.656944
+270,35,Yorkson Creek Middle School,20686 84 Ave,Langley,V2Y2B5,"20686 84 Ave, Langley, BC, Canada",49.1554377,-122.647155
+271,35,Langley Equestrian Academy,20902 37A Ave,Langley,V3A5N2,"20902 37A Ave, Langley, BC, Canada",49.0701156,-122.6111565
+272,35,Peter Ewart Middle School,7755 202A St,Langley,V2Y1W4,"7755 202A St, Langley, BC, Canada",49.144026800000006,-122.6623950016147
+274,35,Khalsa School of the Fraser Valley,26345 62 Ave,Langley,V4W1L8,"26345 62 Ave, Langley, BC, Canada",49.1152896,-122.6475578
+275,35,D.W. Poppy Secondary,23752 52 Ave,Langley,V2Z2P3,"23752 52 Ave, Langley, BC, Canada",49.0967169,-122.5619774
+276,35,James Kennedy Elementary,9060 212 St,Langley,V1M2B7,"9060 212 St, Langley, BC, Canada",49.0575855,-122.6362586
+277,35,Dogwood School,23328 44 Ave,Langley,V2Z2V2,"23328 44 Ave, Langley, BC, Canada",49.0821715,-122.621786
+278,35,COMPASS Christian Langley (Glover Rd.),6866 Glover Rd,Langley,V2Y0W9,"6866 Glover Rd, Langley, BC, Canada",49.1270372,-122.62258539958658
+279,35,Riverside Christian Academy,8-20178 96 Ave,Langley,V1H0B2,"8-20178 96 Ave, Langley, BC, Canada",49.1684567,-122.5802015
+280,35,James Hill Elementary,22144 Old Yale Rd,Langley,V2Z1B5,"22144 Old Yale Rd, Langley, BC, Canada",49.0991649,-122.6411376
+281,35,R E Mountain Secondary,7633 202A St,Langley,V2Y1W4,"7633 202A St, Langley, BC, Canada",49.1416809,-122.66286744307989
+282,35,SKY Secondary School,20317 67 Ave,Langley,V2Y1P6,"20317 67 Ave, Langley, BC, Canada",49.1243295,-122.6513591
+283,40,Ecole Glenbrook Middle School,701 Park Cres,New Westminster,V3L5V4,"701 Park Cres, New Westminster, BC, Canada",49.2200782,-122.9114692
+284,40,Queensborough Middle School,833 Salter St,New Westminster,V3M6G8,"833 Salter St, New Westminster, BC, Canada",49.1791472,-122.9554474
+285,40,Al-Hidayah School,7 - 6Th St,New Westminster,V3L2Y7,"7 - 6Th St, New Westminster, BC, Canada",49.2189552,-122.927614
+286,40,Urban Academy Senior,466 Rousseau St,New Westminster,V3L3R3,"466 Rousseau St, New Westminster, BC, Canada",49.2311499,-122.88594680809798
+287,40,Urban Academy Junior,466 Rousseau St,New Westminster,V3L3R3,"466 Rousseau St, New Westminster, BC, Canada",49.2311499,-122.88594680809798
+288,40,Lord Kelvin Elementary,1010 Hamilton St,New Westminster,V3M2M9,"1010 Hamilton St, New Westminster, BC, Canada",49.21088435,-122.92987459244976
+289,40,Herbert Spencer Elementary,605 Second St,New Westminster,V3L5R9,"605 Second St, New Westminster, BC, Canada",49.2165421,-122.9142055
+290,40,Lord Tweedsmuir Elementary,1714 Eighth Ave,New Westminster,V3M2S7,"1714 Eighth Ave, New Westminster, BC, Canada",49.20545145,-122.94231649628148
+291,40,New Westminster Secondary,820 6Th St,New Westminster,V3M3S9,"820 6Th St, New Westminster, BC, Canada",49.2189552,-122.927614
+292,40,F W Howay Elementary,91 Courtney Cres,New Westminster,V3L4M1,"91 Courtney Cres, New Westminster, BC, Canada",49.2256341,-122.9103613
+293,40,Connaught Heights Elementary,2201 London St,New Westminster,V3M3G1,"2201 London St, New Westminster, BC, Canada",49.20269945,-122.9550539322753
+294,40,Queen Elizabeth Elementary,921 Salter St,New Westminster,V3M6G8,"921 Salter St, New Westminster, BC, Canada",49.1791472,-122.9554474
+295,40,Skwo:wech,331 Richmond St,New Westminster,V3L4B7,"331 Richmond St, New Westminster, BC, Canada",49.2266488,-122.90014926080246
+296,40,Purpose Independent Secondary School,40 Begbie St,New Westminster,V3M3L9,"40 Begbie St, New Westminster, BC, Canada",49.2021658,-122.9111566
+297,40,Ecole Qayqayt Elementary,85 Merivale St,New Westminster,V3L0G2,"85 Merivale St, New Westminster, BC, Canada",49.208416650000004,-122.90503021982433
+298,40,Fraser River Middle,800 Queens Ave,New Westminster,V3M0J2,"800 Queens Ave, New Westminster, BC, Canada",49.2047293,-122.9167344
+300,40,Compass Christian New West,101-4644 240 St,Langley,V2Z2M7,"101-4644 240 St, Langley, BC, Canada",49.152905,-122.5587032
+301,40,PALS Autism Society (School Program),101 Third St,New Westminster,V3L2P9,"101 Third St, New Westminster, BC, Canada",49.20856045,-122.90712758644307
+302,42,Samuel Robertson Technical Secondary,10445 245 St,Maple Ridge,V2W2G4,"10445 245 St, Maple Ridge, BC, Canada",49.1928543,-122.5441141251306
+303,42,Blue Mountain Elementary,12453 248 St,Maple Ridge,V4R1J3,"12453 248 St, Maple Ridge, BC, Canada",49.186845,-122.534721
+304,42,Hammond Elementary,11520 203 St,Maple Ridge,V2X4T6,"11520 203 St, Maple Ridge, BC, Canada",49.212581,-122.6585872
+305,42,Maple Ridge Secondary,21911 122 Ave,Maple Ridge,V2X3X2,"21911 122 Ave, Maple Ridge, BC, Canada",49.2241635,-122.6068774
+306,42,Garibaldi Secondary,24789 Dewdney Trunk Rd,Maple Ridge,V4R1X2,"24789 Dewdney Trunk Rd, Maple Ridge, BC, Canada",49.2214986,-122.5363863
+307,42,Westview Secondary,20905 Wicklund Ave,Maple Ridge,V2X8E8,"20905 Wicklund Ave, Maple Ridge, BC, Canada",49.224875350000005,-122.6419239695217
+309,42,Eric Langton Elementary,12138 Edge St,Maple Ridge,V2X6G8,"12138 Edge St, Maple Ridge, BC, Canada",49.2234893,-122.5962548065097
+310,42,Fairview Elementary,12209 206 St,Maple Ridge,V2X1T8,"12209 206 St, Maple Ridge, BC, Canada",49.2233535,-122.65148005066416
+311,42,Glenwood Elementary,21410 Glenwood Ave,Maple Ridge,V2X3P6,"21410 Glenwood Ave, Maple Ridge, BC, Canada",49.2219351,-122.6227149
+312,42,Golden Ears Elementary,23124 118 Ave,Maple Ridge,V2X2N1,"23124 118 Ave, Maple Ridge, BC, Canada",49.21671,-122.5753517
+313,42,Pitt Meadows Secondary,19438 116B Ave,Pitt Meadows,V3Y1G1,"19438 116B Ave, Pitt Meadows, BC, Canada",49.213671649999995,-122.68310372407112
+314,42,Maple Ridge Elementary,20820 River Rd,Maple Ridge,V2X1Z7,"20820 River Rd, Maple Ridge, BC, Canada",49.21236725,-122.64425247468085
+315,42,Pitt Meadows Elementary,11941 Harris Rd,Pitt Meadows,V3Y2B5,"11941 Harris Rd, Pitt Meadows, BC, Canada",49.2310176,-122.6895213
+316,42,Davie Jones Elementary,12030 Blakely Rd,Pitt Meadows,V3Y1J6,"12030 Blakely Rd, Pitt Meadows, BC, Canada",49.2218399,-122.6825556
+317,42,Highland Park Elementary,18961 Advent Rd,Pitt Meadows,V3Y2G4,"18961 Advent Rd, Pitt Meadows, BC, Canada",49.2261121,-122.6962337
+318,42,Alouette Elementary,22155 Isaac Cres,Maple Ridge,V2X0V9,"22155 Isaac Cres, Maple Ridge, BC, Canada",49.2286121,-122.6103815
+320,42,Harry Hooge Elementary,12280 230 St,Maple Ridge,V2X0P6,"12280 230 St, Maple Ridge, BC, Canada",49.22538315,-122.58360010621115
+321,42,St Patrick's,22589 121 Ave,Maple Ridge,V2X3T5,"22589 121 Ave, Maple Ridge, BC, Canada",49.222681699999995,-122.59538241455834
+322,42,Meadowridge School,12224 240 St,Maple Ridge,V4R1N1,"12224 240 St, Maple Ridge, BC, Canada",49.1978779,-122.5567132
+323,42,Laity View Elementary,21023 123 Ave,Maple Ridge,V2X4B5,"21023 123 Ave, Maple Ridge, BC, Canada",49.2270499,-122.63763945358073
+324,42,Meadow Montessori,11391 Dartford St,Maple Ridge,V2X1V6,"11391 Dartford St, Maple Ridge, BC, Canada",49.208667,-122.6496282
+325,42,Canyon Springs Montessori Academy,18477 Old Dewdney Trunk Rd,Pitt Meadows,V3Y1Z1,"18477 Old Dewdney Trunk Rd, Pitt Meadows, BC, Canada",49.245512149999996,-122.70945402259895
+326,42,Thomas Haney Secondary,23000 116 Ave,Maple Ridge,V2X0T8,"23000 116 Ave, Maple Ridge, BC, Canada",49.21174725,-122.58169472669522
+327,42,Yennadon Elementary,23347 128 Ave,Maple Ridge,V2X4R9,"23347 128 Ave, Maple Ridge, BC, Canada",49.235456,-122.57598655299523
+328,42,Kanaka Creek Elementary,11120 234A St,Maple Ridge,V2W1C8,"11120 234A St, Maple Ridge, BC, Canada",49.20412305,-122.57157204264755
+329,42,Whonnock Elementary,27471 112 Ave,Maple Ridge,V2W1P9,"27471 112 Ave, Maple Ridge, BC, Canada",49.2056273,-122.4436042
+330,42,Environmental School Project,23125,Maple Ridge,V2X0G8,"23125, Maple Ridge, BC, Canada",49.2197345,-122.599707
+331,42,Odyssey K-9 SD 42,12209,Maple Ridge,V2X1T8,"12209, Maple Ridge, BC, Canada",49.2197345,-122.599707
+332,42,c'usqunela Elementary,24093 104 Ave,Maple Ridge,V2W1J2,"24093 104 Ave, Maple Ridge, BC, Canada",49.19215785,-122.55420776103853
+333,42,Webster's Corners Elementary,25554 Dewdney Trunk Rd,Maple Ridge,V4R1X9,"25554 Dewdney Trunk Rd, Maple Ridge, BC, Canada",49.2204908,-122.6045091
+334,42,Edith McDermott Elementary,12178 Bonson Rd,Pitt Meadows,V3Y2L5,"12178 Bonson Rd, Pitt Meadows, BC, Canada",49.2237963,-122.6798653
+335,42,Maple Ridge Christian School,12140 204B St,Maple Ridge,V2X2Z5,"12140 204B St, Maple Ridge, BC, Canada",49.2286302,-122.6543879
+336,42,Alexander Robinson Elementary,11849 238B St,Maple Ridge,V4R2T8,"11849 238B St, Maple Ridge, BC, Canada",49.2185795,-122.561192
+337,38,Spul'u'kwuks Elementary,5999 Blanshard Dr,Richmond,V7C5V4,"5999 Blanshard Dr, Richmond, BC, Canada",49.170876050000004,-123.18550840610989
+339,38,A.R. MacNeill Secondary,6611 No. 4 Rd,Richmond,V6Y2T2,"6611 No. 4 Rd, Richmond, BC, Canada",49.16412625,-123.11605714599165
+340,38,Az-Zahraa Islamic Academy,8580 No. 5 Rd,Richmond,V6Y2V4,"8580 No. 5 Rd, Richmond, BC, Canada",49.1508667,-123.09049474569522
+341,38,Ark Elementary Montessori Reggio School,11371 No 3 Rd.,Richmond,V7A1X3,"11371 No 3 Rd., Richmond, BC, Canada",49.1648052,-123.136493
+342,38,Cornerstone Christian Academy,7890 No. 5 Rd,Richmond,V6Y2V2,"7890 No. 5 Rd, Richmond, BC, Canada",49.1722926,-123.091979
+343,38,W D Ferris Elementary,7520 Sunnymede Cres,Richmond,V6Y2V8,"7520 Sunnymede Cres, Richmond, BC, Canada",49.1540701,-123.14490722911492
+344,38,Lord Byng Elementary,3711 Georgia St,Richmond,V7E6M3,"3711 Georgia St, Richmond, BC, Canada",49.1302335,-123.187019
+345,38,Hamilton Elementary,5180 Smith Dr,Richmond,V6V2W5,"5180 Smith Dr, Richmond, BC, Canada",49.17603775,-122.96522974250885
+346,38,Garden City Elementary,8311 Garden City Rd,Richmond,V6Y2P1,"8311 Garden City Rd, Richmond, BC, Canada",49.152179450000006,-123.12596112314286
+347,38,R M Grauer Elementary,4440 Blundell Rd,Richmond,V7C1G9,"4440 Blundell Rd, Richmond, BC, Canada",49.15516495,-123.17476265750744
+348,38,James Thompson Elementary,6211 Forsyth Cres,Richmond,V7C2C4,"6211 Forsyth Cres, Richmond, BC, Canada",49.167972500000005,-123.1788910420057
+349,38,Blundell Elementary,6480 Blundell Rd,Richmond,V7C1H8,"6480 Blundell Rd, Richmond, BC, Canada",49.15477825,-123.15193646744892
+350,38,William Cook Elementary,8600 Cook Rd,Richmond,V6Y1V7,"8600 Cook Rd, Richmond, BC, Canada",49.165383,-123.12811512860536
+351,38,James Whiteside Elementary,9282 Williams Rd,Richmond,V7A1H1,"9282 Williams Rd, Richmond, BC, Canada",49.13973085,-123.12057425513458
+352,38,Robert J Tait Elementary,10071 Finlayson Dr,Richmond,V6X1W7,"10071 Finlayson Dr, Richmond, BC, Canada",49.1953585,-123.1079632
+353,38,Thomas Kidd Elementary,10851 Shell Rd,Richmond,V7A3W6,"10851 Shell Rd, Richmond, BC, Canada",49.1702984,-123.1029925
+354,38,Alfred B Dixon Elementary,9331 Diamond Rd,Richmond,V7E1P5,"9331 Diamond Rd, Richmond, BC, Canada",49.1447635,-123.1838759
+355,38,John T Errington Elementary,9831 Herbert Rd,Richmond,V7A1T6,"9831 Herbert Rd, Richmond, BC, Canada",49.1430149,-123.14225104146593
+356,38,Tomsett Elementary,9671 Odlin Rd,Richmond,V6X1E1,"9671 Odlin Rd, Richmond, BC, Canada",49.1817701,-123.1138301
+357,38,James Gilmore Elementary,8380 Elsmore Rd,Richmond,V7C2A1,"8380 Elsmore Rd, Richmond, BC, Canada",49.15161845,-123.18747261910971
+358,38,Walter Lee Elementary,9491 Ash St,Richmond,V7A2T7,"9491 Ash St, Richmond, BC, Canada",49.1488563,-123.1197589
+359,38,R.C. Palmer Secondary,8160 St. Albans Rd,Richmond,V6Y2K9,"8160 St. Albans Rd, Richmond, BC, Canada",49.15434435,-123.12923638519462
+360,38,Mitchell Elementary,3800 No.5 Rd,Richmond,V6X2T7,"3800 No.5 Rd, Richmond, BC, Canada",49.1722926,-123.091979
+361,38,Daniel Woodward Elementary,10300 Seacote Rd,Richmond,V7A4B2,"10300 Seacote Rd, Richmond, BC, Canada",49.1378858,-123.09683249182771
+362,38,Hugh Boyd Secondary,9200 No. 1 Rd,Richmond,V7E6L5,"9200 No. 1 Rd, Richmond, BC, Canada",49.145490699999996,-123.17815078186351
+363,38,Samuel Brighouse Elementary,6800 Azure Rd,Richmond,V7C2S8,"6800 Azure Rd, Richmond, BC, Canada",49.1665823,-123.15064074498486
+364,38,Howard De Beck Elementary,8600 Ash St,Richmond,V6Y2S3,"8600 Ash St, Richmond, BC, Canada",49.1488563,-123.1197589
+366,38,William Bridge Elementary,10400 Leonard Rd,Richmond,V7A2N5,"10400 Leonard Rd, Richmond, BC, Canada",49.13680345,-123.13310412053781
+367,38,Steveston-London Secondary,6600 Williams Rd,Richmond,V7E1K5,"6600 Williams Rd, Richmond, BC, Canada",49.139621500000004,-123.14991998420977
+368,38,Maple Lane Elementary,7671 Alouette Dr,Richmond,V7A4P2,"7671 Alouette Dr, Richmond, BC, Canada",49.13785155,-123.14148845976715
+369,38,Quilchena Elementary,3760 Moresby Dr,Richmond,V7C4G6,"3760 Moresby Dr, Richmond, BC, Canada",49.1597776,-123.1852948
+370,38,Kingswood Elementary,11511 King Rd,Richmond,V7A3B5,"11511 King Rd, Richmond, BC, Canada",49.14542505,-123.09540352862459
+371,38,John G Diefenbaker Elementary,4511 Hermitage Dr,Richmond,V7E4T1,"4511 Hermitage Dr, Richmond, BC, Canada",49.137557150000006,-123.17600755714753
+372,38,Westwind Elementary,11371 Kingfisher Dr,Richmond,V7E4Y6,"11371 Kingfisher Dr, Richmond, BC, Canada",49.13043625,-123.164093208769
+373,38,Donald E McKay Elementary,7360 Lombard Rd,Richmond,V7C3N1,"7360 Lombard Rd, Richmond, BC, Canada",49.15969265,-123.16544637031535
+374,38,Matthew McNair Secondary,9500 No. 4 Rd,Richmond,V7A2Y9,"9500 No. 4 Rd, Richmond, BC, Canada",49.1427203,-123.11295864181264
+375,38,BC Muslim School,12300 Blundell Rd,Richmond,V6W1B3,"12300 Blundell Rd, Richmond, BC, Canada",49.1531858,-123.087719
+376,38,St Joseph the Worker,4451 Williams Rd,Richmond,V7E1J7,"4451 Williams Rd, Richmond, BC, Canada",49.14164685,-123.17432420525853
+377,38,St Paul School,8251 St. Albans Rd,Richmond,V6Y2L2,"8251 St. Albans Rd, Richmond, BC, Canada",49.15345085,-123.131616300101
+378,38,J.N. Burnett Secondary,5011 Granville Ave,Richmond,V7C1E6,"5011 Granville Ave, Richmond, BC, Canada",49.163634349999995,-123.16899226594639
+379,38,Hugh McRoberts Secondary,8980 Williams Rd,Richmond,V7A1G6,"8980 Williams Rd, Richmond, BC, Canada",49.139910099999994,-123.12638784057987
+380,38,Richmond Secondary,7171 Minoru Blvd,Richmond,V6Y1Z3,"7171 Minoru Blvd, Richmond, BC, Canada",49.1613292,-123.14277577429138
+381,38,Sea Island Elementary,1891 Wellington Cres,Richmond,V7B1G6,"1891 Wellington Cres, Richmond, BC, Canada",49.1860623,-123.1501289
+382,38,Tomekichi Homma Elementary,5100 Brunswick Dr,Richmond,V7E6K9,"5100 Brunswick Dr, Richmond, BC, Canada",49.1231171,-123.16833368177214
+383,38,Kathleen McNeely Elementary,12440 Woodhead Rd,Richmond,V6V1G3,"12440 Woodhead Rd, Richmond, BC, Canada",49.182101849999995,-123.08490208752303
+384,38,R. C. Talmey Elementary,9500 Kilby Dr,Richmond,V6X3N2,"9500 Kilby Dr, Richmond, BC, Canada",49.1883748,-123.1200234
+385,38,Choice School For Gifted Children,20451 Westminster Hwy,Richmond,V6V1B3,"20451 Westminster Hwy, Richmond, BC, Canada",49.17040385,-122.99500846260217
+386,38,Richmond Jewish Day School,8760 No. 5 Rd,Richmond,V6Y2V4,"8760 No. 5 Rd, Richmond, BC, Canada",49.1722926,-123.091979
+387,38,Jessie Wowk Elementary,5380 Woodwards Rd,Richmond,V7E1H1,"5380 Woodwards Rd, Richmond, BC, Canada",49.14333105,-123.16390555224112
+388,38,General Currie Elementary,8220 General Currie Rd,Richmond,V6Y1M1,"8220 General Currie Rd, Richmond, BC, Canada",49.1591585,-123.1156389
+389,38,Cambie Secondary,4151 Jacombs Rd,Richmond,V6V1N7,"4151 Jacombs Rd, Richmond, BC, Canada",49.183307549999995,-123.08121730884778
+390,38,Henry Anderson Elementary,9460 Alberta Rd,Richmond,V6Y1T6,"9460 Alberta Rd, Richmond, BC, Canada",49.16473565,-123.11895440382904
+391,38,Archibald Blair Elementary,6551 Lynas Lane,Richmond,V7C3K8,"6551 Lynas Lane, Richmond, BC, Canada",49.165250400000005,-123.16619076836835
+392,38,Robert A. McMath Secondary,4251 Garry St,Richmond,V7E2T9,"4251 Garry St, Richmond, BC, Canada",49.130209,-123.1786102
+393,38,Pythagoras Academy,8671 Odlin Cres,Richmond,V6X1G1,"8671 Odlin Cres, Richmond, BC, Canada",49.181462249999996,-123.1285077609274
+394,38,Canada Star Secondary School,11295 Mellis Dr,Richmond,V6X1L8,"11295 Mellis Dr, Richmond, BC, Canada",49.1858124,-123.0990044
+395,38,Mia Montessori Academy,3128 Regent St,Richmond,V7E2M4,"3128 Regent St, Richmond, BC, Canada",49.1320334,-123.1813054
+396,38,Maple Hill School,120-6411 Buswell St,Richmond,V6Y2G5,"120-6411 Buswell St, Richmond, BC, Canada",49.1627868,-123.1337633
+397,38,Windsor Hall,11295 Mellis Dr,Richmond,V6X1L8,"11295 Mellis Dr, Richmond, BC, Canada",49.1858124,-123.0990044
+398,38,James McKinney Elementary,10451 Lassam Rd,Richmond,V7E2C2,"10451 Lassam Rd, Richmond, BC, Canada",49.136622700000004,-123.16457518268555
+399,38,Richmond Christian School,10260 No. 5 Rd,Richmond,V7A4E5,"10260 No. 5 Rd, Richmond, BC, Canada",49.137322999999995,-123.09102210175318
+400,38,Chaoyin Bilingual School,10111 Bird Rd,Richmond,V6X1N4,"10111 Bird Rd, Richmond, BC, Canada",49.190212,-123.11156266235295
+401,36,G.A.D. Elementary School,13479 77 Ave,Surrey,V3W6Y1,"13479 77 Ave, Surrey, BC, Canada",49.14320135,-122.84837174391066
+402,36,Hillcrest Elementary,18599 65 Ave,Surrey,V3S8T2,"18599 65 Ave, Surrey, BC, Canada",49.1212586,-122.70640112183679
+403,36,Sullivan Heights Secondary,6248 144 St,Surrey,V3X1A1,"6248 144 St, Surrey, BC, Canada",49.11639625,-122.82158090357143
+404,36,Forsyth Road Elementary,10730 139 St,Surrey,V3T4L9,"10730 139 St, Surrey, BC, Canada",49.1972221,-122.8368587
+405,36,Pacific Heights Elementary,17148 26 Ave,Surrey,V3S0A4,"17148 26 Ave, Surrey, BC, Canada",49.04877785,-122.74815082701056
+406,36,Cambridge Elementary,6115 150 St,Surrey,V3S3H7,"6115 150 St, Surrey, BC, Canada",49.1137628,-122.8068411
+407,36,Ecole Panorama Ridge Secondary,13220 64 Ave,Surrey,V3W1X9,"13220 64 Ave, Surrey, BC, Canada",49.1187911,-122.8549873
+408,36,Katzie Elementary,6887 194A St,Surrey,V4N1N2,"6887 194A St, Surrey, BC, Canada",49.12893205,-122.68508632767518
+409,36,Goldstone Park Elementary,6287 146 St,Surrey,V3S3A3,"6287 146 St, Surrey, BC, Canada",49.1167632,-122.81854681016388
+410,36,Princess Margaret Secondary,12870 72 Ave,Surrey,V3W2M9,"12870 72 Ave, Surrey, BC, Canada",49.1335804,-122.8653873
+411,36,A J McLellan Elementary,16545 61 Ave,Surrey,V3S5V4,"16545 61 Ave, Surrey, BC, Canada",49.1140878,-122.76370760774753
+412,36,Morgan Elementary,3366 156A St,Surrey,V3Z9Y7,"3366 156A St, Surrey, BC, Canada",49.0633261,-122.78750977132424
+413,36,Kwantlen Park Secondary,10441 132 St,Surrey,V3T3V3,"10441 132 St, Surrey, BC, Canada",49.1853489,-122.8565206
+414,36,Honour Secondary School,10453 Whalley Blvd,Surrey,V3T5B1,"10453 Whalley Blvd, Surrey, BC, Canada",49.1925767,-122.8423475
+415,36,Coast Meridian Elementary,8222 168A St,Surrey,V4N4T8,"8222 168A St, Surrey, BC, Canada",49.1520731,-122.7549983
+416,36,Chimney Hill Elementary,14755 74 Ave,Surrey,V3S8Y8,"14755 74 Ave, Surrey, BC, Canada",49.1381952,-122.81391106696944
+417,36,Enver Creek Secondary,14505 84 Ave,Surrey,V3S8X2,"14505 84 Ave, Surrey, BC, Canada",49.1568312,-122.82029212514433
+418,36,Hjorth Road Elementary,14781 104 Ave,Surrey,V3R5X4,"14781 104 Ave, Surrey, BC, Canada",49.1916985,-122.7809027
+419,36,Port Kells Elementary,19076 88 Ave,Surrey,V4N5T2,"19076 88 Ave, Surrey, BC, Canada",49.1626644,-122.6939993
+420,36,Cloverdale Traditional,17857 56 Ave,Surrey,V3S1E2,"17857 56 Ave, Surrey, BC, Canada",49.1044397,-122.7279471
+421,36,White Rock Elementary,1273 Fir St,White Rock,V4B5A6,"1273 Fir St, White Rock, BC, Canada",49.02519095,-122.79956775317396
+422,36,Colebrook Elementary,5404 125A St,Surrey,V3X1W6,"5404 125A St, Surrey, BC, Canada",49.1013829,-122.8742978
+423,36,East Kensington Elementary,2795 184 St,Surrey,V3S9V2,"2795 184 St, Surrey, BC, Canada",49.053177149999996,-122.71473934671302
+424,36,Sullivan Elementary,6016 152 St,Surrey,V3S3K6,"6016 152 St, Surrey, BC, Canada",49.1119016,-122.8000113
+425,36,Queen Elizabeth Secondary,9457 King George Blvd,Surrey,V3V5W4,"9457 King George Blvd, Surrey, BC, Canada",49.17324855,-122.84730283762357
+426,36,North Surrey Secondary,15945 96 Ave,Surrey,V4N2R8,"15945 96 Ave, Surrey, BC, Canada",49.1770662,-122.78034
+427,36,Harold Bishop Elementary,15670 104 Ave,Surrey,V4N2J3,"15670 104 Ave, Surrey, BC, Canada",49.1914236,-122.7877057
+428,36,Crescent Park Elementary,2440 128 St,Surrey,V4A3W3,"2440 128 St, Surrey, BC, Canada",49.046411500000005,-122.86667963492755
+429,36,Bridgeview Elementary,12834 115A Ave,Surrey,V3R2X4,"12834 115A Ave, Surrey, BC, Canada",49.2117964,-122.8658972
+430,36,J T Brown Elementary,12530 60 Ave,Surrey,V3X2K8,"12530 60 Ave, Surrey, BC, Canada",49.1115269,-122.8759395
+431,36,Latimer Road Elementary,19233 60 Ave,Surrey,V3S2T5,"19233 60 Ave, Surrey, BC, Canada",49.1114656,-122.6901933
+432,36,Ray Shepherd Elementary,1650 136 St,Surrey,V4A4E4,"1650 136 St, Surrey, BC, Canada",49.031943749999996,-122.84427845819238
+433,36,Dr F D Sinclair Elementary,7480 128 St,Surrey,V3W4E5,"7480 128 St, Surrey, BC, Canada",49.1390294,-122.86743934940083
+434,36,Sunnyside Elementary,2828 159 St,Surrey,V3S0E5,"2828 159 St, Surrey, BC, Canada",49.1764394,-122.7820879
+435,36,Surrey Centre Elementary,16670 Old Mclellan Rd,Surrey,V3S1K3,"16670 Old Mclellan Rd, Surrey, BC, Canada",49.10969335,-122.75888218505854
+436,36,K B Woodward Elementary,13130 106 Ave,Surrey,V3T2C3,"13130 106 Ave, Surrey, BC, Canada",49.1946496,-122.8591379
+437,36,Lord Tweedsmuir Secondary,6151 180 St,Surrey,V3S4L5,"6151 180 St, Surrey, BC, Canada",49.1137825,-122.72475471946913
+438,36,Green Timbers Elementary,8824 144 St,Surrey,V3V5Z7,"8824 144 St, Surrey, BC, Canada",49.1635887,-122.8228634
+439,36,Prince Charles Elementary,12405 100 Ave,Surrey,V3V2X2,"12405 100 Ave, Surrey, BC, Canada",49.1846922,-122.8775969
+440,36,Johnston Heights Secondary,15350 99 Ave,Surrey,V3R0R9,"15350 99 Ave, Surrey, BC, Canada",49.1823889,-122.7967188
+441,36,Guildford Park Secondary,10707 146 St,Surrey,V3R1T5,"10707 146 St, Surrey, BC, Canada",49.1968765,-122.8182802
+442,36,Semiahmoo Secondary,1785 148 St,Surrey,V4A4M5,"1785 148 St, Surrey, BC, Canada",49.0345997,-122.8124734
+443,36,Mountainview Montessori,15225 98 Ave,Surrey,V3R1J2,"15225 98 Ave, Surrey, BC, Canada",49.1815116,-122.79937
+444,36,A H P Matthew Elementary,13367 97 Ave,Surrey,V3T1A4,"13367 97 Ave, Surrey, BC, Canada",49.1793846,-122.876218
+445,36,T E Scott Elementary,7079 148 St,Surrey,V3S3E5,"7079 148 St, Surrey, BC, Canada",49.131509,-122.8124506
+446,36,Mary Jane Shannon Elementary,10682 144 St,Surrey,V3T4W1,"10682 144 St, Surrey, BC, Canada",49.1964931,-122.822712
+447,36,Lena Shaw Elementary,14250 100A Ave,Surrey,V3T1K8,"14250 100A Ave, Surrey, BC, Canada",49.184685099999996,-122.82895325705199
+448,36,H T Thrift Elementary,1739 148 St,Surrey,V4A4M6,"1739 148 St, Surrey, BC, Canada",49.0336789,-122.8124653
+449,36,William Watson Elementary,16450 80 Ave,Surrey,V4N0H3,"16450 80 Ave, Surrey, BC, Canada",49.14742475,-122.76612743678258
+450,36,David Brankin Elementary,9160 128 St,Surrey,V3V5M8,"9160 128 St, Surrey, BC, Canada",49.169539900000004,-122.86607832772404
+451,36,Ecole Riverdale Elementary,14835 108A Ave,Surrey,V3R1W9,"14835 108A Ave, Surrey, BC, Canada",49.2000424,-122.8114112
+452,36,Senator Reid Elementary,9341 126 St,Surrey,V3V5C4,"9341 126 St, Surrey, BC, Canada",49.1727336,-122.8747286
+453,36,Martha Currie Elementary,5811 184 St,Surrey,V3S4N2,"5811 184 St, Surrey, BC, Canada",49.10721065,-122.7141207396535
+454,36,James Ardiel Elementary,13751 112 Ave,Surrey,V3R2G4,"13751 112 Ave, Surrey, BC, Canada",49.2068405,-122.84093536232857
+455,36,Old Yale Road Elementary,10135 132 St,Surrey,V3T3T6,"10135 132 St, Surrey, BC, Canada",49.186937150000006,-122.8580886051119
+456,36,Erma Stephenson Elementary,10929 160 St,Surrey,V4N1P3,"10929 160 St, Surrey, BC, Canada",49.2009449,-122.7789257
+457,36,Bear Creek Elementary,13780 80 Ave,Surrey,V3W7X6,"13780 80 Ave, Surrey, BC, Canada",49.1480027,-122.8409481
+458,36,Peace Arch Elementary,15877 Roper Ave,White Rock,V4B2H5,"15877 Roper Ave, White Rock, BC, Canada",49.0257391,-122.800483
+459,36,Henry Bose Elementary,6550 134 St,Surrey,V3W4S3,"6550 134 St, Surrey, BC, Canada",49.1217018,-122.8507952
+460,36,Newton Elementary,13359 81 Ave,Surrey,V3W3C5,"13359 81 Ave, Surrey, BC, Canada",49.1513257,-122.85278104622832
+461,36,Cedar Hills Elementary,12370 98 Ave,Surrey,V3V2K3,"12370 98 Ave, Surrey, BC, Canada",49.1804933,-122.8797069
+462,36,Royal Heights Elementary,11665 97 Ave,Surrey,V3V2B9,"11665 97 Ave, Surrey, BC, Canada",49.1791917,-122.8993953
+463,36,Surrey Traditional,13875 113 Ave,Surrey,V3R2J6,"13875 113 Ave, Surrey, BC, Canada",49.208259,-122.8378628456838
+464,36,Holly Elementary,10719 150 St,Surrey,V3R4C8,"10719 150 St, Surrey, BC, Canada",49.1970937,-122.8065108
+465,36,Georges Vanier Elementary,6985 142 St,Surrey,V3W5N1,"6985 142 St, Surrey, BC, Canada",49.0369273,-122.8298803
+466,36,Ellendale Elementary,14525 110A Ave,Surrey,V3R2B4,"14525 110A Ave, Surrey, BC, Canada",49.203607500000004,-122.81981155104167
+467,36,Simon Cunningham Elementary,9380 140 St,Surrey,V3V5Z4,"9380 140 St, Surrey, BC, Canada",49.1726517,-122.83312629835736
+468,36,Jessie Lee Elementary,2064 154 St,Surrey,V4A4S3,"2064 154 St, Surrey, BC, Canada",49.039711,-122.7954689
+469,36,George Greenaway Elementary,17285 61A Ave,Surrey,V3S1W3,"17285 61A Ave, Surrey, BC, Canada",49.11454425,-122.74275210998343
+470,36,Earl Marriott Secondary,15751 16 Ave,Surrey,V4A1S1,"15751 16 Ave, Surrey, BC, Canada",49.0311158,-122.7734328
+471,36,Frank Hurt Secondary,13940 77 Ave,Surrey,V3W5Z4,"13940 77 Ave, Surrey, BC, Canada",49.14143405,-122.83685548296197
+472,36,Betty Huff Elementary,13055 Huntley Ave,Surrey,V3V1V1,"13055 Huntley Ave, Surrey, BC, Canada",49.1724628,-122.8604038
+473,36,Strawberry Hill Elementary,7633 124 St,Surrey,V3W8N2,"7633 124 St, Surrey, BC, Canada",49.1416793,-122.88031913289086
+474,36,W E Kinvig Elementary,13266 70B Ave,Surrey,V3W8N1,"13266 70B Ave, Surrey, BC, Canada",49.13049805,-122.85479897910706
+475,36,Laronde Elementary,1880 Laronde Dr,Surrey,V4A9S4,"1880 Laronde Dr, Surrey, BC, Canada",49.0361004,-122.8586108
+476,36,L.A. Matheson Secondary,9484 122 St,Surrey,V3V4M1,"9484 122 St, Surrey, BC, Canada",49.17543995,-122.88325255638628
+477,36,South Meridian Elementary,16244 13 Ave,Surrey,V4A8E6,"16244 13 Ave, Surrey, BC, Canada",49.0260245,-122.7726415
+478,36,Don Christian Elementary,6256 184 St,Surrey,V3S8E6,"6256 184 St, Surrey, BC, Canada",49.116503800000004,-122.70987584500048
+479,36,Bonaccord Elementary,14986 98 Ave,Surrey,V3R1J1,"14986 98 Ave, Surrey, BC, Canada",49.1803489,-122.8068413
+480,36,M B Sanford Elementary,7318 143 St,Surrey,V3W7T6,"7318 143 St, Surrey, BC, Canada",49.1357706,-122.82475212507072
+481,36,Maple Green Elementary,14898 Spenser Dr,Surrey,V3S7K7,"14898 Spenser Dr, Surrey, BC, Canada",49.1565207,-122.80997886592769
+482,36,Kennedy Trail Elementary,8305 122A St,Surrey,V3W9P8,"8305 122A St, Surrey, BC, Canada",49.1328792,-122.8836298
+483,36,Berkshire Park Elementary,15372 94 Ave,Surrey,V3R1E3,"15372 94 Ave, Surrey, BC, Canada",49.17303675,-122.79658756040016
+484,36,Panorama Park Elementary,12878 62 Ave,Surrey,V3X2E8,"12878 62 Ave, Surrey, BC, Canada",49.115292,-122.8655752
+485,36,Martha Jane Norris Elementary,12928 66A Ave,Surrey,V3W8Z7,"12928 66A Ave, Surrey, BC, Canada",49.1237237,-122.8642652
+486,36,Cloverdale Catholic School,17511 59 Ave,Surrey,V3S1P3,"17511 59 Ave, Surrey, BC, Canada",49.1099885,-122.73756219747145
+487,36,Holy Cross Regional High School,16193 88 Ave,Surrey,V4N1G3,"16193 88 Ave, Surrey, BC, Canada",49.16363535,-122.77470077283783
+488,36,St Bernadette,13130 65B Ave,Surrey,V3W9M1,"13130 65B Ave, Surrey, BC, Canada",49.1220463,-122.8584489
+489,36,Regent Christian Academy,15100 66A Ave,Surrey,V3S2A6,"15100 66A Ave, Surrey, BC, Canada",49.1216687,-122.8040927
+490,36,Our Lady of Good Counsel,10504 139 St,Surrey,V3T4L5,"10504 139 St, Surrey, BC, Canada",49.193315299999995,-122.83490080499524
+491,36,White Rock Christian Academy,2265 152 St,Surrey,V4A4P1,"2265 152 St, Surrey, BC, Canada",49.0434653,-122.8018452
+492,36,Surrey Christian School,8888 162 St,Surrey,V4N3G1,"8888 162 St, Surrey, BC, Canada",49.164569900000004,-122.77165577273621
+493,36,Ecole Salish Secondary,7278 184 St,Surrey,V4N5V2,"7278 184 St, Surrey, BC, Canada",49.13511405,-122.70968839596387
+494,36,Iqra School,14590 116A Ave,Surrey,V3R2V1,"14590 116A Ave, Surrey, BC, Canada",49.2136973,-122.816952
+495,36,Xw'epiteng Elementary,18035 8 Ave,Surrey,V3S9R9,"18035 8 Ave, Surrey, BC, Canada",49.01725,-122.7228546
+496,36,North Ridge Elementary,13460 62 Ave,Surrey,V3X2J2,"13460 62 Ave, Surrey, BC, Canada",49.114334,-122.84898463631558
+497,36,Fraser Wood Elementary,10650 164 St,Surrey,V4N1W8,"10650 164 St, Surrey, BC, Canada",49.1961384,-122.7672323
+498,36,Serpentine Heights Elementary,16126 93A Ave,Surrey,V4N3A2,"16126 93A Ave, Surrey, BC, Canada",49.1724703,-122.77547474480525
+499,36,Woodland Park Elementary,9025 158 St,Surrey,V4N2Y6,"9025 158 St, Surrey, BC, Canada",49.1671453,-122.78596378924343
+500,36,Ocean Cliff Elementary,12550 20 Ave,Surrey,V4A1Y6,"12550 20 Ave, Surrey, BC, Canada",49.0381304,-122.8751277
+501,36,Cougar Creek Elementary,12236 70A Ave,Surrey,V3W4Z8,"12236 70A Ave, Surrey, BC, Canada",49.1308319,-122.8835673
+502,36,Brookside Elementary,8555 142A St,Surrey,V3W0S6,"8555 142A St, Surrey, BC, Canada",49.158294850000004,-122.82888992453036
+503,36,Bayridge Elementary,1730 142 St,Surrey,V4A6G7,"1730 142 St, Surrey, BC, Canada",49.033436,-122.8274362
+504,36,Pacific Academy,10238 168 St,Surrey,V4N1Z4,"10238 168 St, Surrey, BC, Canada",49.1879136,-122.75353482480512
+505,36,Westerman Elementary,7626 122 St,Surrey,V3W1H4,"7626 122 St, Surrey, BC, Canada",49.141615200000004,-122.88312261766777
+506,36,Chantrell Creek Elementary,2575 137 St,Surrey,V4P2K5,"2575 137 St, Surrey, BC, Canada",49.0487389,-122.842521
+507,36,Coyote Creek Elementary,8131 156 St,Surrey,V3S3R4,"8131 156 St, Surrey, BC, Canada",49.15061925,-122.79151198137625
+508,36,Frost Road Elementary,8606 162 St,Surrey,V4N1B5,"8606 162 St, Surrey, BC, Canada",49.15947025,-122.77183860644926
+509,36,Khalsa Secondary School (Surrey),10589 124 St,Surrey,V3V0B1,"10589 124 St, Surrey, BC, Canada",49.19458005,-122.8795973269892
+510,36,Janice Churchill Elementary,8226 146 St,Surrey,V3S3A5,"8226 146 St, Surrey, BC, Canada",49.152679899999995,-122.81641479999999
+511,36,Sunrise Ridge Elementary,18690 60 Ave,Surrey,V3S8L8,"18690 60 Ave, Surrey, BC, Canada",49.11029405,-122.70441801909443
+512,36,Elgin Park Secondary,13484 24 Ave,Surrey,V4A2G5,"13484 24 Ave, Surrey, BC, Canada",49.0455527,-122.8485887
+513,36,Kirkbride Elementary,12150 92 Ave,Surrey,V3V1G2,"12150 92 Ave, Surrey, BC, Canada",49.1694807,-122.88576633829948
+514,36,Walnut Road Elementary,16152 82 Ave,Surrey,V4N0N5,"16152 82 Ave, Surrey, BC, Canada",49.15170595,-122.77397721895113
+515,36,Beaver Creek Elementary,6505 123A St,Surrey,V3W5Y5,"6505 123A St, Surrey, BC, Canada",49.1212621,-122.880518
+516,36,Cindrich Elementary,13455 90 Ave,Surrey,V3V8A2,"13455 90 Ave, Surrey, BC, Canada",49.1665232,-122.8499556
+517,36,Cornerstone Montessori School,14724 84 Ave,Surrey,V3S2M5,"14724 84 Ave, Surrey, BC, Canada",49.15515465,-122.81441850907377
+518,36,Bibleway Christian Academy,18657 60 Ave,Surrey,V3S7P4,"18657 60 Ave, Surrey, BC, Canada",49.1118179,-122.70541150835739
+519,36,Khalsa School Old Yale Road,10677 124 St,Surrey,V3V0B1,"10677 124 St, Surrey, BC, Canada",49.2030318,-122.8784469
+520,36,Hyland Elementary,6677 140 St,Surrey,V3W5J3,"6677 140 St, Surrey, BC, Canada",49.1240366,-122.8353859
+521,36,Dogwood Elementary,10752 157 St,Surrey,V4N1K6,"10752 157 St, Surrey, BC, Canada",49.197895,-122.78603247414634
+522,36,Fleetwood Park Secondary,7940 156 St,Surrey,V3S3R3,"7940 156 St, Surrey, BC, Canada",49.147527800000006,-122.78862954944518
+523,36,Southridge School,2656 160 St,Surrey,V3Z0B7,"2656 160 St, Surrey, BC, Canada",49.05042635,-122.7757750153677
+524,36,Semiahmoo Trail Elementary,3040 145A St,Surrey,V4P1P8,"3040 145A St, Surrey, BC, Canada",49.0580005,-122.8186180911017
+525,36,Khalsa School Newton,6933 124 St,Surrey,V3W3W6,"6933 124 St, Surrey, BC, Canada",49.1296044,-122.8792758
+526,36,William F. Davidson Elementary,15550 99A Ave,Surrey,V3R9H5,"15550 99A Ave, Surrey, BC, Canada",49.1827075,-122.79132475014663
+527,36,Creekside Elementary,13838 91 Ave,Surrey,V3V7K4,"13838 91 Ave, Surrey, BC, Canada",49.167539149999996,-122.83947436885461
+528,36,Bothwell Elementary School,17070 102 Ave,Surrey,V4N4N6,"17070 102 Ave, Surrey, BC, Canada",49.1873415,-122.7487392
+529,36,Fraser Heights Secondary,16060 108 Ave,Surrey,V4N1M1,"16060 108 Ave, Surrey, BC, Canada",49.197786050000005,-122.77712443200784
+530,36,Clayton Heights Secondary,7003 188 St,Surrey,V4N3G6,"7003 188 St, Surrey, BC, Canada",49.1292155,-122.7019136
+531,36,Boundary Park Elementary,12332 North Boundary Dr,Surrey,V3X1Z6,"12332 North Boundary Dr, Surrey, BC, Canada",49.1172865,-122.8811041
+532,36,Surrey Muslim School,119-7475 135 St,Surrey,V3W0M8,"119-7475 135 St, Surrey, BC, Canada",49.2073328,-122.8481799
+533,36,Sikh Academy,12895-85 Ave,Surrey,V3W0K8,"12895-85 Ave, Surrey, BC, Canada",49.15747055,-122.8644244395175
+534,36,Rosemary Heights Elementary,15516 36 Ave,Surrey,V3Z0J5,"15516 36 Ave, Surrey, BC, Canada",49.066871,-122.7922080361567
+535,36,Hazelgrove Elementary,7057 - 191 Street,Surrey,V4N6E5,"7057 - 191 Street, Surrey, BC, Canada",49.127987,-122.6936529
+536,36,Adams Road Elementary,18228 68 Ave,Surrey,V3S9H5,"18228 68 Ave, Surrey, BC, Canada",49.1250152,-122.7174585455023
+537,36,Woodward Hill Elementary,6082 142 St,Surrey,V3X1C1,"6082 142 St, Surrey, BC, Canada",49.0369273,-122.8298803
+538,36,Maddaugh Elementary,19405 76 Ave,Surrey,V4N6C6,"19405 76 Ave, Surrey, BC, Canada",49.141811700000005,-122.68514030687919
+539,36,Newbridge Academy,246-1959 152 St,Surrey,V4A9E3,"246-1959 152 St, Surrey, BC, Canada",49.2057084,-122.800821
+540,36,Gobind Sarvar School,8820 168 St,Surrey,V4N6G7,"8820 168 St, Surrey, BC, Canada",49.16351,-122.75621893105128
+541,36,Al-Mustafa School,5441 125A Street,Surrey,V3X1W6,"5441 125A Street, Surrey, BC, Canada",49.10151355,-122.87525721988024
+542,36,Edgewood Elementary,16666 23 Ave,Surrey,V3Z9X8,"16666 23 Ave, Surrey, BC, Canada",49.042758199999994,-122.76129387063077
+543,36,Douglas Elementary,17325 2 Ave,Surrey,V3Z9P9,"17325 2 Ave, Surrey, BC, Canada",49.0060917,-122.7435604
+544,36,Grandview Heights Secondary,16987 25 Ave,Surrey,V3S9V2,"16987 25 Ave, Surrey, BC, Canada",49.0484118,-122.75167916833476
+545,36,City Central Learning Centre,13104 109 Ave,Surrey,V3T2N7,"13104 109 Ave, Surrey, BC, Canada",49.2007332,-122.8589324
+546,36,Cloverdale Learning Centre,200-5658 176 St,Surrey,V3S4C6,"200-5658 176 St, Surrey, BC, Canada",49.10521525,-122.73465325000001
+547,36,Guildford Learning Centre,300-10183 152A St,Surrey,V3R4H6,"300-10183 152A St, Surrey, BC, Canada",49.0328395,-122.7997637
+548,36,North Surrey Learning Centre,9260 140 St,Surrey,V3V5Z4,"9260 140 St, Surrey, BC, Canada",49.171254,-122.8343511
+549,36,South Surrey/White Rock Learning Centre,13-2320 King George Hwy,Surrey,V4A5A5,"13-2320 King George Hwy, Surrey, BC, Canada",49.0167138,-122.7622465
+550,36,Regent Road Elementary,18711 74 Ave,Surrey,V4N6C2,"18711 74 Ave, Surrey, BC, Canada",49.13777445,-122.70428018126455
+551,36,SAIL Secondary,14123 92 Ave,Surrey,V3V1J7,"14123 92 Ave, Surrey, BC, Canada",49.1703587,-122.8847258
+552,36,St John Paul II Academy,15262 Pacific Ave,White Rock,V4B1P7,"15262 Pacific Ave, White Rock, BC, Canada",49.020212,-122.7874961
+553,36,Star of the Sea,15024 24 Ave,Surrey,V4A2H8,"15024 24 Ave, Surrey, BC, Canada",49.044733,-122.8059762
+554,36,SD 36 Education Services (Type 1),14033 92 Ave,Surrey,V3V0B7,"14033 92 Ave, Surrey, BC, Canada",49.17106885,-122.83245329508495
+555,36,McLeod Road Traditional,6325 142 St,Surrey,V3X1B9,"6325 142 St, Surrey, BC, Canada",49.0369273,-122.8298803
+557,36,Crescent Heights Academy,18620 56 Ave,Surrey,V3S1G1,"18620 56 Ave, Surrey, BC, Canada",49.10350555,-122.70654228218174
+558,36,Tamanawis Secondary,12600 66 Ave,Surrey,V3W2A8,"12600 66 Ave, Surrey, BC, Canada",49.122245750000005,-122.87248981696393
+559,36,St Matthew's Elementary,16065 88 Ave,Surrey,V4N1G3,"16065 88 Ave, Surrey, BC, Canada",49.1632324,-122.8830482
+560,39,Magee Secondary,6360 Maple St,Vancouver,V6M4M2,"6360 Maple St, Vancouver, BC, Canada",49.22810575,-123.15155169087313
+561,39,Westside Montessori Elementary School,4157 Oak St,Vancouver,V6H2N1,"4157 Oak St, Vancouver, BC, Canada",49.24858655,-123.1279641
+562,39,Eaton Arrowsmith School (Vancouver) Ltd,660C Leg-In-Boot Square,Vancouver,V5Z4B3,"660C Leg-In-Boot Square, Vancouver, BC, Canada",49.2674729,-123.11925799518951
+563,39,Collingwood Neighbourhood School,3417 Euclid Ave,Vancouver,V5R6H2,"3417 Euclid Ave, Vancouver, BC, Canada",49.236252,-123.032279
+564,39,Stratford Hall,3000 Commercial Dr,Vancouver,V5N4E2,"3000 Commercial Dr, Vancouver, BC, Canada",49.2570247,-123.0694688782749
+566,39,Canada Royal Arts High School,896 8Th Ave W,Vancouver,V5Z1E2,"896 8Th Ave W, Vancouver, BC, Canada",49.2641592,-123.1238069
+567,39,Columbia Academy,792 Beatty St,Vancouver,V6B2M1,"792 Beatty St, Vancouver, BC, Canada",49.2783334,-123.1128923
+568,39,Lowell High School,210-750 Hamilton St,Vancouver,V6B2R5,"210-750 Hamilton St, Vancouver, BC, Canada",49.2824554,-123.1104871
+569,39,Sino Bright School BC,300-328 Water St,Vancouver,V6B1B6,"300-328 Water St, Vancouver, BC, Canada",49.2842334,-123.109032
+571,39,Columbia College,438 Terminal Ave,Vancouver,V6A0C1,"438 Terminal Ave, Vancouver, BC, Canada",49.27158535,-123.0950820563893
+572,39,St Regis Secondary School,5935 Iona Dr,Vancouver,V6T1J7,"5935 Iona Dr, Vancouver, BC, Canada",49.272150499999995,-123.24898636094092
+573,39,Elsie Roy Elementary,150 Drake St,Vancouver,V6Z2X1,"150 Drake St, Vancouver, BC, Canada",49.2721125,-123.12267054378273
+574,39,St. John's Academy,369 Boundary Rd,Vancouver,V5K4S1,"369 Boundary Rd, Vancouver, BC, Canada",49.2453425,-123.0238053
+575,39,King George Secondary,1755 Barclay St,Vancouver,V6G1K6,"1755 Barclay St, Vancouver, BC, Canada",49.289855450000005,-123.13670041353134
+576,39,Britannia Community Secondary,1001 Cotton Dr,Vancouver,V5L3T4,"1001 Cotton Dr, Vancouver, BC, Canada",49.2735503,-123.0714924
+577,39,Kitsilano Secondary,2706 Trafalgar St,Vancouver,V6K2J6,"2706 Trafalgar St, Vancouver, BC, Canada",49.2629342,-123.1645902
+578,39,John Oliver Secondary,530 41St Ave E,Vancouver,V5W1P3,"530 41St Ave E, Vancouver, BC, Canada",49.23192975,-123.09260213861666
+579,39,Lord Byng Secondary,3939 16Th Ave W,Vancouver,V6R3C9,"3939 16Th Ave W, Vancouver, BC, Canada",49.2579556,-123.1808159
+580,39,Templeton Secondary,727 Templeton Dr,Vancouver,V5L4N8,"727 Templeton Dr, Vancouver, BC, Canada",49.2782974,-123.06071793541898
+582,39,Gladstone Secondary,4105 Gladstone St,Vancouver,V5N4Z2,"4105 Gladstone St, Vancouver, BC, Canada",49.24840535,-123.06160342324782
+583,39,Sir Winston Churchill Secondary,7055 Heather St,Vancouver,V6P3P7,"7055 Heather St, Vancouver, BC, Canada",49.2392289,-123.1207251
+584,39,Killarney Secondary,6454 Killarney St,Vancouver,V5S2X7,"6454 Killarney St, Vancouver, BC, Canada",49.2255074,-123.04414724163821
+585,39,Sir Charles Tupper Secondary,419 24Th Ave E,Vancouver,V5V2A2,"419 24Th Ave E, Vancouver, BC, Canada",49.2497366,-123.09445357024194
+586,39,David Thompson Secondary,1755 55Th Ave E,Vancouver,V5P1Z7,"1755 55Th Ave E, Vancouver, BC, Canada",49.2195688,-123.0746578
+587,39,Prince Of Wales Secondary,2250 Eddington Dr,Vancouver,V6L2E7,"2250 Eddington Dr, Vancouver, BC, Canada",49.245555749999994,-123.1570836766304
+588,39,Windermere Community Secondary,3155 27Th Ave E,Vancouver,V5R1P3,"3155 27Th Ave E, Vancouver, BC, Canada",49.24751475,-123.03783105183324
+589,39,Eric Hamber Secondary,5025 Willow St,Vancouver,V5Z3S1,"5025 Willow St, Vancouver, BC, Canada",49.2418182,-123.1236036
+590,39,University Hill Secondary,3228 Ross Dr,Vancouver,V6S0C6,"3228 Ross Dr, Vancouver, BC, Canada",49.251074,-123.2345018
+591,39,Lord Strathcona Community Elementary,592 Pender St E,Vancouver,V6A1V5,"592 Pender St E, Vancouver, BC, Canada",49.2801946,-123.032893
+592,39,Sir Guy Carleton Community Elementary,3250 Kingsway,Vancouver,V5R5K5,"3250 Kingsway, Vancouver, BC, Canada",49.2418587,-123.0580509
+593,39,Lord Roberts Elementary,1100 Bidwell St,Vancouver,V6G2K4,"1100 Bidwell St, Vancouver, BC, Canada",49.28702775,-123.13830014460507
+594,39,Admiral Seymour Elementary,1130 Keefer St,Vancouver,V6A1Z3,"1130 Keefer St, Vancouver, BC, Canada",49.27877335,-123.08079842347999
+595,39,David Lloyd George Elementary,8370 Cartier St,Vancouver,V6P4T8,"8370 Cartier St, Vancouver, BC, Canada",49.2416791,-123.1369498
+596,39,General Brock Elementary,4860 Main St,Vancouver,V5V3R8,"4860 Main St, Vancouver, BC, Canada",49.2413914,-123.10042673188599
+597,39,Kerrisdale Elementary,5555 Carnarvon St,Vancouver,V6N1J2,"5555 Carnarvon St, Vancouver, BC, Canada",49.236121999999995,-123.17366056407499
+598,39,Lord Selkirk Elementary,1750 22Nd Ave E,Vancouver,V5N2P7,"1750 22Nd Ave E, Vancouver, BC, Canada",49.24967755,-123.06878703832065
+600,39,Queen Mary Elementary,2000 Trimble St,Vancouver,V6R3Z4,"2000 Trimble St, Vancouver, BC, Canada",49.2688357,-123.2059239
+601,39,Simon Fraser Elementary,100 15Th Ave W,Vancouver,V5Y3B7,"100 15Th Ave W, Vancouver, BC, Canada",49.25719085,-123.10837282182538
+602,39,L'Ecole Bilingue Elementary,1166 W 14Th Ave,Vancouver,V6H1P6,"1166 W 14Th Ave, Vancouver, BC, Canada",49.2583233,-123.13036596332049
+603,39,Emily Carr Elementary,4070 Oak St,Vancouver,V6H2M8,"4070 Oak St, Vancouver, BC, Canada",49.2497944,-123.12600762170752
+604,39,General Wolfe Elementary,4251 Ontario St,Vancouver,V5V3G8,"4251 Ontario St, Vancouver, BC, Canada",49.24739135,-123.10560523101822
+605,39,Lord Nelson Elementary,1355 Garden Drive,Vancouver,V5L0C4,"1355 Garden Drive, Vancouver, BC, Canada",49.272579199999996,-123.05925272383894
+606,39,Lord Tennyson Elementary,1936 10Th Ave W,Vancouver,V6J2B2,"1936 10Th Ave W, Vancouver, BC, Canada",49.2637009,-123.200228
+607,39,Sir Wilfred Grenfell Community,3323 Wellington Ave,Vancouver,V5R4Y3,"3323 Wellington Ave, Vancouver, BC, Canada",49.2423638,-123.0348096
+608,39,Tecumseh Elementary,1850 41St Ave E,Vancouver,V5P1K9,"1850 41St Ave E, Vancouver, BC, Canada",49.23120435,-123.06785353861198
+609,39,Florence Nightingale Elementary,2740 Guelph St,Vancouver,V5T3P7,"2740 Guelph St, Vancouver, BC, Canada",49.26022045,-123.09400719975997
+610,39,General Gordon Elementary,2268 Bayswater St,Vancouver,V6K4P5,"2268 Bayswater St, Vancouver, BC, Canada",49.26622715,-123.17060965123108
+611,39,Henry Hudson Elementary,1551 Cypress St,Vancouver,V6J3L3,"1551 Cypress St, Vancouver, BC, Canada",49.2719703,-123.1478183
+612,39,Laura Secord Elementary,2500 Lakewood Dr,Vancouver,V5N4V1,"2500 Lakewood Dr, Vancouver, BC, Canada",49.2621507,-123.0617165
+613,39,Walter Moberly Elementary,1000 59Th Ave E,Vancouver,V5X1Y7,"1000 59Th Ave E, Vancouver, BC, Canada",49.2163144,-123.0837974
+614,39,Pierre Elliott Trudeau Elementary,449 62Nd Ave E,Vancouver,V5X2G2,"449 62Nd Ave E, Vancouver, BC, Canada",49.2148236,-123.0968053
+615,39,Sir Wm Van Horne Elementary,5855 Ontario St,Vancouver,V5W2L8,"5855 Ontario St, Vancouver, BC, Canada",49.231756000000004,-123.10638536219473
+616,39,Charles Dickens Elementary,1010 East 17Th Ave,Vancouver,V5V0A6,"1010 East 17Th Ave, Vancouver, BC, Canada",49.25496205,-123.08269588857311
+617,39,David Livingstone Elementary,315 23Rd Ave E,Vancouver,V5V1X6,"315 23Rd Ave E, Vancouver, BC, Canada",49.25067464999999,-123.09768504923775
+618,39,Hastings Community Elementary,2625 Franklin St,Vancouver,V5K3W7,"2625 Franklin St, Vancouver, BC, Canada",49.2823824,-123.0511423
+619,39,John Norquay Elementary,4710 Slocan St,Vancouver,V5R2A1,"4710 Slocan St, Vancouver, BC, Canada",49.241785050000004,-123.05093963405727
+620,39,J.W. Sexsmith Community Elementary,7410 Columbia St,Vancouver,V5X3C1,"7410 Columbia St, Vancouver, BC, Canada",49.2172949,-123.10864189486614
+621,39,Sir James Douglas Elementary,2150 Brigadoon Ave,Vancouver,V5P3Z7,"2150 Brigadoon Ave, Vancouver, BC, Canada",49.21593645,-123.06404585039326
+622,39,Sir John Franklin Community,250S Skeena St,Vancouver,V5K4N8,"250S Skeena St, Vancouver, BC, Canada",49.2612657,-123.0285154
+623,39,Sir Sandford Fleming Elementary,6363 Lanark St,Vancouver,V5P1S2,"6363 Lanark St, Vancouver, BC, Canada",49.2277202,-123.0758334
+624,39,Bayview Community Elementary,2251 Collingwood St,Vancouver,V6R3L1,"2251 Collingwood St, Vancouver, BC, Canada",49.2306932,-123.18206013326588
+625,39,Lord Beaconsfield Elementary,3663 Penticton St,Vancouver,V5M3C9,"3663 Penticton St, Vancouver, BC, Canada",49.251954850000004,-123.05337687960784
+626,39,Lord Kitchener Elementary,3455 W. King Edward Ave,Vancouver,V6S0C7,"3455 W. King Edward Ave, Vancouver, BC, Canada",49.2493532,-123.1409907
+627,39,Edith Cavell Elementary,500 20Th Ave W,Vancouver,V5Z1X7,"500 20Th Ave W, Vancouver, BC, Canada",49.2528885,-123.11716140096273
+628,39,Shaughnessy Elementary,4250 Marguerite St,Vancouver,V6J4G3,"4250 Marguerite St, Vancouver, BC, Canada",49.24844055,-123.14370147402607
+629,39,Maple Grove Elementary,6199 Cypress St,Vancouver,V6M3S3,"6199 Cypress St, Vancouver, BC, Canada",49.2719703,-123.1478183
+630,39,Quilchena Elementary,5300 Maple St,Vancouver,V6M3T6,"5300 Maple St, Vancouver, BC, Canada",49.2200714,-123.1529766
+631,39,Renfrew Community Elementary,3315 22Nd Ave E,Vancouver,V5M2Z2,"3315 22Nd Ave E, Vancouver, BC, Canada",49.2511122,-123.03180858489404
+632,39,Sir Alexander Mackenzie Elementary,960 39Th Ave E,Vancouver,V5W1K8,"960 39Th Ave E, Vancouver, BC, Canada",49.2354343,-123.101435
+633,39,Queen Elizabeth Elementary,4102 16Th Ave W,Vancouver,V6R3E3,"4102 16Th Ave W, Vancouver, BC, Canada",49.2579556,-123.1808159
+634,39,Trafalgar Elementary,4170 Trafalgar St,Vancouver,V6L2M5,"4170 Trafalgar St, Vancouver, BC, Canada",49.250149300000004,-123.16432786091036
+635,39,Sir Wilfrid Laurier Elementary,7350 Laurel St,Vancouver,V6P3T9,"7350 Laurel St, Vancouver, BC, Canada",49.21846045,-123.12560252875343
+636,39,Sir William Osler Elementary,5970 Selkirk St,Vancouver,V6M2Y8,"5970 Selkirk St, Vancouver, BC, Canada",49.2447314,-123.1323488
+637,39,wək̓ʷan̓əs tə syaqʷəm Elementary School,1430 Lillooet St,Vancouver,V5K4H6,"1430 Lillooet St, Vancouver, BC, Canada",49.2717811,-123.03837275998441
+638,39,Thunderbird šxʷəxʷaʔəs Elementary,2325 Cassiar St,Vancouver,V5M3X3,"2325 Cassiar St, Vancouver, BC, Canada",49.263352100000006,-123.0320274262305
+639,39,Grandview ¿uuqinak’uuh Elementary,2055 Woodland Dr,Vancouver,V5N3N9,"2055 Woodland Dr, Vancouver, BC, Canada",49.2697347,-123.0735048
+640,39,Southlands Elementary,5351 Camosun St,Vancouver,V6N2C4,"5351 Camosun St, Vancouver, BC, Canada",49.2375696,-123.19774723349968
+641,39,Captain James Cook Elementary,3340 54Th Ave E,Vancouver,V5S1Z3,"3340 54Th Ave E, Vancouver, BC, Canada",49.2189743,-123.03579197631998
+643,39,David Oppenheimer Elementary,2421 Scarboro Ave,Vancouver,V5P2L5,"2421 Scarboro Ave, Vancouver, BC, Canada",49.213467,-123.05816174408591
+644,39,Sir Charles Kingsford-Smith,6901 Elliott St,Vancouver,V5S2N1,"6901 Elliott St, Vancouver, BC, Canada",49.2212431,-123.054874
+645,39,Carnarvon Community Elementary,3400 Balaclava St,Vancouver,V6L2S6,"3400 Balaclava St, Vancouver, BC, Canada",49.2605691,-123.1741184
+646,39,Dr A R Lord Elementary,555 Lillooet St,Vancouver,V5K4G4,"555 Lillooet St, Vancouver, BC, Canada",49.2794181,-123.0401395516063
+647,39,Waverley Elementary,6111 Elliott St,Vancouver,V5S2M1,"6111 Elliott St, Vancouver, BC, Canada",49.2212431,-123.054874
+648,39,G T Cunningham Elementary,2330 37Th Ave E,Vancouver,V5R2T3,"2330 37Th Ave E, Vancouver, BC, Canada",49.233966949999996,-123.03756739783023
+649,39,Nootka Community Elementary,3375 Nootka St,Vancouver,V5M3N2,"3375 Nootka St, Vancouver, BC, Canada",49.253825750000004,-123.04295830386226
+650,39,Tecumseh Annex,1551 37Th Ave E,Vancouver,V5P1E4,"1551 37Th Ave E, Vancouver, BC, Canada",49.23737835,-123.07361152483296
+651,39,Dr Annie B Jamieson Elementary,6350 Tisdall Street,Vancouver,V5Z3N4,"6350 Tisdall Street, Vancouver, BC, Canada",49.227371649999995,-123.12096879203072
+652,39,Dr George M Weir Elementary,2900 44Th Ave E,Vancouver,V5R3A8,"2900 44Th Ave E, Vancouver, BC, Canada",49.2303327,-123.0507957
+653,39,John Henderson Elementary,451 53Rd Ave E,Vancouver,V5X1J3,"451 53Rd Ave E, Vancouver, BC, Canada",49.22274135,-123.09543716805425
+655,39,Graham Bruce Community Elementary,3633 Tanner St,Vancouver,V5R5P7,"3633 Tanner St, Vancouver, BC, Canada",49.2419615,-123.0261302
+656,39,Queen Elizabeth Annex,4275 Crown St,Vancouver,V6S2K3,"4275 Crown St, Vancouver, BC, Canada",49.2311635,-123.1938114
+657,39,Tillicum Community Annex,2450 Cambridge St,Vancouver,V5K1L2,"2450 Cambridge St, Vancouver, BC, Canada",49.2866199,-123.0595473
+658,39,Kerrisdale Annex,3250 43Rd Ave W,Vancouver,V6N4K3,"3250 43Rd Ave W, Vancouver, BC, Canada",49.232833,-123.17684432936073
+659,39,Lord Selkirk Annex,4444 Dumfries St,Vancouver,V5N3T2,"4444 Dumfries St, Vancouver, BC, Canada",49.24526645,-123.07295439764958
+660,39,Dr H N Maccorkindale Elementary,6100 Battison St,Vancouver,V5S3M8,"6100 Battison St, Vancouver, BC, Canada",49.22797845,-123.029451629807
+662,39,Sir James Douglas Annex,7668 Borden St,Vancouver,V5P3E1,"7668 Borden St, Vancouver, BC, Canada",49.21501015,-123.07304701409441
+663,39,Garibaldi Annex,1025 Slocan St,Vancouver,V5K3Y2,"1025 Slocan St, Vancouver, BC, Canada",49.2527065,-123.0495939
+664,39,University Hill Elementary,5395 Chancellor Blvd,Vancouver,V6T1E2,"5395 Chancellor Blvd, Vancouver, BC, Canada",49.2747568,-123.23676919101449
+665,39,Charles Dickens Annex,3877 Glen Dr,Vancouver,V5V4S9,"3877 Glen Dr, Vancouver, BC, Canada",49.2501822,-123.08287911642837
+666,39,Mount Pleasant Elementary,2300 Guelph St,Vancouver,V5T3P1,"2300 Guelph St, Vancouver, BC, Canada",49.2636637,-123.0942067
+667,39,Sir Richard McBride Annex,4750 St. Catherines St,Vancouver,V5V4M7,"4750 St. Catherines St, Vancouver, BC, Canada",49.2610472,-123.0852799
+668,39,Champlain Heights Community Elementary,6955 Frontenac St,Vancouver,V5S3T4,"6955 Frontenac St, Vancouver, BC, Canada",49.2252995,-123.0260032
+669,39,Lord Roberts Annex,1150 Nelson St,Vancouver,V6E1J2,"1150 Nelson St, Vancouver, BC, Canada",49.28320535,-123.12971063893785
+670,39,Britannia Community Elementary,1110 Cotton Dr,Vancouver,V5L3T5,"1110 Cotton Dr, Vancouver, BC, Canada",49.2735503,-123.0714924
+671,39,Ecole Jules Quesnel Elementary,3050 Crown St,Vancouver,V6R4K9,"3050 Crown St, Vancouver, BC, Canada",49.2311635,-123.1938114
+672,39,False Creek Elementary,900 School Green,Vancouver,V6H3N7,"900 School Green, Vancouver, BC, Canada",49.26713335,-123.12669044708471
+673,39,Champlain Heights Annex,7835 Champlain Cres,Vancouver,V5S4J6,"7835 Champlain Cres, Vancouver, BC, Canada",49.21378704999999,-123.03084956842294
+674,39,Crofton House,3200 West 41St Avenue,Vancouver,V6N3E1,"3200 West 41St Avenue, Vancouver, BC, Canada",49.2335899,-123.1158951
+675,39,Vancouver College,5401 Hudson St,Vancouver,V6M0C5,"5401 Hudson St, Vancouver, BC, Canada",49.235845100000006,-123.1359793725874
+676,39,Little Flower Academy,4195 Alexandra St,Vancouver,V6J4C6,"4195 Alexandra St, Vancouver, BC, Canada",49.2448587,-123.1413843
+677,39,Notre Dame Regional Secondary,2880 Venables St,Vancouver,V5K4Z6,"2880 Venables St, Vancouver, BC, Canada",49.275850250000005,-123.0455274866689
+678,39,Vancouver Christian,3496 Mons Drive,Vancouver,V5M3E6,"3496 Mons Drive, Vancouver, BC, Canada",49.2547034,-123.02857499331158
+679,39,Our Lady Of Sorrows,575 Slocan St,Vancouver,V5K3X5,"575 Slocan St, Vancouver, BC, Canada",49.2796752,-123.05030218072508
+680,39,York House School,4176 Alexandra St,Vancouver,V6J2V6,"4176 Alexandra St, Vancouver, BC, Canada",49.2488434,-123.1403250009012
+681,39,Blessed Sacrament School,3020 Heather St,Vancouver,V5Z3K3,"3020 Heather St, Vancouver, BC, Canada",49.2584131,-123.11939784258868
+682,39,St. Patrick Regional Secondary,115 11Th Ave E,Vancouver,V5T2C1,"115 11Th Ave E, Vancouver, BC, Canada",49.2614096,-123.10247388817046
+683,39,St Francis of Assisi,870 Victoria Dr,Vancouver,V5L4E7,"870 Victoria Dr, Vancouver, BC, Canada",49.276923749999995,-123.06527547521559
+684,39,Corpus Christi School,2360 Waverley Avenue,Vancouver,V5S0J1,"2360 Waverley Avenue, Vancouver, BC, Canada",49.22658075,-123.05751343192969
+685,39,St. George's School,4175 W 29Th Ave,Vancouver,V6S1V1,"4175 W 29Th Ave, Vancouver, BC, Canada",49.2452455,-123.11587
+686,39,St Francis Xavier,428 Great Northern Way,Vancouver,V5T4S5,"428 Great Northern Way, Vancouver, BC, Canada",49.2664302,-123.0938257944953
+687,39,Vancouver Hebrew Academy,1545 62Nd Ave W,Vancouver,V6P2E8,"1545 62Nd Ave W, Vancouver, BC, Canada",49.21538115,-123.14135457427477
+688,39,Fraser Academy,2294 10Th Ave W,Vancouver,V6K2H8,"2294 10Th Ave W, Vancouver, BC, Canada",49.2637009,-123.200228
+689,39,King David High School,5718 Willow St,Vancouver,V5Z4S9,"5718 Willow St, Vancouver, BC, Canada",49.2334688,-123.12277375
+690,39,St Andrew's,450 47Th Ave E,Vancouver,V5W2B4,"450 47Th Ave E, Vancouver, BC, Canada",49.227215,-123.09579931357882
+692,39,Immaculate Conception School,3745 West 28Th Ave,Vancouver,V6S1S5,"3745 West 28Th Ave, Vancouver, BC, Canada",49.2471788,-123.1966285
+693,39,Vancouver Montessori School,8650 Barnard St,Vancouver,V6P5G5,"8650 Barnard St, Vancouver, BC, Canada",49.2063415,-123.1453355
+694,39,St Patrick's Elementary,2850 Quebec St,Vancouver,V5T3A9,"2850 Quebec St, Vancouver, BC, Canada",49.2596252,-123.10247080050019
+695,39,Our Lady of Perpetual Help,2550 Camosun St,Vancouver,V6R3W6,"2550 Camosun St, Vancouver, BC, Canada",49.26412165,-123.19614449644263
+696,39,St. John's School,2215 10Th Ave W,Vancouver,V6K2J1,"2215 10Th Ave W, Vancouver, BC, Canada",49.26316765,-123.1561451912219
+697,39,St Jude's,2953 15Th Ave E,Vancouver,V5M2K7,"2953 15Th Ave E, Vancouver, BC, Canada",49.2566065,-123.0759326
+698,39,St Joseph's,3261 Fleming St,Vancouver,V5N3V6,"3261 Fleming St, Vancouver, BC, Canada",49.25590685,-123.07181476659116
+699,39,Royal Canadian College,8610 Ash St,Vancouver,V6P3M2,"8610 Ash St, Vancouver, BC, Canada",49.20731095,-123.1186004223209
+700,39,Madrona School,2064 West 10Th Avenue,Vancouver,V6J2B3,"2064 West 10Th Avenue, Vancouver, BC, Canada",49.2627261,-123.1520327
+702,39,West Point Grey Academy,4125 West 8Th Avenue,Vancouver,V6R4P9,"4125 West 8Th Avenue, Vancouver, BC, Canada",49.2664546,-123.19955186284531
+704,39,St. Lawrence School,200-1338 West Broadway,Vancouver,V6H1H2,"200-1338 West Broadway, Vancouver, BC, Canada",49.2631182,-123.1093073
+705,39,Westside Montessori Academy,Suite 300,Vancouver,V5W2Z4,"Suite 300, Vancouver, BC, Canada",49.2608724,-123.113952
+709,39,Claren Academy,201-1085 Homer St,Vancouver,V6B1J4,"201-1085 Homer St, Vancouver, BC, Canada",49.2837536,-123.1104521
+711,39,Oakridge Montessori Children's Learning,619 45Th Ave W,Vancouver,V5Z4G2,"619 45Th Ave W, Vancouver, BC, Canada",49.229483,-123.1064678
+712,39,Johnathan Academy,400-5750 Oak St,Vancouver,V6M2V9,"400-5750 Oak St, Vancouver, BC, Canada",49.233735,-123.1276034
+713,39,VISST,200-1490 Broadway W,Vancouver,V6H4E8,"200-1490 Broadway W, Vancouver, BC, Canada",49.263407,-123.1381407
+714,39,St Mary's,5239 Joyce St,Vancouver,V5R4G8,"5239 Joyce St, Vancouver, BC, Canada",49.2378742,-123.0334252627369
+715,39,Sir Richard McBride Elementary,1300 29Th Ave E,Vancouver,V5V2T3,"1300 29Th Ave E, Vancouver, BC, Canada",49.24355235,-123.07824110119586
+716,39,Dr R E McKechnie Elementary,7455 Maple St,Vancouver,V6P5P8,"7455 Maple St, Vancouver, BC, Canada",49.2174005,-123.1537185
+717,39,χpey̓ Elementary,1950 Hastings St E,Vancouver,V5L1T7,"1950 Hastings St E, Vancouver, BC, Canada",49.2811854,-123.0644553
+718,39,St Anthony of Padua,1370 73Rd Ave W,Vancouver,V6P3E8,"1370 73Rd Ave W, Vancouver, BC, Canada",49.204397,-123.13686275
+719,39,šxʷwəq̓ʷəθət Crosstown Elementary,55 Expo Blvd,Vancouver,V6B0P8,"55 Expo Blvd, Vancouver, BC, Canada",49.2785875,-123.1066266
+720,39,Point Grey stəywəte:n̓ Secondary,5350 East Blvd,Vancouver,V6M3V2,"5350 East Blvd, Vancouver, BC, Canada",49.2204743,-123.1505098
+721,39,Coquitlam College - Brookmere Secondary,300-2920 Virtual Way,Vancouver,V5M0C4,"300-2920 Virtual Way, Vancouver, BC, Canada",49.2609916,-123.0421157
+722,39,Pattison High School,981 Nelson St,Vancouver,V6Z3B6,"981 Nelson St, Vancouver, BC, Canada",49.2809046,-123.124905
+723,39,Vancouver Formosa Academy,5621 Killarney St,Vancouver,V5R3W4,"5621 Killarney St, Vancouver, BC, Canada",49.2337978,-123.0463527038854
+724,39,Vancouver Talmud Torah Elementary,998 West 26Th Ave,Vancouver,V5Z2G1,"998 West 26Th Ave, Vancouver, BC, Canada",49.247597600000006,-123.12680684952464
+725,39,West Coast Christian School,15 Renfrew St N,Vancouver,V5K3N6,"15 Renfrew St N, Vancouver, BC, Canada",49.2849899,-123.04454460714285
+726,39,Westside Montessori School,4157 Oak St,Vancouver,V6H2N1,"4157 Oak St, Vancouver, BC, Canada",49.24858655,-123.1279641
