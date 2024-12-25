@@ -1,5 +1,3 @@
-# CMPT353 Final Project
-
 ## Prerequisites
 ### Interpreter (Preferred)
 - Python 3.12
